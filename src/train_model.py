@@ -20,7 +20,7 @@ Usamos Regresión Logística porque:
 import pandas as pd
 
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LogisticRegression
@@ -42,7 +42,7 @@ def crear_modelo():
     Crea el pipeline completo:
 
     1. Codifica variables categóricas con OneHotEncoder.
-    2. Mantiene variables numéricas.
+    2. Escala variables numéricas con StandardScaler.
     3. Entrena una regresión logística multiclase.
     """
 
@@ -68,18 +68,19 @@ def crear_modelo():
     preprocesado = ColumnTransformer(
         transformers=[
             ("cat", OneHotEncoder(handle_unknown="ignore"), columnas_categoricas),
-            ("num", "passthrough", columnas_numericas),
+            ("num", StandardScaler(), columnas_numericas),
         ]
     )
 
     modelo = Pipeline(
         steps=[
             ("preprocesado", preprocesado),
-            ("modelo", LogisticRegression(max_iter=1000))
+            ("modelo", LogisticRegression(max_iter=5000))
         ]
     )
 
     return modelo
+
 
 
 # ============================================================
