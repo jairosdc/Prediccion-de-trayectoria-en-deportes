@@ -1,301 +1,301 @@
 event_id,sport,action_type,competition,match_time,score_difference,is_home_player,player,opponent,dominant_side,fatigue_level,competition_importance,pressure_index,pressure_level,decision_zone,action_result
-HOC_0001,hockey,shootout,World Ch.,65,0,0,Player_33,GK_3,left,0.82,0.87,0.924,alta,direct_shot,missed
-HOC_0002,hockey,shootout,NHL,65,0,0,Player_44,GK_12,left,0.54,0.7,0.855,alta,low_shot,goal
-HOC_0003,hockey,shootout,Olympics,65,0,1,Player_17,GK_18,right,0.81,0.64,0.871,alta,left_deke,saved
-HOC_0004,hockey,shootout,Olympics,65,0,0,Player_19,GK_8,right,0.55,0.91,0.89,alta,direct_shot,goal
-HOC_0005,hockey,shootout,World Ch.,65,0,0,Player_6,GK_4,right,0.55,0.92,0.89,alta,low_shot,goal
-HOC_0006,hockey,shootout,NHL,65,0,1,Player_47,GK_19,right,0.58,0.55,0.824,alta,direct_shot,goal
-HOC_0007,hockey,shootout,Olympics,65,0,1,Player_29,GK_4,left,0.71,0.46,0.827,alta,left_deke,goal
-HOC_0008,hockey,shootout,NHL,65,0,1,Player_6,GK_10,right,0.63,0.42,0.805,alta,high_shot,saved
-HOC_0009,hockey,shootout,NHL,65,0,0,Player_30,GK_3,right,0.84,0.54,0.871,alta,direct_shot,goal
-HOC_0010,hockey,shootout,World Ch.,65,0,0,Player_35,GK_1,right,0.91,0.74,0.918,alta,direct_shot,saved
-HOC_0011,hockey,shootout,NHL,65,0,1,Player_17,GK_18,right,0.62,0.99,0.939,alta,direct_shot,saved
-HOC_0012,hockey,shootout,Olympics,65,0,0,Player_42,GK_2,left,0.54,0.59,0.84,alta,left_deke,goal
-HOC_0013,hockey,shootout,Olympics,65,0,1,Player_4,GK_14,left,0.71,0.4,0.82,alta,right_deke,goal
-HOC_0014,hockey,shootout,World Ch.,65,0,0,Player_26,GK_14,right,0.97,0.6,0.904,alta,high_shot,saved
-HOC_0015,hockey,shootout,Olympics,65,0,0,Player_12,GK_17,right,0.99,0.51,0.874,alta,direct_shot,missed
-HOC_0016,hockey,shootout,Olympics,65,0,1,Player_36,GK_16,left,0.77,0.4,0.843,alta,right_deke,saved
-HOC_0017,hockey,shootout,NHL,65,0,0,Player_23,GK_15,left,0.64,0.45,0.809,alta,left_deke,goal
-HOC_0018,hockey,shootout,Olympics,65,0,0,Player_21,GK_10,right,0.66,0.8,0.895,alta,direct_shot,missed
-HOC_0019,hockey,shootout,NHL,65,0,0,Player_39,GK_7,left,0.55,0.71,0.846,alta,left_deke,saved
-HOC_0020,hockey,shootout,NHL,65,0,1,Player_4,GK_9,right,0.71,0.78,0.883,alta,direct_shot,goal
-HOC_0021,hockey,shootout,NHL,65,0,1,Player_10,GK_3,right,0.8,0.63,0.874,alta,direct_shot,goal
-HOC_0022,hockey,shootout,Olympics,65,0,1,Player_3,GK_4,right,0.76,0.45,0.851,alta,direct_shot,saved
-HOC_0023,hockey,shootout,World Ch.,65,0,0,Player_46,GK_13,left,0.63,0.86,0.89,alta,direct_shot,saved
-HOC_0024,hockey,shootout,NHL,65,0,0,Player_24,GK_15,right,0.84,0.44,0.841,alta,low_shot,goal
-HOC_0025,hockey,shootout,NHL,65,0,0,Player_43,GK_14,right,0.8,0.48,0.853,alta,high_shot,goal
-HOC_0026,hockey,shootout,World Ch.,65,0,1,Player_39,GK_12,left,0.83,0.83,0.923,alta,right_deke,saved
-HOC_0027,hockey,shootout,NHL,65,0,1,Player_25,GK_8,left,0.55,0.82,0.892,alta,high_shot,saved
-HOC_0028,hockey,shootout,World Ch.,65,0,1,Player_34,GK_16,right,0.7,0.47,0.837,alta,right_deke,saved
-HOC_0029,hockey,shootout,Olympics,65,0,0,Player_24,GK_12,right,0.72,0.84,0.9,alta,high_shot,saved
-HOC_0030,hockey,shootout,World Ch.,65,0,1,Player_46,GK_15,right,0.8,0.85,0.935,alta,direct_shot,goal
-HOC_0031,hockey,shootout,NHL,65,0,1,Player_49,GK_7,right,0.86,0.46,0.863,alta,low_shot,saved
-HOC_0032,hockey,shootout,World Ch.,65,0,0,Player_27,GK_8,left,0.89,0.94,0.958,alta,direct_shot,saved
-HOC_0033,hockey,shootout,NHL,65,0,1,Player_22,GK_5,right,0.85,0.95,0.944,alta,direct_shot,saved
-HOC_0034,hockey,shootout,World Ch.,65,0,1,Player_16,GK_6,left,0.75,0.58,0.876,alta,low_shot,goal
-HOC_0035,hockey,shootout,NHL,65,0,1,Player_25,GK_4,right,0.7,0.49,0.853,alta,direct_shot,saved
-HOC_0036,hockey,shootout,Olympics,65,0,0,Player_33,GK_17,right,0.56,0.4,0.81,alta,left_deke,saved
-HOC_0037,hockey,shootout,Olympics,65,0,0,Player_21,GK_15,left,0.87,0.63,0.888,alta,right_deke,goal
-HOC_0038,hockey,shootout,Olympics,65,0,1,Player_24,GK_5,right,0.91,0.98,0.968,alta,direct_shot,saved
-HOC_0039,hockey,shootout,Olympics,65,0,1,Player_8,GK_1,right,0.53,0.84,0.876,alta,direct_shot,saved
-HOC_0040,hockey,shootout,NHL,65,0,0,Player_5,GK_8,left,0.55,0.56,0.823,alta,direct_shot,goal
-HOC_0041,hockey,shootout,Olympics,65,0,0,Player_17,GK_6,left,0.68,0.46,0.84,alta,direct_shot,saved
-HOC_0042,hockey,shootout,World Ch.,65,0,0,Player_12,GK_19,left,0.73,0.57,0.857,alta,direct_shot,saved
-HOC_0043,hockey,shootout,Olympics,65,0,0,Player_5,GK_16,right,0.86,0.81,0.939,alta,high_shot,saved
-HOC_0044,hockey,shootout,World Ch.,65,0,1,Player_20,GK_12,right,0.66,0.99,0.927,alta,direct_shot,saved
-HOC_0045,hockey,shootout,NHL,65,0,1,Player_47,GK_3,right,0.76,0.52,0.864,alta,right_deke,saved
-HOC_0046,hockey,shootout,NHL,65,0,0,Player_34,GK_1,right,0.85,0.88,0.938,alta,direct_shot,goal
-HOC_0047,hockey,shootout,NHL,65,0,1,Player_20,GK_2,right,0.57,0.99,0.906,alta,right_deke,saved
-HOC_0048,hockey,shootout,NHL,65,0,1,Player_7,GK_6,left,0.98,0.92,0.965,alta,high_shot,goal
-HOC_0049,hockey,shootout,Olympics,65,0,1,Player_36,GK_17,right,0.83,0.54,0.878,alta,direct_shot,saved
-HOC_0050,hockey,shootout,NHL,65,0,0,Player_21,GK_6,left,0.55,0.54,0.823,alta,high_shot,saved
-HOC_0051,hockey,shootout,World Ch.,65,0,0,Player_47,GK_5,left,0.63,0.45,0.804,alta,left_deke,missed
-HOC_0052,hockey,shootout,Olympics,65,0,0,Player_49,GK_4,left,0.64,0.8,0.895,alta,direct_shot,saved
-HOC_0053,hockey,shootout,NHL,65,0,0,Player_32,GK_12,right,0.51,0.89,0.886,alta,direct_shot,saved
-HOC_0054,hockey,shootout,World Ch.,65,0,0,Player_38,GK_17,right,0.59,0.81,0.893,alta,left_deke,goal
-HOC_0055,hockey,shootout,NHL,65,0,0,Player_40,GK_16,right,0.68,0.43,0.816,alta,right_deke,saved
-HOC_0056,hockey,shootout,World Ch.,65,0,0,Player_3,GK_12,right,0.85,0.7,0.912,alta,direct_shot,missed
-HOC_0057,hockey,shootout,NHL,65,0,1,Player_29,GK_7,right,0.68,0.41,0.811,alta,right_deke,saved
-HOC_0058,hockey,shootout,NHL,65,0,0,Player_47,GK_6,right,0.57,0.9,0.897,alta,right_deke,goal
-HOC_0059,hockey,shootout,NHL,65,0,0,Player_40,GK_13,right,0.79,0.98,0.948,alta,direct_shot,saved
-HOC_0060,hockey,shootout,World Ch.,65,0,1,Player_32,GK_6,right,0.75,0.46,0.837,alta,direct_shot,goal
-HOC_0061,hockey,shootout,World Ch.,65,0,0,Player_19,GK_16,right,0.73,0.9,0.913,alta,direct_shot,saved
-HOC_0062,hockey,shootout,World Ch.,65,0,1,Player_42,GK_9,right,0.83,0.56,0.871,alta,direct_shot,missed
-HOC_0063,hockey,shootout,Olympics,65,0,1,Player_47,GK_7,left,0.95,0.68,0.912,alta,low_shot,saved
-HOC_0064,hockey,shootout,World Ch.,65,0,0,Player_47,GK_16,left,0.96,0.43,0.86,alta,direct_shot,saved
-HOC_0065,hockey,shootout,NHL,65,0,0,Player_6,GK_12,left,0.92,0.5,0.885,alta,direct_shot,missed
-HOC_0066,hockey,shootout,World Ch.,65,0,0,Player_35,GK_6,left,0.97,0.7,0.922,alta,high_shot,saved
-HOC_0067,hockey,shootout,World Ch.,65,0,0,Player_7,GK_11,right,0.72,0.46,0.823,alta,low_shot,saved
-HOC_0068,hockey,shootout,NHL,65,0,1,Player_47,GK_14,left,0.95,0.75,0.923,alta,direct_shot,goal
-HOC_0069,hockey,shootout,NHL,65,0,0,Player_43,GK_2,right,0.69,0.76,0.901,alta,high_shot,saved
-HOC_0070,hockey,shootout,Olympics,65,0,0,Player_3,GK_16,left,0.54,0.82,0.873,alta,right_deke,missed
-HOC_0071,hockey,shootout,World Ch.,65,0,1,Player_31,GK_1,right,0.81,0.71,0.901,alta,low_shot,saved
-HOC_0072,hockey,shootout,World Ch.,65,0,0,Player_19,GK_6,right,0.53,0.8,0.888,alta,direct_shot,goal
-HOC_0073,hockey,shootout,World Ch.,65,0,0,Player_4,GK_16,left,0.82,0.93,0.95,alta,high_shot,saved
-HOC_0074,hockey,shootout,World Ch.,65,0,1,Player_33,GK_6,right,0.69,0.8,0.899,alta,right_deke,goal
-HOC_0075,hockey,shootout,World Ch.,65,0,0,Player_15,GK_6,right,0.87,0.83,0.945,alta,low_shot,saved
-HOC_0076,hockey,shootout,NHL,65,0,0,Player_1,GK_14,right,0.64,0.89,0.909,alta,direct_shot,saved
-HOC_0077,hockey,shootout,NHL,65,0,1,Player_8,GK_5,left,0.82,0.56,0.876,alta,high_shot,missed
-HOC_0078,hockey,shootout,Olympics,65,0,0,Player_12,GK_14,right,0.53,0.85,0.894,alta,low_shot,goal
-HOC_0079,hockey,shootout,NHL,65,0,0,Player_27,GK_8,right,0.52,0.82,0.867,alta,direct_shot,saved
-HOC_0080,hockey,shootout,World Ch.,65,0,1,Player_34,GK_14,left,0.92,0.51,0.88,alta,high_shot,saved
-HOC_0081,hockey,shootout,World Ch.,65,0,0,Player_42,GK_6,left,0.7,0.61,0.87,alta,right_deke,saved
-HOC_0082,hockey,shootout,World Ch.,65,0,0,Player_27,GK_17,right,0.97,0.53,0.9,alta,direct_shot,goal
-HOC_0083,hockey,shootout,World Ch.,65,0,0,Player_39,GK_4,right,0.6,0.68,0.874,alta,low_shot,saved
-HOC_0084,hockey,shootout,NHL,65,0,0,Player_35,GK_5,right,0.87,0.9,0.959,alta,right_deke,saved
-HOC_0085,hockey,shootout,Olympics,65,0,1,Player_18,GK_7,right,0.69,0.43,0.838,alta,right_deke,saved
-HOC_0086,hockey,shootout,NHL,65,0,0,Player_38,GK_17,right,0.58,0.44,0.8,alta,high_shot,saved
-HOC_0087,hockey,shootout,Olympics,65,0,0,Player_24,GK_17,right,0.77,0.64,0.874,alta,high_shot,missed
-HOC_0088,hockey,shootout,World Ch.,65,0,0,Player_40,GK_6,right,0.57,0.92,0.9,alta,high_shot,goal
-HOC_0089,hockey,shootout,Olympics,65,0,1,Player_31,GK_5,right,1.0,0.56,0.909,alta,direct_shot,goal
-HOC_0090,hockey,shootout,NHL,65,0,1,Player_2,GK_7,right,0.61,0.55,0.838,alta,high_shot,saved
-HOC_0091,hockey,shootout,Olympics,65,0,1,Player_41,GK_5,right,0.74,1.0,0.94,alta,direct_shot,saved
-HOC_0092,hockey,shootout,World Ch.,65,0,1,Player_17,GK_14,right,0.92,0.95,0.96,alta,direct_shot,missed
-HOC_0093,hockey,shootout,World Ch.,65,0,1,Player_34,GK_6,left,0.53,0.67,0.859,alta,direct_shot,saved
-HOC_0094,hockey,shootout,World Ch.,65,0,0,Player_49,GK_7,left,0.62,0.66,0.85,alta,high_shot,saved
-HOC_0095,hockey,shootout,World Ch.,65,0,0,Player_10,GK_3,left,0.62,0.56,0.85,alta,high_shot,saved
-HOC_0096,hockey,shootout,Olympics,65,0,1,Player_7,GK_11,right,0.97,0.75,0.932,alta,high_shot,saved
-HOC_0097,hockey,shootout,NHL,65,0,1,Player_29,GK_9,right,0.64,0.47,0.812,alta,direct_shot,saved
-HOC_0098,hockey,shootout,NHL,65,0,1,Player_22,GK_19,left,0.85,0.65,0.883,alta,direct_shot,goal
-HOC_0099,hockey,shootout,Olympics,65,0,0,Player_35,GK_5,right,0.67,0.82,0.895,alta,high_shot,goal
-HOC_0100,hockey,shootout,NHL,65,0,1,Player_34,GK_12,left,0.78,0.83,0.918,alta,low_shot,goal
-HOC_0101,hockey,shootout,Olympics,65,0,0,Player_4,GK_17,left,0.91,0.99,0.961,alta,low_shot,saved
-HOC_0102,hockey,shootout,Olympics,65,0,0,Player_14,GK_10,right,0.69,0.47,0.844,alta,high_shot,saved
-HOC_0103,hockey,shootout,Olympics,65,0,0,Player_13,GK_15,right,0.78,0.84,0.929,alta,direct_shot,goal
-HOC_0104,hockey,shootout,World Ch.,65,0,0,Player_44,GK_4,right,0.67,0.58,0.862,alta,direct_shot,saved
-HOC_0105,hockey,shootout,World Ch.,65,0,1,Player_17,GK_3,right,0.88,0.68,0.914,alta,high_shot,saved
-HOC_0106,hockey,shootout,NHL,65,0,1,Player_20,GK_18,left,0.54,0.84,0.871,alta,low_shot,goal
-HOC_0107,hockey,shootout,NHL,65,0,1,Player_20,GK_7,right,0.99,0.4,0.851,alta,direct_shot,goal
-HOC_0108,hockey,shootout,World Ch.,65,0,0,Player_19,GK_2,right,0.88,0.71,0.904,alta,right_deke,missed
-HOC_0109,hockey,shootout,Olympics,65,0,1,Player_48,GK_10,right,0.92,0.62,0.893,alta,high_shot,saved
-HOC_0110,hockey,shootout,World Ch.,65,0,1,Player_38,GK_2,right,0.95,0.72,0.923,alta,low_shot,saved
-HOC_0111,hockey,shootout,NHL,65,0,1,Player_38,GK_2,left,0.68,0.64,0.872,alta,high_shot,saved
-HOC_0112,hockey,shootout,World Ch.,65,0,0,Player_33,GK_3,left,0.95,0.83,0.935,alta,high_shot,saved
-HOC_0113,hockey,shootout,Olympics,65,0,1,Player_29,GK_11,right,0.74,0.56,0.869,alta,left_deke,saved
-HOC_0114,hockey,shootout,World Ch.,65,0,0,Player_44,GK_2,right,0.62,0.43,0.815,alta,direct_shot,saved
-HOC_0115,hockey,shootout,NHL,65,0,1,Player_44,GK_5,right,0.76,0.68,0.89,alta,low_shot,saved
-HOC_0116,hockey,shootout,World Ch.,65,0,0,Player_16,GK_5,left,0.74,0.74,0.9,alta,right_deke,goal
-HOC_0117,hockey,shootout,World Ch.,65,0,1,Player_21,GK_19,right,0.81,0.51,0.853,alta,low_shot,goal
-HOC_0118,hockey,shootout,Olympics,65,0,0,Player_28,GK_19,right,0.55,0.45,0.795,alta,direct_shot,saved
-HOC_0119,hockey,shootout,NHL,65,0,1,Player_22,GK_5,left,0.89,0.78,0.916,alta,low_shot,missed
-HOC_0120,hockey,shootout,Olympics,65,0,1,Player_48,GK_18,left,0.53,0.9,0.898,alta,direct_shot,saved
-HOC_0121,hockey,shootout,Olympics,65,0,1,Player_27,GK_14,left,0.56,0.81,0.881,alta,direct_shot,saved
-HOC_0122,hockey,shootout,Olympics,65,0,1,Player_1,GK_2,right,0.7,0.86,0.907,alta,low_shot,goal
-HOC_0123,hockey,shootout,Olympics,65,0,1,Player_21,GK_2,right,0.89,0.67,0.899,alta,direct_shot,saved
-HOC_0124,hockey,shootout,World Ch.,65,0,1,Player_44,GK_13,right,0.59,0.78,0.894,alta,low_shot,saved
-HOC_0125,hockey,shootout,Olympics,65,0,1,Player_24,GK_18,right,0.81,0.87,0.939,alta,low_shot,goal
-HOC_0126,hockey,shootout,World Ch.,65,0,0,Player_20,GK_15,left,0.64,0.64,0.869,alta,direct_shot,saved
-HOC_0127,hockey,shootout,Olympics,65,0,1,Player_14,GK_18,left,1.0,0.73,0.918,alta,high_shot,saved
-HOC_0128,hockey,shootout,NHL,65,0,1,Player_15,GK_10,right,0.91,0.48,0.868,alta,low_shot,saved
-HOC_0129,hockey,shootout,Olympics,65,0,1,Player_48,GK_13,left,0.69,0.81,0.892,alta,direct_shot,saved
-HOC_0130,hockey,shootout,Olympics,65,0,0,Player_1,GK_7,right,0.91,0.89,0.938,alta,direct_shot,goal
-HOC_0131,hockey,shootout,Olympics,65,0,1,Player_48,GK_3,right,0.89,0.98,0.974,alta,direct_shot,saved
-HOC_0132,hockey,shootout,Olympics,65,0,0,Player_44,GK_14,right,0.7,0.73,0.878,alta,low_shot,saved
-HOC_0133,hockey,shootout,NHL,65,0,0,Player_11,GK_19,right,0.71,0.69,0.878,alta,left_deke,saved
-HOC_0134,hockey,shootout,Olympics,65,0,0,Player_43,GK_4,left,0.9,0.72,0.906,alta,high_shot,missed
-HOC_0135,hockey,shootout,Olympics,65,0,0,Player_42,GK_14,right,0.59,0.7,0.873,alta,direct_shot,saved
-HOC_0136,hockey,shootout,Olympics,65,0,1,Player_33,GK_3,left,0.79,0.64,0.883,alta,high_shot,saved
-HOC_0137,hockey,shootout,Olympics,65,0,1,Player_49,GK_5,right,0.88,0.82,0.929,alta,direct_shot,saved
-HOC_0138,hockey,shootout,World Ch.,65,0,0,Player_42,GK_1,left,0.59,0.55,0.822,alta,left_deke,saved
-HOC_0139,hockey,shootout,Olympics,65,0,1,Player_3,GK_7,left,0.84,0.67,0.896,alta,direct_shot,saved
-HOC_0140,hockey,shootout,Olympics,65,0,1,Player_25,GK_4,right,0.5,0.92,0.887,alta,right_deke,saved
-HOC_0141,hockey,shootout,NHL,65,0,1,Player_4,GK_11,left,0.57,0.56,0.848,alta,high_shot,missed
-HOC_0142,hockey,shootout,Olympics,65,0,0,Player_25,GK_18,left,0.89,0.42,0.857,alta,direct_shot,saved
-HOC_0143,hockey,shootout,Olympics,65,0,0,Player_7,GK_9,right,0.72,0.7,0.87,alta,right_deke,missed
-HOC_0144,hockey,shootout,World Ch.,65,0,1,Player_49,GK_10,right,0.76,0.88,0.92,alta,left_deke,saved
-HOC_0145,hockey,shootout,Olympics,65,0,1,Player_46,GK_7,left,0.98,0.45,0.887,alta,direct_shot,goal
-HOC_0146,hockey,shootout,NHL,65,0,0,Player_23,GK_2,right,0.63,0.42,0.821,alta,direct_shot,saved
-HOC_0147,hockey,shootout,NHL,65,0,0,Player_12,GK_10,right,0.71,0.8,0.915,alta,direct_shot,missed
-HOC_0148,hockey,shootout,NHL,65,0,0,Player_17,GK_8,right,0.6,0.65,0.845,alta,direct_shot,saved
-HOC_0149,hockey,shootout,NHL,65,0,0,Player_37,GK_4,right,0.6,0.73,0.857,alta,high_shot,saved
-HOC_0150,hockey,shootout,NHL,65,0,0,Player_46,GK_19,right,0.8,0.45,0.849,alta,high_shot,goal
-HOC_0151,hockey,shootout,World Ch.,65,0,0,Player_11,GK_19,left,0.74,0.77,0.903,alta,high_shot,goal
-HOC_0152,hockey,shootout,Olympics,65,0,1,Player_26,GK_14,right,0.58,0.92,0.917,alta,right_deke,saved
-HOC_0153,hockey,shootout,World Ch.,65,0,1,Player_38,GK_2,left,0.72,0.89,0.916,alta,high_shot,saved
-HOC_0154,hockey,shootout,Olympics,65,0,1,Player_9,GK_9,left,0.62,0.84,0.903,alta,direct_shot,saved
-HOC_0155,hockey,shootout,World Ch.,65,0,1,Player_33,GK_7,left,0.9,0.94,0.96,alta,low_shot,saved
-HOC_0156,hockey,shootout,Olympics,65,0,0,Player_25,GK_19,right,0.73,0.83,0.905,alta,low_shot,saved
-HOC_0157,hockey,shootout,World Ch.,65,0,0,Player_37,GK_19,left,0.61,0.91,0.898,alta,left_deke,saved
-HOC_0158,hockey,shootout,NHL,65,0,0,Player_40,GK_1,left,0.92,0.83,0.941,alta,high_shot,saved
-HOC_0159,hockey,shootout,Olympics,65,0,0,Player_30,GK_9,right,1.0,0.95,0.963,alta,direct_shot,saved
-HOC_0160,hockey,shootout,Olympics,65,0,0,Player_46,GK_11,left,0.83,0.86,0.933,alta,direct_shot,missed
-HOC_0161,hockey,shootout,Olympics,65,0,1,Player_16,GK_11,right,0.86,0.45,0.845,alta,direct_shot,saved
-HOC_0162,hockey,shootout,Olympics,65,0,1,Player_15,GK_15,left,0.55,0.97,0.897,alta,high_shot,saved
-HOC_0163,hockey,shootout,NHL,65,0,0,Player_20,GK_1,left,0.59,0.91,0.895,alta,direct_shot,saved
-HOC_0164,hockey,shootout,World Ch.,65,0,0,Player_2,GK_10,right,0.56,0.56,0.824,alta,direct_shot,saved
-HOC_0165,hockey,shootout,NHL,65,0,1,Player_4,GK_4,right,0.51,0.67,0.838,alta,high_shot,saved
-HOC_0166,hockey,shootout,NHL,65,0,0,Player_27,GK_5,left,0.63,0.45,0.824,alta,left_deke,saved
-HOC_0167,hockey,shootout,World Ch.,65,0,1,Player_26,GK_4,right,0.68,0.71,0.869,alta,direct_shot,saved
-HOC_0168,hockey,shootout,NHL,65,0,1,Player_9,GK_14,right,0.55,0.53,0.814,alta,low_shot,saved
-HOC_0169,hockey,shootout,NHL,65,0,0,Player_45,GK_14,right,0.89,0.95,0.947,alta,direct_shot,goal
-HOC_0170,hockey,shootout,World Ch.,65,0,1,Player_29,GK_2,right,0.63,0.71,0.882,alta,direct_shot,goal
-HOC_0171,hockey,shootout,World Ch.,65,0,0,Player_5,GK_8,left,0.55,0.91,0.909,alta,low_shot,saved
-HOC_0172,hockey,shootout,World Ch.,65,0,1,Player_36,GK_7,right,0.8,0.46,0.833,alta,direct_shot,goal
-HOC_0173,hockey,shootout,Olympics,65,0,0,Player_35,GK_10,right,0.98,0.94,0.972,alta,high_shot,saved
-HOC_0174,hockey,shootout,Olympics,65,0,1,Player_14,GK_11,right,0.68,0.99,0.947,alta,direct_shot,saved
-HOC_0175,hockey,shootout,NHL,65,0,0,Player_46,GK_17,right,0.61,0.49,0.836,alta,direct_shot,goal
-HOC_0176,hockey,shootout,Olympics,65,0,0,Player_41,GK_2,right,0.72,0.85,0.925,alta,low_shot,saved
-HOC_0177,hockey,shootout,World Ch.,65,0,0,Player_31,GK_3,left,1.0,0.41,0.854,alta,direct_shot,goal
-HOC_0178,hockey,shootout,Olympics,65,0,0,Player_21,GK_8,right,0.99,0.89,0.954,alta,left_deke,saved
-HOC_0179,hockey,shootout,Olympics,65,0,0,Player_47,GK_19,right,0.62,0.65,0.87,alta,high_shot,saved
-HOC_0180,hockey,shootout,Olympics,65,0,1,Player_43,GK_10,left,0.92,0.79,0.928,alta,low_shot,saved
-HOC_0181,hockey,shootout,World Ch.,65,0,0,Player_4,GK_2,left,0.93,0.56,0.88,alta,high_shot,saved
-HOC_0182,hockey,shootout,NHL,65,0,0,Player_14,GK_6,right,0.65,0.48,0.829,alta,direct_shot,saved
-HOC_0183,hockey,shootout,World Ch.,65,0,0,Player_4,GK_2,right,0.95,0.79,0.931,alta,low_shot,goal
-HOC_0184,hockey,shootout,World Ch.,65,0,0,Player_47,GK_18,right,0.87,0.46,0.87,alta,direct_shot,missed
-HOC_0185,hockey,shootout,NHL,65,0,1,Player_8,GK_9,right,0.86,0.79,0.922,alta,low_shot,saved
-HOC_0186,hockey,shootout,World Ch.,65,0,0,Player_26,GK_8,right,0.66,0.57,0.849,alta,low_shot,goal
-HOC_0187,hockey,shootout,NHL,65,0,0,Player_3,GK_8,right,0.64,0.59,0.857,alta,low_shot,missed
-HOC_0188,hockey,shootout,Olympics,65,0,0,Player_24,GK_14,right,0.67,0.72,0.865,alta,high_shot,goal
-HOC_0189,hockey,shootout,World Ch.,65,0,1,Player_34,GK_3,right,0.81,0.43,0.847,alta,high_shot,saved
-HOC_0190,hockey,shootout,World Ch.,65,0,0,Player_40,GK_1,right,0.55,1.0,0.918,alta,high_shot,saved
-HOC_0191,hockey,shootout,NHL,65,0,1,Player_9,GK_17,right,0.75,0.88,0.932,alta,direct_shot,goal
-HOC_0192,hockey,shootout,NHL,65,0,1,Player_17,GK_10,right,0.75,0.83,0.919,alta,right_deke,missed
-HOC_0193,hockey,shootout,Olympics,65,0,0,Player_35,GK_13,left,0.92,0.94,0.946,alta,direct_shot,saved
-HOC_0194,hockey,shootout,Olympics,65,0,1,Player_12,GK_18,left,0.68,0.95,0.921,alta,direct_shot,goal
-HOC_0195,hockey,shootout,NHL,65,0,1,Player_10,GK_12,left,1.0,0.53,0.895,alta,right_deke,goal
-HOC_0196,hockey,shootout,World Ch.,65,0,0,Player_15,GK_17,right,0.88,0.59,0.887,alta,right_deke,saved
-HOC_0197,hockey,shootout,World Ch.,65,0,1,Player_3,GK_11,left,0.79,0.44,0.851,alta,high_shot,saved
-HOC_0198,hockey,shootout,NHL,65,0,0,Player_22,GK_13,right,0.69,0.89,0.927,alta,low_shot,missed
-HOC_0199,hockey,shootout,NHL,65,0,0,Player_15,GK_1,left,0.82,0.79,0.931,alta,low_shot,saved
-HOC_0200,hockey,shootout,World Ch.,65,0,1,Player_15,GK_2,right,0.68,0.87,0.906,alta,right_deke,saved
-HOC_0201,hockey,shootout,Olympics,65,0,0,Player_35,GK_17,left,0.83,0.49,0.846,alta,left_deke,goal
-HOC_0202,hockey,shootout,NHL,65,0,1,Player_32,GK_3,right,0.78,0.63,0.88,alta,low_shot,saved
-HOC_0203,hockey,shootout,NHL,65,0,1,Player_36,GK_7,right,1.0,0.54,0.903,alta,high_shot,saved
-HOC_0204,hockey,shootout,NHL,65,0,1,Player_11,GK_4,left,0.56,0.97,0.907,alta,direct_shot,saved
-HOC_0205,hockey,shootout,NHL,65,0,1,Player_5,GK_5,right,0.95,0.99,0.969,alta,direct_shot,missed
-HOC_0206,hockey,shootout,Olympics,65,0,0,Player_1,GK_13,right,0.87,0.83,0.928,alta,right_deke,goal
-HOC_0207,hockey,shootout,Olympics,65,0,0,Player_38,GK_10,right,0.95,0.88,0.945,alta,right_deke,saved
-HOC_0208,hockey,shootout,World Ch.,65,0,0,Player_37,GK_9,right,0.75,0.87,0.936,alta,low_shot,saved
-HOC_0209,hockey,shootout,NHL,65,0,1,Player_22,GK_16,left,0.84,0.89,0.948,alta,direct_shot,goal
-HOC_0210,hockey,shootout,Olympics,65,0,1,Player_5,GK_3,right,0.92,0.99,0.97,alta,direct_shot,saved
-HOC_0211,hockey,shootout,NHL,65,0,0,Player_45,GK_14,right,0.82,0.55,0.857,alta,low_shot,goal
-HOC_0212,hockey,shootout,NHL,65,0,0,Player_41,GK_18,right,0.77,0.85,0.93,alta,low_shot,goal
-HOC_0213,hockey,shootout,World Ch.,65,0,0,Player_5,GK_15,right,0.62,0.74,0.872,alta,right_deke,saved
-HOC_0214,hockey,shootout,Olympics,65,0,0,Player_3,GK_9,right,0.79,0.99,0.962,alta,left_deke,saved
-HOC_0215,hockey,shootout,Olympics,65,0,0,Player_38,GK_10,left,0.65,0.71,0.862,alta,right_deke,missed
-HOC_0216,hockey,shootout,NHL,65,0,0,Player_19,GK_18,right,0.77,0.91,0.933,alta,low_shot,saved
-HOC_0217,hockey,shootout,Olympics,65,0,0,Player_24,GK_14,right,0.66,0.68,0.858,alta,left_deke,goal
-HOC_0218,hockey,shootout,Olympics,65,0,0,Player_17,GK_12,left,0.77,0.58,0.855,alta,left_deke,goal
-HOC_0219,hockey,shootout,NHL,65,0,1,Player_8,GK_15,left,0.79,0.9,0.946,alta,right_deke,missed
-HOC_0220,hockey,shootout,Olympics,65,0,1,Player_24,GK_16,right,0.71,0.97,0.944,alta,low_shot,goal
-HOC_0221,hockey,shootout,NHL,65,0,1,Player_31,GK_11,right,0.71,0.83,0.904,alta,left_deke,goal
-HOC_0222,hockey,shootout,Olympics,65,0,0,Player_40,GK_7,right,0.53,0.58,0.832,alta,direct_shot,goal
-HOC_0223,hockey,shootout,NHL,65,0,1,Player_14,GK_13,right,0.54,0.44,0.807,alta,direct_shot,saved
-HOC_0224,hockey,shootout,Olympics,65,0,1,Player_28,GK_6,left,0.8,0.97,0.945,alta,direct_shot,saved
-HOC_0225,hockey,shootout,NHL,65,0,0,Player_35,GK_8,right,0.94,0.78,0.919,alta,right_deke,saved
-HOC_0226,hockey,shootout,NHL,65,0,0,Player_47,GK_1,left,0.78,0.41,0.829,alta,direct_shot,saved
-HOC_0227,hockey,shootout,World Ch.,65,0,0,Player_20,GK_12,left,0.68,0.87,0.918,alta,low_shot,saved
-HOC_0228,hockey,shootout,World Ch.,65,0,1,Player_31,GK_10,left,0.94,0.43,0.848,alta,right_deke,saved
-HOC_0229,hockey,shootout,World Ch.,65,0,0,Player_13,GK_18,right,0.58,0.63,0.845,alta,right_deke,saved
-HOC_0230,hockey,shootout,NHL,65,0,1,Player_32,GK_3,left,0.53,0.92,0.899,alta,high_shot,missed
-HOC_0231,hockey,shootout,World Ch.,65,0,0,Player_34,GK_15,right,0.91,0.94,0.945,alta,low_shot,saved
-HOC_0232,hockey,shootout,NHL,65,0,0,Player_12,GK_17,left,0.9,0.97,0.965,alta,low_shot,saved
-HOC_0233,hockey,shootout,World Ch.,65,0,1,Player_46,GK_8,right,0.75,0.66,0.882,alta,high_shot,saved
-HOC_0234,hockey,shootout,NHL,65,0,1,Player_1,GK_14,right,0.9,0.84,0.937,alta,low_shot,saved
-HOC_0235,hockey,shootout,World Ch.,65,0,1,Player_48,GK_5,right,0.76,0.7,0.897,alta,direct_shot,saved
-HOC_0236,hockey,shootout,World Ch.,65,0,1,Player_45,GK_1,right,0.52,0.68,0.856,alta,low_shot,goal
-HOC_0237,hockey,shootout,Olympics,65,0,0,Player_39,GK_8,left,0.71,0.7,0.876,alta,right_deke,goal
-HOC_0238,hockey,shootout,NHL,65,0,0,Player_1,GK_19,left,0.99,0.61,0.905,alta,low_shot,goal
-HOC_0239,hockey,shootout,Olympics,65,0,1,Player_18,GK_13,right,0.53,0.92,0.908,alta,left_deke,missed
-HOC_0240,hockey,shootout,NHL,65,0,1,Player_30,GK_2,right,0.55,0.96,0.922,alta,high_shot,saved
-HOC_0241,hockey,shootout,Olympics,65,0,1,Player_8,GK_16,right,0.7,0.8,0.888,alta,left_deke,goal
-HOC_0242,hockey,shootout,World Ch.,65,0,0,Player_12,GK_4,right,1.0,0.48,0.884,alta,low_shot,saved
-HOC_0243,hockey,shootout,World Ch.,65,0,0,Player_33,GK_16,right,0.62,0.82,0.89,alta,direct_shot,goal
-HOC_0244,hockey,shootout,Olympics,65,0,1,Player_43,GK_13,right,0.9,0.98,0.953,alta,right_deke,saved
-HOC_0245,hockey,shootout,Olympics,65,0,1,Player_10,GK_1,right,0.65,0.58,0.85,alta,high_shot,goal
-HOC_0246,hockey,shootout,NHL,65,0,0,Player_46,GK_18,right,0.53,0.55,0.835,alta,left_deke,goal
-HOC_0247,hockey,shootout,World Ch.,65,0,0,Player_40,GK_8,right,0.71,0.81,0.903,alta,left_deke,goal
-HOC_0248,hockey,shootout,World Ch.,65,0,0,Player_44,GK_8,left,0.53,0.82,0.873,alta,direct_shot,goal
-HOC_0249,hockey,shootout,NHL,65,0,0,Player_5,GK_7,right,0.6,0.61,0.836,alta,direct_shot,saved
-HOC_0250,hockey,shootout,Olympics,65,0,1,Player_10,GK_8,right,0.66,0.86,0.898,alta,direct_shot,saved
-HOC_0251,hockey,shootout,NHL,65,0,0,Player_45,GK_2,right,0.64,0.86,0.906,alta,direct_shot,missed
-HOC_0252,hockey,shootout,NHL,65,0,0,Player_11,GK_6,left,1.0,0.55,0.889,alta,high_shot,saved
-HOC_0253,hockey,shootout,World Ch.,65,0,1,Player_39,GK_12,right,0.85,0.45,0.864,alta,low_shot,saved
-HOC_0254,hockey,shootout,World Ch.,65,0,0,Player_49,GK_18,left,0.95,1.0,0.985,alta,direct_shot,saved
-HOC_0255,hockey,shootout,NHL,65,0,1,Player_24,GK_10,left,0.62,0.93,0.91,alta,left_deke,missed
-HOC_0256,hockey,shootout,Olympics,65,0,1,Player_20,GK_11,right,0.94,0.71,0.923,alta,direct_shot,goal
-HOC_0257,hockey,shootout,World Ch.,65,0,0,Player_5,GK_7,right,0.96,0.62,0.902,alta,direct_shot,saved
-HOC_0258,hockey,shootout,NHL,65,0,1,Player_14,GK_8,left,0.96,0.89,0.967,alta,direct_shot,saved
-HOC_0259,hockey,shootout,World Ch.,65,0,1,Player_48,GK_18,right,0.52,0.96,0.899,alta,high_shot,missed
-HOC_0260,hockey,shootout,NHL,65,0,1,Player_8,GK_11,right,0.93,0.65,0.91,alta,right_deke,saved
-HOC_0261,hockey,shootout,NHL,65,0,0,Player_9,GK_1,right,0.81,0.63,0.892,alta,high_shot,missed
-HOC_0262,hockey,shootout,NHL,65,0,0,Player_15,GK_11,left,0.67,0.65,0.868,alta,direct_shot,saved
-HOC_0263,hockey,shootout,NHL,65,0,1,Player_22,GK_14,right,0.66,0.56,0.854,alta,direct_shot,saved
-HOC_0264,hockey,shootout,Olympics,65,0,0,Player_44,GK_1,left,0.78,1.0,0.938,alta,left_deke,saved
-HOC_0265,hockey,shootout,Olympics,65,0,0,Player_20,GK_13,right,0.97,0.8,0.932,alta,left_deke,saved
-HOC_0266,hockey,shootout,Olympics,65,0,1,Player_30,GK_17,left,0.96,0.52,0.888,alta,direct_shot,goal
-HOC_0267,hockey,shootout,NHL,65,0,1,Player_5,GK_6,right,0.71,0.77,0.903,alta,direct_shot,goal
-HOC_0268,hockey,shootout,World Ch.,65,0,1,Player_25,GK_1,right,0.93,0.8,0.942,alta,low_shot,saved
-HOC_0269,hockey,shootout,NHL,65,0,1,Player_21,GK_8,left,0.95,0.68,0.91,alta,high_shot,saved
-HOC_0270,hockey,shootout,NHL,65,0,0,Player_33,GK_17,right,0.83,0.98,0.954,alta,left_deke,saved
-HOC_0271,hockey,shootout,NHL,65,0,1,Player_18,GK_19,right,0.85,0.6,0.895,alta,direct_shot,saved
-HOC_0272,hockey,shootout,Olympics,65,0,1,Player_42,GK_2,right,0.77,0.41,0.837,alta,low_shot,goal
-HOC_0273,hockey,shootout,Olympics,65,0,0,Player_4,GK_19,right,0.73,0.82,0.893,alta,right_deke,saved
-HOC_0274,hockey,shootout,Olympics,65,0,1,Player_5,GK_2,right,0.76,0.54,0.868,alta,high_shot,goal
-HOC_0275,hockey,shootout,NHL,65,0,0,Player_24,GK_7,left,0.74,0.81,0.904,alta,left_deke,saved
-HOC_0276,hockey,shootout,World Ch.,65,0,0,Player_43,GK_7,right,0.99,0.53,0.903,alta,low_shot,saved
-HOC_0277,hockey,shootout,Olympics,65,0,1,Player_26,GK_19,right,0.76,0.53,0.843,alta,direct_shot,saved
-HOC_0278,hockey,shootout,World Ch.,65,0,0,Player_42,GK_7,right,0.83,0.95,0.935,alta,direct_shot,saved
-HOC_0279,hockey,shootout,Olympics,65,0,0,Player_25,GK_11,right,0.88,0.62,0.895,alta,right_deke,saved
-HOC_0280,hockey,shootout,NHL,65,0,0,Player_6,GK_2,right,0.84,0.43,0.86,alta,direct_shot,saved
-HOC_0281,hockey,shootout,NHL,65,0,1,Player_48,GK_2,right,0.81,0.79,0.912,alta,direct_shot,missed
-HOC_0282,hockey,shootout,Olympics,65,0,1,Player_10,GK_9,right,0.82,0.9,0.944,alta,direct_shot,goal
-HOC_0283,hockey,shootout,NHL,65,0,1,Player_40,GK_7,right,0.72,0.66,0.88,alta,right_deke,missed
-HOC_0284,hockey,shootout,World Ch.,65,0,1,Player_46,GK_3,right,0.78,0.88,0.926,alta,left_deke,missed
-HOC_0285,hockey,shootout,Olympics,65,0,0,Player_38,GK_15,right,0.88,0.58,0.872,alta,direct_shot,goal
-HOC_0286,hockey,shootout,Olympics,65,0,1,Player_20,GK_7,left,0.82,0.86,0.935,alta,right_deke,saved
-HOC_0287,hockey,shootout,Olympics,65,0,0,Player_5,GK_6,right,0.64,0.55,0.852,alta,direct_shot,saved
-HOC_0288,hockey,shootout,Olympics,65,0,0,Player_11,GK_13,left,0.59,0.52,0.83,alta,left_deke,saved
-HOC_0289,hockey,shootout,World Ch.,65,0,1,Player_30,GK_9,left,0.62,0.57,0.852,alta,left_deke,saved
-HOC_0290,hockey,shootout,NHL,65,0,0,Player_33,GK_19,right,0.82,0.5,0.846,alta,high_shot,goal
-HOC_0291,hockey,shootout,Olympics,65,0,1,Player_13,GK_19,right,0.91,0.87,0.933,alta,direct_shot,missed
-HOC_0292,hockey,shootout,World Ch.,65,0,1,Player_12,GK_3,left,0.74,0.66,0.884,alta,direct_shot,goal
-HOC_0293,hockey,shootout,NHL,65,0,0,Player_36,GK_5,right,0.72,0.65,0.883,alta,direct_shot,goal
-HOC_0294,hockey,shootout,World Ch.,65,0,1,Player_28,GK_17,left,0.89,0.81,0.923,alta,low_shot,saved
-HOC_0295,hockey,shootout,World Ch.,65,0,1,Player_34,GK_9,right,0.84,0.97,0.963,alta,left_deke,saved
-HOC_0296,hockey,shootout,World Ch.,65,0,0,Player_18,GK_17,right,0.98,0.89,0.963,alta,direct_shot,saved
-HOC_0297,hockey,shootout,NHL,65,0,0,Player_9,GK_5,right,0.83,0.82,0.919,alta,direct_shot,goal
-HOC_0298,hockey,shootout,NHL,65,0,1,Player_16,GK_10,right,0.61,0.47,0.812,alta,high_shot,saved
-HOC_0299,hockey,shootout,Olympics,65,0,1,Player_42,GK_12,left,0.93,0.56,0.886,alta,low_shot,goal
-HOC_0300,hockey,shootout,World Ch.,65,0,1,Player_18,GK_3,right,0.59,0.65,0.853,alta,direct_shot,saved
+HOC_0001,hockey,shootout,Mundial,65,0,0,McDavid,Swayman,left,0.82,0.87,0.924,alta,direct_shot,missed
+HOC_0002,hockey,shootout,Mundial,65,0,0,McDavid,Hellebuyck,right,0.75,0.67,0.87,alta,high_shot,saved
+HOC_0003,hockey,shootout,JJOO,65,0,1,McDavid,Shesterkin,right,0.7,0.88,0.92,alta,right_deke,goal
+HOC_0004,hockey,shootout,JJOO,65,0,0,Draisaitl,Swayman,right,0.55,0.91,0.89,alta,direct_shot,goal
+HOC_0005,hockey,shootout,Mundial,65,0,0,Crosby,Sorokin,right,0.55,0.92,0.89,alta,low_shot,goal
+HOC_0006,hockey,shootout,JJOO,65,0,0,Makar,Hellebuyck,right,0.53,0.85,0.878,alta,right_deke,goal
+HOC_0007,hockey,shootout,JJOO,65,0,1,Ovechkin,Bobrovsky,right,0.57,0.87,0.883,alta,right_deke,saved
+HOC_0008,hockey,shootout,JJOO,65,0,1,Point,Bobrovsky,right,0.76,0.92,0.931,alta,direct_shot,missed
+HOC_0009,hockey,shootout,NHL,65,0,0,Makar,Oettinger,right,0.86,0.9,0.943,alta,high_shot,saved
+HOC_0010,hockey,shootout,JJOO,65,0,0,Matthews,Oettinger,right,0.62,0.45,0.824,alta,right_deke,saved
+HOC_0011,hockey,shootout,Mundial,65,0,0,McDavid,Saros,right,0.61,0.94,0.907,alta,direct_shot,goal
+HOC_0012,hockey,shootout,JJOO,65,0,0,Ovechkin,Markström,right,0.76,0.84,0.92,alta,left_deke,saved
+HOC_0013,hockey,shootout,Mundial,65,0,1,Robertson,Shesterkin,left,0.79,0.44,0.851,alta,right_deke,saved
+HOC_0014,hockey,shootout,Mundial,65,0,1,Pastrnak,Saros,right,0.51,0.45,0.806,alta,low_shot,saved
+HOC_0015,hockey,shootout,JJOO,65,0,0,Barkov,Swayman,right,0.56,0.91,0.912,alta,low_shot,goal
+HOC_0016,hockey,shootout,JJOO,65,0,0,Barkov,Hellebuyck,right,0.5,0.45,0.787,alta,right_deke,saved
+HOC_0017,hockey,shootout,JJOO,65,0,0,Kaprizov,Demko,left,0.58,0.54,0.845,alta,left_deke,goal
+HOC_0018,hockey,shootout,NHL,65,0,0,Makar,Oettinger,right,0.8,0.94,0.945,alta,left_deke,saved
+HOC_0019,hockey,shootout,JJOO,65,0,1,Crosby,Vasilevskiy,right,1.0,0.68,0.934,alta,high_shot,saved
+HOC_0020,hockey,shootout,NHL,65,0,0,Rantanen,Saros,right,0.92,0.73,0.928,alta,low_shot,saved
+HOC_0021,hockey,shootout,NHL,65,0,0,Makar,Hellebuyck,right,0.73,0.65,0.867,alta,right_deke,saved
+HOC_0022,hockey,shootout,JJOO,65,0,1,Rantanen,Demko,right,0.76,0.77,0.889,alta,left_deke,saved
+HOC_0023,hockey,shootout,JJOO,65,0,1,Draisaitl,Demko,left,0.6,0.58,0.842,alta,right_deke,saved
+HOC_0024,hockey,shootout,NHL,65,0,0,Robertson,Markström,right,0.75,0.6,0.879,alta,right_deke,saved
+HOC_0025,hockey,shootout,Mundial,65,0,1,Ovechkin,Hellebuyck,right,0.9,0.71,0.9,alta,low_shot,goal
+HOC_0026,hockey,shootout,JJOO,65,0,1,McDavid,Hellebuyck,left,0.89,0.49,0.852,alta,direct_shot,saved
+HOC_0027,hockey,shootout,Mundial,65,0,0,Kaprizov,Swayman,right,0.58,0.84,0.888,alta,right_deke,saved
+HOC_0028,hockey,shootout,NHL,65,0,0,Draisaitl,Vasilevskiy,right,0.53,0.42,0.81,alta,direct_shot,saved
+HOC_0029,hockey,shootout,JJOO,65,0,1,Kaprizov,Sorokin,right,0.97,0.91,0.97,alta,direct_shot,saved
+HOC_0030,hockey,shootout,Mundial,65,0,0,MacKinnon,Hellebuyck,left,0.86,0.45,0.849,alta,left_deke,saved
+HOC_0031,hockey,shootout,JJOO,65,0,0,Robertson,Markström,right,0.6,0.78,0.869,alta,high_shot,saved
+HOC_0032,hockey,shootout,Mundial,65,0,1,Pastrnak,Bobrovsky,right,0.77,0.91,0.923,alta,direct_shot,saved
+HOC_0033,hockey,shootout,Mundial,65,0,1,Point,Hellebuyck,right,0.87,0.48,0.849,alta,left_deke,missed
+HOC_0034,hockey,shootout,Mundial,65,0,1,Crosby,Swayman,left,0.79,0.52,0.856,alta,direct_shot,goal
+HOC_0035,hockey,shootout,Mundial,65,0,1,Hughes,Demko,right,0.51,0.98,0.909,alta,direct_shot,goal
+HOC_0036,hockey,shootout,JJOO,65,0,1,Robertson,Oettinger,right,0.54,0.54,0.815,alta,direct_shot,goal
+HOC_0037,hockey,shootout,Mundial,65,0,0,McDavid,Shesterkin,right,0.93,0.47,0.872,alta,low_shot,saved
+HOC_0038,hockey,shootout,JJOO,65,0,0,Kucherov,Oettinger,right,0.59,0.52,0.838,alta,direct_shot,saved
+HOC_0039,hockey,shootout,NHL,65,0,0,Point,Sorokin,right,0.75,0.9,0.929,alta,direct_shot,goal
+HOC_0040,hockey,shootout,JJOO,65,0,1,Makar,Sorokin,right,0.62,0.57,0.845,alta,right_deke,saved
+HOC_0041,hockey,shootout,NHL,65,0,0,Ovechkin,Markström,right,0.91,0.54,0.875,alta,low_shot,goal
+HOC_0042,hockey,shootout,NHL,65,0,1,Makar,Demko,right,0.93,0.62,0.907,alta,direct_shot,saved
+HOC_0043,hockey,shootout,JJOO,65,0,1,Rantanen,Markström,right,0.73,0.67,0.888,alta,direct_shot,saved
+HOC_0044,hockey,shootout,Mundial,65,0,0,Draisaitl,Vasilevskiy,left,0.73,0.77,0.904,alta,low_shot,goal
+HOC_0045,hockey,shootout,JJOO,65,0,1,Draisaitl,Sorokin,right,0.76,0.7,0.875,alta,low_shot,goal
+HOC_0046,hockey,shootout,NHL,65,0,0,Matthews,Vasilevskiy,right,0.57,0.72,0.856,alta,low_shot,saved
+HOC_0047,hockey,shootout,JJOO,65,0,1,Kucherov,Markström,right,0.91,0.97,0.975,alta,direct_shot,goal
+HOC_0048,hockey,shootout,Mundial,65,0,0,Makar,Saros,right,0.56,0.93,0.902,alta,left_deke,saved
+HOC_0049,hockey,shootout,NHL,65,0,0,Matthews,Oettinger,right,0.96,0.52,0.878,alta,direct_shot,goal
+HOC_0050,hockey,shootout,JJOO,65,0,1,Pastrnak,Saros,right,0.75,0.49,0.85,alta,right_deke,saved
+HOC_0051,hockey,shootout,NHL,65,0,0,Point,Vasilevskiy,right,0.62,0.93,0.902,alta,high_shot,saved
+HOC_0052,hockey,shootout,NHL,65,0,0,Crosby,Demko,right,0.54,0.93,0.894,alta,high_shot,goal
+HOC_0053,hockey,shootout,JJOO,65,0,0,McDavid,Swayman,left,0.64,0.8,0.895,alta,direct_shot,saved
+HOC_0054,hockey,shootout,Mundial,65,0,0,Crosby,Demko,right,0.91,0.6,0.876,alta,direct_shot,saved
+HOC_0055,hockey,shootout,Mundial,65,0,0,Robertson,Hellebuyck,right,0.93,0.7,0.906,alta,left_deke,missed
+HOC_0056,hockey,shootout,JJOO,65,0,0,Pastrnak,Markström,right,0.71,0.82,0.901,alta,direct_shot,saved
+HOC_0057,hockey,shootout,NHL,65,0,1,Hughes,Oettinger,left,0.52,0.86,0.886,alta,high_shot,saved
+HOC_0058,hockey,shootout,JJOO,65,0,1,Rantanen,Shesterkin,right,0.51,0.54,0.816,alta,right_deke,goal
+HOC_0059,hockey,shootout,JJOO,65,0,0,Robertson,Sorokin,right,0.91,0.54,0.869,alta,direct_shot,goal
+HOC_0060,hockey,shootout,NHL,65,0,0,Ovechkin,Oettinger,right,0.79,0.98,0.948,alta,direct_shot,saved
+HOC_0061,hockey,shootout,Mundial,65,0,1,Robertson,Shesterkin,right,0.57,0.65,0.85,alta,left_deke,goal
+HOC_0062,hockey,shootout,NHL,65,0,0,Draisaitl,Vasilevskiy,right,0.55,0.68,0.857,alta,low_shot,saved
+HOC_0063,hockey,shootout,JJOO,65,0,0,Hughes,Bobrovsky,right,0.76,0.8,0.901,alta,low_shot,saved
+HOC_0064,hockey,shootout,Mundial,65,0,0,Matthews,Oettinger,left,0.73,0.94,0.938,alta,high_shot,saved
+HOC_0065,hockey,shootout,Mundial,65,0,0,Robertson,Sorokin,left,0.96,0.43,0.86,alta,direct_shot,saved
+HOC_0066,hockey,shootout,NHL,65,0,0,Makar,Swayman,left,0.68,0.96,0.918,alta,low_shot,saved
+HOC_0067,hockey,shootout,NHL,65,0,0,McDavid,Shesterkin,right,0.75,0.99,0.959,alta,high_shot,saved
+HOC_0068,hockey,shootout,Mundial,65,0,1,McDavid,Vasilevskiy,right,0.55,0.46,0.797,alta,direct_shot,saved
+HOC_0069,hockey,shootout,JJOO,65,0,1,McDavid,Shesterkin,right,0.61,0.75,0.867,alta,high_shot,saved
+HOC_0070,hockey,shootout,NHL,65,0,1,MacKinnon,Shesterkin,right,0.97,0.66,0.92,alta,high_shot,saved
+HOC_0071,hockey,shootout,NHL,65,0,1,Draisaitl,Saros,left,0.82,0.87,0.948,alta,low_shot,missed
+HOC_0072,hockey,shootout,Mundial,65,0,0,Kaprizov,Sorokin,right,0.62,0.89,0.918,alta,high_shot,saved
+HOC_0073,hockey,shootout,Mundial,65,0,1,Hughes,Markström,right,0.68,0.6,0.862,alta,low_shot,saved
+HOC_0074,hockey,shootout,Mundial,65,0,0,Robertson,Hellebuyck,right,0.78,0.87,0.938,alta,high_shot,saved
+HOC_0075,hockey,shootout,NHL,65,0,1,Robertson,Shesterkin,right,0.51,0.44,0.805,alta,direct_shot,goal
+HOC_0076,hockey,shootout,JJOO,65,0,0,MacKinnon,Oettinger,right,0.69,0.69,0.867,alta,right_deke,goal
+HOC_0077,hockey,shootout,Mundial,65,0,0,Point,Vasilevskiy,right,0.73,0.98,0.947,alta,left_deke,saved
+HOC_0078,hockey,shootout,Mundial,65,0,0,Crosby,Sorokin,right,0.93,0.77,0.931,alta,low_shot,goal
+HOC_0079,hockey,shootout,NHL,65,0,1,Hughes,Shesterkin,right,0.58,0.83,0.899,alta,right_deke,saved
+HOC_0080,hockey,shootout,Mundial,65,0,1,Pastrnak,Hellebuyck,right,0.52,0.92,0.902,alta,direct_shot,saved
+HOC_0081,hockey,shootout,NHL,65,0,1,Ovechkin,Markström,right,0.86,0.95,0.962,alta,direct_shot,goal
+HOC_0082,hockey,shootout,JJOO,65,0,0,Draisaitl,Bobrovsky,left,0.91,0.81,0.935,alta,direct_shot,saved
+HOC_0083,hockey,shootout,JJOO,65,0,1,Barkov,Sorokin,left,0.79,0.46,0.845,alta,direct_shot,goal
+HOC_0084,hockey,shootout,Mundial,65,0,0,Hughes,Vasilevskiy,right,0.97,0.53,0.9,alta,direct_shot,goal
+HOC_0085,hockey,shootout,Mundial,65,0,0,Crosby,Saros,right,0.6,0.68,0.874,alta,low_shot,saved
+HOC_0086,hockey,shootout,NHL,65,0,0,Draisaitl,Demko,right,0.87,0.9,0.959,alta,right_deke,saved
+HOC_0087,hockey,shootout,JJOO,65,0,1,MacKinnon,Oettinger,right,0.69,0.43,0.838,alta,right_deke,saved
+HOC_0088,hockey,shootout,NHL,65,0,0,Makar,Demko,right,0.58,0.44,0.8,alta,high_shot,saved
+HOC_0089,hockey,shootout,NHL,65,0,1,Matthews,Hellebuyck,right,0.95,0.51,0.867,alta,direct_shot,goal
+HOC_0090,hockey,shootout,NHL,65,0,1,Hughes,Demko,right,0.94,0.42,0.871,alta,direct_shot,saved
+HOC_0091,hockey,shootout,JJOO,65,0,1,Kucherov,Bobrovsky,right,0.75,0.62,0.858,alta,high_shot,saved
+HOC_0092,hockey,shootout,Mundial,65,0,1,McDavid,Saros,right,0.51,0.7,0.844,alta,direct_shot,saved
+HOC_0093,hockey,shootout,NHL,65,0,1,Kucherov,Shesterkin,right,0.58,0.92,0.922,alta,right_deke,saved
+HOC_0094,hockey,shootout,JJOO,65,0,0,Rantanen,Oettinger,right,0.71,0.45,0.828,alta,direct_shot,missed
+HOC_0095,hockey,shootout,JJOO,65,0,1,Kaprizov,Shesterkin,right,0.84,0.7,0.908,alta,left_deke,saved
+HOC_0096,hockey,shootout,Mundial,65,0,1,Kaprizov,Vasilevskiy,left,0.68,0.85,0.897,alta,direct_shot,saved
+HOC_0097,hockey,shootout,NHL,65,0,1,Kaprizov,Sorokin,left,0.78,0.52,0.866,alta,high_shot,goal
+HOC_0098,hockey,shootout,Mundial,65,0,1,Point,Oettinger,right,0.78,0.88,0.92,alta,direct_shot,missed
+HOC_0099,hockey,shootout,NHL,65,0,0,Makar,Demko,right,0.95,0.5,0.869,alta,right_deke,goal
+HOC_0100,hockey,shootout,JJOO,65,0,0,MacKinnon,Sorokin,right,0.74,0.66,0.873,alta,right_deke,saved
+HOC_0101,hockey,shootout,JJOO,65,0,1,Robertson,Demko,left,0.57,0.65,0.856,alta,direct_shot,goal
+HOC_0102,hockey,shootout,Mundial,65,0,0,Rantanen,Hellebuyck,left,0.96,0.87,0.959,alta,direct_shot,saved
+HOC_0103,hockey,shootout,Mundial,65,0,0,Makar,Shesterkin,left,0.71,0.7,0.892,alta,direct_shot,goal
+HOC_0104,hockey,shootout,JJOO,65,0,0,Matthews,Oettinger,left,0.91,0.87,0.952,alta,high_shot,saved
+HOC_0105,hockey,shootout,JJOO,65,0,1,Rantanen,Oettinger,left,0.8,0.91,0.945,alta,right_deke,saved
+HOC_0106,hockey,shootout,Mundial,65,0,0,Barkov,Oettinger,left,0.99,0.53,0.894,alta,high_shot,saved
+HOC_0107,hockey,shootout,JJOO,65,0,1,Robertson,Demko,left,0.97,0.9,0.966,alta,low_shot,goal
+HOC_0108,hockey,shootout,NHL,65,0,0,Ovechkin,Saros,right,0.63,0.92,0.919,alta,high_shot,goal
+HOC_0109,hockey,shootout,NHL,65,0,1,MacKinnon,Hellebuyck,right,0.89,0.43,0.865,alta,low_shot,saved
+HOC_0110,hockey,shootout,NHL,65,0,1,Matthews,Oettinger,left,0.78,0.98,0.939,alta,low_shot,saved
+HOC_0111,hockey,shootout,Mundial,65,0,0,Draisaitl,Shesterkin,right,0.88,0.71,0.904,alta,right_deke,missed
+HOC_0112,hockey,shootout,JJOO,65,0,1,Matthews,Bobrovsky,right,0.92,0.62,0.893,alta,high_shot,saved
+HOC_0113,hockey,shootout,Mundial,65,0,1,Makar,Shesterkin,right,0.95,0.72,0.923,alta,low_shot,saved
+HOC_0114,hockey,shootout,NHL,65,0,1,Makar,Shesterkin,left,0.68,0.64,0.872,alta,high_shot,saved
+HOC_0115,hockey,shootout,Mundial,65,0,0,Hughes,Vasilevskiy,left,0.95,0.83,0.935,alta,high_shot,saved
+HOC_0116,hockey,shootout,Mundial,65,0,1,Draisaitl,Bobrovsky,right,0.55,0.42,0.796,alta,direct_shot,saved
+HOC_0117,hockey,shootout,NHL,65,0,1,MacKinnon,Oettinger,right,0.73,0.63,0.872,alta,left_deke,goal
+HOC_0118,hockey,shootout,JJOO,65,0,0,Matthews,Demko,right,0.73,0.54,0.843,alta,high_shot,missed
+HOC_0119,hockey,shootout,Mundial,65,0,1,Draisaitl,Swayman,right,0.61,0.97,0.922,alta,high_shot,missed
+HOC_0120,hockey,shootout,NHL,65,0,0,Ovechkin,Sorokin,right,0.56,0.94,0.902,alta,direct_shot,saved
+HOC_0121,hockey,shootout,NHL,65,0,0,Draisaitl,Saros,right,0.65,0.7,0.874,alta,direct_shot,goal
+HOC_0122,hockey,shootout,Mundial,65,0,0,Matthews,Markström,right,0.93,0.85,0.948,alta,high_shot,goal
+HOC_0123,hockey,shootout,Mundial,65,0,1,Pastrnak,Markström,right,1.0,0.98,0.976,alta,direct_shot,saved
+HOC_0124,hockey,shootout,JJOO,65,0,0,Barkov,Shesterkin,right,0.83,0.49,0.856,alta,high_shot,saved
+HOC_0125,hockey,shootout,NHL,65,0,1,Pastrnak,Shesterkin,right,0.68,0.82,0.911,alta,right_deke,saved
+HOC_0126,hockey,shootout,Mundial,65,0,0,McDavid,Bobrovsky,left,0.58,0.6,0.842,alta,right_deke,goal
+HOC_0127,hockey,shootout,JJOO,65,0,1,McDavid,Demko,right,0.71,0.61,0.864,alta,right_deke,saved
+HOC_0128,hockey,shootout,Mundial,65,0,1,Barkov,Markström,right,0.92,0.66,0.916,alta,left_deke,saved
+HOC_0129,hockey,shootout,Mundial,65,0,0,Pastrnak,Oettinger,left,0.96,0.7,0.919,alta,direct_shot,saved
+HOC_0130,hockey,shootout,JJOO,65,0,0,Kucherov,Sorokin,right,0.96,0.99,0.99,alta,high_shot,saved
+HOC_0131,hockey,shootout,JJOO,65,0,0,Crosby,Demko,right,0.96,0.45,0.877,alta,direct_shot,goal
+HOC_0132,hockey,shootout,JJOO,65,0,1,Point,Swayman,left,0.52,0.7,0.866,alta,direct_shot,saved
+HOC_0133,hockey,shootout,Mundial,65,0,1,Point,Bobrovsky,right,0.87,0.87,0.926,alta,direct_shot,goal
+HOC_0134,hockey,shootout,JJOO,65,0,0,McDavid,Sorokin,left,0.97,0.45,0.86,alta,direct_shot,saved
+HOC_0135,hockey,shootout,Mundial,65,0,1,Matthews,Markström,right,0.91,0.75,0.915,alta,direct_shot,saved
+HOC_0136,hockey,shootout,JJOO,65,0,1,Pastrnak,Saros,right,0.78,0.53,0.854,alta,left_deke,missed
+HOC_0137,hockey,shootout,NHL,65,0,0,Hughes,Hellebuyck,left,0.55,0.88,0.894,alta,direct_shot,saved
+HOC_0138,hockey,shootout,JJOO,65,0,0,Hughes,Saros,left,0.9,0.72,0.906,alta,high_shot,missed
+HOC_0139,hockey,shootout,JJOO,65,0,0,Pastrnak,Markström,right,0.59,0.7,0.873,alta,direct_shot,saved
+HOC_0140,hockey,shootout,JJOO,65,0,1,McDavid,Bobrovsky,right,0.52,0.85,0.895,alta,left_deke,saved
+HOC_0141,hockey,shootout,Mundial,65,0,1,Ovechkin,Vasilevskiy,right,0.69,0.49,0.849,alta,direct_shot,saved
+HOC_0142,hockey,shootout,Mundial,65,0,1,Hughes,Bobrovsky,right,0.63,0.68,0.858,alta,left_deke,missed
+HOC_0143,hockey,shootout,JJOO,65,0,1,Kaprizov,Hellebuyck,right,0.67,0.47,0.829,alta,left_deke,missed
+HOC_0144,hockey,shootout,JJOO,65,0,1,Makar,Markström,right,0.93,0.61,0.882,alta,left_deke,goal
+HOC_0145,hockey,shootout,NHL,65,0,1,Ovechkin,Demko,left,0.62,0.77,0.886,alta,high_shot,saved
+HOC_0146,hockey,shootout,JJOO,65,0,1,Robertson,Bobrovsky,right,0.85,0.56,0.873,alta,high_shot,saved
+HOC_0147,hockey,shootout,Mundial,65,0,1,Hughes,Sorokin,right,0.56,0.71,0.875,alta,right_deke,saved
+HOC_0148,hockey,shootout,Mundial,65,0,1,Rantanen,Demko,right,0.81,0.56,0.864,alta,direct_shot,saved
+HOC_0149,hockey,shootout,JJOO,65,0,1,MacKinnon,Bobrovsky,left,0.63,0.67,0.855,alta,direct_shot,saved
+HOC_0150,hockey,shootout,Mundial,65,0,0,Pastrnak,Hellebuyck,right,0.88,0.69,0.911,alta,direct_shot,missed
+HOC_0151,hockey,shootout,JJOO,65,0,0,Point,Oettinger,left,0.85,0.67,0.909,alta,direct_shot,saved
+HOC_0152,hockey,shootout,NHL,65,0,1,Ovechkin,Sorokin,right,0.88,0.56,0.891,alta,left_deke,saved
+HOC_0153,hockey,shootout,JJOO,65,0,0,Ovechkin,Sorokin,right,0.61,0.51,0.826,alta,high_shot,goal
+HOC_0154,hockey,shootout,Mundial,65,0,0,Hughes,Demko,right,0.95,0.89,0.963,alta,low_shot,goal
+HOC_0155,hockey,shootout,JJOO,65,0,1,Kucherov,Hellebuyck,left,0.83,0.95,0.96,alta,left_deke,saved
+HOC_0156,hockey,shootout,JJOO,65,0,1,Ovechkin,Hellebuyck,right,0.89,0.59,0.872,alta,low_shot,saved
+HOC_0157,hockey,shootout,JJOO,65,0,1,Pastrnak,Markström,right,0.58,0.92,0.917,alta,right_deke,saved
+HOC_0158,hockey,shootout,JJOO,65,0,0,Crosby,Swayman,right,0.91,0.68,0.906,alta,high_shot,saved
+HOC_0159,hockey,shootout,Mundial,65,0,0,Barkov,Shesterkin,left,0.87,0.9,0.936,alta,low_shot,saved
+HOC_0160,hockey,shootout,NHL,65,0,1,Kaprizov,Hellebuyck,right,0.75,0.9,0.939,alta,high_shot,goal
+HOC_0161,hockey,shootout,JJOO,65,0,1,Robertson,Swayman,right,0.79,0.99,0.959,alta,right_deke,goal
+HOC_0162,hockey,shootout,JJOO,65,0,1,Draisaitl,Shesterkin,right,0.6,0.67,0.855,alta,direct_shot,goal
+HOC_0163,hockey,shootout,Mundial,65,0,0,Rantanen,Hellebuyck,left,0.94,0.9,0.947,alta,low_shot,saved
+HOC_0164,hockey,shootout,NHL,65,0,0,Ovechkin,Sorokin,right,0.59,0.64,0.865,alta,low_shot,goal
+HOC_0165,hockey,shootout,NHL,65,0,0,Barkov,Saros,left,1.0,0.42,0.861,alta,direct_shot,saved
+HOC_0166,hockey,shootout,Mundial,65,0,0,Makar,Swayman,right,0.54,0.52,0.819,alta,left_deke,saved
+HOC_0167,hockey,shootout,JJOO,65,0,1,MacKinnon,Bobrovsky,right,0.95,0.87,0.965,alta,direct_shot,goal
+HOC_0168,hockey,shootout,JJOO,65,0,0,Kaprizov,Demko,left,0.64,0.68,0.871,alta,right_deke,goal
+HOC_0169,hockey,shootout,Mundial,65,0,1,Ovechkin,Hellebuyck,right,0.51,0.69,0.844,alta,low_shot,saved
+HOC_0170,hockey,shootout,NHL,65,0,1,Barkov,Demko,right,0.92,0.48,0.86,alta,direct_shot,goal
+HOC_0171,hockey,shootout,JJOO,65,0,0,Kaprizov,Vasilevskiy,right,0.94,0.82,0.951,alta,right_deke,goal
+HOC_0172,hockey,shootout,NHL,65,0,0,Pastrnak,Demko,right,1.0,0.66,0.918,alta,right_deke,goal
+HOC_0173,hockey,shootout,Mundial,65,0,1,Pastrnak,Vasilevskiy,right,0.86,0.67,0.89,alta,direct_shot,saved
+HOC_0174,hockey,shootout,JJOO,65,0,1,Point,Oettinger,left,0.81,0.5,0.87,alta,right_deke,saved
+HOC_0175,hockey,shootout,JJOO,65,0,1,Matthews,Saros,right,0.71,0.57,0.857,alta,high_shot,saved
+HOC_0176,hockey,shootout,NHL,65,0,1,Matthews,Hellebuyck,right,0.67,0.65,0.875,alta,low_shot,saved
+HOC_0177,hockey,shootout,NHL,65,0,1,Makar,Shesterkin,right,0.95,0.71,0.931,alta,direct_shot,saved
+HOC_0178,hockey,shootout,NHL,65,0,1,Draisaitl,Oettinger,right,0.72,0.69,0.88,alta,right_deke,goal
+HOC_0179,hockey,shootout,Mundial,65,0,0,Robertson,Hellebuyck,left,0.56,0.91,0.895,alta,direct_shot,missed
+HOC_0180,hockey,shootout,Mundial,65,0,1,Robertson,Bobrovsky,right,0.94,0.74,0.919,alta,left_deke,goal
+HOC_0181,hockey,shootout,NHL,65,0,0,MacKinnon,Shesterkin,right,0.53,0.72,0.855,alta,high_shot,saved
+HOC_0182,hockey,shootout,JJOO,65,0,1,Draisaitl,Hellebuyck,left,0.83,0.95,0.96,alta,direct_shot,saved
+HOC_0183,hockey,shootout,JJOO,65,0,0,Ovechkin,Sorokin,right,0.89,0.69,0.921,alta,direct_shot,saved
+HOC_0184,hockey,shootout,Mundial,65,0,1,Makar,Demko,right,0.74,0.43,0.827,alta,high_shot,saved
+HOC_0185,hockey,shootout,Mundial,65,0,0,Matthews,Oettinger,right,0.79,0.41,0.841,alta,low_shot,saved
+HOC_0186,hockey,shootout,JJOO,65,0,0,Draisaitl,Markström,right,0.92,0.9,0.952,alta,high_shot,saved
+HOC_0187,hockey,shootout,Mundial,65,0,0,MacKinnon,Swayman,right,0.81,0.91,0.947,alta,direct_shot,saved
+HOC_0188,hockey,shootout,JJOO,65,0,0,Point,Demko,right,0.84,0.94,0.941,alta,high_shot,saved
+HOC_0189,hockey,shootout,JJOO,65,0,1,Barkov,Swayman,right,0.92,0.78,0.922,alta,direct_shot,saved
+HOC_0190,hockey,shootout,JJOO,65,0,0,MacKinnon,Vasilevskiy,left,0.9,0.56,0.887,alta,high_shot,goal
+HOC_0191,hockey,shootout,Mundial,65,0,1,Barkov,Vasilevskiy,left,0.7,0.73,0.894,alta,left_deke,saved
+HOC_0192,hockey,shootout,JJOO,65,0,1,Robertson,Swayman,right,0.59,0.72,0.883,alta,low_shot,saved
+HOC_0193,hockey,shootout,NHL,65,0,1,Kucherov,Markström,left,0.88,0.65,0.9,alta,low_shot,saved
+HOC_0194,hockey,shootout,NHL,65,0,0,Kaprizov,Swayman,right,0.91,0.78,0.917,alta,direct_shot,goal
+HOC_0195,hockey,shootout,Mundial,65,0,0,Matthews,Bobrovsky,right,0.87,0.82,0.937,alta,low_shot,saved
+HOC_0196,hockey,shootout,Mundial,65,0,0,McDavid,Shesterkin,right,0.55,0.72,0.868,alta,low_shot,goal
+HOC_0197,hockey,shootout,NHL,65,0,0,Kaprizov,Oettinger,right,0.9,0.69,0.902,alta,left_deke,saved
+HOC_0198,hockey,shootout,NHL,65,0,1,Rantanen,Vasilevskiy,right,0.85,0.7,0.9,alta,low_shot,saved
+HOC_0199,hockey,shootout,NHL,65,0,0,Ovechkin,Swayman,left,0.87,0.69,0.914,alta,direct_shot,saved
+HOC_0200,hockey,shootout,NHL,65,0,0,Makar,Hellebuyck,right,0.94,0.57,0.885,alta,high_shot,saved
+HOC_0201,hockey,shootout,NHL,65,0,0,Barkov,Vasilevskiy,right,0.94,0.5,0.889,alta,low_shot,goal
+HOC_0202,hockey,shootout,NHL,65,0,1,McDavid,Markström,right,0.64,0.74,0.872,alta,high_shot,saved
+HOC_0203,hockey,shootout,NHL,65,0,0,Crosby,Markström,left,0.81,0.6,0.879,alta,direct_shot,saved
+HOC_0204,hockey,shootout,JJOO,65,0,0,Kucherov,Saros,right,0.87,0.86,0.951,alta,direct_shot,saved
+HOC_0205,hockey,shootout,Mundial,65,0,1,Hughes,Demko,right,0.75,0.48,0.847,alta,left_deke,saved
+HOC_0206,hockey,shootout,NHL,65,0,1,Ovechkin,Sorokin,right,0.7,0.89,0.905,alta,direct_shot,goal
+HOC_0207,hockey,shootout,NHL,65,0,1,Kaprizov,Sorokin,right,0.52,0.41,0.81,alta,direct_shot,saved
+HOC_0208,hockey,shootout,Mundial,65,0,1,Makar,Sorokin,right,0.76,0.9,0.923,alta,right_deke,missed
+HOC_0209,hockey,shootout,JJOO,65,0,1,Point,Demko,right,0.86,0.7,0.9,alta,high_shot,saved
+HOC_0210,hockey,shootout,JJOO,65,0,0,Barkov,Shesterkin,right,0.73,0.92,0.932,alta,low_shot,missed
+HOC_0211,hockey,shootout,NHL,65,0,1,Kucherov,Swayman,left,0.89,0.84,0.943,alta,direct_shot,missed
+HOC_0212,hockey,shootout,JJOO,65,0,1,Draisaitl,Hellebuyck,right,0.7,0.91,0.91,alta,left_deke,saved
+HOC_0213,hockey,shootout,JJOO,65,0,0,Robertson,Markström,right,0.75,0.96,0.949,alta,direct_shot,goal
+HOC_0214,hockey,shootout,JJOO,65,0,1,Robertson,Swayman,right,0.84,0.69,0.908,alta,low_shot,goal
+HOC_0215,hockey,shootout,Mundial,65,0,0,Robertson,Shesterkin,left,0.59,0.71,0.869,alta,low_shot,saved
+HOC_0216,hockey,shootout,JJOO,65,0,1,MacKinnon,Saros,right,0.75,0.57,0.852,alta,direct_shot,goal
+HOC_0217,hockey,shootout,NHL,65,0,0,Matthews,Vasilevskiy,right,1.0,0.55,0.895,alta,direct_shot,saved
+HOC_0218,hockey,shootout,NHL,65,0,0,MacKinnon,Swayman,left,0.58,0.93,0.907,alta,high_shot,saved
+HOC_0219,hockey,shootout,JJOO,65,0,1,Draisaitl,Shesterkin,right,0.64,0.74,0.884,alta,direct_shot,saved
+HOC_0220,hockey,shootout,Mundial,65,0,1,Hughes,Hellebuyck,left,0.93,0.69,0.912,alta,direct_shot,saved
+HOC_0221,hockey,shootout,JJOO,65,0,1,Ovechkin,Sorokin,right,0.96,0.6,0.901,alta,low_shot,saved
+HOC_0222,hockey,shootout,NHL,65,0,0,Robertson,Hellebuyck,right,0.73,0.54,0.843,alta,low_shot,saved
+HOC_0223,hockey,shootout,Mundial,65,0,1,Ovechkin,Oettinger,left,0.59,0.96,0.913,alta,high_shot,goal
+HOC_0224,hockey,shootout,JJOO,65,0,1,Pastrnak,Oettinger,right,0.56,0.88,0.888,alta,right_deke,saved
+HOC_0225,hockey,shootout,Mundial,65,0,1,Robertson,Markström,right,0.96,0.74,0.938,alta,low_shot,goal
+HOC_0226,hockey,shootout,Mundial,65,0,0,Pastrnak,Markström,left,0.9,0.65,0.887,alta,direct_shot,saved
+HOC_0227,hockey,shootout,Mundial,65,0,1,Matthews,Markström,right,0.77,0.8,0.901,alta,high_shot,goal
+HOC_0228,hockey,shootout,JJOO,65,0,1,Ovechkin,Demko,left,0.55,0.79,0.863,alta,direct_shot,saved
+HOC_0229,hockey,shootout,NHL,65,0,0,Point,Hellebuyck,right,0.92,0.5,0.868,alta,high_shot,saved
+HOC_0230,hockey,shootout,Mundial,65,0,0,Pastrnak,Swayman,right,0.5,0.62,0.845,alta,direct_shot,goal
+HOC_0231,hockey,shootout,NHL,65,0,1,Ovechkin,Swayman,right,0.7,0.45,0.818,alta,direct_shot,saved
+HOC_0232,hockey,shootout,NHL,65,0,0,Robertson,Bobrovsky,right,0.91,0.65,0.906,alta,direct_shot,saved
+HOC_0233,hockey,shootout,NHL,65,0,0,Draisaitl,Markström,left,0.89,0.71,0.907,alta,low_shot,saved
+HOC_0234,hockey,shootout,Mundial,65,0,1,Draisaitl,Bobrovsky,right,0.71,0.77,0.906,alta,high_shot,saved
+HOC_0235,hockey,shootout,JJOO,65,0,0,Point,Bobrovsky,right,0.9,0.41,0.849,alta,direct_shot,goal
+HOC_0236,hockey,shootout,Mundial,65,0,1,Crosby,Swayman,right,0.76,0.91,0.942,alta,direct_shot,saved
+HOC_0237,hockey,shootout,Mundial,65,0,1,McDavid,Demko,left,0.84,0.95,0.948,alta,low_shot,goal
+HOC_0238,hockey,shootout,NHL,65,0,1,Matthews,Demko,left,0.89,0.68,0.893,alta,left_deke,missed
+HOC_0239,hockey,shootout,JJOO,65,0,0,Ovechkin,Vasilevskiy,right,0.9,0.56,0.893,alta,high_shot,goal
+HOC_0240,hockey,shootout,NHL,65,0,1,Crosby,Bobrovsky,right,0.86,0.87,0.944,alta,direct_shot,saved
+HOC_0241,hockey,shootout,NHL,65,0,1,Point,Oettinger,right,0.53,0.89,0.879,alta,low_shot,saved
+HOC_0242,hockey,shootout,Mundial,65,0,1,Ovechkin,Swayman,right,0.82,0.84,0.927,alta,high_shot,saved
+HOC_0243,hockey,shootout,NHL,65,0,0,Draisaitl,Hellebuyck,right,0.71,0.57,0.855,alta,high_shot,saved
+HOC_0244,hockey,shootout,Mundial,65,0,0,Barkov,Swayman,left,0.72,0.47,0.838,alta,right_deke,saved
+HOC_0245,hockey,shootout,NHL,65,0,0,Robertson,Hellebuyck,right,0.96,0.7,0.933,alta,high_shot,saved
+HOC_0246,hockey,shootout,JJOO,65,0,1,MacKinnon,Swayman,right,0.53,0.92,0.908,alta,left_deke,missed
+HOC_0247,hockey,shootout,JJOO,65,0,1,Point,Sorokin,left,0.97,0.54,0.876,alta,direct_shot,saved
+HOC_0248,hockey,shootout,NHL,65,0,1,Barkov,Swayman,right,0.84,0.81,0.919,alta,right_deke,goal
+HOC_0249,hockey,shootout,JJOO,65,0,0,Crosby,Oettinger,right,0.57,0.92,0.913,alta,direct_shot,saved
+HOC_0250,hockey,shootout,NHL,65,0,1,Robertson,Oettinger,right,0.85,0.67,0.889,alta,direct_shot,saved
+HOC_0251,hockey,shootout,JJOO,65,0,1,Ovechkin,Demko,right,0.98,0.72,0.935,alta,direct_shot,goal
+HOC_0252,hockey,shootout,JJOO,65,0,1,Crosby,Bobrovsky,left,0.73,0.57,0.86,alta,low_shot,goal
+HOC_0253,hockey,shootout,NHL,65,0,0,Barkov,Shesterkin,right,0.65,0.73,0.876,alta,direct_shot,goal
+HOC_0254,hockey,shootout,Mundial,65,0,0,Kaprizov,Swayman,right,0.71,0.81,0.903,alta,left_deke,goal
+HOC_0255,hockey,shootout,Mundial,65,0,0,Rantanen,Swayman,right,0.65,0.87,0.905,alta,left_deke,saved
+HOC_0256,hockey,shootout,NHL,65,0,0,Barkov,Swayman,right,0.6,0.61,0.836,alta,direct_shot,saved
+HOC_0257,hockey,shootout,JJOO,65,0,1,Makar,Sorokin,right,0.64,0.57,0.853,alta,right_deke,goal
+HOC_0258,hockey,shootout,NHL,65,0,1,Robertson,Vasilevskiy,right,0.65,0.97,0.935,alta,right_deke,saved
+HOC_0259,hockey,shootout,NHL,65,0,1,Draisaitl,Sorokin,left,0.93,0.88,0.942,alta,direct_shot,missed
+HOC_0260,hockey,shootout,Mundial,65,0,1,Crosby,Markström,right,0.85,0.45,0.864,alta,low_shot,saved
+HOC_0261,hockey,shootout,Mundial,65,0,0,Crosby,Vasilevskiy,right,0.53,0.44,0.813,alta,direct_shot,goal
+HOC_0262,hockey,shootout,NHL,65,0,0,McDavid,Hellebuyck,left,0.61,0.64,0.86,alta,right_deke,saved
+HOC_0263,hockey,shootout,NHL,65,0,1,Draisaitl,Shesterkin,right,0.87,0.93,0.938,alta,direct_shot,saved
+HOC_0264,hockey,shootout,NHL,65,0,0,Makar,Sorokin,right,0.57,0.71,0.863,alta,direct_shot,missed
+HOC_0265,hockey,shootout,NHL,65,0,1,Makar,Hellebuyck,right,0.62,0.73,0.864,alta,high_shot,missed
+HOC_0266,hockey,shootout,Mundial,65,0,0,Hughes,Markström,right,0.89,0.8,0.936,alta,high_shot,saved
+HOC_0267,hockey,shootout,Mundial,65,0,1,Pastrnak,Shesterkin,right,0.86,0.59,0.89,alta,low_shot,saved
+HOC_0268,hockey,shootout,JJOO,65,0,0,Draisaitl,Bobrovsky,right,0.72,0.48,0.847,alta,direct_shot,saved
+HOC_0269,hockey,shootout,Mundial,65,0,1,Point,Demko,right,0.92,0.85,0.951,alta,low_shot,saved
+HOC_0270,hockey,shootout,JJOO,65,0,0,Barkov,Swayman,right,0.87,0.57,0.871,alta,high_shot,goal
+HOC_0271,hockey,shootout,JJOO,65,0,1,Pastrnak,Sorokin,right,0.52,0.97,0.922,alta,left_deke,saved
+HOC_0272,hockey,shootout,NHL,65,0,0,Ovechkin,Sorokin,left,0.55,0.75,0.873,alta,right_deke,saved
+HOC_0273,hockey,shootout,NHL,65,0,0,McDavid,Saros,right,1.0,0.78,0.95,alta,right_deke,saved
+HOC_0274,hockey,shootout,NHL,65,0,0,Point,Demko,right,0.74,0.72,0.894,alta,high_shot,goal
+HOC_0275,hockey,shootout,Mundial,65,0,1,Kaprizov,Vasilevskiy,left,0.86,0.4,0.844,alta,direct_shot,saved
+HOC_0276,hockey,shootout,NHL,65,0,1,Point,Demko,left,0.95,0.68,0.91,alta,high_shot,saved
+HOC_0277,hockey,shootout,JJOO,65,0,0,Kaprizov,Vasilevskiy,right,0.99,0.63,0.913,alta,direct_shot,goal
+HOC_0278,hockey,shootout,NHL,65,0,0,Makar,Oettinger,right,0.58,0.93,0.894,alta,high_shot,missed
+HOC_0279,hockey,shootout,JJOO,65,0,0,Kucherov,Sorokin,right,0.98,0.61,0.894,alta,direct_shot,saved
+HOC_0280,hockey,shootout,Mundial,65,0,0,Pastrnak,Oettinger,right,0.55,0.42,0.787,alta,high_shot,saved
+HOC_0281,hockey,shootout,NHL,65,0,0,Barkov,Bobrovsky,right,0.93,0.6,0.902,alta,direct_shot,saved
+HOC_0282,hockey,shootout,Mundial,65,0,1,McDavid,Shesterkin,left,0.52,0.81,0.874,alta,right_deke,saved
+HOC_0283,hockey,shootout,Mundial,65,0,1,Point,Hellebuyck,right,0.89,0.5,0.879,alta,low_shot,goal
+HOC_0284,hockey,shootout,JJOO,65,0,1,Matthews,Shesterkin,left,0.84,0.98,0.969,alta,direct_shot,saved
+HOC_0285,hockey,shootout,NHL,65,0,0,McDavid,Swayman,right,0.76,0.63,0.874,alta,high_shot,saved
+HOC_0286,hockey,shootout,JJOO,65,0,0,Rantanen,Shesterkin,right,0.84,0.42,0.843,alta,high_shot,goal
+HOC_0287,hockey,shootout,Mundial,65,0,0,Pastrnak,Vasilevskiy,right,0.81,0.78,0.9,alta,direct_shot,goal
+HOC_0288,hockey,shootout,JJOO,65,0,1,Kucherov,Shesterkin,left,0.66,0.7,0.863,alta,right_deke,goal
+HOC_0289,hockey,shootout,NHL,65,0,1,Kaprizov,Shesterkin,right,0.81,0.79,0.912,alta,direct_shot,missed
+HOC_0290,hockey,shootout,JJOO,65,0,1,Makar,Demko,right,0.82,0.9,0.944,alta,direct_shot,goal
+HOC_0291,hockey,shootout,Mundial,65,0,1,Kaprizov,Swayman,right,0.72,0.73,0.888,alta,direct_shot,goal
+HOC_0292,hockey,shootout,Mundial,65,0,0,Makar,Swayman,right,0.9,0.7,0.911,alta,high_shot,goal
+HOC_0293,hockey,shootout,Mundial,65,0,1,Robertson,Sorokin,left,0.91,0.66,0.897,alta,right_deke,goal
+HOC_0294,hockey,shootout,NHL,65,0,1,Draisaitl,Saros,right,0.9,0.57,0.891,alta,high_shot,saved
+HOC_0295,hockey,shootout,JJOO,65,0,0,Kucherov,Sorokin,left,0.72,0.43,0.834,alta,low_shot,saved
+HOC_0296,hockey,shootout,JJOO,65,0,0,Ovechkin,Markström,left,0.59,0.52,0.83,alta,left_deke,saved
+HOC_0297,hockey,shootout,Mundial,65,0,1,Barkov,Saros,right,0.78,0.6,0.87,alta,right_deke,goal
+HOC_0298,hockey,shootout,NHL,65,0,0,Ovechkin,Shesterkin,left,0.83,0.72,0.891,alta,direct_shot,saved
+HOC_0299,hockey,shootout,Mundial,65,0,1,Ovechkin,Vasilevskiy,right,0.59,0.54,0.847,alta,direct_shot,goal
+HOC_0300,hockey,shootout,Mundial,65,0,1,Crosby,Swayman,right,0.51,0.69,0.858,alta,right_deke,saved

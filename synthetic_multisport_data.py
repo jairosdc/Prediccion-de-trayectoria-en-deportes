@@ -43,6 +43,67 @@ def normalizar_probabilidades(probs):
         return probs / suma
     return np.ones(len(probs)) / len(probs)
 
+# ---------- Listas de nombres reales por deporte ----------
+
+FOOTBALL_PLAYERS = [
+    "Mbappé", "Haaland", "Vinicius Jr.", "Bellingham", "Salah",
+    "Lewandowski", "Messi", "Cristiano Ronaldo", "Neymar", "De Bruyne",
+    "Griezmann", "Kane", "Benzema", "Son", "Modric",
+    "Bruno Fernandes", "Pedri", "Saka", "Rashford", "Lautaro Martínez",
+]
+FOOTBALL_GKS = [
+    "Courtois", "Oblak", "Ter Stegen", "Donnarumma", "Alisson",
+    "Ederson", "Neuer", "Dibu Martínez", "Maignan", "Pickford",
+]
+
+TENNIS_PLAYERS = [
+    "Djokovic", "Alcaraz", "Sinner", "Medvedev", "Zverev",
+    "Rune", "Tsitsipas", "Ruud", "Fritz", "Rublev",
+    "Nadal", "Federer", "Murray", "Tiafoe", "De Miñaur",
+]
+
+BASKETBALL_PLAYERS = [
+    "LeBron James", "Luka Doncic", "Giannis", "Curry", "Tatum",
+    "Jokic", "Embiid", "Durant", "Edwards", "Booker",
+    "Morant", "Brunson", "Mitchell", "Wembanyama", "Lillard",
+]
+BASKETBALL_DEFENDERS = [
+    "Gobert", "Adebayo", "Davis", "Holiday", "Smart",
+    "Dort", "Bridges", "Jackson Jr.", "Thompson", "White",
+]
+
+HANDBALL_PLAYERS = [
+    "Sagosen", "N. Karabatic", "Duvnjak", "Mem", "Gidsel",
+    "Cindric", "Prandi", "Dahmke", "Holm", "Hansen",
+    "Abalo", "Lazarov", "Fabregas", "Descat", "Jicha",
+]
+HANDBALL_GKS = [
+    "A. Wolff", "N. Landin", "Gonzalo P. de Vargas", "V. Sterbik", "Bergerud",
+    "Buric", "Palicka", "Ristovski", "Corrales", "Banhidi",
+]
+
+HOCKEY_PLAYERS = [
+    "McDavid", "MacKinnon", "Draisaitl", "Matthews", "Kucherov",
+    "Makar", "Crosby", "Ovechkin", "Kaprizov", "Pastrnak",
+    "Hughes", "Rantanen", "Point", "Barkov", "Robertson",
+]
+HOCKEY_GKS = [
+    "Vasilevskiy", "Shesterkin", "Hellebuyck", "Saros", "Demko",
+    "Sorokin", "Oettinger", "Swayman", "Markström", "Bobrovsky",
+]
+
+ESPORTS_PLAYERS = [
+    "s1mple", "ZywOo", "NiKo", "device", "m0NESY",
+    "ropz", "donk", "Twistzz", "rain", "broky",
+    "Faker", "Caps", "Showmaker", "chovy", "Zeus",
+]
+ESPORTS_OPPONENTS = [
+    "b1t", "electroNic", "jL", "Ax1Le", "Hobbit",
+    "apEX", "Spinx", "huNter", "Magisk", "stavn",
+    "Gumayusi", "Keria", "Ruler", "Bin", "Viper",
+]
+
+
 def generar_penaltis_futbol(n=300, seed=42):
     np.random.seed(seed)
     data = []
@@ -82,12 +143,12 @@ def generar_penaltis_futbol(n=300, seed=42):
             'event_id': f"FTB_{i+1:04d}",
             'sport': 'football',
             'action_type': 'penalty',
-            'competition': np.random.choice(['World Cup', 'Champions', 'League']),
+            'competition': np.random.choice(['World Cup', 'Champions League', 'Liga']),
             'match_time': round(time_norm * 120),
             'score_difference': score_diff,
             'is_home_player': np.random.choice([0, 1]),
-            'player': f"Player_{np.random.randint(1, 100)}",
-            'opponent': f"GK_{np.random.randint(1, 30)}",
+            'player': np.random.choice(FOOTBALL_PLAYERS),
+            'opponent': np.random.choice(FOOTBALL_GKS),
             'dominant_side': dominant_side,
             'fatigue_level': round(fatigue, 2),
             'competition_importance': round(comp_imp, 2),
@@ -140,8 +201,8 @@ def generar_saques_tenis(n=300, seed=43):
             'match_time': round(time_norm * 5), # set number approx
             'score_difference': score_diff,
             'is_home_player': np.random.choice([0, 1]),
-            'player': f"Player_{np.random.randint(1, 50)}",
-            'opponent': f"Opp_{np.random.randint(1, 50)}",
+            'player': np.random.choice(TENNIS_PLAYERS),
+            'opponent': np.random.choice(TENNIS_PLAYERS),
             'dominant_side': dominant_side,
             'fatigue_level': round(fatigue, 2),
             'competition_importance': round(comp_imp, 2),
@@ -190,12 +251,12 @@ def generar_tiros_baloncesto(n=300, seed=44):
             'event_id': f"BKB_{i+1:04d}",
             'sport': 'basketball',
             'action_type': 'decisive_shot',
-            'competition': np.random.choice(['NBA', 'Euroleague', 'Olympics']),
+            'competition': np.random.choice(['NBA', 'Euroleague', 'JJOO']),
             'match_time': round(time_norm * 48), # Minute
             'score_difference': score_diff,
             'is_home_player': np.random.choice([0, 1]),
-            'player': f"Player_{np.random.randint(1, 80)}",
-            'opponent': f"Def_{np.random.randint(1, 80)}",
+            'player': np.random.choice(BASKETBALL_PLAYERS),
+            'opponent': np.random.choice(BASKETBALL_DEFENDERS),
             'dominant_side': dominant_side,
             'fatigue_level': round(fatigue, 2),
             'competition_importance': round(comp_imp, 2),
@@ -248,12 +309,12 @@ def generar_lanzamientos_balonmano(n=300, seed=45):
             'event_id': f"HND_{i+1:04d}",
             'sport': 'handball',
             'action_type': '7m_throw',
-            'competition': np.random.choice(['World Ch.', 'Euro', 'Champions L.']),
+            'competition': np.random.choice(['Mundial', 'Europeo', 'Champions League']),
             'match_time': round(time_norm * 60),
             'score_difference': score_diff,
             'is_home_player': np.random.choice([0, 1]),
-            'player': f"Player_{np.random.randint(1, 60)}",
-            'opponent': f"GK_{np.random.randint(1, 30)}",
+            'player': np.random.choice(HANDBALL_PLAYERS),
+            'opponent': np.random.choice(HANDBALL_GKS),
             'dominant_side': dominant_side,
             'fatigue_level': round(fatigue, 2),
             'competition_importance': round(comp_imp, 2),
@@ -303,12 +364,12 @@ def generar_shootouts_hockey(n=300, seed=46):
             'event_id': f"HOC_{i+1:04d}",
             'sport': 'hockey',
             'action_type': 'shootout',
-            'competition': np.random.choice(['NHL', 'Olympics', 'World Ch.']),
+            'competition': np.random.choice(['NHL', 'JJOO', 'Mundial']),
             'match_time': 65, # OT end
             'score_difference': score_diff,
             'is_home_player': np.random.choice([0, 1]),
-            'player': f"Player_{np.random.randint(1, 50)}",
-            'opponent': f"GK_{np.random.randint(1, 20)}",
+            'player': np.random.choice(HOCKEY_PLAYERS),
+            'opponent': np.random.choice(HOCKEY_GKS),
             'dominant_side': dominant_side,
             'fatigue_level': round(fatigue, 2),
             'competition_importance': round(comp_imp, 2),
@@ -362,8 +423,8 @@ def generar_duelos_esports(n=300, seed=47):
             'match_time': round(time_norm * 30), # Rounds or minutes
             'score_difference': score_diff,
             'is_home_player': 0, # Neutral mostly
-            'player': f"Player_{np.random.randint(1, 100)}",
-            'opponent': f"Opp_{np.random.randint(1, 100)}",
+            'player': np.random.choice(ESPORTS_PLAYERS),
+            'opponent': np.random.choice(ESPORTS_OPPONENTS),
             'dominant_side': dominant_side,
             'fatigue_level': round(fatigue, 2),
             'competition_importance': round(comp_imp, 2),
