@@ -1,0 +1,301 @@
+event_id,sport,action_type,competition,match_time,score_difference,is_home_player,player,opponent,dominant_side,fatigue_level,competition_importance,pressure_index,pressure_level,decision_zone,action_result
+FTB_0001,football,penalty,World Cup,45,2,1,Player_24,GK_3,right,0.72,0.43,0.511,media,left,goal
+FTB_0002,football,penalty,World Cup,2,-1,1,Player_89,GK_17,left,0.85,0.81,0.507,media,right,goal
+FTB_0003,football,penalty,World Cup,63,-1,0,Player_51,GK_7,right,0.88,0.33,0.58,media,right,goal
+FTB_0004,football,penalty,League,20,-1,1,Player_71,GK_12,right,0.87,0.96,0.628,media,left,goal
+FTB_0005,football,penalty,Champions,59,0,0,Player_63,GK_18,right,0.31,0.94,0.665,media,center,goal
+FTB_0006,football,penalty,Champions,93,-1,1,Player_85,GK_16,right,0.84,0.58,0.723,alta,center,goal
+FTB_0007,football,penalty,World Cup,90,2,0,Player_9,GK_24,right,0.87,0.71,0.703,alta,left,goal
+FTB_0008,football,penalty,League,47,0,0,Player_72,GK_12,right,0.67,0.44,0.596,media,right,goal
+FTB_0009,football,penalty,World Cup,40,2,0,Player_90,GK_23,right,0.61,0.81,0.572,media,left,goal
+FTB_0010,football,penalty,World Cup,93,0,1,Player_4,GK_5,right,0.44,0.67,0.682,media,left,goal
+FTB_0011,football,penalty,Champions,30,2,0,Player_62,GK_25,right,0.26,0.68,0.472,media,right,saved
+FTB_0012,football,penalty,League,13,1,1,Player_97,GK_1,right,0.25,0.86,0.499,media,right,saved
+FTB_0013,football,penalty,League,27,-2,1,Player_44,GK_24,right,0.79,0.87,0.537,media,left,goal
+FTB_0014,football,penalty,World Cup,113,-2,0,Player_56,GK_17,right,0.15,0.58,0.61,media,right,goal
+FTB_0015,football,penalty,Champions,32,-1,1,Player_70,GK_23,left,0.14,0.65,0.458,media,left,goal
+FTB_0016,football,penalty,League,81,0,1,Player_16,GK_1,right,0.29,0.56,0.648,media,right,goal
+FTB_0017,football,penalty,League,18,0,1,Player_96,GK_7,right,0.13,0.43,0.431,media,left,goal
+FTB_0018,football,penalty,League,21,-2,1,Player_42,GK_3,right,0.51,0.58,0.462,media,right,goal
+FTB_0019,football,penalty,League,27,-1,0,Player_9,GK_9,left,0.51,0.99,0.569,media,right,goal
+FTB_0020,football,penalty,Champions,42,0,0,Player_89,GK_3,left,0.42,0.9,0.643,media,right,saved
+FTB_0021,football,penalty,World Cup,117,-1,1,Player_21,GK_16,right,0.54,0.41,0.753,alta,left,goal
+FTB_0022,football,penalty,Champions,90,0,1,Player_51,GK_22,right,0.55,0.76,0.714,alta,left,goal
+FTB_0023,football,penalty,League,109,0,1,Player_35,GK_17,right,0.5,0.86,0.847,alta,left,goal
+FTB_0024,football,penalty,World Cup,5,1,1,Player_53,GK_3,right,0.86,0.96,0.592,media,left,saved
+FTB_0025,football,penalty,League,118,1,1,Player_58,GK_3,right,0.41,0.51,0.762,alta,left,goal
+FTB_0026,football,penalty,World Cup,68,-1,0,Player_43,GK_22,right,0.89,0.73,0.67,media,right,goal
+FTB_0027,football,penalty,World Cup,43,2,1,Player_65,GK_8,right,0.44,0.51,0.463,media,left,goal
+FTB_0028,football,penalty,Champions,84,1,0,Player_62,GK_29,right,0.12,0.92,0.654,media,right,goal
+FTB_0029,football,penalty,World Cup,101,-1,1,Player_5,GK_7,right,0.13,0.32,0.639,media,left,goal
+FTB_0030,football,penalty,Champions,10,2,1,Player_19,GK_17,right,0.43,0.44,0.387,media,left,missed
+FTB_0031,football,penalty,World Cup,48,0,0,Player_58,GK_26,left,0.16,0.61,0.517,media,right,goal
+FTB_0032,football,penalty,League,19,-1,0,Player_22,GK_29,left,0.18,0.47,0.388,media,right,goal
+FTB_0033,football,penalty,Champions,50,1,1,Player_62,GK_20,right,0.23,0.7,0.518,media,left,goal
+FTB_0034,football,penalty,Champions,21,-1,0,Player_34,GK_20,right,0.75,0.83,0.561,media,right,goal
+FTB_0035,football,penalty,Champions,45,-1,0,Player_92,GK_27,right,0.5,0.95,0.618,media,right,missed
+FTB_0036,football,penalty,World Cup,96,1,1,Player_74,GK_11,right,0.61,0.57,0.732,alta,right,goal
+FTB_0037,football,penalty,World Cup,23,2,1,Player_74,GK_26,right,0.4,0.45,0.386,media,left,goal
+FTB_0038,football,penalty,World Cup,41,0,0,Player_36,GK_10,right,0.19,0.5,0.516,media,right,goal
+FTB_0039,football,penalty,World Cup,51,0,1,Player_55,GK_13,right,0.43,0.99,0.659,media,left,missed
+FTB_0040,football,penalty,World Cup,89,0,1,Player_12,GK_29,right,0.82,0.37,0.695,media,left,saved
+FTB_0041,football,penalty,World Cup,109,1,0,Player_12,GK_25,right,0.87,0.55,0.807,alta,center,goal
+FTB_0042,football,penalty,League,66,2,1,Player_5,GK_3,right,0.73,0.83,0.656,media,center,goal
+FTB_0043,football,penalty,Champions,107,0,0,Player_40,GK_10,right,0.87,0.79,0.891,alta,right,saved
+FTB_0044,football,penalty,World Cup,48,0,0,Player_71,GK_25,left,0.17,0.79,0.557,media,left,goal
+FTB_0045,football,penalty,League,71,1,1,Player_67,GK_13,right,0.17,0.56,0.567,media,left,saved
+FTB_0046,football,penalty,Champions,1,1,0,Player_63,GK_28,right,0.69,0.7,0.498,media,right,goal
+FTB_0047,football,penalty,Champions,34,-2,0,Player_75,GK_28,left,0.87,0.46,0.483,media,left,saved
+FTB_0048,football,penalty,Champions,9,0,1,Player_3,GK_16,right,0.16,0.79,0.462,media,left,missed
+FTB_0049,football,penalty,Champions,88,0,1,Player_58,GK_28,right,0.86,0.5,0.744,alta,center,goal
+FTB_0050,football,penalty,World Cup,70,1,1,Player_29,GK_13,right,0.31,0.55,0.567,media,left,goal
+FTB_0051,football,penalty,League,109,2,0,Player_5,GK_23,left,0.43,0.96,0.734,alta,left,saved
+FTB_0052,football,penalty,World Cup,49,-2,0,Player_33,GK_2,right,0.89,0.64,0.578,media,left,saved
+FTB_0053,football,penalty,League,4,-2,0,Player_53,GK_5,right,0.16,0.31,0.307,baja,right,saved
+FTB_0054,football,penalty,World Cup,91,0,1,Player_32,GK_2,left,0.46,0.47,0.647,media,right,goal
+FTB_0055,football,penalty,Champions,43,-1,1,Player_57,GK_17,right,0.48,0.65,0.563,media,right,missed
+FTB_0056,football,penalty,Champions,16,2,1,Player_30,GK_15,right,0.66,0.73,0.472,media,left,goal
+FTB_0057,football,penalty,World Cup,52,-1,0,Player_4,GK_10,right,0.51,0.54,0.568,media,right,saved
+FTB_0058,football,penalty,League,111,-1,1,Player_75,GK_19,right,0.15,0.84,0.733,alta,left,goal
+FTB_0059,football,penalty,World Cup,64,0,1,Player_50,GK_29,right,0.61,0.4,0.592,media,right,goal
+FTB_0060,football,penalty,Champions,23,0,1,Player_34,GK_17,right,0.38,0.88,0.557,media,center,goal
+FTB_0061,football,penalty,World Cup,60,2,0,Player_26,GK_4,right,0.17,0.53,0.481,media,center,goal
+FTB_0062,football,penalty,Champions,97,-2,1,Player_2,GK_13,left,0.89,0.72,0.721,alta,left,saved
+FTB_0063,football,penalty,Champions,7,0,1,Player_99,GK_19,right,0.67,0.48,0.509,media,center,goal
+FTB_0064,football,penalty,World Cup,29,-2,0,Player_13,GK_20,right,0.25,0.82,0.476,media,left,goal
+FTB_0065,football,penalty,World Cup,57,-1,1,Player_83,GK_10,right,0.5,0.85,0.604,media,center,goal
+FTB_0066,football,penalty,Champions,34,1,0,Player_70,GK_6,left,0.56,0.75,0.549,media,right,goal
+FTB_0067,football,penalty,League,30,1,1,Player_36,GK_24,right,0.17,0.9,0.531,media,right,goal
+FTB_0068,football,penalty,Champions,13,-1,0,Player_66,GK_15,left,0.83,0.7,0.512,media,center,goal
+FTB_0069,football,penalty,World Cup,64,-1,1,Player_47,GK_1,right,0.72,0.5,0.589,media,left,goal
+FTB_0070,football,penalty,World Cup,73,2,0,Player_10,GK_12,right,0.85,0.65,0.632,media,left,goal
+FTB_0071,football,penalty,League,24,-1,1,Player_95,GK_17,right,0.21,0.36,0.377,media,center,goal
+FTB_0072,football,penalty,Champions,102,1,1,Player_64,GK_29,left,0.2,0.98,0.779,alta,left,goal
+FTB_0073,football,penalty,Champions,17,-2,1,Player_89,GK_13,right,0.74,0.83,0.534,media,left,goal
+FTB_0074,football,penalty,League,71,-1,0,Player_25,GK_17,right,0.45,0.87,0.65,media,left,goal
+FTB_0075,football,penalty,Champions,108,-1,1,Player_15,GK_15,right,0.83,0.68,0.823,alta,right,goal
+FTB_0076,football,penalty,World Cup,74,1,1,Player_68,GK_22,right,0.56,0.82,0.696,media,right,saved
+FTB_0077,football,penalty,League,86,2,0,Player_8,GK_5,right,0.37,0.91,0.669,media,right,goal
+FTB_0078,football,penalty,World Cup,58,1,1,Player_11,GK_10,right,0.68,0.81,0.653,media,center,goal
+FTB_0079,football,penalty,League,41,-1,1,Player_68,GK_5,right,0.22,0.96,0.571,media,right,goal
+FTB_0080,football,penalty,League,111,-1,0,Player_1,GK_14,right,0.4,0.84,0.771,alta,left,saved
+FTB_0081,football,penalty,World Cup,28,-1,0,Player_73,GK_21,left,0.2,0.89,0.537,media,center,goal
+FTB_0082,football,penalty,League,40,1,1,Player_91,GK_2,right,0.58,0.85,0.577,media,right,saved
+FTB_0083,football,penalty,World Cup,110,0,0,Player_29,GK_11,right,0.83,0.32,0.777,alta,left,goal
+FTB_0084,football,penalty,League,76,1,0,Player_49,GK_7,right,0.51,0.45,0.618,media,center,saved
+FTB_0085,football,penalty,World Cup,71,2,1,Player_16,GK_8,right,0.44,0.58,0.575,media,center,goal
+FTB_0086,football,penalty,League,70,-2,1,Player_1,GK_8,right,0.46,0.84,0.615,media,left,goal
+FTB_0087,football,penalty,Champions,103,0,0,Player_93,GK_8,right,0.32,0.56,0.75,alta,left,goal
+FTB_0088,football,penalty,World Cup,3,0,1,Player_8,GK_2,right,0.64,0.46,0.447,media,right,goal
+FTB_0089,football,penalty,Champions,97,0,0,Player_33,GK_23,right,0.86,0.97,0.872,alta,left,goal
+FTB_0090,football,penalty,League,102,2,1,Player_67,GK_23,left,0.61,0.91,0.739,alta,center,goal
+FTB_0091,football,penalty,Champions,4,1,1,Player_24,GK_17,right,0.43,0.74,0.462,media,left,missed
+FTB_0092,football,penalty,World Cup,104,0,0,Player_73,GK_22,right,0.74,0.93,0.878,alta,left,goal
+FTB_0093,football,penalty,Champions,77,1,1,Player_41,GK_6,right,0.82,0.39,0.642,media,right,goal
+FTB_0094,football,penalty,Champions,8,2,0,Player_40,GK_2,right,0.76,0.76,0.471,media,left,saved
+FTB_0095,football,penalty,Champions,72,-2,1,Player_54,GK_11,right,0.56,0.65,0.61,media,right,goal
+FTB_0096,football,penalty,League,22,2,1,Player_99,GK_22,right,0.3,0.72,0.439,media,left,goal
+FTB_0097,football,penalty,League,57,2,0,Player_98,GK_9,right,0.32,0.64,0.52,media,right,saved
+FTB_0098,football,penalty,League,93,2,0,Player_44,GK_19,right,0.38,0.54,0.592,media,center,goal
+FTB_0099,football,penalty,World Cup,33,-1,0,Player_12,GK_16,left,0.35,0.37,0.462,media,right,goal
+FTB_0100,football,penalty,League,105,2,1,Player_26,GK_15,left,0.68,0.83,0.737,alta,right,goal
+FTB_0101,football,penalty,Champions,5,-2,0,Player_87,GK_29,right,0.55,0.43,0.402,media,right,goal
+FTB_0102,football,penalty,World Cup,57,1,1,Player_3,GK_5,right,0.36,0.89,0.628,media,center,goal
+FTB_0103,football,penalty,Champions,64,-1,0,Player_16,GK_13,right,0.15,0.81,0.572,media,right,goal
+FTB_0104,football,penalty,League,74,-1,0,Player_39,GK_14,left,0.8,0.32,0.581,media,center,missed
+FTB_0105,football,penalty,World Cup,42,-2,0,Player_84,GK_5,left,0.48,0.58,0.5,media,right,saved
+FTB_0106,football,penalty,World Cup,88,-2,0,Player_79,GK_9,right,0.38,0.38,0.542,media,left,goal
+FTB_0107,football,penalty,League,13,-2,1,Player_88,GK_11,right,0.27,0.78,0.452,media,left,goal
+FTB_0108,football,penalty,World Cup,108,-1,1,Player_74,GK_11,left,0.89,0.42,0.763,alta,right,goal
+FTB_0109,football,penalty,World Cup,21,-1,0,Player_20,GK_26,right,0.87,0.33,0.502,media,right,goal
+FTB_0110,football,penalty,World Cup,63,0,0,Player_89,GK_9,right,0.71,0.58,0.664,media,right,goal
+FTB_0111,football,penalty,Champions,107,2,0,Player_79,GK_8,right,0.8,0.36,0.65,media,right,missed
+FTB_0112,football,penalty,Champions,112,0,0,Player_60,GK_16,right,0.43,0.36,0.734,alta,right,goal
+FTB_0113,football,penalty,Champions,82,2,1,Player_91,GK_13,right,0.15,0.99,0.645,media,right,goal
+FTB_0114,football,penalty,World Cup,32,0,1,Player_63,GK_27,right,0.3,0.91,0.564,media,left,goal
+FTB_0115,football,penalty,Champions,90,2,0,Player_31,GK_18,right,0.8,0.92,0.705,alta,left,goal
+FTB_0116,football,penalty,League,98,2,1,Player_60,GK_24,right,0.11,0.66,0.582,media,right,goal
+FTB_0117,football,penalty,World Cup,98,0,1,Player_68,GK_20,right,0.53,0.83,0.84,alta,center,missed
+FTB_0118,football,penalty,League,83,-1,1,Player_50,GK_14,right,0.23,0.96,0.685,media,center,goal
+FTB_0119,football,penalty,League,117,2,0,Player_32,GK_19,right,0.62,0.61,0.712,alta,left,saved
+FTB_0120,football,penalty,World Cup,30,-1,0,Player_75,GK_20,right,0.47,0.41,0.489,media,right,goal
+FTB_0121,football,penalty,World Cup,101,1,0,Player_84,GK_6,right,0.32,0.76,0.761,alta,center,missed
+FTB_0122,football,penalty,World Cup,91,2,1,Player_12,GK_18,right,0.43,0.99,0.71,alta,left,goal
+FTB_0123,football,penalty,League,104,0,0,Player_93,GK_12,right,0.25,0.98,0.836,alta,right,saved
+FTB_0124,football,penalty,World Cup,4,1,1,Player_48,GK_25,right,0.25,0.98,0.478,media,center,goal
+FTB_0125,football,penalty,Champions,19,2,1,Player_95,GK_6,right,0.74,0.49,0.447,media,left,goal
+FTB_0126,football,penalty,World Cup,35,2,1,Player_32,GK_15,right,0.86,0.83,0.603,media,right,goal
+FTB_0127,football,penalty,World Cup,60,1,1,Player_33,GK_13,right,0.55,0.79,0.603,media,center,goal
+FTB_0128,football,penalty,League,9,-1,0,Player_67,GK_27,right,0.26,0.98,0.507,media,left,goal
+FTB_0129,football,penalty,Champions,4,-2,0,Player_7,GK_11,left,0.53,0.34,0.367,media,right,saved
+FTB_0130,football,penalty,Champions,107,1,1,Player_12,GK_23,right,0.73,0.72,0.808,alta,left,goal
+FTB_0131,football,penalty,League,78,-2,1,Player_51,GK_12,right,0.28,0.91,0.642,media,left,saved
+FTB_0132,football,penalty,World Cup,67,-1,0,Player_54,GK_15,right,0.37,0.76,0.613,media,left,goal
+FTB_0133,football,penalty,Champions,31,1,1,Player_60,GK_24,right,0.87,0.42,0.525,media,right,goal
+FTB_0134,football,penalty,Champions,65,0,0,Player_42,GK_19,right,0.45,0.71,0.658,media,right,saved
+FTB_0135,football,penalty,Champions,71,2,0,Player_42,GK_12,right,0.6,0.45,0.564,media,left,goal
+FTB_0136,football,penalty,League,45,-1,0,Player_84,GK_2,right,0.78,0.43,0.552,media,right,goal
+FTB_0137,football,penalty,World Cup,11,-2,0,Player_47,GK_11,right,0.88,0.57,0.463,media,left,saved
+FTB_0138,football,penalty,World Cup,106,-1,1,Player_84,GK_28,right,0.64,0.61,0.753,alta,center,missed
+FTB_0139,football,penalty,Champions,4,2,1,Player_61,GK_20,right,0.53,0.55,0.414,media,left,saved
+FTB_0140,football,penalty,League,32,-1,0,Player_33,GK_17,right,0.28,0.39,0.416,media,left,goal
+FTB_0141,football,penalty,World Cup,70,1,0,Player_95,GK_24,right,0.89,0.4,0.65,media,right,goal
+FTB_0142,football,penalty,League,62,-1,1,Player_85,GK_1,right,0.53,0.54,0.56,media,left,missed
+FTB_0143,football,penalty,Champions,88,2,1,Player_82,GK_17,right,0.79,0.61,0.644,media,right,missed
+FTB_0144,football,penalty,World Cup,100,-2,1,Player_69,GK_9,right,0.84,0.32,0.65,media,left,goal
+FTB_0145,football,penalty,World Cup,13,1,0,Player_31,GK_9,left,0.58,0.41,0.43,media,right,saved
+FTB_0146,football,penalty,League,13,-1,0,Player_75,GK_1,right,0.36,0.58,0.449,media,right,saved
+FTB_0147,football,penalty,World Cup,14,-2,0,Player_96,GK_17,right,0.6,0.53,0.438,media,left,goal
+FTB_0148,football,penalty,Champions,53,-1,1,Player_28,GK_21,right,0.23,0.71,0.555,media,center,goal
+FTB_0149,football,penalty,Champions,98,-2,1,Player_43,GK_13,right,0.42,0.57,0.624,media,right,saved
+FTB_0150,football,penalty,World Cup,99,0,0,Player_86,GK_19,right,0.62,0.31,0.745,alta,right,goal
+FTB_0151,football,penalty,Champions,12,2,1,Player_30,GK_18,left,0.52,0.73,0.463,media,center,goal
+FTB_0152,football,penalty,League,48,2,0,Player_56,GK_17,right,0.2,0.59,0.452,media,left,goal
+FTB_0153,football,penalty,League,68,-1,0,Player_13,GK_23,right,0.44,0.94,0.641,media,left,goal
+FTB_0154,football,penalty,World Cup,77,2,1,Player_91,GK_5,right,0.28,0.92,0.603,media,left,saved
+FTB_0155,football,penalty,World Cup,36,0,0,Player_49,GK_3,right,0.64,0.9,0.656,media,left,goal
+FTB_0156,football,penalty,Champions,104,-2,0,Player_78,GK_13,right,0.18,0.45,0.554,media,right,goal
+FTB_0157,football,penalty,World Cup,71,-2,0,Player_24,GK_28,right,0.21,0.99,0.618,media,left,goal
+FTB_0158,football,penalty,League,98,1,0,Player_8,GK_1,right,0.56,0.81,0.768,alta,left,saved
+FTB_0159,football,penalty,Champions,27,-2,1,Player_50,GK_3,right,0.45,0.73,0.499,media,left,goal
+FTB_0160,football,penalty,League,64,2,1,Player_8,GK_22,right,0.25,0.62,0.499,media,left,missed
+FTB_0161,football,penalty,League,67,1,1,Player_12,GK_17,right,0.61,0.97,0.705,alta,center,goal
+FTB_0162,football,penalty,World Cup,36,1,0,Player_30,GK_21,left,0.41,0.63,0.496,media,left,goal
+FTB_0163,football,penalty,World Cup,11,-1,0,Player_66,GK_9,right,0.79,0.85,0.56,media,left,goal
+FTB_0164,football,penalty,Champions,11,0,0,Player_22,GK_11,right,0.51,0.47,0.487,media,right,saved
+FTB_0165,football,penalty,Champions,69,1,1,Player_78,GK_6,right,0.27,0.9,0.651,media,right,goal
+FTB_0166,football,penalty,Champions,17,1,1,Player_10,GK_25,right,0.36,0.87,0.484,media,left,missed
+FTB_0167,football,penalty,League,69,2,0,Player_41,GK_6,right,0.84,0.9,0.678,media,right,goal
+FTB_0168,football,penalty,World Cup,18,2,0,Player_78,GK_20,right,0.48,0.39,0.394,media,left,saved
+FTB_0169,football,penalty,World Cup,53,1,0,Player_34,GK_10,right,0.1,0.9,0.539,media,left,goal
+FTB_0170,football,penalty,Champions,25,0,1,Player_7,GK_16,right,0.6,0.83,0.583,media,left,goal
+FTB_0171,football,penalty,Champions,83,-2,0,Player_50,GK_5,right,0.9,0.66,0.689,media,left,goal
+FTB_0172,football,penalty,League,106,2,1,Player_62,GK_27,right,0.52,0.55,0.653,media,left,missed
+FTB_0173,football,penalty,World Cup,50,2,0,Player_82,GK_5,right,0.21,0.83,0.525,media,left,goal
+FTB_0174,football,penalty,Champions,115,1,1,Player_34,GK_20,right,0.31,0.56,0.742,alta,left,goal
+FTB_0175,football,penalty,World Cup,29,-1,1,Player_17,GK_24,right,0.4,0.63,0.492,media,right,saved
+FTB_0176,football,penalty,League,38,-2,0,Player_34,GK_8,left,0.16,0.87,0.481,media,left,saved
+FTB_0177,football,penalty,World Cup,107,-2,1,Player_77,GK_8,right,0.15,0.73,0.638,media,right,goal
+FTB_0178,football,penalty,League,10,0,1,Player_11,GK_20,right,0.74,0.76,0.544,media,center,goal
+FTB_0179,football,penalty,Champions,93,0,0,Player_96,GK_16,right,0.24,0.43,0.609,media,right,goal
+FTB_0180,football,penalty,World Cup,116,-2,1,Player_62,GK_18,right,0.63,0.98,0.758,alta,left,goal
+FTB_0181,football,penalty,Champions,39,1,0,Player_10,GK_15,right,0.88,0.5,0.573,media,right,saved
+FTB_0182,football,penalty,Champions,13,-1,1,Player_85,GK_12,right,0.4,0.46,0.418,media,right,missed
+FTB_0183,football,penalty,Champions,24,-2,0,Player_13,GK_21,left,0.33,0.75,0.475,media,right,saved
+FTB_0184,football,penalty,Champions,117,1,0,Player_85,GK_15,right,0.36,0.34,0.715,alta,center,goal
+FTB_0185,football,penalty,League,11,-1,0,Player_19,GK_23,right,0.5,0.45,0.448,media,center,goal
+FTB_0186,football,penalty,World Cup,83,1,0,Player_65,GK_4,right,0.71,0.75,0.683,media,left,goal
+FTB_0187,football,penalty,World Cup,12,-1,0,Player_36,GK_22,right,0.35,0.76,0.484,media,right,goal
+FTB_0188,football,penalty,League,102,-1,0,Player_70,GK_24,left,0.7,0.32,0.696,media,left,goal
+FTB_0189,football,penalty,World Cup,60,-1,1,Player_21,GK_10,left,0.46,0.56,0.58,media,right,goal
+FTB_0190,football,penalty,World Cup,74,1,1,Player_58,GK_23,left,0.41,0.43,0.565,media,center,goal
+FTB_0191,football,penalty,World Cup,84,-1,1,Player_30,GK_26,right,0.58,0.72,0.656,media,right,goal
+FTB_0192,football,penalty,World Cup,85,1,0,Player_92,GK_27,right,0.45,0.66,0.632,media,left,goal
+FTB_0193,football,penalty,Champions,92,-2,0,Player_78,GK_28,right,0.61,0.95,0.709,alta,right,goal
+FTB_0194,football,penalty,Champions,46,-2,1,Player_70,GK_17,left,0.26,0.97,0.551,media,left,goal
+FTB_0195,football,penalty,World Cup,112,0,0,Player_74,GK_5,left,0.31,0.96,0.838,alta,right,goal
+FTB_0196,football,penalty,Champions,85,-1,1,Player_60,GK_12,right,0.68,0.36,0.623,media,right,saved
+FTB_0197,football,penalty,League,16,1,0,Player_92,GK_14,right,0.87,0.76,0.538,media,left,goal
+FTB_0198,football,penalty,League,30,-1,0,Player_21,GK_4,left,0.31,0.89,0.521,media,left,goal
+FTB_0199,football,penalty,League,38,0,0,Player_42,GK_26,right,0.82,0.54,0.577,media,right,goal
+FTB_0200,football,penalty,League,50,-2,0,Player_85,GK_12,right,0.88,0.65,0.57,media,left,goal
+FTB_0201,football,penalty,World Cup,42,-2,0,Player_98,GK_28,right,0.68,0.32,0.465,media,right,goal
+FTB_0202,football,penalty,World Cup,87,-2,1,Player_22,GK_16,right,0.54,0.85,0.674,media,right,goal
+FTB_0203,football,penalty,League,26,-1,1,Player_99,GK_19,right,0.43,0.62,0.499,media,left,goal
+FTB_0204,football,penalty,Champions,94,2,1,Player_92,GK_14,right,0.36,0.42,0.586,media,left,saved
+FTB_0205,football,penalty,World Cup,29,-2,1,Player_99,GK_6,right,0.7,0.69,0.518,media,left,goal
+FTB_0206,football,penalty,World Cup,45,-2,1,Player_85,GK_8,right,0.17,0.58,0.45,media,left,goal
+FTB_0207,football,penalty,Champions,96,-1,0,Player_40,GK_6,right,0.66,0.41,0.672,media,right,saved
+FTB_0208,football,penalty,Champions,17,-2,1,Player_19,GK_9,right,0.39,0.32,0.377,media,left,saved
+FTB_0209,football,penalty,League,96,-2,0,Player_27,GK_5,right,0.89,0.59,0.701,alta,left,saved
+FTB_0210,football,penalty,World Cup,67,-2,1,Player_50,GK_6,right,0.76,0.32,0.531,media,right,goal
+FTB_0211,football,penalty,Champions,85,1,1,Player_21,GK_28,right,0.82,0.99,0.78,alta,left,saved
+FTB_0212,football,penalty,Champions,99,-2,0,Player_69,GK_12,right,0.21,0.47,0.566,media,right,goal
+FTB_0213,football,penalty,League,57,0,1,Player_73,GK_20,right,0.2,0.74,0.604,media,right,goal
+FTB_0214,football,penalty,Champions,27,0,1,Player_14,GK_4,right,0.51,0.79,0.567,media,left,goal
+FTB_0215,football,penalty,League,105,-2,1,Player_46,GK_6,left,0.63,0.85,0.715,alta,right,goal
+FTB_0216,football,penalty,Champions,27,2,1,Player_87,GK_22,right,0.4,0.68,0.489,media,left,goal
+FTB_0217,football,penalty,World Cup,103,0,0,Player_19,GK_15,right,0.76,0.98,0.903,alta,right,goal
+FTB_0218,football,penalty,League,54,2,0,Player_99,GK_9,right,0.18,0.68,0.484,media,center,goal
+FTB_0219,football,penalty,League,36,-2,0,Player_55,GK_16,right,0.82,0.33,0.498,media,center,saved
+FTB_0220,football,penalty,World Cup,29,-2,0,Player_44,GK_1,right,0.44,0.5,0.427,media,center,goal
+FTB_0221,football,penalty,League,89,-2,1,Player_76,GK_22,left,0.64,0.94,0.72,alta,center,goal
+FTB_0222,football,penalty,League,52,-2,1,Player_55,GK_7,left,0.23,0.54,0.456,media,center,saved
+FTB_0223,football,penalty,World Cup,16,1,1,Player_87,GK_6,left,0.49,0.57,0.472,media,right,goal
+FTB_0224,football,penalty,World Cup,9,-2,0,Player_99,GK_8,left,0.13,0.3,0.307,baja,left,goal
+FTB_0225,football,penalty,World Cup,56,2,1,Player_39,GK_21,left,0.57,0.63,0.555,media,left,saved
+FTB_0226,football,penalty,League,53,-1,0,Player_39,GK_23,right,0.85,0.51,0.592,media,right,goal
+FTB_0227,football,penalty,League,105,2,1,Player_72,GK_8,left,0.14,0.77,0.635,media,left,goal
+FTB_0228,football,penalty,League,81,2,1,Player_87,GK_13,left,0.35,0.73,0.615,media,right,goal
+FTB_0229,football,penalty,League,100,-2,0,Player_28,GK_8,right,0.65,0.72,0.672,media,center,goal
+FTB_0230,football,penalty,League,90,-2,0,Player_77,GK_10,right,0.36,0.58,0.608,media,right,goal
+FTB_0231,football,penalty,Champions,60,0,0,Player_16,GK_8,right,0.59,0.94,0.721,alta,left,saved
+FTB_0232,football,penalty,World Cup,98,-2,0,Player_95,GK_25,right,0.34,0.6,0.615,media,left,goal
+FTB_0233,football,penalty,Champions,88,-2,1,Player_30,GK_28,right,0.41,0.35,0.567,media,left,goal
+FTB_0234,football,penalty,League,27,0,0,Player_33,GK_24,right,0.56,0.62,0.563,media,right,goal
+FTB_0235,football,penalty,Champions,45,1,1,Player_35,GK_11,right,0.21,0.6,0.522,media,left,goal
+FTB_0236,football,penalty,Champions,46,0,0,Player_31,GK_4,right,0.35,0.59,0.569,media,left,goal
+FTB_0237,football,penalty,Champions,20,-1,0,Player_64,GK_27,left,0.12,0.64,0.434,media,left,goal
+FTB_0238,football,penalty,World Cup,19,-1,0,Player_87,GK_6,right,0.22,0.52,0.421,media,right,goal
+FTB_0239,football,penalty,Champions,72,1,1,Player_69,GK_5,right,0.17,0.68,0.586,media,left,missed
+FTB_0240,football,penalty,League,57,2,1,Player_85,GK_14,right,0.71,0.68,0.602,media,left,goal
+FTB_0241,football,penalty,League,81,2,1,Player_11,GK_4,right,0.55,0.98,0.673,media,left,goal
+FTB_0242,football,penalty,World Cup,48,-2,0,Player_36,GK_22,right,0.34,0.81,0.526,media,center,goal
+FTB_0243,football,penalty,World Cup,27,0,0,Player_56,GK_20,left,0.68,0.94,0.634,media,left,saved
+FTB_0244,football,penalty,League,56,-1,0,Player_75,GK_1,left,0.22,0.96,0.601,media,center,saved
+FTB_0245,football,penalty,League,68,0,0,Player_4,GK_7,left,0.49,0.66,0.653,media,right,goal
+FTB_0246,football,penalty,League,115,-2,0,Player_69,GK_13,right,0.1,0.34,0.578,media,left,goal
+FTB_0247,football,penalty,Champions,117,2,1,Player_21,GK_16,right,0.12,0.95,0.697,media,right,goal
+FTB_0248,football,penalty,World Cup,98,-2,1,Player_71,GK_7,right,0.27,0.5,0.608,media,right,goal
+FTB_0249,football,penalty,League,5,1,0,Player_36,GK_3,right,0.69,0.88,0.514,media,right,goal
+FTB_0250,football,penalty,Champions,74,-2,1,Player_77,GK_13,right,0.32,0.81,0.603,media,left,goal
+FTB_0251,football,penalty,Champions,84,2,1,Player_66,GK_2,right,0.52,0.97,0.671,media,center,saved
+FTB_0252,football,penalty,League,85,1,0,Player_39,GK_1,right,0.42,0.9,0.684,media,left,goal
+FTB_0253,football,penalty,Champions,66,2,1,Player_10,GK_4,right,0.27,0.32,0.466,media,left,goal
+FTB_0254,football,penalty,Champions,75,1,0,Player_4,GK_13,right,0.52,0.75,0.65,media,left,goal
+FTB_0255,football,penalty,World Cup,110,-1,0,Player_57,GK_17,right,0.23,0.58,0.732,alta,right,goal
+FTB_0256,football,penalty,World Cup,61,-1,1,Player_29,GK_28,right,0.57,0.8,0.657,media,center,goal
+FTB_0257,football,penalty,League,12,-2,0,Player_70,GK_16,right,0.55,0.39,0.41,media,right,missed
+FTB_0258,football,penalty,Champions,112,0,0,Player_23,GK_21,right,0.65,0.36,0.776,alta,center,goal
+FTB_0259,football,penalty,League,86,2,0,Player_12,GK_5,right,0.32,0.43,0.529,media,right,goal
+FTB_0260,football,penalty,League,6,2,1,Player_71,GK_9,right,0.41,0.65,0.424,media,left,goal
+FTB_0261,football,penalty,World Cup,22,2,1,Player_87,GK_13,right,0.78,0.88,0.534,media,center,saved
+FTB_0262,football,penalty,Champions,4,-2,1,Player_65,GK_4,right,0.62,0.4,0.395,media,right,goal
+FTB_0263,football,penalty,Champions,10,0,0,Player_37,GK_6,right,0.15,0.56,0.415,media,left,saved
+FTB_0264,football,penalty,World Cup,40,-2,0,Player_25,GK_4,right,0.43,0.39,0.443,media,center,goal
+FTB_0265,football,penalty,League,5,-1,1,Player_53,GK_10,right,0.35,0.77,0.471,media,center,missed
+FTB_0266,football,penalty,World Cup,92,-2,1,Player_12,GK_16,right,0.31,0.38,0.531,media,right,goal
+FTB_0267,football,penalty,World Cup,68,2,1,Player_72,GK_13,right,0.88,0.75,0.67,media,right,saved
+FTB_0268,football,penalty,Champions,48,1,1,Player_90,GK_8,right,0.67,0.93,0.665,media,center,goal
+FTB_0269,football,penalty,Champions,113,2,1,Player_71,GK_10,right,0.62,0.67,0.717,alta,right,goal
+FTB_0270,football,penalty,League,108,-2,0,Player_65,GK_17,right,0.56,0.85,0.705,alta,center,goal
+FTB_0271,football,penalty,World Cup,114,1,0,Player_54,GK_1,right,0.15,0.68,0.739,alta,right,goal
+FTB_0272,football,penalty,Champions,115,0,1,Player_78,GK_10,left,0.38,0.83,0.859,alta,center,saved
+FTB_0273,football,penalty,World Cup,22,0,1,Player_11,GK_28,right,0.46,0.42,0.466,media,right,missed
+FTB_0274,football,penalty,League,79,-2,0,Player_89,GK_18,right,0.86,0.44,0.639,media,right,goal
+FTB_0275,football,penalty,World Cup,71,-1,1,Player_66,GK_2,left,0.25,0.99,0.665,media,right,missed
+FTB_0276,football,penalty,Champions,91,2,1,Player_93,GK_22,right,0.72,0.9,0.705,alta,center,saved
+FTB_0277,football,penalty,Champions,72,2,0,Player_72,GK_16,right,0.39,0.31,0.521,media,right,goal
+FTB_0278,football,penalty,League,11,2,0,Player_34,GK_19,right,0.42,0.47,0.406,media,right,goal
+FTB_0279,football,penalty,League,59,-2,1,Player_78,GK_17,right,0.4,0.83,0.569,media,right,missed
+FTB_0280,football,penalty,League,95,1,1,Player_59,GK_11,right,0.56,0.57,0.667,media,right,saved
+FTB_0281,football,penalty,League,90,2,1,Player_51,GK_21,right,0.24,0.33,0.545,media,right,goal
+FTB_0282,football,penalty,Champions,62,-1,1,Player_23,GK_10,left,0.22,0.89,0.599,media,right,goal
+FTB_0283,football,penalty,World Cup,107,-1,0,Player_68,GK_26,right,0.57,0.44,0.713,alta,right,goal
+FTB_0284,football,penalty,Champions,113,2,1,Player_67,GK_2,right,0.18,0.62,0.649,media,right,saved
+FTB_0285,football,penalty,World Cup,105,2,1,Player_54,GK_6,right,0.44,0.5,0.605,media,right,goal
+FTB_0286,football,penalty,Champions,7,-1,0,Player_36,GK_15,right,0.26,0.44,0.357,media,right,goal
+FTB_0287,football,penalty,Champions,50,2,1,Player_47,GK_22,right,0.34,0.6,0.487,media,right,goal
+FTB_0288,football,penalty,Champions,49,2,0,Player_9,GK_17,right,0.22,0.68,0.485,media,right,goal
+FTB_0289,football,penalty,World Cup,114,-1,0,Player_63,GK_25,right,0.39,0.64,0.781,alta,left,goal
+FTB_0290,football,penalty,League,21,-2,1,Player_39,GK_29,right,0.76,0.95,0.566,media,center,saved
+FTB_0291,football,penalty,World Cup,103,-2,0,Player_49,GK_12,right,0.14,0.32,0.526,media,right,goal
+FTB_0292,football,penalty,Champions,81,2,0,Player_83,GK_11,right,0.5,0.96,0.662,media,right,goal
+FTB_0293,football,penalty,World Cup,101,-1,0,Player_40,GK_19,right,0.77,0.73,0.781,alta,center,goal
+FTB_0294,football,penalty,League,52,2,0,Player_74,GK_25,right,0.79,0.8,0.592,media,center,goal
+FTB_0295,football,penalty,League,19,1,0,Player_16,GK_23,right,0.35,0.74,0.501,media,left,goal
+FTB_0296,football,penalty,World Cup,109,-1,1,Player_97,GK_5,right,0.23,0.47,0.673,media,left,goal
+FTB_0297,football,penalty,Champions,88,2,1,Player_47,GK_7,right,0.73,0.35,0.588,media,right,goal
+FTB_0298,football,penalty,World Cup,113,2,1,Player_82,GK_10,right,0.69,0.85,0.737,alta,right,goal
+FTB_0299,football,penalty,Champions,110,-1,1,Player_84,GK_9,right,0.88,0.62,0.797,alta,right,goal
+FTB_0300,football,penalty,Champions,25,-2,1,Player_22,GK_26,right,0.31,0.58,0.409,media,left,goal

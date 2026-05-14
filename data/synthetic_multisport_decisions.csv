@@ -1,0 +1,1801 @@
+event_id,sport,action_type,competition,match_time,score_difference,is_home_player,player,opponent,dominant_side,fatigue_level,competition_importance,pressure_index,pressure_level,decision_zone,action_result
+FTB_0001,football,penalty,World Cup,45,2,1,Player_24,GK_3,right,0.72,0.43,0.511,media,left,goal
+FTB_0002,football,penalty,World Cup,2,-1,1,Player_89,GK_17,left,0.85,0.81,0.507,media,right,goal
+FTB_0003,football,penalty,World Cup,63,-1,0,Player_51,GK_7,right,0.88,0.33,0.58,media,right,goal
+FTB_0004,football,penalty,League,20,-1,1,Player_71,GK_12,right,0.87,0.96,0.628,media,left,goal
+FTB_0005,football,penalty,Champions,59,0,0,Player_63,GK_18,right,0.31,0.94,0.665,media,center,goal
+FTB_0006,football,penalty,Champions,93,-1,1,Player_85,GK_16,right,0.84,0.58,0.723,alta,center,goal
+FTB_0007,football,penalty,World Cup,90,2,0,Player_9,GK_24,right,0.87,0.71,0.703,alta,left,goal
+FTB_0008,football,penalty,League,47,0,0,Player_72,GK_12,right,0.67,0.44,0.596,media,right,goal
+FTB_0009,football,penalty,World Cup,40,2,0,Player_90,GK_23,right,0.61,0.81,0.572,media,left,goal
+FTB_0010,football,penalty,World Cup,93,0,1,Player_4,GK_5,right,0.44,0.67,0.682,media,left,goal
+FTB_0011,football,penalty,Champions,30,2,0,Player_62,GK_25,right,0.26,0.68,0.472,media,right,saved
+FTB_0012,football,penalty,League,13,1,1,Player_97,GK_1,right,0.25,0.86,0.499,media,right,saved
+FTB_0013,football,penalty,League,27,-2,1,Player_44,GK_24,right,0.79,0.87,0.537,media,left,goal
+FTB_0014,football,penalty,World Cup,113,-2,0,Player_56,GK_17,right,0.15,0.58,0.61,media,right,goal
+FTB_0015,football,penalty,Champions,32,-1,1,Player_70,GK_23,left,0.14,0.65,0.458,media,left,goal
+FTB_0016,football,penalty,League,81,0,1,Player_16,GK_1,right,0.29,0.56,0.648,media,right,goal
+FTB_0017,football,penalty,League,18,0,1,Player_96,GK_7,right,0.13,0.43,0.431,media,left,goal
+FTB_0018,football,penalty,League,21,-2,1,Player_42,GK_3,right,0.51,0.58,0.462,media,right,goal
+FTB_0019,football,penalty,League,27,-1,0,Player_9,GK_9,left,0.51,0.99,0.569,media,right,goal
+FTB_0020,football,penalty,Champions,42,0,0,Player_89,GK_3,left,0.42,0.9,0.643,media,right,saved
+FTB_0021,football,penalty,World Cup,117,-1,1,Player_21,GK_16,right,0.54,0.41,0.753,alta,left,goal
+FTB_0022,football,penalty,Champions,90,0,1,Player_51,GK_22,right,0.55,0.76,0.714,alta,left,goal
+FTB_0023,football,penalty,League,109,0,1,Player_35,GK_17,right,0.5,0.86,0.847,alta,left,goal
+FTB_0024,football,penalty,World Cup,5,1,1,Player_53,GK_3,right,0.86,0.96,0.592,media,left,saved
+FTB_0025,football,penalty,League,118,1,1,Player_58,GK_3,right,0.41,0.51,0.762,alta,left,goal
+FTB_0026,football,penalty,World Cup,68,-1,0,Player_43,GK_22,right,0.89,0.73,0.67,media,right,goal
+FTB_0027,football,penalty,World Cup,43,2,1,Player_65,GK_8,right,0.44,0.51,0.463,media,left,goal
+FTB_0028,football,penalty,Champions,84,1,0,Player_62,GK_29,right,0.12,0.92,0.654,media,right,goal
+FTB_0029,football,penalty,World Cup,101,-1,1,Player_5,GK_7,right,0.13,0.32,0.639,media,left,goal
+FTB_0030,football,penalty,Champions,10,2,1,Player_19,GK_17,right,0.43,0.44,0.387,media,left,missed
+FTB_0031,football,penalty,World Cup,48,0,0,Player_58,GK_26,left,0.16,0.61,0.517,media,right,goal
+FTB_0032,football,penalty,League,19,-1,0,Player_22,GK_29,left,0.18,0.47,0.388,media,right,goal
+FTB_0033,football,penalty,Champions,50,1,1,Player_62,GK_20,right,0.23,0.7,0.518,media,left,goal
+FTB_0034,football,penalty,Champions,21,-1,0,Player_34,GK_20,right,0.75,0.83,0.561,media,right,goal
+FTB_0035,football,penalty,Champions,45,-1,0,Player_92,GK_27,right,0.5,0.95,0.618,media,right,missed
+FTB_0036,football,penalty,World Cup,96,1,1,Player_74,GK_11,right,0.61,0.57,0.732,alta,right,goal
+FTB_0037,football,penalty,World Cup,23,2,1,Player_74,GK_26,right,0.4,0.45,0.386,media,left,goal
+FTB_0038,football,penalty,World Cup,41,0,0,Player_36,GK_10,right,0.19,0.5,0.516,media,right,goal
+FTB_0039,football,penalty,World Cup,51,0,1,Player_55,GK_13,right,0.43,0.99,0.659,media,left,missed
+FTB_0040,football,penalty,World Cup,89,0,1,Player_12,GK_29,right,0.82,0.37,0.695,media,left,saved
+FTB_0041,football,penalty,World Cup,109,1,0,Player_12,GK_25,right,0.87,0.55,0.807,alta,center,goal
+FTB_0042,football,penalty,League,66,2,1,Player_5,GK_3,right,0.73,0.83,0.656,media,center,goal
+FTB_0043,football,penalty,Champions,107,0,0,Player_40,GK_10,right,0.87,0.79,0.891,alta,right,saved
+FTB_0044,football,penalty,World Cup,48,0,0,Player_71,GK_25,left,0.17,0.79,0.557,media,left,goal
+FTB_0045,football,penalty,League,71,1,1,Player_67,GK_13,right,0.17,0.56,0.567,media,left,saved
+FTB_0046,football,penalty,Champions,1,1,0,Player_63,GK_28,right,0.69,0.7,0.498,media,right,goal
+FTB_0047,football,penalty,Champions,34,-2,0,Player_75,GK_28,left,0.87,0.46,0.483,media,left,saved
+FTB_0048,football,penalty,Champions,9,0,1,Player_3,GK_16,right,0.16,0.79,0.462,media,left,missed
+FTB_0049,football,penalty,Champions,88,0,1,Player_58,GK_28,right,0.86,0.5,0.744,alta,center,goal
+FTB_0050,football,penalty,World Cup,70,1,1,Player_29,GK_13,right,0.31,0.55,0.567,media,left,goal
+FTB_0051,football,penalty,League,109,2,0,Player_5,GK_23,left,0.43,0.96,0.734,alta,left,saved
+FTB_0052,football,penalty,World Cup,49,-2,0,Player_33,GK_2,right,0.89,0.64,0.578,media,left,saved
+FTB_0053,football,penalty,League,4,-2,0,Player_53,GK_5,right,0.16,0.31,0.307,baja,right,saved
+FTB_0054,football,penalty,World Cup,91,0,1,Player_32,GK_2,left,0.46,0.47,0.647,media,right,goal
+FTB_0055,football,penalty,Champions,43,-1,1,Player_57,GK_17,right,0.48,0.65,0.563,media,right,missed
+FTB_0056,football,penalty,Champions,16,2,1,Player_30,GK_15,right,0.66,0.73,0.472,media,left,goal
+FTB_0057,football,penalty,World Cup,52,-1,0,Player_4,GK_10,right,0.51,0.54,0.568,media,right,saved
+FTB_0058,football,penalty,League,111,-1,1,Player_75,GK_19,right,0.15,0.84,0.733,alta,left,goal
+FTB_0059,football,penalty,World Cup,64,0,1,Player_50,GK_29,right,0.61,0.4,0.592,media,right,goal
+FTB_0060,football,penalty,Champions,23,0,1,Player_34,GK_17,right,0.38,0.88,0.557,media,center,goal
+FTB_0061,football,penalty,World Cup,60,2,0,Player_26,GK_4,right,0.17,0.53,0.481,media,center,goal
+FTB_0062,football,penalty,Champions,97,-2,1,Player_2,GK_13,left,0.89,0.72,0.721,alta,left,saved
+FTB_0063,football,penalty,Champions,7,0,1,Player_99,GK_19,right,0.67,0.48,0.509,media,center,goal
+FTB_0064,football,penalty,World Cup,29,-2,0,Player_13,GK_20,right,0.25,0.82,0.476,media,left,goal
+FTB_0065,football,penalty,World Cup,57,-1,1,Player_83,GK_10,right,0.5,0.85,0.604,media,center,goal
+FTB_0066,football,penalty,Champions,34,1,0,Player_70,GK_6,left,0.56,0.75,0.549,media,right,goal
+FTB_0067,football,penalty,League,30,1,1,Player_36,GK_24,right,0.17,0.9,0.531,media,right,goal
+FTB_0068,football,penalty,Champions,13,-1,0,Player_66,GK_15,left,0.83,0.7,0.512,media,center,goal
+FTB_0069,football,penalty,World Cup,64,-1,1,Player_47,GK_1,right,0.72,0.5,0.589,media,left,goal
+FTB_0070,football,penalty,World Cup,73,2,0,Player_10,GK_12,right,0.85,0.65,0.632,media,left,goal
+FTB_0071,football,penalty,League,24,-1,1,Player_95,GK_17,right,0.21,0.36,0.377,media,center,goal
+FTB_0072,football,penalty,Champions,102,1,1,Player_64,GK_29,left,0.2,0.98,0.779,alta,left,goal
+FTB_0073,football,penalty,Champions,17,-2,1,Player_89,GK_13,right,0.74,0.83,0.534,media,left,goal
+FTB_0074,football,penalty,League,71,-1,0,Player_25,GK_17,right,0.45,0.87,0.65,media,left,goal
+FTB_0075,football,penalty,Champions,108,-1,1,Player_15,GK_15,right,0.83,0.68,0.823,alta,right,goal
+FTB_0076,football,penalty,World Cup,74,1,1,Player_68,GK_22,right,0.56,0.82,0.696,media,right,saved
+FTB_0077,football,penalty,League,86,2,0,Player_8,GK_5,right,0.37,0.91,0.669,media,right,goal
+FTB_0078,football,penalty,World Cup,58,1,1,Player_11,GK_10,right,0.68,0.81,0.653,media,center,goal
+FTB_0079,football,penalty,League,41,-1,1,Player_68,GK_5,right,0.22,0.96,0.571,media,right,goal
+FTB_0080,football,penalty,League,111,-1,0,Player_1,GK_14,right,0.4,0.84,0.771,alta,left,saved
+FTB_0081,football,penalty,World Cup,28,-1,0,Player_73,GK_21,left,0.2,0.89,0.537,media,center,goal
+FTB_0082,football,penalty,League,40,1,1,Player_91,GK_2,right,0.58,0.85,0.577,media,right,saved
+FTB_0083,football,penalty,World Cup,110,0,0,Player_29,GK_11,right,0.83,0.32,0.777,alta,left,goal
+FTB_0084,football,penalty,League,76,1,0,Player_49,GK_7,right,0.51,0.45,0.618,media,center,saved
+FTB_0085,football,penalty,World Cup,71,2,1,Player_16,GK_8,right,0.44,0.58,0.575,media,center,goal
+FTB_0086,football,penalty,League,70,-2,1,Player_1,GK_8,right,0.46,0.84,0.615,media,left,goal
+FTB_0087,football,penalty,Champions,103,0,0,Player_93,GK_8,right,0.32,0.56,0.75,alta,left,goal
+FTB_0088,football,penalty,World Cup,3,0,1,Player_8,GK_2,right,0.64,0.46,0.447,media,right,goal
+FTB_0089,football,penalty,Champions,97,0,0,Player_33,GK_23,right,0.86,0.97,0.872,alta,left,goal
+FTB_0090,football,penalty,League,102,2,1,Player_67,GK_23,left,0.61,0.91,0.739,alta,center,goal
+FTB_0091,football,penalty,Champions,4,1,1,Player_24,GK_17,right,0.43,0.74,0.462,media,left,missed
+FTB_0092,football,penalty,World Cup,104,0,0,Player_73,GK_22,right,0.74,0.93,0.878,alta,left,goal
+FTB_0093,football,penalty,Champions,77,1,1,Player_41,GK_6,right,0.82,0.39,0.642,media,right,goal
+FTB_0094,football,penalty,Champions,8,2,0,Player_40,GK_2,right,0.76,0.76,0.471,media,left,saved
+FTB_0095,football,penalty,Champions,72,-2,1,Player_54,GK_11,right,0.56,0.65,0.61,media,right,goal
+FTB_0096,football,penalty,League,22,2,1,Player_99,GK_22,right,0.3,0.72,0.439,media,left,goal
+FTB_0097,football,penalty,League,57,2,0,Player_98,GK_9,right,0.32,0.64,0.52,media,right,saved
+FTB_0098,football,penalty,League,93,2,0,Player_44,GK_19,right,0.38,0.54,0.592,media,center,goal
+FTB_0099,football,penalty,World Cup,33,-1,0,Player_12,GK_16,left,0.35,0.37,0.462,media,right,goal
+FTB_0100,football,penalty,League,105,2,1,Player_26,GK_15,left,0.68,0.83,0.737,alta,right,goal
+FTB_0101,football,penalty,Champions,5,-2,0,Player_87,GK_29,right,0.55,0.43,0.402,media,right,goal
+FTB_0102,football,penalty,World Cup,57,1,1,Player_3,GK_5,right,0.36,0.89,0.628,media,center,goal
+FTB_0103,football,penalty,Champions,64,-1,0,Player_16,GK_13,right,0.15,0.81,0.572,media,right,goal
+FTB_0104,football,penalty,League,74,-1,0,Player_39,GK_14,left,0.8,0.32,0.581,media,center,missed
+FTB_0105,football,penalty,World Cup,42,-2,0,Player_84,GK_5,left,0.48,0.58,0.5,media,right,saved
+FTB_0106,football,penalty,World Cup,88,-2,0,Player_79,GK_9,right,0.38,0.38,0.542,media,left,goal
+FTB_0107,football,penalty,League,13,-2,1,Player_88,GK_11,right,0.27,0.78,0.452,media,left,goal
+FTB_0108,football,penalty,World Cup,108,-1,1,Player_74,GK_11,left,0.89,0.42,0.763,alta,right,goal
+FTB_0109,football,penalty,World Cup,21,-1,0,Player_20,GK_26,right,0.87,0.33,0.502,media,right,goal
+FTB_0110,football,penalty,World Cup,63,0,0,Player_89,GK_9,right,0.71,0.58,0.664,media,right,goal
+FTB_0111,football,penalty,Champions,107,2,0,Player_79,GK_8,right,0.8,0.36,0.65,media,right,missed
+FTB_0112,football,penalty,Champions,112,0,0,Player_60,GK_16,right,0.43,0.36,0.734,alta,right,goal
+FTB_0113,football,penalty,Champions,82,2,1,Player_91,GK_13,right,0.15,0.99,0.645,media,right,goal
+FTB_0114,football,penalty,World Cup,32,0,1,Player_63,GK_27,right,0.3,0.91,0.564,media,left,goal
+FTB_0115,football,penalty,Champions,90,2,0,Player_31,GK_18,right,0.8,0.92,0.705,alta,left,goal
+FTB_0116,football,penalty,League,98,2,1,Player_60,GK_24,right,0.11,0.66,0.582,media,right,goal
+FTB_0117,football,penalty,World Cup,98,0,1,Player_68,GK_20,right,0.53,0.83,0.84,alta,center,missed
+FTB_0118,football,penalty,League,83,-1,1,Player_50,GK_14,right,0.23,0.96,0.685,media,center,goal
+FTB_0119,football,penalty,League,117,2,0,Player_32,GK_19,right,0.62,0.61,0.712,alta,left,saved
+FTB_0120,football,penalty,World Cup,30,-1,0,Player_75,GK_20,right,0.47,0.41,0.489,media,right,goal
+FTB_0121,football,penalty,World Cup,101,1,0,Player_84,GK_6,right,0.32,0.76,0.761,alta,center,missed
+FTB_0122,football,penalty,World Cup,91,2,1,Player_12,GK_18,right,0.43,0.99,0.71,alta,left,goal
+FTB_0123,football,penalty,League,104,0,0,Player_93,GK_12,right,0.25,0.98,0.836,alta,right,saved
+FTB_0124,football,penalty,World Cup,4,1,1,Player_48,GK_25,right,0.25,0.98,0.478,media,center,goal
+FTB_0125,football,penalty,Champions,19,2,1,Player_95,GK_6,right,0.74,0.49,0.447,media,left,goal
+FTB_0126,football,penalty,World Cup,35,2,1,Player_32,GK_15,right,0.86,0.83,0.603,media,right,goal
+FTB_0127,football,penalty,World Cup,60,1,1,Player_33,GK_13,right,0.55,0.79,0.603,media,center,goal
+FTB_0128,football,penalty,League,9,-1,0,Player_67,GK_27,right,0.26,0.98,0.507,media,left,goal
+FTB_0129,football,penalty,Champions,4,-2,0,Player_7,GK_11,left,0.53,0.34,0.367,media,right,saved
+FTB_0130,football,penalty,Champions,107,1,1,Player_12,GK_23,right,0.73,0.72,0.808,alta,left,goal
+FTB_0131,football,penalty,League,78,-2,1,Player_51,GK_12,right,0.28,0.91,0.642,media,left,saved
+FTB_0132,football,penalty,World Cup,67,-1,0,Player_54,GK_15,right,0.37,0.76,0.613,media,left,goal
+FTB_0133,football,penalty,Champions,31,1,1,Player_60,GK_24,right,0.87,0.42,0.525,media,right,goal
+FTB_0134,football,penalty,Champions,65,0,0,Player_42,GK_19,right,0.45,0.71,0.658,media,right,saved
+FTB_0135,football,penalty,Champions,71,2,0,Player_42,GK_12,right,0.6,0.45,0.564,media,left,goal
+FTB_0136,football,penalty,League,45,-1,0,Player_84,GK_2,right,0.78,0.43,0.552,media,right,goal
+FTB_0137,football,penalty,World Cup,11,-2,0,Player_47,GK_11,right,0.88,0.57,0.463,media,left,saved
+FTB_0138,football,penalty,World Cup,106,-1,1,Player_84,GK_28,right,0.64,0.61,0.753,alta,center,missed
+FTB_0139,football,penalty,Champions,4,2,1,Player_61,GK_20,right,0.53,0.55,0.414,media,left,saved
+FTB_0140,football,penalty,League,32,-1,0,Player_33,GK_17,right,0.28,0.39,0.416,media,left,goal
+FTB_0141,football,penalty,World Cup,70,1,0,Player_95,GK_24,right,0.89,0.4,0.65,media,right,goal
+FTB_0142,football,penalty,League,62,-1,1,Player_85,GK_1,right,0.53,0.54,0.56,media,left,missed
+FTB_0143,football,penalty,Champions,88,2,1,Player_82,GK_17,right,0.79,0.61,0.644,media,right,missed
+FTB_0144,football,penalty,World Cup,100,-2,1,Player_69,GK_9,right,0.84,0.32,0.65,media,left,goal
+FTB_0145,football,penalty,World Cup,13,1,0,Player_31,GK_9,left,0.58,0.41,0.43,media,right,saved
+FTB_0146,football,penalty,League,13,-1,0,Player_75,GK_1,right,0.36,0.58,0.449,media,right,saved
+FTB_0147,football,penalty,World Cup,14,-2,0,Player_96,GK_17,right,0.6,0.53,0.438,media,left,goal
+FTB_0148,football,penalty,Champions,53,-1,1,Player_28,GK_21,right,0.23,0.71,0.555,media,center,goal
+FTB_0149,football,penalty,Champions,98,-2,1,Player_43,GK_13,right,0.42,0.57,0.624,media,right,saved
+FTB_0150,football,penalty,World Cup,99,0,0,Player_86,GK_19,right,0.62,0.31,0.745,alta,right,goal
+FTB_0151,football,penalty,Champions,12,2,1,Player_30,GK_18,left,0.52,0.73,0.463,media,center,goal
+FTB_0152,football,penalty,League,48,2,0,Player_56,GK_17,right,0.2,0.59,0.452,media,left,goal
+FTB_0153,football,penalty,League,68,-1,0,Player_13,GK_23,right,0.44,0.94,0.641,media,left,goal
+FTB_0154,football,penalty,World Cup,77,2,1,Player_91,GK_5,right,0.28,0.92,0.603,media,left,saved
+FTB_0155,football,penalty,World Cup,36,0,0,Player_49,GK_3,right,0.64,0.9,0.656,media,left,goal
+FTB_0156,football,penalty,Champions,104,-2,0,Player_78,GK_13,right,0.18,0.45,0.554,media,right,goal
+FTB_0157,football,penalty,World Cup,71,-2,0,Player_24,GK_28,right,0.21,0.99,0.618,media,left,goal
+FTB_0158,football,penalty,League,98,1,0,Player_8,GK_1,right,0.56,0.81,0.768,alta,left,saved
+FTB_0159,football,penalty,Champions,27,-2,1,Player_50,GK_3,right,0.45,0.73,0.499,media,left,goal
+FTB_0160,football,penalty,League,64,2,1,Player_8,GK_22,right,0.25,0.62,0.499,media,left,missed
+FTB_0161,football,penalty,League,67,1,1,Player_12,GK_17,right,0.61,0.97,0.705,alta,center,goal
+FTB_0162,football,penalty,World Cup,36,1,0,Player_30,GK_21,left,0.41,0.63,0.496,media,left,goal
+FTB_0163,football,penalty,World Cup,11,-1,0,Player_66,GK_9,right,0.79,0.85,0.56,media,left,goal
+FTB_0164,football,penalty,Champions,11,0,0,Player_22,GK_11,right,0.51,0.47,0.487,media,right,saved
+FTB_0165,football,penalty,Champions,69,1,1,Player_78,GK_6,right,0.27,0.9,0.651,media,right,goal
+FTB_0166,football,penalty,Champions,17,1,1,Player_10,GK_25,right,0.36,0.87,0.484,media,left,missed
+FTB_0167,football,penalty,League,69,2,0,Player_41,GK_6,right,0.84,0.9,0.678,media,right,goal
+FTB_0168,football,penalty,World Cup,18,2,0,Player_78,GK_20,right,0.48,0.39,0.394,media,left,saved
+FTB_0169,football,penalty,World Cup,53,1,0,Player_34,GK_10,right,0.1,0.9,0.539,media,left,goal
+FTB_0170,football,penalty,Champions,25,0,1,Player_7,GK_16,right,0.6,0.83,0.583,media,left,goal
+FTB_0171,football,penalty,Champions,83,-2,0,Player_50,GK_5,right,0.9,0.66,0.689,media,left,goal
+FTB_0172,football,penalty,League,106,2,1,Player_62,GK_27,right,0.52,0.55,0.653,media,left,missed
+FTB_0173,football,penalty,World Cup,50,2,0,Player_82,GK_5,right,0.21,0.83,0.525,media,left,goal
+FTB_0174,football,penalty,Champions,115,1,1,Player_34,GK_20,right,0.31,0.56,0.742,alta,left,goal
+FTB_0175,football,penalty,World Cup,29,-1,1,Player_17,GK_24,right,0.4,0.63,0.492,media,right,saved
+FTB_0176,football,penalty,League,38,-2,0,Player_34,GK_8,left,0.16,0.87,0.481,media,left,saved
+FTB_0177,football,penalty,World Cup,107,-2,1,Player_77,GK_8,right,0.15,0.73,0.638,media,right,goal
+FTB_0178,football,penalty,League,10,0,1,Player_11,GK_20,right,0.74,0.76,0.544,media,center,goal
+FTB_0179,football,penalty,Champions,93,0,0,Player_96,GK_16,right,0.24,0.43,0.609,media,right,goal
+FTB_0180,football,penalty,World Cup,116,-2,1,Player_62,GK_18,right,0.63,0.98,0.758,alta,left,goal
+FTB_0181,football,penalty,Champions,39,1,0,Player_10,GK_15,right,0.88,0.5,0.573,media,right,saved
+FTB_0182,football,penalty,Champions,13,-1,1,Player_85,GK_12,right,0.4,0.46,0.418,media,right,missed
+FTB_0183,football,penalty,Champions,24,-2,0,Player_13,GK_21,left,0.33,0.75,0.475,media,right,saved
+FTB_0184,football,penalty,Champions,117,1,0,Player_85,GK_15,right,0.36,0.34,0.715,alta,center,goal
+FTB_0185,football,penalty,League,11,-1,0,Player_19,GK_23,right,0.5,0.45,0.448,media,center,goal
+FTB_0186,football,penalty,World Cup,83,1,0,Player_65,GK_4,right,0.71,0.75,0.683,media,left,goal
+FTB_0187,football,penalty,World Cup,12,-1,0,Player_36,GK_22,right,0.35,0.76,0.484,media,right,goal
+FTB_0188,football,penalty,League,102,-1,0,Player_70,GK_24,left,0.7,0.32,0.696,media,left,goal
+FTB_0189,football,penalty,World Cup,60,-1,1,Player_21,GK_10,left,0.46,0.56,0.58,media,right,goal
+FTB_0190,football,penalty,World Cup,74,1,1,Player_58,GK_23,left,0.41,0.43,0.565,media,center,goal
+FTB_0191,football,penalty,World Cup,84,-1,1,Player_30,GK_26,right,0.58,0.72,0.656,media,right,goal
+FTB_0192,football,penalty,World Cup,85,1,0,Player_92,GK_27,right,0.45,0.66,0.632,media,left,goal
+FTB_0193,football,penalty,Champions,92,-2,0,Player_78,GK_28,right,0.61,0.95,0.709,alta,right,goal
+FTB_0194,football,penalty,Champions,46,-2,1,Player_70,GK_17,left,0.26,0.97,0.551,media,left,goal
+FTB_0195,football,penalty,World Cup,112,0,0,Player_74,GK_5,left,0.31,0.96,0.838,alta,right,goal
+FTB_0196,football,penalty,Champions,85,-1,1,Player_60,GK_12,right,0.68,0.36,0.623,media,right,saved
+FTB_0197,football,penalty,League,16,1,0,Player_92,GK_14,right,0.87,0.76,0.538,media,left,goal
+FTB_0198,football,penalty,League,30,-1,0,Player_21,GK_4,left,0.31,0.89,0.521,media,left,goal
+FTB_0199,football,penalty,League,38,0,0,Player_42,GK_26,right,0.82,0.54,0.577,media,right,goal
+FTB_0200,football,penalty,League,50,-2,0,Player_85,GK_12,right,0.88,0.65,0.57,media,left,goal
+FTB_0201,football,penalty,World Cup,42,-2,0,Player_98,GK_28,right,0.68,0.32,0.465,media,right,goal
+FTB_0202,football,penalty,World Cup,87,-2,1,Player_22,GK_16,right,0.54,0.85,0.674,media,right,goal
+FTB_0203,football,penalty,League,26,-1,1,Player_99,GK_19,right,0.43,0.62,0.499,media,left,goal
+FTB_0204,football,penalty,Champions,94,2,1,Player_92,GK_14,right,0.36,0.42,0.586,media,left,saved
+FTB_0205,football,penalty,World Cup,29,-2,1,Player_99,GK_6,right,0.7,0.69,0.518,media,left,goal
+FTB_0206,football,penalty,World Cup,45,-2,1,Player_85,GK_8,right,0.17,0.58,0.45,media,left,goal
+FTB_0207,football,penalty,Champions,96,-1,0,Player_40,GK_6,right,0.66,0.41,0.672,media,right,saved
+FTB_0208,football,penalty,Champions,17,-2,1,Player_19,GK_9,right,0.39,0.32,0.377,media,left,saved
+FTB_0209,football,penalty,League,96,-2,0,Player_27,GK_5,right,0.89,0.59,0.701,alta,left,saved
+FTB_0210,football,penalty,World Cup,67,-2,1,Player_50,GK_6,right,0.76,0.32,0.531,media,right,goal
+FTB_0211,football,penalty,Champions,85,1,1,Player_21,GK_28,right,0.82,0.99,0.78,alta,left,saved
+FTB_0212,football,penalty,Champions,99,-2,0,Player_69,GK_12,right,0.21,0.47,0.566,media,right,goal
+FTB_0213,football,penalty,League,57,0,1,Player_73,GK_20,right,0.2,0.74,0.604,media,right,goal
+FTB_0214,football,penalty,Champions,27,0,1,Player_14,GK_4,right,0.51,0.79,0.567,media,left,goal
+FTB_0215,football,penalty,League,105,-2,1,Player_46,GK_6,left,0.63,0.85,0.715,alta,right,goal
+FTB_0216,football,penalty,Champions,27,2,1,Player_87,GK_22,right,0.4,0.68,0.489,media,left,goal
+FTB_0217,football,penalty,World Cup,103,0,0,Player_19,GK_15,right,0.76,0.98,0.903,alta,right,goal
+FTB_0218,football,penalty,League,54,2,0,Player_99,GK_9,right,0.18,0.68,0.484,media,center,goal
+FTB_0219,football,penalty,League,36,-2,0,Player_55,GK_16,right,0.82,0.33,0.498,media,center,saved
+FTB_0220,football,penalty,World Cup,29,-2,0,Player_44,GK_1,right,0.44,0.5,0.427,media,center,goal
+FTB_0221,football,penalty,League,89,-2,1,Player_76,GK_22,left,0.64,0.94,0.72,alta,center,goal
+FTB_0222,football,penalty,League,52,-2,1,Player_55,GK_7,left,0.23,0.54,0.456,media,center,saved
+FTB_0223,football,penalty,World Cup,16,1,1,Player_87,GK_6,left,0.49,0.57,0.472,media,right,goal
+FTB_0224,football,penalty,World Cup,9,-2,0,Player_99,GK_8,left,0.13,0.3,0.307,baja,left,goal
+FTB_0225,football,penalty,World Cup,56,2,1,Player_39,GK_21,left,0.57,0.63,0.555,media,left,saved
+FTB_0226,football,penalty,League,53,-1,0,Player_39,GK_23,right,0.85,0.51,0.592,media,right,goal
+FTB_0227,football,penalty,League,105,2,1,Player_72,GK_8,left,0.14,0.77,0.635,media,left,goal
+FTB_0228,football,penalty,League,81,2,1,Player_87,GK_13,left,0.35,0.73,0.615,media,right,goal
+FTB_0229,football,penalty,League,100,-2,0,Player_28,GK_8,right,0.65,0.72,0.672,media,center,goal
+FTB_0230,football,penalty,League,90,-2,0,Player_77,GK_10,right,0.36,0.58,0.608,media,right,goal
+FTB_0231,football,penalty,Champions,60,0,0,Player_16,GK_8,right,0.59,0.94,0.721,alta,left,saved
+FTB_0232,football,penalty,World Cup,98,-2,0,Player_95,GK_25,right,0.34,0.6,0.615,media,left,goal
+FTB_0233,football,penalty,Champions,88,-2,1,Player_30,GK_28,right,0.41,0.35,0.567,media,left,goal
+FTB_0234,football,penalty,League,27,0,0,Player_33,GK_24,right,0.56,0.62,0.563,media,right,goal
+FTB_0235,football,penalty,Champions,45,1,1,Player_35,GK_11,right,0.21,0.6,0.522,media,left,goal
+FTB_0236,football,penalty,Champions,46,0,0,Player_31,GK_4,right,0.35,0.59,0.569,media,left,goal
+FTB_0237,football,penalty,Champions,20,-1,0,Player_64,GK_27,left,0.12,0.64,0.434,media,left,goal
+FTB_0238,football,penalty,World Cup,19,-1,0,Player_87,GK_6,right,0.22,0.52,0.421,media,right,goal
+FTB_0239,football,penalty,Champions,72,1,1,Player_69,GK_5,right,0.17,0.68,0.586,media,left,missed
+FTB_0240,football,penalty,League,57,2,1,Player_85,GK_14,right,0.71,0.68,0.602,media,left,goal
+FTB_0241,football,penalty,League,81,2,1,Player_11,GK_4,right,0.55,0.98,0.673,media,left,goal
+FTB_0242,football,penalty,World Cup,48,-2,0,Player_36,GK_22,right,0.34,0.81,0.526,media,center,goal
+FTB_0243,football,penalty,World Cup,27,0,0,Player_56,GK_20,left,0.68,0.94,0.634,media,left,saved
+FTB_0244,football,penalty,League,56,-1,0,Player_75,GK_1,left,0.22,0.96,0.601,media,center,saved
+FTB_0245,football,penalty,League,68,0,0,Player_4,GK_7,left,0.49,0.66,0.653,media,right,goal
+FTB_0246,football,penalty,League,115,-2,0,Player_69,GK_13,right,0.1,0.34,0.578,media,left,goal
+FTB_0247,football,penalty,Champions,117,2,1,Player_21,GK_16,right,0.12,0.95,0.697,media,right,goal
+FTB_0248,football,penalty,World Cup,98,-2,1,Player_71,GK_7,right,0.27,0.5,0.608,media,right,goal
+FTB_0249,football,penalty,League,5,1,0,Player_36,GK_3,right,0.69,0.88,0.514,media,right,goal
+FTB_0250,football,penalty,Champions,74,-2,1,Player_77,GK_13,right,0.32,0.81,0.603,media,left,goal
+FTB_0251,football,penalty,Champions,84,2,1,Player_66,GK_2,right,0.52,0.97,0.671,media,center,saved
+FTB_0252,football,penalty,League,85,1,0,Player_39,GK_1,right,0.42,0.9,0.684,media,left,goal
+FTB_0253,football,penalty,Champions,66,2,1,Player_10,GK_4,right,0.27,0.32,0.466,media,left,goal
+FTB_0254,football,penalty,Champions,75,1,0,Player_4,GK_13,right,0.52,0.75,0.65,media,left,goal
+FTB_0255,football,penalty,World Cup,110,-1,0,Player_57,GK_17,right,0.23,0.58,0.732,alta,right,goal
+FTB_0256,football,penalty,World Cup,61,-1,1,Player_29,GK_28,right,0.57,0.8,0.657,media,center,goal
+FTB_0257,football,penalty,League,12,-2,0,Player_70,GK_16,right,0.55,0.39,0.41,media,right,missed
+FTB_0258,football,penalty,Champions,112,0,0,Player_23,GK_21,right,0.65,0.36,0.776,alta,center,goal
+FTB_0259,football,penalty,League,86,2,0,Player_12,GK_5,right,0.32,0.43,0.529,media,right,goal
+FTB_0260,football,penalty,League,6,2,1,Player_71,GK_9,right,0.41,0.65,0.424,media,left,goal
+FTB_0261,football,penalty,World Cup,22,2,1,Player_87,GK_13,right,0.78,0.88,0.534,media,center,saved
+FTB_0262,football,penalty,Champions,4,-2,1,Player_65,GK_4,right,0.62,0.4,0.395,media,right,goal
+FTB_0263,football,penalty,Champions,10,0,0,Player_37,GK_6,right,0.15,0.56,0.415,media,left,saved
+FTB_0264,football,penalty,World Cup,40,-2,0,Player_25,GK_4,right,0.43,0.39,0.443,media,center,goal
+FTB_0265,football,penalty,League,5,-1,1,Player_53,GK_10,right,0.35,0.77,0.471,media,center,missed
+FTB_0266,football,penalty,World Cup,92,-2,1,Player_12,GK_16,right,0.31,0.38,0.531,media,right,goal
+FTB_0267,football,penalty,World Cup,68,2,1,Player_72,GK_13,right,0.88,0.75,0.67,media,right,saved
+FTB_0268,football,penalty,Champions,48,1,1,Player_90,GK_8,right,0.67,0.93,0.665,media,center,goal
+FTB_0269,football,penalty,Champions,113,2,1,Player_71,GK_10,right,0.62,0.67,0.717,alta,right,goal
+FTB_0270,football,penalty,League,108,-2,0,Player_65,GK_17,right,0.56,0.85,0.705,alta,center,goal
+FTB_0271,football,penalty,World Cup,114,1,0,Player_54,GK_1,right,0.15,0.68,0.739,alta,right,goal
+FTB_0272,football,penalty,Champions,115,0,1,Player_78,GK_10,left,0.38,0.83,0.859,alta,center,saved
+FTB_0273,football,penalty,World Cup,22,0,1,Player_11,GK_28,right,0.46,0.42,0.466,media,right,missed
+FTB_0274,football,penalty,League,79,-2,0,Player_89,GK_18,right,0.86,0.44,0.639,media,right,goal
+FTB_0275,football,penalty,World Cup,71,-1,1,Player_66,GK_2,left,0.25,0.99,0.665,media,right,missed
+FTB_0276,football,penalty,Champions,91,2,1,Player_93,GK_22,right,0.72,0.9,0.705,alta,center,saved
+FTB_0277,football,penalty,Champions,72,2,0,Player_72,GK_16,right,0.39,0.31,0.521,media,right,goal
+FTB_0278,football,penalty,League,11,2,0,Player_34,GK_19,right,0.42,0.47,0.406,media,right,goal
+FTB_0279,football,penalty,League,59,-2,1,Player_78,GK_17,right,0.4,0.83,0.569,media,right,missed
+FTB_0280,football,penalty,League,95,1,1,Player_59,GK_11,right,0.56,0.57,0.667,media,right,saved
+FTB_0281,football,penalty,League,90,2,1,Player_51,GK_21,right,0.24,0.33,0.545,media,right,goal
+FTB_0282,football,penalty,Champions,62,-1,1,Player_23,GK_10,left,0.22,0.89,0.599,media,right,goal
+FTB_0283,football,penalty,World Cup,107,-1,0,Player_68,GK_26,right,0.57,0.44,0.713,alta,right,goal
+FTB_0284,football,penalty,Champions,113,2,1,Player_67,GK_2,right,0.18,0.62,0.649,media,right,saved
+FTB_0285,football,penalty,World Cup,105,2,1,Player_54,GK_6,right,0.44,0.5,0.605,media,right,goal
+FTB_0286,football,penalty,Champions,7,-1,0,Player_36,GK_15,right,0.26,0.44,0.357,media,right,goal
+FTB_0287,football,penalty,Champions,50,2,1,Player_47,GK_22,right,0.34,0.6,0.487,media,right,goal
+FTB_0288,football,penalty,Champions,49,2,0,Player_9,GK_17,right,0.22,0.68,0.485,media,right,goal
+FTB_0289,football,penalty,World Cup,114,-1,0,Player_63,GK_25,right,0.39,0.64,0.781,alta,left,goal
+FTB_0290,football,penalty,League,21,-2,1,Player_39,GK_29,right,0.76,0.95,0.566,media,center,saved
+FTB_0291,football,penalty,World Cup,103,-2,0,Player_49,GK_12,right,0.14,0.32,0.526,media,right,goal
+FTB_0292,football,penalty,Champions,81,2,0,Player_83,GK_11,right,0.5,0.96,0.662,media,right,goal
+FTB_0293,football,penalty,World Cup,101,-1,0,Player_40,GK_19,right,0.77,0.73,0.781,alta,center,goal
+FTB_0294,football,penalty,League,52,2,0,Player_74,GK_25,right,0.79,0.8,0.592,media,center,goal
+FTB_0295,football,penalty,League,19,1,0,Player_16,GK_23,right,0.35,0.74,0.501,media,left,goal
+FTB_0296,football,penalty,World Cup,109,-1,1,Player_97,GK_5,right,0.23,0.47,0.673,media,left,goal
+FTB_0297,football,penalty,Champions,88,2,1,Player_47,GK_7,right,0.73,0.35,0.588,media,right,goal
+FTB_0298,football,penalty,World Cup,113,2,1,Player_82,GK_10,right,0.69,0.85,0.737,alta,right,goal
+FTB_0299,football,penalty,Champions,110,-1,1,Player_84,GK_9,right,0.88,0.62,0.797,alta,right,goal
+FTB_0300,football,penalty,Champions,25,-2,1,Player_22,GK_26,right,0.31,0.58,0.409,media,left,goal
+TEN_0001,tennis,serve,ATP 500,1,0,1,Player_12,Opp_26,right,0.29,0.48,0.497,media,center,returned
+TEN_0002,tennis,serve,Grand Slam,4,1,0,Player_49,Opp_10,right,0.86,0.68,0.741,alta,body,returned
+TEN_0003,tennis,serve,ATP 500,5,-1,1,Player_44,Opp_26,right,0.54,0.92,0.788,alta,wide,returned
+TEN_0004,tennis,serve,ATP 500,2,1,1,Player_35,Opp_47,left,0.61,0.69,0.606,media,center,returned
+TEN_0005,tennis,serve,ATP 500,1,1,1,Player_22,Opp_41,right,0.64,0.92,0.563,media,center,returned
+TEN_0006,tennis,serve,Masters 1000,2,0,1,Player_34,Opp_6,right,0.43,0.74,0.643,media,center,returned
+TEN_0007,tennis,serve,Masters 1000,1,-1,0,Player_37,Opp_29,left,0.74,0.71,0.541,media,body,ace
+TEN_0008,tennis,serve,Masters 1000,2,1,0,Player_22,Opp_43,right,0.82,0.75,0.652,media,center,fault
+TEN_0009,tennis,serve,ATP 500,1,-1,1,Player_28,Opp_31,right,0.12,1.0,0.529,media,wide,returned
+TEN_0010,tennis,serve,Masters 1000,4,0,1,Player_34,Opp_47,right,0.69,0.97,0.854,alta,center,returned
+TEN_0011,tennis,serve,Masters 1000,1,1,1,Player_49,Opp_7,right,0.35,0.43,0.411,media,center,returned
+TEN_0012,tennis,serve,Grand Slam,4,-1,1,Player_34,Opp_26,right,0.42,0.9,0.732,alta,body,returned
+TEN_0013,tennis,serve,Grand Slam,4,-1,1,Player_37,Opp_7,right,0.37,0.4,0.641,media,body,ace
+TEN_0014,tennis,serve,Masters 1000,0,-1,0,Player_37,Opp_6,right,0.28,0.48,0.376,media,center,returned
+TEN_0015,tennis,serve,Grand Slam,4,1,0,Player_28,Opp_14,right,0.16,0.51,0.575,media,wide,ace
+TEN_0016,tennis,serve,Masters 1000,4,-1,1,Player_26,Opp_49,right,0.87,0.87,0.777,alta,body,returned
+TEN_0017,tennis,serve,Masters 1000,2,0,1,Player_38,Opp_13,right,0.75,0.83,0.724,alta,body,returned
+TEN_0018,tennis,serve,Masters 1000,5,0,0,Player_6,Opp_37,right,0.72,0.91,0.916,alta,wide,returned
+TEN_0019,tennis,serve,ATP 500,0,-1,0,Player_48,Opp_24,right,0.35,0.98,0.491,media,center,returned
+TEN_0020,tennis,serve,Grand Slam,3,0,1,Player_35,Opp_11,right,0.88,0.9,0.838,alta,center,fault
+TEN_0021,tennis,serve,Grand Slam,1,-1,0,Player_11,Opp_10,right,0.19,0.74,0.493,media,center,returned
+TEN_0022,tennis,serve,Masters 1000,0,1,0,Player_23,Opp_34,right,0.48,0.61,0.448,media,wide,returned
+TEN_0023,tennis,serve,Masters 1000,3,-1,1,Player_47,Opp_23,right,0.12,0.92,0.623,media,body,returned
+TEN_0024,tennis,serve,ATP 500,4,1,1,Player_4,Opp_37,right,0.88,0.53,0.737,alta,center,fault
+TEN_0025,tennis,serve,Masters 1000,1,-1,0,Player_11,Opp_41,right,0.15,0.54,0.425,media,center,returned
+TEN_0026,tennis,serve,Grand Slam,2,-1,1,Player_13,Opp_41,right,0.31,0.47,0.511,media,body,returned
+TEN_0027,tennis,serve,Grand Slam,2,1,0,Player_39,Opp_42,right,0.8,0.81,0.656,media,wide,ace
+TEN_0028,tennis,serve,Masters 1000,2,-1,0,Player_32,Opp_44,right,0.25,0.94,0.572,media,wide,returned
+TEN_0029,tennis,serve,Grand Slam,1,-1,1,Player_22,Opp_4,right,0.29,0.75,0.479,media,wide,returned
+TEN_0030,tennis,serve,Masters 1000,2,-1,0,Player_25,Opp_30,right,0.36,0.41,0.486,media,wide,fault
+TEN_0031,tennis,serve,Masters 1000,3,0,0,Player_46,Opp_8,right,0.74,0.86,0.768,alta,center,returned
+TEN_0032,tennis,serve,ATP 500,3,-1,0,Player_11,Opp_35,right,0.88,0.88,0.71,alta,body,fault
+TEN_0033,tennis,serve,Grand Slam,3,-1,1,Player_13,Opp_40,left,0.21,0.5,0.579,media,center,returned
+TEN_0034,tennis,serve,Masters 1000,5,-1,1,Player_44,Opp_45,right,0.14,0.51,0.619,media,wide,returned
+TEN_0035,tennis,serve,ATP 500,1,1,0,Player_3,Opp_4,left,0.62,0.51,0.495,media,body,returned
+TEN_0036,tennis,serve,Masters 1000,1,-1,1,Player_23,Opp_14,right,0.14,0.96,0.512,media,center,returned
+TEN_0037,tennis,serve,Grand Slam,3,1,1,Player_43,Opp_28,right,0.65,0.5,0.617,media,body,fault
+TEN_0038,tennis,serve,Grand Slam,1,1,1,Player_6,Opp_29,right,0.87,0.73,0.572,media,center,returned
+TEN_0039,tennis,serve,Grand Slam,4,0,1,Player_2,Opp_1,left,0.7,0.7,0.836,alta,wide,returned
+TEN_0040,tennis,serve,Grand Slam,3,-1,0,Player_2,Opp_43,left,0.72,0.91,0.695,media,center,fault
+TEN_0041,tennis,serve,Grand Slam,4,0,1,Player_27,Opp_6,right,0.78,0.46,0.762,alta,body,returned
+TEN_0042,tennis,serve,ATP 500,4,-1,0,Player_21,Opp_22,right,0.57,0.56,0.655,media,center,fault
+TEN_0043,tennis,serve,Grand Slam,2,1,0,Player_25,Opp_32,right,0.87,0.62,0.646,media,body,fault
+TEN_0044,tennis,serve,Masters 1000,3,-1,1,Player_11,Opp_2,left,0.79,0.89,0.685,media,center,returned
+TEN_0045,tennis,serve,Grand Slam,5,0,0,Player_15,Opp_41,right,0.61,0.68,0.84,alta,center,returned
+TEN_0046,tennis,serve,Grand Slam,1,-1,0,Player_24,Opp_10,left,0.76,0.9,0.57,media,center,fault
+TEN_0047,tennis,serve,ATP 500,4,0,1,Player_3,Opp_34,right,0.89,0.9,0.898,alta,center,ace
+TEN_0048,tennis,serve,Grand Slam,4,-1,1,Player_5,Opp_43,left,0.59,0.88,0.745,alta,center,ace
+TEN_0049,tennis,serve,ATP 500,4,0,1,Player_37,Opp_16,left,0.41,0.46,0.72,alta,body,returned
+TEN_0050,tennis,serve,Masters 1000,4,-1,1,Player_40,Opp_8,right,0.15,0.84,0.652,media,body,returned
+TEN_0051,tennis,serve,Grand Slam,2,-1,0,Player_10,Opp_17,right,0.17,0.99,0.585,media,body,returned
+TEN_0052,tennis,serve,ATP 500,1,0,0,Player_45,Opp_5,right,0.58,0.48,0.548,media,body,returned
+TEN_0053,tennis,serve,Grand Slam,4,0,0,Player_33,Opp_43,right,0.55,0.63,0.776,alta,body,ace
+TEN_0054,tennis,serve,Grand Slam,2,0,1,Player_36,Opp_26,right,0.39,0.41,0.597,media,center,returned
+TEN_0055,tennis,serve,Grand Slam,3,-1,0,Player_38,Opp_33,right,0.7,0.41,0.609,media,body,returned
+TEN_0056,tennis,serve,ATP 500,2,1,1,Player_5,Opp_40,right,0.49,0.73,0.56,media,center,returned
+TEN_0057,tennis,serve,ATP 500,1,1,0,Player_11,Opp_34,right,0.33,0.57,0.449,media,center,returned
+TEN_0058,tennis,serve,ATP 500,4,1,0,Player_6,Opp_4,right,0.31,0.72,0.616,media,wide,returned
+TEN_0059,tennis,serve,Grand Slam,3,0,0,Player_3,Opp_25,right,0.25,0.95,0.76,alta,body,returned
+TEN_0060,tennis,serve,Masters 1000,2,-1,0,Player_38,Opp_2,right,0.29,0.75,0.566,media,wide,returned
+TEN_0061,tennis,serve,Masters 1000,5,0,0,Player_18,Opp_42,right,0.43,0.84,0.846,alta,center,ace
+TEN_0062,tennis,serve,ATP 500,2,0,0,Player_24,Opp_6,right,0.22,0.59,0.596,media,wide,ace
+TEN_0063,tennis,serve,ATP 500,0,0,1,Player_1,Opp_21,right,0.82,0.43,0.552,media,body,returned
+TEN_0064,tennis,serve,Grand Slam,3,-1,0,Player_34,Opp_15,right,0.42,0.97,0.69,media,wide,returned
+TEN_0065,tennis,serve,Masters 1000,0,1,0,Player_8,Opp_31,left,0.18,0.72,0.419,media,wide,fault
+TEN_0066,tennis,serve,Masters 1000,2,1,0,Player_48,Opp_48,right,0.27,0.52,0.466,media,center,returned
+TEN_0067,tennis,serve,Grand Slam,1,1,0,Player_5,Opp_32,right,0.84,0.78,0.609,media,body,fault
+TEN_0068,tennis,serve,ATP 500,5,0,0,Player_1,Opp_12,right,0.76,0.86,0.898,alta,center,returned
+TEN_0069,tennis,serve,Grand Slam,5,0,0,Player_19,Opp_2,right,0.45,0.66,0.835,alta,body,returned
+TEN_0070,tennis,serve,Grand Slam,1,-1,0,Player_42,Opp_46,right,0.41,0.8,0.497,media,wide,returned
+TEN_0071,tennis,serve,Grand Slam,1,-1,0,Player_40,Opp_23,right,0.13,0.71,0.467,media,wide,ace
+TEN_0072,tennis,serve,Masters 1000,1,0,0,Player_27,Opp_19,right,0.59,0.67,0.599,media,body,ace
+TEN_0073,tennis,serve,Masters 1000,3,-1,0,Player_26,Opp_13,left,0.85,0.82,0.736,alta,body,returned
+TEN_0074,tennis,serve,Grand Slam,0,1,1,Player_36,Opp_38,left,0.69,0.73,0.497,media,body,fault
+TEN_0075,tennis,serve,Masters 1000,4,-1,1,Player_23,Opp_39,right,0.69,0.56,0.704,alta,body,returned
+TEN_0076,tennis,serve,ATP 500,3,1,1,Player_15,Opp_23,right,0.37,0.44,0.523,media,body,returned
+TEN_0077,tennis,serve,Grand Slam,2,0,1,Player_4,Opp_42,right,0.51,0.85,0.686,media,center,returned
+TEN_0078,tennis,serve,ATP 500,4,1,0,Player_19,Opp_20,right,0.8,0.69,0.731,alta,center,returned
+TEN_0079,tennis,serve,ATP 500,3,-1,0,Player_9,Opp_41,right,0.76,0.76,0.708,alta,body,fault
+TEN_0080,tennis,serve,Grand Slam,2,1,0,Player_39,Opp_32,right,0.59,0.43,0.518,media,wide,returned
+TEN_0081,tennis,serve,Grand Slam,5,-1,0,Player_19,Opp_29,right,0.29,0.42,0.632,media,center,returned
+TEN_0082,tennis,serve,Masters 1000,4,0,1,Player_39,Opp_49,left,0.33,0.5,0.699,media,center,returned
+TEN_0083,tennis,serve,Masters 1000,1,-1,1,Player_30,Opp_2,left,0.52,0.46,0.444,media,body,returned
+TEN_0084,tennis,serve,Masters 1000,2,0,1,Player_42,Opp_11,right,0.7,0.58,0.695,media,wide,returned
+TEN_0085,tennis,serve,Grand Slam,3,1,0,Player_42,Opp_17,right,0.74,0.44,0.622,media,wide,returned
+TEN_0086,tennis,serve,ATP 500,1,0,0,Player_30,Opp_31,right,0.75,0.52,0.61,media,body,fault
+TEN_0087,tennis,serve,Grand Slam,1,-1,0,Player_22,Opp_28,right,0.64,0.57,0.512,media,center,fault
+TEN_0088,tennis,serve,ATP 500,1,1,0,Player_42,Opp_17,right,0.14,0.52,0.382,media,center,ace
+TEN_0089,tennis,serve,Masters 1000,4,1,0,Player_8,Opp_5,left,0.87,0.67,0.731,alta,wide,returned
+TEN_0090,tennis,serve,ATP 500,0,0,0,Player_7,Opp_43,right,0.15,0.53,0.467,media,wide,returned
+TEN_0091,tennis,serve,ATP 500,2,-1,1,Player_14,Opp_25,right,0.32,0.9,0.58,media,body,ace
+TEN_0092,tennis,serve,Grand Slam,4,1,1,Player_35,Opp_6,right,0.36,0.72,0.673,media,wide,returned
+TEN_0093,tennis,serve,Masters 1000,2,-1,0,Player_13,Opp_49,right,0.19,0.87,0.578,media,wide,returned
+TEN_0094,tennis,serve,Grand Slam,0,0,1,Player_8,Opp_30,right,0.68,0.95,0.629,media,body,returned
+TEN_0095,tennis,serve,Masters 1000,1,0,1,Player_14,Opp_3,right,0.29,0.8,0.576,media,wide,returned
+TEN_0096,tennis,serve,Masters 1000,5,1,1,Player_26,Opp_35,right,0.74,0.93,0.799,alta,body,returned
+TEN_0097,tennis,serve,ATP 500,2,0,0,Player_2,Opp_25,right,0.12,0.96,0.641,media,wide,returned
+TEN_0098,tennis,serve,ATP 500,1,-1,0,Player_41,Opp_22,right,0.1,0.91,0.507,media,body,returned
+TEN_0099,tennis,serve,Grand Slam,1,0,0,Player_41,Opp_12,right,0.83,0.7,0.682,media,body,returned
+TEN_0100,tennis,serve,Masters 1000,1,-1,0,Player_37,Opp_22,right,0.66,0.49,0.518,media,body,returned
+TEN_0101,tennis,serve,ATP 500,2,-1,0,Player_37,Opp_29,right,0.36,0.8,0.582,media,center,returned
+TEN_0102,tennis,serve,ATP 500,5,0,0,Player_35,Opp_15,right,0.26,0.74,0.786,alta,wide,returned
+TEN_0103,tennis,serve,Masters 1000,1,0,0,Player_9,Opp_16,right,0.72,0.42,0.55,media,center,returned
+TEN_0104,tennis,serve,Grand Slam,3,1,1,Player_33,Opp_24,left,0.18,0.98,0.618,media,center,returned
+TEN_0105,tennis,serve,Grand Slam,2,-1,0,Player_1,Opp_31,right,0.77,0.73,0.59,media,body,ace
+TEN_0106,tennis,serve,ATP 500,2,1,1,Player_14,Opp_7,right,0.19,0.42,0.476,media,center,returned
+TEN_0107,tennis,serve,Masters 1000,4,1,1,Player_37,Opp_21,right,0.3,0.47,0.652,media,body,returned
+TEN_0108,tennis,serve,ATP 500,3,-1,1,Player_4,Opp_45,right,0.73,0.89,0.677,media,body,ace
+TEN_0109,tennis,serve,Grand Slam,4,-1,1,Player_46,Opp_30,right,0.6,0.94,0.764,alta,wide,returned
+TEN_0110,tennis,serve,Grand Slam,3,-1,1,Player_25,Opp_17,right,0.83,0.68,0.692,media,wide,returned
+TEN_0111,tennis,serve,Masters 1000,2,0,0,Player_14,Opp_33,right,0.48,0.82,0.669,media,center,ace
+TEN_0112,tennis,serve,Grand Slam,0,-1,0,Player_3,Opp_27,right,0.62,0.78,0.481,media,body,returned
+TEN_0113,tennis,serve,Masters 1000,3,0,1,Player_42,Opp_31,left,0.39,0.52,0.661,media,wide,returned
+TEN_0114,tennis,serve,Grand Slam,2,1,1,Player_3,Opp_3,right,0.67,0.57,0.565,media,body,returned
+TEN_0115,tennis,serve,Masters 1000,3,0,1,Player_11,Opp_23,right,0.38,0.7,0.706,alta,wide,returned
+TEN_0116,tennis,serve,Grand Slam,1,-1,0,Player_20,Opp_46,left,0.74,0.49,0.517,media,body,returned
+TEN_0117,tennis,serve,Masters 1000,1,-1,0,Player_18,Opp_11,right,0.76,0.81,0.541,media,wide,returned
+TEN_0118,tennis,serve,ATP 500,2,-1,1,Player_9,Opp_10,right,0.44,0.65,0.558,media,wide,fault
+TEN_0119,tennis,serve,Grand Slam,1,1,0,Player_23,Opp_7,right,0.71,0.42,0.469,media,body,returned
+TEN_0120,tennis,serve,ATP 500,5,0,1,Player_14,Opp_1,right,0.85,0.62,0.87,alta,center,returned
+TEN_0121,tennis,serve,Grand Slam,4,0,0,Player_5,Opp_40,right,0.67,0.97,0.869,alta,wide,returned
+TEN_0122,tennis,serve,Masters 1000,2,1,1,Player_39,Opp_43,right,0.41,0.41,0.529,media,center,returned
+TEN_0123,tennis,serve,Grand Slam,5,0,0,Player_31,Opp_28,left,0.47,0.52,0.801,alta,wide,returned
+TEN_0124,tennis,serve,ATP 500,5,1,1,Player_29,Opp_25,right,0.59,0.53,0.739,alta,center,returned
+TEN_0125,tennis,serve,Masters 1000,4,-1,1,Player_21,Opp_22,right,0.89,0.69,0.722,alta,body,returned
+TEN_0126,tennis,serve,Grand Slam,4,1,0,Player_21,Opp_16,right,0.42,0.55,0.64,media,center,ace
+TEN_0127,tennis,serve,Grand Slam,1,1,1,Player_23,Opp_12,right,0.17,0.87,0.487,media,center,returned
+TEN_0128,tennis,serve,Masters 1000,2,0,0,Player_20,Opp_38,left,0.33,0.73,0.661,media,body,ace
+TEN_0129,tennis,serve,Grand Slam,5,0,1,Player_40,Opp_38,right,0.77,0.79,0.857,alta,center,fault
+TEN_0130,tennis,serve,ATP 500,5,-1,1,Player_10,Opp_39,right,0.89,0.84,0.817,alta,body,returned
+TEN_0131,tennis,serve,Masters 1000,3,1,0,Player_1,Opp_9,right,0.49,0.95,0.663,media,center,returned
+TEN_0132,tennis,serve,Masters 1000,1,1,0,Player_18,Opp_27,right,0.24,1.0,0.559,media,center,fault
+TEN_0133,tennis,serve,Grand Slam,3,-1,1,Player_38,Opp_38,right,0.2,0.93,0.618,media,wide,returned
+TEN_0134,tennis,serve,Grand Slam,2,-1,0,Player_33,Opp_23,right,0.25,0.79,0.586,media,center,returned
+TEN_0135,tennis,serve,Masters 1000,3,0,0,Player_9,Opp_5,right,0.52,0.45,0.678,media,wide,returned
+TEN_0136,tennis,serve,ATP 500,3,1,1,Player_21,Opp_5,right,0.39,0.76,0.617,media,center,returned
+TEN_0137,tennis,serve,Grand Slam,4,1,1,Player_8,Opp_35,left,0.54,0.78,0.711,alta,wide,returned
+TEN_0138,tennis,serve,Grand Slam,2,1,1,Player_42,Opp_12,left,0.47,0.95,0.616,media,center,returned
+TEN_0139,tennis,serve,Grand Slam,3,1,0,Player_40,Opp_3,right,0.62,0.94,0.685,media,wide,returned
+TEN_0140,tennis,serve,ATP 500,1,-1,1,Player_29,Opp_2,left,0.73,0.52,0.498,media,body,fault
+TEN_0141,tennis,serve,Masters 1000,5,-1,0,Player_11,Opp_17,left,0.69,0.48,0.721,alta,body,returned
+TEN_0142,tennis,serve,Masters 1000,2,0,1,Player_42,Opp_4,right,0.17,0.72,0.617,media,body,ace
+TEN_0143,tennis,serve,Grand Slam,3,0,0,Player_11,Opp_2,right,0.19,0.42,0.617,media,body,returned
+TEN_0144,tennis,serve,Masters 1000,4,-1,0,Player_48,Opp_25,right,0.41,0.43,0.598,media,center,returned
+TEN_0145,tennis,serve,Masters 1000,4,1,1,Player_11,Opp_41,right,0.21,0.62,0.617,media,body,returned
+TEN_0146,tennis,serve,Grand Slam,3,-1,0,Player_9,Opp_30,right,0.22,0.88,0.608,media,center,returned
+TEN_0147,tennis,serve,Masters 1000,3,0,0,Player_44,Opp_32,right,0.55,0.79,0.714,alta,body,returned
+TEN_0148,tennis,serve,Masters 1000,4,1,0,Player_20,Opp_2,right,0.24,0.95,0.717,alta,center,returned
+TEN_0149,tennis,serve,Masters 1000,2,1,0,Player_27,Opp_22,left,0.76,0.71,0.601,media,center,returned
+TEN_0150,tennis,serve,Masters 1000,2,0,0,Player_12,Opp_12,right,0.61,0.82,0.664,media,wide,fault
+TEN_0151,tennis,serve,Grand Slam,2,-1,1,Player_32,Opp_18,left,0.78,0.72,0.586,media,body,returned
+TEN_0152,tennis,serve,ATP 500,0,0,0,Player_15,Opp_29,right,0.34,0.43,0.462,media,center,returned
+TEN_0153,tennis,serve,ATP 500,2,1,0,Player_32,Opp_27,right,0.58,0.43,0.529,media,body,returned
+TEN_0154,tennis,serve,ATP 500,2,-1,0,Player_40,Opp_30,right,0.31,0.8,0.58,media,center,returned
+TEN_0155,tennis,serve,ATP 500,3,1,0,Player_16,Opp_30,right,0.2,0.95,0.613,media,wide,ace
+TEN_0156,tennis,serve,Grand Slam,2,-1,0,Player_46,Opp_43,left,0.12,0.61,0.484,media,center,returned
+TEN_0157,tennis,serve,ATP 500,1,0,1,Player_9,Opp_28,right,0.77,0.87,0.672,media,wide,fault
+TEN_0158,tennis,serve,Masters 1000,5,-1,0,Player_28,Opp_25,right,0.33,0.83,0.742,alta,wide,returned
+TEN_0159,tennis,serve,Grand Slam,3,1,0,Player_25,Opp_7,right,0.1,0.91,0.621,media,center,returned
+TEN_0160,tennis,serve,ATP 500,4,1,0,Player_23,Opp_20,right,0.28,0.77,0.679,media,center,returned
+TEN_0161,tennis,serve,Grand Slam,1,-1,0,Player_34,Opp_31,right,0.61,0.8,0.567,media,wide,ace
+TEN_0162,tennis,serve,Masters 1000,1,0,1,Player_12,Opp_29,right,0.67,0.54,0.56,media,center,ace
+TEN_0163,tennis,serve,ATP 500,1,-1,0,Player_17,Opp_14,right,0.12,0.71,0.495,media,body,ace
+TEN_0164,tennis,serve,ATP 500,2,0,1,Player_17,Opp_4,left,0.6,0.47,0.65,media,center,fault
+TEN_0165,tennis,serve,ATP 500,3,1,0,Player_49,Opp_10,right,0.71,0.92,0.714,alta,wide,fault
+TEN_0166,tennis,serve,Grand Slam,4,0,0,Player_42,Opp_14,right,0.11,0.84,0.735,alta,center,returned
+TEN_0167,tennis,serve,Masters 1000,0,1,1,Player_9,Opp_23,right,0.16,0.57,0.374,media,center,returned
+TEN_0168,tennis,serve,Masters 1000,2,1,1,Player_36,Opp_14,right,0.58,0.55,0.514,media,wide,returned
+TEN_0169,tennis,serve,Grand Slam,2,-1,1,Player_12,Opp_26,left,0.13,0.4,0.467,media,wide,returned
+TEN_0170,tennis,serve,Masters 1000,2,-1,0,Player_13,Opp_9,right,0.51,0.78,0.615,media,center,ace
+TEN_0171,tennis,serve,ATP 500,4,0,1,Player_27,Opp_27,right,0.7,0.46,0.734,alta,center,returned
+TEN_0172,tennis,serve,ATP 500,5,0,1,Player_17,Opp_49,right,0.77,0.98,0.926,alta,body,ace
+TEN_0173,tennis,serve,Masters 1000,0,0,1,Player_42,Opp_20,right,0.3,0.81,0.554,media,body,fault
+TEN_0174,tennis,serve,Masters 1000,3,-1,1,Player_36,Opp_35,right,0.51,0.88,0.651,media,body,fault
+TEN_0175,tennis,serve,Grand Slam,1,0,0,Player_25,Opp_33,right,0.72,0.79,0.654,media,body,returned
+TEN_0176,tennis,serve,ATP 500,3,0,0,Player_27,Opp_36,right,0.15,0.49,0.639,media,center,returned
+TEN_0177,tennis,serve,Grand Slam,3,0,1,Player_28,Opp_24,right,0.88,0.65,0.778,alta,body,ace
+TEN_0178,tennis,serve,Grand Slam,2,1,1,Player_13,Opp_38,right,0.81,0.69,0.632,media,center,returned
+TEN_0179,tennis,serve,ATP 500,4,-1,1,Player_7,Opp_44,left,0.6,0.76,0.746,alta,body,returned
+TEN_0180,tennis,serve,ATP 500,1,-1,1,Player_24,Opp_11,right,0.63,0.79,0.513,media,center,returned
+TEN_0181,tennis,serve,Masters 1000,1,-1,1,Player_25,Opp_20,right,0.52,0.64,0.515,media,wide,returned
+TEN_0182,tennis,serve,Grand Slam,3,1,0,Player_37,Opp_44,right,0.32,0.49,0.539,media,center,fault
+TEN_0183,tennis,serve,Masters 1000,4,0,1,Player_8,Opp_24,left,0.73,0.67,0.806,alta,body,fault
+TEN_0184,tennis,serve,ATP 500,3,0,0,Player_8,Opp_35,right,0.22,0.46,0.633,media,body,returned
+TEN_0185,tennis,serve,ATP 500,2,1,0,Player_22,Opp_27,right,0.68,0.41,0.515,media,center,returned
+TEN_0186,tennis,serve,Grand Slam,5,1,1,Player_13,Opp_29,right,0.89,0.66,0.767,alta,wide,returned
+TEN_0187,tennis,serve,Grand Slam,3,1,1,Player_49,Opp_29,right,0.83,0.79,0.66,media,body,returned
+TEN_0188,tennis,serve,ATP 500,4,1,0,Player_3,Opp_24,right,0.52,0.82,0.723,alta,wide,returned
+TEN_0189,tennis,serve,ATP 500,3,-1,0,Player_44,Opp_19,right,0.34,0.6,0.576,media,body,fault
+TEN_0190,tennis,serve,Grand Slam,0,1,1,Player_32,Opp_17,right,0.83,0.62,0.501,media,wide,returned
+TEN_0191,tennis,serve,ATP 500,4,1,0,Player_2,Opp_3,right,0.54,0.59,0.673,media,wide,fault
+TEN_0192,tennis,serve,ATP 500,4,1,1,Player_44,Opp_36,right,0.5,0.7,0.642,media,center,ace
+TEN_0193,tennis,serve,ATP 500,3,1,0,Player_11,Opp_32,left,0.64,0.65,0.67,media,body,returned
+TEN_0194,tennis,serve,Grand Slam,3,0,0,Player_26,Opp_3,right,0.2,0.77,0.693,media,center,fault
+TEN_0195,tennis,serve,Masters 1000,3,-1,1,Player_48,Opp_43,right,0.28,0.4,0.557,media,wide,fault
+TEN_0196,tennis,serve,Masters 1000,4,1,0,Player_27,Opp_48,right,0.68,0.62,0.727,alta,body,returned
+TEN_0197,tennis,serve,ATP 500,1,1,0,Player_12,Opp_26,right,0.67,0.91,0.576,media,body,returned
+TEN_0198,tennis,serve,Grand Slam,2,1,1,Player_4,Opp_26,right,0.5,0.41,0.511,media,wide,returned
+TEN_0199,tennis,serve,ATP 500,5,0,1,Player_25,Opp_27,right,0.48,0.98,0.89,alta,wide,returned
+TEN_0200,tennis,serve,ATP 500,3,1,0,Player_27,Opp_24,right,0.39,0.84,0.645,media,body,fault
+TEN_0201,tennis,serve,ATP 500,2,1,0,Player_14,Opp_25,right,0.6,0.59,0.52,media,center,ace
+TEN_0202,tennis,serve,Grand Slam,4,1,0,Player_1,Opp_7,right,0.72,0.65,0.7,alta,body,returned
+TEN_0203,tennis,serve,Masters 1000,5,1,0,Player_30,Opp_8,right,0.21,0.71,0.702,alta,wide,ace
+TEN_0204,tennis,serve,Masters 1000,3,-1,0,Player_4,Opp_41,left,0.12,0.44,0.554,media,center,fault
+TEN_0205,tennis,serve,Grand Slam,3,1,1,Player_21,Opp_33,right,0.85,0.8,0.699,media,wide,fault
+TEN_0206,tennis,serve,Grand Slam,3,-1,1,Player_5,Opp_5,right,0.72,0.65,0.64,media,wide,returned
+TEN_0207,tennis,serve,ATP 500,3,0,1,Player_11,Opp_11,right,0.12,0.83,0.708,alta,body,returned
+TEN_0208,tennis,serve,Grand Slam,0,-1,1,Player_3,Opp_16,right,0.48,0.53,0.421,media,wide,returned
+TEN_0209,tennis,serve,Masters 1000,5,0,1,Player_37,Opp_40,right,0.42,0.63,0.816,alta,center,fault
+TEN_0210,tennis,serve,Grand Slam,2,0,0,Player_33,Opp_35,right,0.48,0.89,0.733,alta,body,returned
+TEN_0211,tennis,serve,ATP 500,3,0,1,Player_24,Opp_20,left,0.55,0.48,0.693,media,center,returned
+TEN_0212,tennis,serve,Masters 1000,1,1,0,Player_48,Opp_13,right,0.42,0.48,0.473,media,wide,returned
+TEN_0213,tennis,serve,Masters 1000,2,-1,1,Player_35,Opp_30,right,0.77,0.79,0.635,media,body,fault
+TEN_0214,tennis,serve,ATP 500,3,1,0,Player_38,Opp_5,right,0.73,0.62,0.666,media,center,returned
+TEN_0215,tennis,serve,ATP 500,5,-1,1,Player_18,Opp_29,right,0.87,0.55,0.778,alta,wide,ace
+TEN_0216,tennis,serve,ATP 500,2,1,1,Player_26,Opp_21,left,0.23,0.76,0.524,media,body,fault
+TEN_0217,tennis,serve,Grand Slam,2,-1,1,Player_27,Opp_23,right,0.67,0.64,0.555,media,center,fault
+TEN_0218,tennis,serve,ATP 500,2,0,1,Player_3,Opp_34,right,0.89,0.49,0.701,alta,center,returned
+TEN_0219,tennis,serve,Masters 1000,2,1,1,Player_37,Opp_25,right,0.25,0.78,0.569,media,wide,returned
+TEN_0220,tennis,serve,ATP 500,1,1,1,Player_21,Opp_11,right,0.43,0.66,0.501,media,center,returned
+TEN_0221,tennis,serve,ATP 500,1,1,0,Player_27,Opp_9,right,0.11,0.65,0.449,media,center,fault
+TEN_0222,tennis,serve,Grand Slam,5,1,1,Player_25,Opp_38,right,0.72,0.6,0.762,alta,wide,returned
+TEN_0223,tennis,serve,Masters 1000,3,1,0,Player_3,Opp_35,right,0.83,0.86,0.731,alta,wide,ace
+TEN_0224,tennis,serve,Grand Slam,0,1,1,Player_17,Opp_27,right,0.66,0.71,0.501,media,center,fault
+TEN_0225,tennis,serve,Masters 1000,3,1,0,Player_38,Opp_44,right,0.22,0.54,0.568,media,wide,fault
+TEN_0226,tennis,serve,Masters 1000,5,1,0,Player_30,Opp_15,right,0.7,0.98,0.796,alta,center,returned
+TEN_0227,tennis,serve,Grand Slam,1,0,0,Player_22,Opp_30,right,0.79,0.88,0.715,alta,body,fault
+TEN_0228,tennis,serve,Masters 1000,2,0,1,Player_8,Opp_24,right,0.45,0.77,0.665,media,center,returned
+TEN_0229,tennis,serve,Grand Slam,4,1,0,Player_44,Opp_31,right,0.42,0.83,0.723,alta,wide,returned
+TEN_0230,tennis,serve,Masters 1000,3,0,0,Player_3,Opp_18,right,0.38,0.46,0.644,media,center,returned
+TEN_0231,tennis,serve,Grand Slam,5,0,0,Player_37,Opp_13,right,0.77,0.93,0.944,alta,body,returned
+TEN_0232,tennis,serve,Masters 1000,0,1,0,Player_14,Opp_5,left,0.74,0.67,0.491,media,body,ace
+TEN_0233,tennis,serve,ATP 500,1,1,0,Player_43,Opp_4,right,0.14,0.51,0.438,media,body,ace
+TEN_0234,tennis,serve,ATP 500,4,-1,1,Player_37,Opp_49,right,0.57,0.44,0.629,media,body,returned
+TEN_0235,tennis,serve,Grand Slam,1,-1,0,Player_43,Opp_6,right,0.63,0.48,0.467,media,wide,ace
+TEN_0236,tennis,serve,ATP 500,1,1,1,Player_26,Opp_5,right,0.75,0.71,0.522,media,body,returned
+TEN_0237,tennis,serve,ATP 500,5,-1,1,Player_30,Opp_45,right,0.43,0.66,0.7,alta,wide,ace
+TEN_0238,tennis,serve,Grand Slam,1,-1,0,Player_12,Opp_7,right,0.82,0.84,0.594,media,wide,returned
+TEN_0239,tennis,serve,ATP 500,2,1,1,Player_3,Opp_3,right,0.82,0.59,0.61,media,body,ace
+TEN_0240,tennis,serve,ATP 500,0,0,0,Player_2,Opp_47,right,0.61,0.89,0.602,media,center,returned
+TEN_0241,tennis,serve,Masters 1000,0,1,1,Player_14,Opp_3,right,0.4,0.6,0.454,media,wide,returned
+TEN_0242,tennis,serve,ATP 500,0,0,0,Player_1,Opp_6,right,0.38,0.75,0.559,media,center,returned
+TEN_0243,tennis,serve,ATP 500,2,-1,1,Player_48,Opp_49,right,0.27,0.58,0.528,media,wide,returned
+TEN_0244,tennis,serve,Grand Slam,4,1,0,Player_9,Opp_49,right,0.26,0.45,0.641,media,center,fault
+TEN_0245,tennis,serve,ATP 500,4,-1,1,Player_49,Opp_2,right,0.34,0.54,0.643,media,wide,fault
+TEN_0246,tennis,serve,Masters 1000,2,1,1,Player_7,Opp_27,right,0.73,0.49,0.562,media,body,fault
+TEN_0247,tennis,serve,Grand Slam,4,-1,0,Player_22,Opp_42,left,0.73,0.63,0.695,media,wide,returned
+TEN_0248,tennis,serve,ATP 500,1,0,0,Player_43,Opp_20,right,0.47,0.78,0.602,media,center,returned
+TEN_0249,tennis,serve,Grand Slam,0,1,0,Player_15,Opp_27,right,0.79,0.43,0.458,media,body,returned
+TEN_0250,tennis,serve,ATP 500,1,0,0,Player_3,Opp_34,right,0.38,0.59,0.581,media,center,fault
+TEN_0251,tennis,serve,Masters 1000,0,0,1,Player_18,Opp_9,right,0.52,0.98,0.622,media,center,returned
+TEN_0252,tennis,serve,Grand Slam,3,1,1,Player_38,Opp_34,left,0.88,0.97,0.767,alta,center,returned
+TEN_0253,tennis,serve,ATP 500,4,-1,0,Player_36,Opp_37,right,0.45,0.53,0.681,media,wide,returned
+TEN_0254,tennis,serve,Grand Slam,5,-1,1,Player_31,Opp_48,right,0.27,0.8,0.719,alta,body,returned
+TEN_0255,tennis,serve,ATP 500,4,1,0,Player_21,Opp_46,right,0.39,0.81,0.683,media,wide,ace
+TEN_0256,tennis,serve,Grand Slam,5,1,0,Player_22,Opp_40,right,0.78,0.44,0.739,alta,body,fault
+TEN_0257,tennis,serve,ATP 500,5,-1,1,Player_38,Opp_24,right,0.11,0.56,0.641,media,wide,returned
+TEN_0258,tennis,serve,ATP 500,2,-1,0,Player_43,Opp_3,right,0.15,0.55,0.463,media,body,returned
+TEN_0259,tennis,serve,ATP 500,4,1,1,Player_18,Opp_48,right,0.72,0.44,0.669,media,body,returned
+TEN_0260,tennis,serve,Grand Slam,4,-1,0,Player_23,Opp_23,right,0.29,0.92,0.701,alta,center,fault
+TEN_0261,tennis,serve,ATP 500,4,1,1,Player_17,Opp_24,right,0.47,0.72,0.693,media,wide,returned
+TEN_0262,tennis,serve,ATP 500,1,0,1,Player_8,Opp_38,right,0.62,0.84,0.654,media,center,returned
+TEN_0263,tennis,serve,Masters 1000,1,1,1,Player_36,Opp_40,right,0.42,0.56,0.456,media,wide,returned
+TEN_0264,tennis,serve,Grand Slam,5,0,1,Player_39,Opp_36,right,0.18,0.88,0.83,alta,wide,fault
+TEN_0265,tennis,serve,ATP 500,4,0,0,Player_32,Opp_34,right,0.17,0.81,0.768,alta,center,returned
+TEN_0266,tennis,serve,Grand Slam,0,-1,0,Player_48,Opp_43,right,0.46,0.53,0.4,media,center,returned
+TEN_0267,tennis,serve,Grand Slam,4,1,1,Player_24,Opp_5,right,0.59,0.66,0.701,alta,body,fault
+TEN_0268,tennis,serve,ATP 500,4,1,0,Player_25,Opp_6,left,0.78,0.55,0.684,media,body,fault
+TEN_0269,tennis,serve,Grand Slam,1,0,1,Player_9,Opp_4,right,0.42,0.55,0.562,media,center,returned
+TEN_0270,tennis,serve,ATP 500,2,-1,1,Player_15,Opp_38,right,0.52,0.9,0.565,media,wide,returned
+TEN_0271,tennis,serve,Grand Slam,4,0,1,Player_17,Opp_26,right,0.4,0.93,0.815,alta,body,returned
+TEN_0272,tennis,serve,ATP 500,2,0,1,Player_48,Opp_6,right,0.81,0.89,0.783,alta,center,returned
+TEN_0273,tennis,serve,ATP 500,1,0,1,Player_28,Opp_25,right,0.14,0.48,0.515,media,body,returned
+TEN_0274,tennis,serve,Grand Slam,2,1,0,Player_46,Opp_2,right,0.83,0.99,0.677,media,center,returned
+TEN_0275,tennis,serve,Masters 1000,0,0,0,Player_20,Opp_38,right,0.58,0.79,0.601,media,body,returned
+TEN_0276,tennis,serve,Grand Slam,0,0,0,Player_7,Opp_20,right,0.11,0.84,0.542,media,wide,returned
+TEN_0277,tennis,serve,Grand Slam,4,-1,0,Player_17,Opp_14,left,0.74,0.77,0.756,alta,body,fault
+TEN_0278,tennis,serve,ATP 500,0,1,0,Player_49,Opp_48,right,0.3,0.59,0.428,media,center,returned
+TEN_0279,tennis,serve,ATP 500,5,1,1,Player_25,Opp_20,right,0.68,0.64,0.76,alta,center,returned
+TEN_0280,tennis,serve,Grand Slam,1,-1,1,Player_2,Opp_6,right,0.86,0.78,0.585,media,body,ace
+TEN_0281,tennis,serve,Masters 1000,4,0,0,Player_9,Opp_7,right,0.65,0.41,0.735,alta,body,returned
+TEN_0282,tennis,serve,Grand Slam,1,1,1,Player_29,Opp_26,right,0.18,0.57,0.436,media,wide,returned
+TEN_0283,tennis,serve,Grand Slam,1,0,0,Player_11,Opp_32,right,0.84,0.78,0.704,alta,center,fault
+TEN_0284,tennis,serve,Grand Slam,3,1,1,Player_24,Opp_38,right,0.32,0.59,0.54,media,wide,ace
+TEN_0285,tennis,serve,ATP 500,1,0,0,Player_49,Opp_34,right,0.11,0.94,0.58,media,center,returned
+TEN_0286,tennis,serve,Masters 1000,4,-1,1,Player_43,Opp_11,right,0.86,0.66,0.741,alta,body,fault
+TEN_0287,tennis,serve,Grand Slam,5,1,0,Player_3,Opp_27,right,0.56,0.91,0.763,alta,body,returned
+TEN_0288,tennis,serve,ATP 500,5,0,1,Player_3,Opp_27,right,0.58,0.89,0.87,alta,wide,ace
+TEN_0289,tennis,serve,ATP 500,4,-1,0,Player_20,Opp_38,right,0.64,0.41,0.651,media,center,returned
+TEN_0290,tennis,serve,Masters 1000,4,0,1,Player_43,Opp_43,right,0.13,0.98,0.753,alta,wide,returned
+TEN_0291,tennis,serve,Masters 1000,1,0,0,Player_6,Opp_46,right,0.75,0.69,0.664,media,wide,fault
+TEN_0292,tennis,serve,Masters 1000,4,1,1,Player_38,Opp_23,right,0.27,0.52,0.596,media,body,fault
+TEN_0293,tennis,serve,ATP 500,3,0,1,Player_32,Opp_33,right,0.63,0.68,0.702,alta,body,fault
+TEN_0294,tennis,serve,ATP 500,1,-1,1,Player_41,Opp_19,right,0.12,0.98,0.544,media,center,fault
+TEN_0295,tennis,serve,Masters 1000,1,0,0,Player_29,Opp_19,right,0.68,0.54,0.642,media,wide,returned
+TEN_0296,tennis,serve,Masters 1000,3,1,1,Player_2,Opp_13,right,0.2,0.72,0.587,media,wide,returned
+TEN_0297,tennis,serve,ATP 500,1,0,1,Player_30,Opp_10,right,0.27,0.59,0.525,media,wide,ace
+TEN_0298,tennis,serve,Grand Slam,0,1,0,Player_15,Opp_26,right,0.42,0.88,0.484,media,body,returned
+TEN_0299,tennis,serve,ATP 500,2,1,1,Player_13,Opp_39,right,0.43,0.54,0.539,media,wide,fault
+TEN_0300,tennis,serve,Grand Slam,2,1,0,Player_8,Opp_30,right,0.89,0.97,0.64,media,center,returned
+BKB_0001,basketball,decisive_shot,Euroleague,40,-4,1,Player_72,Def_68,right,0.67,0.32,0.524,media,drive,missed
+BKB_0002,basketball,decisive_shot,Olympics,10,0,0,Player_32,Def_19,right,0.58,0.86,0.58,media,three_point,scored
+BKB_0003,basketball,decisive_shot,Euroleague,31,3,1,Player_64,Def_13,right,0.89,0.62,0.599,media,three_point,scored
+BKB_0004,basketball,decisive_shot,Euroleague,8,-3,0,Player_22,Def_55,left,0.51,0.44,0.394,media,three_point,scored
+BKB_0005,basketball,decisive_shot,NBA,3,0,1,Player_63,Def_26,right,0.85,0.81,0.596,media,three_point,missed
+BKB_0006,basketball,decisive_shot,Olympics,5,3,0,Player_70,Def_17,left,0.69,0.34,0.384,media,three_point,missed
+BKB_0007,basketball,decisive_shot,NBA,12,3,0,Player_31,Def_61,right,0.81,0.92,0.521,media,three_point,scored
+BKB_0008,basketball,decisive_shot,NBA,31,-2,0,Player_57,Def_57,right,0.61,0.52,0.595,media,mid_range,blocked
+BKB_0009,basketball,decisive_shot,NBA,10,0,0,Player_71,Def_56,right,0.12,0.91,0.521,media,three_point,scored
+BKB_0010,basketball,decisive_shot,NBA,17,-1,0,Player_23,Def_27,right,0.6,0.51,0.511,media,mid_range,missed
+BKB_0011,basketball,decisive_shot,Euroleague,33,1,1,Player_21,Def_39,right,0.34,0.3,0.566,media,drive,scored
+BKB_0012,basketball,decisive_shot,NBA,5,-4,0,Player_2,Def_61,right,0.87,0.66,0.394,media,mid_range,scored
+BKB_0013,basketball,decisive_shot,NBA,40,-4,1,Player_23,Def_14,right,0.99,0.66,0.638,media,three_point,scored
+BKB_0014,basketball,decisive_shot,Olympics,39,-5,0,Player_54,Def_54,right,0.2,0.59,0.473,media,three_point,scored
+BKB_0015,basketball,decisive_shot,NBA,32,-5,1,Player_57,Def_6,right,0.4,0.63,0.47,media,mid_range,missed
+BKB_0016,basketball,decisive_shot,Olympics,23,-5,1,Player_65,Def_57,right,0.2,0.41,0.328,baja,mid_range,missed
+BKB_0017,basketball,decisive_shot,NBA,23,4,0,Player_16,Def_1,right,0.2,0.98,0.486,media,drive,scored
+BKB_0018,basketball,decisive_shot,Euroleague,47,-5,0,Player_3,Def_54,right,0.81,0.99,0.677,media,mid_range,scored
+BKB_0019,basketball,decisive_shot,Olympics,4,-4,0,Player_78,Def_30,right,0.25,0.83,0.366,media,three_point,missed
+BKB_0020,basketball,decisive_shot,Olympics,28,0,1,Player_14,Def_27,right,0.72,0.77,0.713,alta,mid_range,scored
+BKB_0021,basketball,decisive_shot,Olympics,35,0,1,Player_65,Def_51,right,0.74,0.39,0.669,media,three_point,scored
+BKB_0022,basketball,decisive_shot,Olympics,25,-1,1,Player_40,Def_53,right,0.66,0.94,0.704,alta,mid_range,missed
+BKB_0023,basketball,decisive_shot,NBA,11,4,1,Player_55,Def_60,right,0.61,0.92,0.472,media,mid_range,blocked
+BKB_0024,basketball,decisive_shot,Olympics,18,-1,0,Player_34,Def_6,right,0.87,0.97,0.667,media,three_point,scored
+BKB_0025,basketball,decisive_shot,Olympics,30,2,0,Player_73,Def_9,right,0.22,0.94,0.62,media,mid_range,blocked
+BKB_0026,basketball,decisive_shot,Olympics,3,-4,1,Player_3,Def_14,right,0.41,0.3,0.249,baja,three_point,missed
+BKB_0027,basketball,decisive_shot,NBA,0,-2,1,Player_63,Def_75,right,0.74,0.38,0.379,media,mid_range,scored
+BKB_0028,basketball,decisive_shot,NBA,16,4,0,Player_39,Def_14,right,0.29,0.92,0.45,media,three_point,missed
+BKB_0029,basketball,decisive_shot,Euroleague,47,3,0,Player_79,Def_36,right,0.17,0.92,0.732,alta,drive,missed
+BKB_0030,basketball,decisive_shot,Olympics,20,3,0,Player_38,Def_22,left,0.14,0.77,0.454,media,three_point,missed
+BKB_0031,basketball,decisive_shot,Olympics,3,-1,0,Player_71,Def_66,right,0.31,0.6,0.442,media,mid_range,blocked
+BKB_0032,basketball,decisive_shot,Euroleague,1,-1,0,Player_46,Def_45,right,0.14,0.54,0.361,media,three_point,scored
+BKB_0033,basketball,decisive_shot,Euroleague,31,0,0,Player_63,Def_22,right,0.48,0.63,0.679,media,mid_range,scored
+BKB_0034,basketball,decisive_shot,Olympics,25,-4,0,Player_25,Def_76,right,0.51,0.91,0.526,media,mid_range,scored
+BKB_0035,basketball,decisive_shot,Olympics,46,-4,0,Player_2,Def_65,right,0.88,0.58,0.687,media,mid_range,scored
+BKB_0036,basketball,decisive_shot,NBA,19,2,1,Player_4,Def_46,right,0.92,0.33,0.518,media,three_point,scored
+BKB_0037,basketball,decisive_shot,NBA,40,-2,0,Player_78,Def_25,right,0.77,0.82,0.74,alta,mid_range,scored
+BKB_0038,basketball,decisive_shot,Euroleague,17,3,1,Player_75,Def_7,right,0.36,0.86,0.488,media,mid_range,missed
+BKB_0039,basketball,decisive_shot,Euroleague,11,-5,0,Player_49,Def_33,right,0.44,0.98,0.397,media,drive,missed
+BKB_0040,basketball,decisive_shot,Olympics,30,3,0,Player_46,Def_55,right,0.85,0.42,0.569,media,three_point,scored
+BKB_0041,basketball,decisive_shot,NBA,34,-3,1,Player_62,Def_10,left,0.89,0.72,0.666,media,mid_range,missed
+BKB_0042,basketball,decisive_shot,Olympics,30,-3,1,Player_41,Def_24,right,0.2,0.42,0.474,media,mid_range,missed
+BKB_0043,basketball,decisive_shot,Olympics,17,-1,0,Player_10,Def_7,right,0.93,0.91,0.657,media,mid_range,blocked
+BKB_0044,basketball,decisive_shot,Euroleague,14,-5,0,Player_45,Def_52,left,0.7,0.7,0.433,media,drive,missed
+BKB_0045,basketball,decisive_shot,NBA,21,-5,0,Player_28,Def_71,right,0.42,0.32,0.333,baja,drive,missed
+BKB_0046,basketball,decisive_shot,NBA,47,2,0,Player_20,Def_75,right,0.55,0.5,0.742,alta,mid_range,missed
+BKB_0047,basketball,decisive_shot,Olympics,21,3,0,Player_45,Def_10,right,0.61,0.62,0.528,media,drive,missed
+BKB_0048,basketball,decisive_shot,Olympics,31,3,0,Player_26,Def_6,right,0.65,0.77,0.614,media,mid_range,missed
+BKB_0049,basketball,decisive_shot,Olympics,0,1,0,Player_46,Def_64,right,0.75,0.4,0.45,media,mid_range,missed
+BKB_0050,basketball,decisive_shot,Olympics,21,-4,0,Player_55,Def_37,right,0.92,0.86,0.561,media,drive,blocked
+BKB_0051,basketball,decisive_shot,Euroleague,45,-5,0,Player_53,Def_12,right,0.76,0.96,0.696,media,three_point,scored
+BKB_0052,basketball,decisive_shot,Euroleague,10,-4,0,Player_23,Def_38,right,0.54,0.47,0.363,media,three_point,scored
+BKB_0053,basketball,decisive_shot,Olympics,39,3,1,Player_50,Def_32,right,0.66,0.71,0.666,media,three_point,missed
+BKB_0054,basketball,decisive_shot,Olympics,43,-4,0,Player_3,Def_19,right,0.8,0.81,0.693,media,mid_range,missed
+BKB_0055,basketball,decisive_shot,Euroleague,18,0,0,Player_71,Def_43,left,0.96,0.57,0.667,media,mid_range,missed
+BKB_0056,basketball,decisive_shot,Euroleague,24,-1,0,Player_23,Def_48,right,0.18,0.4,0.476,media,mid_range,scored
+BKB_0057,basketball,decisive_shot,NBA,41,-4,0,Player_66,Def_73,right,0.49,0.51,0.574,media,mid_range,missed
+BKB_0058,basketball,decisive_shot,Olympics,4,3,0,Player_1,Def_6,right,0.87,0.82,0.498,media,mid_range,blocked
+BKB_0059,basketball,decisive_shot,Olympics,36,3,0,Player_35,Def_29,right,0.28,0.45,0.529,media,three_point,missed
+BKB_0060,basketball,decisive_shot,Euroleague,46,-4,1,Player_63,Def_30,right,0.28,0.68,0.598,media,drive,blocked
+BKB_0061,basketball,decisive_shot,Olympics,43,-3,1,Player_71,Def_68,right,0.69,0.39,0.591,media,three_point,scored
+BKB_0062,basketball,decisive_shot,Euroleague,9,1,1,Player_3,Def_43,right,0.6,0.83,0.574,media,mid_range,scored
+BKB_0063,basketball,decisive_shot,Euroleague,24,2,0,Player_21,Def_17,right,0.44,0.76,0.584,media,mid_range,missed
+BKB_0064,basketball,decisive_shot,NBA,3,-2,0,Player_63,Def_5,right,0.36,0.36,0.367,media,drive,missed
+BKB_0065,basketball,decisive_shot,Euroleague,40,-1,0,Player_11,Def_44,right,0.58,0.83,0.749,alta,mid_range,scored
+BKB_0066,basketball,decisive_shot,Olympics,4,-2,0,Player_18,Def_36,right,0.22,0.34,0.305,baja,three_point,blocked
+BKB_0067,basketball,decisive_shot,NBA,31,-1,0,Player_2,Def_75,right,0.65,0.36,0.588,media,mid_range,missed
+BKB_0068,basketball,decisive_shot,NBA,47,1,0,Player_40,Def_75,right,0.9,0.86,0.893,alta,drive,missed
+BKB_0069,basketball,decisive_shot,Olympics,40,-2,0,Player_65,Def_30,right,0.28,0.5,0.573,media,three_point,missed
+BKB_0070,basketball,decisive_shot,NBA,18,4,0,Player_37,Def_64,right,0.85,0.83,0.549,media,drive,missed
+BKB_0071,basketball,decisive_shot,NBA,18,-1,0,Player_42,Def_40,right,0.33,0.99,0.613,media,drive,blocked
+BKB_0072,basketball,decisive_shot,Olympics,36,-5,1,Player_9,Def_46,right,0.86,0.8,0.596,media,three_point,missed
+BKB_0073,basketball,decisive_shot,Euroleague,21,-3,0,Player_25,Def_36,right,0.96,0.97,0.644,media,drive,missed
+BKB_0074,basketball,decisive_shot,NBA,0,0,0,Player_47,Def_47,left,0.39,0.57,0.424,media,three_point,scored
+BKB_0075,basketball,decisive_shot,Olympics,3,-5,0,Player_11,Def_64,right,0.16,0.72,0.27,baja,three_point,scored
+BKB_0076,basketball,decisive_shot,NBA,22,-1,1,Player_51,Def_58,right,0.41,0.49,0.513,media,drive,missed
+BKB_0077,basketball,decisive_shot,Euroleague,45,-2,0,Player_9,Def_28,left,0.86,0.55,0.782,alta,mid_range,missed
+BKB_0078,basketball,decisive_shot,NBA,4,-3,1,Player_62,Def_26,right,0.46,0.88,0.455,media,three_point,scored
+BKB_0079,basketball,decisive_shot,Euroleague,23,-2,1,Player_42,Def_1,right,0.25,0.81,0.527,media,mid_range,missed
+BKB_0080,basketball,decisive_shot,Olympics,32,-4,1,Player_28,Def_6,right,0.31,0.76,0.525,media,mid_range,scored
+BKB_0081,basketball,decisive_shot,NBA,33,-4,0,Player_66,Def_35,right,0.34,0.42,0.445,media,mid_range,missed
+BKB_0082,basketball,decisive_shot,Olympics,11,-4,0,Player_62,Def_37,right,0.59,0.78,0.463,media,drive,scored
+BKB_0083,basketball,decisive_shot,Olympics,31,-3,0,Player_66,Def_76,right,0.52,0.54,0.553,media,mid_range,scored
+BKB_0084,basketball,decisive_shot,NBA,22,2,0,Player_22,Def_78,right,0.55,0.59,0.537,media,mid_range,missed
+BKB_0085,basketball,decisive_shot,Olympics,15,-1,0,Player_61,Def_41,right,0.49,0.42,0.482,media,drive,missed
+BKB_0086,basketball,decisive_shot,Euroleague,2,-2,0,Player_46,Def_39,right,0.13,0.86,0.408,media,three_point,missed
+BKB_0087,basketball,decisive_shot,Olympics,34,1,1,Player_56,Def_11,right,0.25,0.83,0.637,media,drive,missed
+BKB_0088,basketball,decisive_shot,NBA,43,-3,1,Player_74,Def_46,right,0.24,0.77,0.6,media,three_point,scored
+BKB_0089,basketball,decisive_shot,NBA,34,-2,1,Player_16,Def_45,right,0.31,0.72,0.611,media,three_point,scored
+BKB_0090,basketball,decisive_shot,NBA,42,-2,0,Player_13,Def_78,right,0.94,0.34,0.695,media,drive,scored
+BKB_0091,basketball,decisive_shot,Euroleague,42,0,0,Player_37,Def_24,right,0.92,0.86,0.841,alta,drive,scored
+BKB_0092,basketball,decisive_shot,NBA,42,0,0,Player_42,Def_60,right,0.2,0.67,0.7,media,mid_range,scored
+BKB_0093,basketball,decisive_shot,Euroleague,2,1,1,Player_56,Def_18,right,0.91,0.96,0.554,media,mid_range,scored
+BKB_0094,basketball,decisive_shot,NBA,28,1,1,Player_59,Def_20,right,0.76,0.46,0.595,media,mid_range,missed
+BKB_0095,basketball,decisive_shot,Euroleague,29,-1,1,Player_19,Def_56,right,0.42,0.7,0.633,media,three_point,scored
+BKB_0096,basketball,decisive_shot,Olympics,22,-4,1,Player_22,Def_9,right,0.97,0.99,0.589,media,three_point,scored
+BKB_0097,basketball,decisive_shot,Olympics,18,-1,1,Player_14,Def_36,right,0.83,0.32,0.548,media,drive,missed
+BKB_0098,basketball,decisive_shot,Euroleague,12,0,0,Player_64,Def_36,right,0.35,0.72,0.527,media,mid_range,missed
+BKB_0099,basketball,decisive_shot,Olympics,7,-5,1,Player_67,Def_21,right,0.88,0.57,0.356,media,mid_range,blocked
+BKB_0100,basketball,decisive_shot,Olympics,28,3,1,Player_4,Def_28,left,0.4,0.58,0.498,media,mid_range,missed
+BKB_0101,basketball,decisive_shot,Euroleague,28,-3,1,Player_12,Def_30,right,0.16,0.84,0.516,media,three_point,missed
+BKB_0102,basketball,decisive_shot,Euroleague,2,4,0,Player_64,Def_78,left,0.79,0.35,0.311,baja,drive,scored
+BKB_0103,basketball,decisive_shot,Euroleague,39,4,1,Player_57,Def_16,right,0.22,0.31,0.491,media,mid_range,blocked
+BKB_0104,basketball,decisive_shot,Olympics,36,2,0,Player_68,Def_34,right,0.92,0.67,0.719,alta,mid_range,missed
+BKB_0105,basketball,decisive_shot,Euroleague,19,4,0,Player_7,Def_16,right,0.68,0.42,0.429,media,drive,missed
+BKB_0106,basketball,decisive_shot,Olympics,1,-4,1,Player_70,Def_9,right,0.95,0.88,0.465,media,three_point,scored
+BKB_0107,basketball,decisive_shot,Euroleague,16,-1,1,Player_59,Def_49,right,0.91,0.4,0.555,media,mid_range,missed
+BKB_0108,basketball,decisive_shot,Olympics,13,-4,0,Player_50,Def_62,right,0.5,0.32,0.365,media,mid_range,missed
+BKB_0109,basketball,decisive_shot,Olympics,30,-2,1,Player_20,Def_14,right,0.97,0.86,0.708,alta,mid_range,scored
+BKB_0110,basketball,decisive_shot,Olympics,40,-5,1,Player_27,Def_13,right,0.43,0.44,0.499,media,drive,missed
+BKB_0111,basketball,decisive_shot,Euroleague,42,-4,1,Player_46,Def_65,right,0.27,0.77,0.569,media,mid_range,scored
+BKB_0112,basketball,decisive_shot,Euroleague,14,-1,1,Player_20,Def_53,left,0.25,0.81,0.544,media,mid_range,missed
+BKB_0113,basketball,decisive_shot,Olympics,39,1,0,Player_36,Def_16,right,0.35,0.36,0.601,media,drive,scored
+BKB_0114,basketball,decisive_shot,Euroleague,35,-5,0,Player_77,Def_9,right,0.19,0.99,0.536,media,three_point,scored
+BKB_0115,basketball,decisive_shot,NBA,22,0,0,Player_3,Def_24,right,0.37,0.49,0.587,media,drive,scored
+BKB_0116,basketball,decisive_shot,NBA,46,4,1,Player_68,Def_57,right,0.17,0.42,0.501,media,mid_range,scored
+BKB_0117,basketball,decisive_shot,Euroleague,22,-5,0,Player_43,Def_74,right,0.38,0.53,0.363,media,drive,missed
+BKB_0118,basketball,decisive_shot,Euroleague,24,-2,0,Player_53,Def_43,right,0.32,0.39,0.462,media,three_point,scored
+BKB_0119,basketball,decisive_shot,NBA,31,-1,1,Player_56,Def_66,left,0.26,0.61,0.576,media,drive,missed
+BKB_0120,basketball,decisive_shot,NBA,18,3,1,Player_13,Def_41,right,0.25,0.95,0.504,media,mid_range,missed
+BKB_0121,basketball,decisive_shot,Euroleague,22,0,1,Player_77,Def_32,right,0.93,0.51,0.643,media,drive,missed
+BKB_0122,basketball,decisive_shot,NBA,42,-4,0,Player_50,Def_29,right,0.44,0.79,0.608,media,drive,missed
+BKB_0123,basketball,decisive_shot,NBA,37,1,0,Player_25,Def_4,right,0.45,0.45,0.636,media,mid_range,scored
+BKB_0124,basketball,decisive_shot,Olympics,27,2,1,Player_74,Def_19,right,0.58,0.84,0.602,media,three_point,scored
+BKB_0125,basketball,decisive_shot,Euroleague,16,-3,1,Player_17,Def_54,right,0.93,0.77,0.57,media,drive,missed
+BKB_0126,basketball,decisive_shot,Euroleague,29,-1,0,Player_73,Def_14,right,0.5,0.36,0.559,media,three_point,scored
+BKB_0127,basketball,decisive_shot,Euroleague,31,1,1,Player_68,Def_2,right,0.11,0.38,0.542,media,drive,missed
+BKB_0128,basketball,decisive_shot,Olympics,6,0,0,Player_26,Def_7,right,0.89,0.49,0.56,media,mid_range,scored
+BKB_0129,basketball,decisive_shot,NBA,27,-2,0,Player_64,Def_52,right,0.6,0.42,0.568,media,drive,scored
+BKB_0130,basketball,decisive_shot,Euroleague,43,3,0,Player_47,Def_40,right,0.32,0.72,0.604,media,mid_range,scored
+BKB_0131,basketball,decisive_shot,Olympics,23,-2,0,Player_23,Def_45,right,0.82,0.91,0.663,media,drive,scored
+BKB_0132,basketball,decisive_shot,NBA,12,1,0,Player_65,Def_18,right,0.13,0.85,0.486,media,mid_range,missed
+BKB_0133,basketball,decisive_shot,Olympics,32,2,1,Player_69,Def_69,right,0.9,0.36,0.598,media,mid_range,missed
+BKB_0134,basketball,decisive_shot,NBA,17,-1,0,Player_60,Def_75,right,0.37,0.33,0.466,media,mid_range,scored
+BKB_0135,basketball,decisive_shot,Euroleague,22,-2,0,Player_23,Def_77,right,0.7,0.48,0.533,media,mid_range,missed
+BKB_0136,basketball,decisive_shot,Olympics,8,0,0,Player_63,Def_32,left,0.15,0.5,0.436,media,three_point,missed
+BKB_0137,basketball,decisive_shot,Olympics,34,0,0,Player_19,Def_28,right,0.74,0.62,0.723,alta,mid_range,missed
+BKB_0138,basketball,decisive_shot,NBA,21,4,0,Player_8,Def_50,right,0.84,0.54,0.493,media,drive,missed
+BKB_0139,basketball,decisive_shot,Olympics,20,-4,0,Player_9,Def_75,left,0.16,0.78,0.425,media,drive,missed
+BKB_0140,basketball,decisive_shot,Euroleague,20,-4,1,Player_74,Def_54,right,0.15,0.74,0.431,media,drive,scored
+BKB_0141,basketball,decisive_shot,Euroleague,19,2,0,Player_40,Def_33,right,0.21,0.94,0.528,media,mid_range,missed
+BKB_0142,basketball,decisive_shot,Euroleague,48,0,0,Player_43,Def_56,right,0.99,0.3,0.839,alta,three_point,scored
+BKB_0143,basketball,decisive_shot,Euroleague,14,4,0,Player_3,Def_34,right,0.56,0.93,0.47,media,mid_range,scored
+BKB_0144,basketball,decisive_shot,Olympics,48,-1,0,Player_8,Def_68,right,0.52,0.8,0.846,alta,mid_range,scored
+BKB_0145,basketball,decisive_shot,Olympics,43,-2,1,Player_44,Def_54,right,0.83,0.93,0.802,alta,drive,missed
+BKB_0146,basketball,decisive_shot,Euroleague,16,2,0,Player_78,Def_19,right,0.31,0.42,0.425,media,three_point,missed
+BKB_0147,basketball,decisive_shot,Olympics,43,-2,0,Player_23,Def_19,right,0.51,0.46,0.653,media,drive,blocked
+BKB_0148,basketball,decisive_shot,NBA,13,1,0,Player_73,Def_50,left,0.15,0.47,0.441,media,three_point,missed
+BKB_0149,basketball,decisive_shot,Olympics,10,2,1,Player_30,Def_18,right,0.75,0.45,0.465,media,three_point,scored
+BKB_0150,basketball,decisive_shot,Olympics,45,-3,0,Player_75,Def_10,right,0.94,0.36,0.725,alta,mid_range,scored
+BKB_0151,basketball,decisive_shot,Olympics,40,-1,0,Player_63,Def_18,right,0.93,0.77,0.797,alta,mid_range,scored
+BKB_0152,basketball,decisive_shot,Euroleague,26,2,1,Player_32,Def_66,left,0.46,0.47,0.538,media,drive,scored
+BKB_0153,basketball,decisive_shot,Euroleague,2,3,1,Player_12,Def_69,right,0.31,0.79,0.373,media,mid_range,missed
+BKB_0154,basketball,decisive_shot,NBA,17,3,0,Player_48,Def_28,right,0.2,0.89,0.459,media,drive,missed
+BKB_0155,basketball,decisive_shot,Olympics,11,-1,1,Player_55,Def_49,right,0.32,0.94,0.551,media,drive,scored
+BKB_0156,basketball,decisive_shot,Olympics,3,-2,0,Player_77,Def_15,right,0.43,0.77,0.423,media,mid_range,missed
+BKB_0157,basketball,decisive_shot,NBA,27,1,1,Player_73,Def_60,right,0.45,0.86,0.645,media,mid_range,blocked
+BKB_0158,basketball,decisive_shot,Euroleague,13,4,0,Player_51,Def_28,right,0.75,0.92,0.506,media,mid_range,scored
+BKB_0159,basketball,decisive_shot,NBA,23,-1,1,Player_32,Def_24,right,0.54,0.89,0.643,media,mid_range,missed
+BKB_0160,basketball,decisive_shot,NBA,35,-2,0,Player_47,Def_42,right,0.59,0.93,0.677,media,drive,missed
+BKB_0161,basketball,decisive_shot,NBA,13,-5,0,Player_29,Def_57,right,0.72,0.77,0.45,media,drive,scored
+BKB_0162,basketball,decisive_shot,Olympics,39,-2,0,Player_44,Def_37,right,0.91,0.53,0.689,media,mid_range,scored
+BKB_0163,basketball,decisive_shot,Olympics,30,-2,0,Player_64,Def_26,right,0.45,0.96,0.626,media,drive,scored
+BKB_0164,basketball,decisive_shot,Euroleague,30,2,0,Player_72,Def_25,right,0.72,0.62,0.617,media,three_point,scored
+BKB_0165,basketball,decisive_shot,Euroleague,40,0,1,Player_34,Def_30,right,0.99,0.71,0.8,alta,drive,scored
+BKB_0166,basketball,decisive_shot,Olympics,45,3,1,Player_54,Def_27,right,0.8,0.57,0.747,alta,drive,scored
+BKB_0167,basketball,decisive_shot,NBA,29,-1,1,Player_74,Def_21,right,0.51,0.36,0.56,media,three_point,missed
+BKB_0168,basketball,decisive_shot,Olympics,9,-5,1,Player_33,Def_63,right,0.18,0.32,0.226,baja,mid_range,missed
+BKB_0169,basketball,decisive_shot,NBA,19,2,1,Player_2,Def_29,right,0.89,0.96,0.661,media,three_point,scored
+BKB_0170,basketball,decisive_shot,Olympics,33,0,1,Player_34,Def_63,right,0.78,0.91,0.8,alta,mid_range,scored
+BKB_0171,basketball,decisive_shot,NBA,42,0,0,Player_51,Def_12,right,0.92,0.96,0.89,alta,mid_range,missed
+BKB_0172,basketball,decisive_shot,Olympics,18,-4,0,Player_3,Def_68,left,0.85,0.57,0.473,media,mid_range,scored
+BKB_0173,basketball,decisive_shot,Olympics,38,0,0,Player_31,Def_12,right,0.63,0.74,0.752,alta,drive,missed
+BKB_0174,basketball,decisive_shot,NBA,27,1,1,Player_64,Def_40,right,0.11,0.77,0.557,media,three_point,scored
+BKB_0175,basketball,decisive_shot,Olympics,9,-2,0,Player_50,Def_64,right,0.61,0.9,0.518,media,drive,scored
+BKB_0176,basketball,decisive_shot,Euroleague,17,3,0,Player_23,Def_29,left,0.92,0.51,0.481,media,mid_range,missed
+BKB_0177,basketball,decisive_shot,Euroleague,14,0,0,Player_40,Def_41,right,0.89,0.76,0.663,media,drive,missed
+BKB_0178,basketball,decisive_shot,Euroleague,21,-4,0,Player_3,Def_15,right,0.92,0.32,0.476,media,three_point,scored
+BKB_0179,basketball,decisive_shot,Olympics,33,-3,1,Player_68,Def_19,left,0.96,0.9,0.712,alta,three_point,blocked
+BKB_0180,basketball,decisive_shot,Olympics,24,4,0,Player_70,Def_22,right,0.11,0.55,0.408,media,drive,scored
+BKB_0181,basketball,decisive_shot,Olympics,38,4,0,Player_41,Def_72,right,0.21,0.91,0.581,media,drive,missed
+BKB_0182,basketball,decisive_shot,Olympics,25,1,1,Player_33,Def_28,right,0.92,0.37,0.616,media,mid_range,scored
+BKB_0183,basketball,decisive_shot,Euroleague,40,-5,1,Player_9,Def_55,right,0.92,0.39,0.549,media,drive,missed
+BKB_0184,basketball,decisive_shot,Olympics,42,-1,1,Player_43,Def_70,left,0.87,0.54,0.711,alta,mid_range,scored
+BKB_0185,basketball,decisive_shot,Olympics,0,1,0,Player_41,Def_74,right,0.61,0.8,0.487,media,mid_range,scored
+BKB_0186,basketball,decisive_shot,Olympics,30,-3,0,Player_15,Def_5,right,0.78,0.78,0.618,media,mid_range,missed
+BKB_0187,basketball,decisive_shot,Euroleague,27,-1,0,Player_53,Def_67,right,0.92,0.8,0.71,alta,mid_range,missed
+BKB_0188,basketball,decisive_shot,Olympics,24,-3,0,Player_15,Def_31,right,0.72,0.3,0.48,media,drive,scored
+BKB_0189,basketball,decisive_shot,Olympics,20,2,1,Player_73,Def_59,right,0.65,0.75,0.582,media,drive,missed
+BKB_0190,basketball,decisive_shot,Euroleague,5,0,0,Player_31,Def_6,right,0.2,0.8,0.51,media,mid_range,scored
+BKB_0191,basketball,decisive_shot,Euroleague,9,0,0,Player_38,Def_4,right,0.66,0.35,0.516,media,mid_range,missed
+BKB_0192,basketball,decisive_shot,Olympics,35,1,0,Player_33,Def_54,right,0.48,0.75,0.701,alta,mid_range,missed
+BKB_0193,basketball,decisive_shot,Olympics,5,3,1,Player_12,Def_20,right,0.4,0.67,0.404,media,drive,scored
+BKB_0194,basketball,decisive_shot,NBA,4,-5,1,Player_36,Def_54,right,0.86,0.91,0.448,media,mid_range,scored
+BKB_0195,basketball,decisive_shot,NBA,21,1,0,Player_47,Def_7,right,0.72,0.93,0.679,media,mid_range,scored
+BKB_0196,basketball,decisive_shot,Euroleague,26,-5,0,Player_70,Def_15,right,0.49,0.73,0.461,media,three_point,missed
+BKB_0197,basketball,decisive_shot,Olympics,16,-3,1,Player_32,Def_46,right,0.53,0.48,0.448,media,drive,scored
+BKB_0198,basketball,decisive_shot,Euroleague,12,-3,1,Player_18,Def_45,right,0.51,0.82,0.478,media,three_point,blocked
+BKB_0199,basketball,decisive_shot,Euroleague,45,-1,0,Player_57,Def_26,right,0.11,0.54,0.709,alta,mid_range,scored
+BKB_0200,basketball,decisive_shot,Olympics,0,1,0,Player_24,Def_69,right,0.18,0.69,0.402,media,drive,scored
+BKB_0201,basketball,decisive_shot,Olympics,27,1,0,Player_75,Def_7,right,0.21,0.58,0.574,media,three_point,missed
+BKB_0202,basketball,decisive_shot,NBA,38,3,1,Player_78,Def_62,left,0.36,0.4,0.528,media,three_point,blocked
+BKB_0203,basketball,decisive_shot,Euroleague,45,-1,0,Player_51,Def_28,right,0.4,0.51,0.739,alta,drive,missed
+BKB_0204,basketball,decisive_shot,NBA,46,-3,0,Player_12,Def_8,right,0.29,0.34,0.636,media,mid_range,missed
+BKB_0205,basketball,decisive_shot,Euroleague,36,-1,1,Player_43,Def_20,right,0.22,0.83,0.639,media,mid_range,scored
+BKB_0206,basketball,decisive_shot,Euroleague,37,-5,0,Player_6,Def_74,right,0.86,0.39,0.542,media,mid_range,scored
+BKB_0207,basketball,decisive_shot,Olympics,48,-2,1,Player_3,Def_20,right,0.5,0.65,0.765,alta,drive,missed
+BKB_0208,basketball,decisive_shot,Euroleague,4,2,0,Player_69,Def_37,right,0.29,0.67,0.422,media,mid_range,missed
+BKB_0209,basketball,decisive_shot,Olympics,34,-1,1,Player_48,Def_13,right,0.59,0.82,0.69,media,mid_range,missed
+BKB_0210,basketball,decisive_shot,NBA,27,3,0,Player_24,Def_16,right,0.29,0.33,0.463,media,mid_range,missed
+BKB_0211,basketball,decisive_shot,Euroleague,44,2,0,Player_55,Def_63,left,0.6,0.86,0.798,alta,mid_range,missed
+BKB_0212,basketball,decisive_shot,Olympics,48,3,1,Player_43,Def_68,right,0.89,0.55,0.763,alta,mid_range,missed
+BKB_0213,basketball,decisive_shot,Olympics,33,3,1,Player_60,Def_1,right,0.2,0.99,0.597,media,mid_range,missed
+BKB_0214,basketball,decisive_shot,Euroleague,15,2,1,Player_1,Def_40,right,0.3,0.44,0.451,media,mid_range,missed
+BKB_0215,basketball,decisive_shot,Euroleague,8,-4,0,Player_19,Def_41,right,0.64,0.31,0.316,baja,drive,blocked
+BKB_0216,basketball,decisive_shot,Euroleague,6,-2,0,Player_49,Def_78,right,0.4,0.67,0.416,media,three_point,scored
+BKB_0217,basketball,decisive_shot,NBA,47,-2,0,Player_67,Def_29,right,0.4,0.96,0.819,alta,drive,scored
+BKB_0218,basketball,decisive_shot,NBA,12,1,0,Player_68,Def_53,right,0.63,0.92,0.581,media,mid_range,missed
+BKB_0219,basketball,decisive_shot,Olympics,45,-4,0,Player_66,Def_8,right,0.92,0.88,0.743,alta,mid_range,scored
+BKB_0220,basketball,decisive_shot,Euroleague,2,-5,1,Player_56,Def_76,right,0.96,0.39,0.343,baja,mid_range,missed
+BKB_0221,basketball,decisive_shot,Olympics,17,2,1,Player_20,Def_70,right,0.19,0.64,0.46,media,drive,scored
+BKB_0222,basketball,decisive_shot,NBA,4,2,1,Player_62,Def_54,right,0.29,0.47,0.34,baja,drive,missed
+BKB_0223,basketball,decisive_shot,NBA,14,0,1,Player_65,Def_34,right,0.16,0.96,0.564,media,mid_range,scored
+BKB_0224,basketball,decisive_shot,Euroleague,15,4,1,Player_57,Def_22,right,0.89,0.34,0.402,media,drive,blocked
+BKB_0225,basketball,decisive_shot,Olympics,6,1,1,Player_65,Def_63,right,0.45,0.78,0.48,media,drive,scored
+BKB_0226,basketball,decisive_shot,NBA,1,3,1,Player_69,Def_26,right,0.39,0.46,0.319,baja,drive,scored
+BKB_0227,basketball,decisive_shot,Olympics,8,0,0,Player_7,Def_36,right,0.73,0.43,0.523,media,three_point,missed
+BKB_0228,basketball,decisive_shot,NBA,11,4,1,Player_33,Def_2,right,0.53,0.81,0.456,media,three_point,scored
+BKB_0229,basketball,decisive_shot,Olympics,16,-4,1,Player_47,Def_10,right,0.2,0.39,0.328,baja,drive,scored
+BKB_0230,basketball,decisive_shot,Euroleague,31,-1,0,Player_47,Def_66,right,0.44,0.75,0.651,media,mid_range,missed
+BKB_0231,basketball,decisive_shot,Olympics,3,4,1,Player_5,Def_69,right,0.99,0.48,0.394,media,three_point,missed
+BKB_0232,basketball,decisive_shot,Euroleague,32,1,0,Player_47,Def_4,right,0.51,0.98,0.688,media,mid_range,scored
+BKB_0233,basketball,decisive_shot,NBA,22,-3,0,Player_63,Def_29,right,0.4,0.72,0.522,media,three_point,missed
+BKB_0234,basketball,decisive_shot,Euroleague,30,0,0,Player_68,Def_76,right,0.42,0.95,0.719,alta,drive,missed
+BKB_0235,basketball,decisive_shot,Olympics,28,2,1,Player_73,Def_42,left,0.49,0.98,0.661,media,three_point,missed
+BKB_0236,basketball,decisive_shot,NBA,17,2,0,Player_71,Def_41,right,0.45,0.69,0.508,media,drive,scored
+BKB_0237,basketball,decisive_shot,Olympics,37,-3,1,Player_43,Def_38,right,0.25,0.83,0.61,media,mid_range,scored
+BKB_0238,basketball,decisive_shot,Olympics,5,-5,1,Player_35,Def_59,left,0.72,0.91,0.416,media,mid_range,missed
+BKB_0239,basketball,decisive_shot,NBA,35,-5,1,Player_51,Def_7,right,0.73,0.91,0.618,media,drive,blocked
+BKB_0240,basketball,decisive_shot,Euroleague,13,1,1,Player_76,Def_1,right,0.9,0.89,0.619,media,mid_range,missed
+BKB_0241,basketball,decisive_shot,NBA,7,1,0,Player_26,Def_6,right,0.37,0.54,0.431,media,drive,missed
+BKB_0242,basketball,decisive_shot,NBA,19,-4,0,Player_46,Def_49,right,0.55,0.63,0.436,media,mid_range,missed
+BKB_0243,basketball,decisive_shot,Olympics,25,-2,0,Player_8,Def_9,right,0.63,0.49,0.553,media,three_point,scored
+BKB_0244,basketball,decisive_shot,NBA,10,0,1,Player_42,Def_34,left,0.51,0.91,0.596,media,mid_range,missed
+BKB_0245,basketball,decisive_shot,NBA,6,1,1,Player_29,Def_31,right,0.49,0.41,0.412,media,three_point,missed
+BKB_0246,basketball,decisive_shot,Olympics,28,1,1,Player_44,Def_30,right,0.13,0.79,0.611,media,drive,scored
+BKB_0247,basketball,decisive_shot,Olympics,15,-2,1,Player_42,Def_79,right,0.35,0.3,0.403,media,mid_range,missed
+BKB_0248,basketball,decisive_shot,Olympics,16,2,0,Player_62,Def_33,right,0.75,0.57,0.51,media,three_point,scored
+BKB_0249,basketball,decisive_shot,Olympics,15,-2,1,Player_50,Def_63,right,0.24,0.82,0.511,media,three_point,scored
+BKB_0250,basketball,decisive_shot,Euroleague,9,-1,0,Player_45,Def_5,right,0.39,0.33,0.399,media,mid_range,scored
+BKB_0251,basketball,decisive_shot,Euroleague,8,1,0,Player_30,Def_78,right,0.64,0.58,0.51,media,drive,missed
+BKB_0252,basketball,decisive_shot,Olympics,9,-1,0,Player_47,Def_35,right,0.61,0.49,0.46,media,three_point,scored
+BKB_0253,basketball,decisive_shot,NBA,5,2,1,Player_32,Def_45,right,0.48,0.89,0.468,media,drive,scored
+BKB_0254,basketball,decisive_shot,Olympics,5,-1,0,Player_67,Def_65,right,0.97,0.71,0.574,media,three_point,scored
+BKB_0255,basketball,decisive_shot,Olympics,12,1,0,Player_12,Def_42,right,0.82,0.62,0.55,media,drive,scored
+BKB_0256,basketball,decisive_shot,Euroleague,7,3,1,Player_62,Def_60,right,0.29,0.61,0.39,media,three_point,scored
+BKB_0257,basketball,decisive_shot,Euroleague,27,3,0,Player_76,Def_58,right,0.64,0.65,0.567,media,drive,scored
+BKB_0258,basketball,decisive_shot,Euroleague,21,3,0,Player_47,Def_11,right,0.82,0.55,0.525,media,mid_range,scored
+BKB_0259,basketball,decisive_shot,NBA,36,-4,1,Player_70,Def_27,right,0.74,0.31,0.504,media,mid_range,missed
+BKB_0260,basketball,decisive_shot,NBA,23,-2,1,Player_24,Def_26,right,0.27,0.32,0.445,media,mid_range,missed
+BKB_0261,basketball,decisive_shot,NBA,31,-5,1,Player_4,Def_21,left,0.71,0.41,0.464,media,drive,scored
+BKB_0262,basketball,decisive_shot,NBA,32,2,0,Player_61,Def_11,right,0.35,0.67,0.576,media,mid_range,scored
+BKB_0263,basketball,decisive_shot,NBA,25,4,0,Player_13,Def_51,right,0.74,0.86,0.585,media,drive,missed
+BKB_0264,basketball,decisive_shot,NBA,11,-3,1,Player_15,Def_24,right,0.5,0.35,0.386,media,three_point,scored
+BKB_0265,basketball,decisive_shot,Euroleague,46,-5,0,Player_58,Def_76,right,0.37,0.36,0.485,media,three_point,missed
+BKB_0266,basketball,decisive_shot,Euroleague,38,-4,0,Player_17,Def_60,right,0.43,0.86,0.617,media,drive,scored
+BKB_0267,basketball,decisive_shot,Euroleague,31,-2,0,Player_14,Def_37,left,0.15,0.44,0.521,media,drive,scored
+BKB_0268,basketball,decisive_shot,Olympics,2,-3,1,Player_64,Def_34,right,0.38,0.74,0.39,media,drive,scored
+BKB_0269,basketball,decisive_shot,Olympics,11,-5,0,Player_56,Def_59,right,0.96,0.42,0.392,media,mid_range,scored
+BKB_0270,basketball,decisive_shot,Olympics,35,-3,0,Player_40,Def_44,right,0.54,0.59,0.571,media,drive,missed
+BKB_0271,basketball,decisive_shot,NBA,47,-3,1,Player_50,Def_37,left,0.25,0.48,0.659,media,three_point,missed
+BKB_0272,basketball,decisive_shot,Olympics,47,-5,1,Player_8,Def_1,right,0.5,0.84,0.644,media,three_point,missed
+BKB_0273,basketball,decisive_shot,Euroleague,22,-2,0,Player_72,Def_39,right,0.68,0.37,0.506,media,three_point,missed
+BKB_0274,basketball,decisive_shot,Euroleague,23,-1,0,Player_13,Def_6,right,0.97,0.91,0.698,media,drive,missed
+BKB_0275,basketball,decisive_shot,NBA,37,1,0,Player_29,Def_46,right,0.83,0.51,0.719,alta,mid_range,scored
+BKB_0276,basketball,decisive_shot,NBA,11,-5,0,Player_56,Def_12,right,0.86,0.35,0.354,media,mid_range,scored
+BKB_0277,basketball,decisive_shot,Olympics,46,-5,1,Player_31,Def_12,right,0.17,0.78,0.578,media,mid_range,missed
+BKB_0278,basketball,decisive_shot,NBA,39,2,0,Player_27,Def_48,right,0.65,0.61,0.675,media,mid_range,scored
+BKB_0279,basketball,decisive_shot,Olympics,47,-3,0,Player_61,Def_47,right,0.82,0.7,0.79,alta,mid_range,missed
+BKB_0280,basketball,decisive_shot,Euroleague,34,-1,0,Player_31,Def_52,right,0.79,0.53,0.681,media,drive,missed
+BKB_0281,basketball,decisive_shot,Euroleague,18,-2,1,Player_79,Def_60,right,0.48,0.98,0.564,media,mid_range,missed
+BKB_0282,basketball,decisive_shot,NBA,22,-1,1,Player_47,Def_18,right,0.43,0.73,0.605,media,mid_range,scored
+BKB_0283,basketball,decisive_shot,Euroleague,7,-5,1,Player_70,Def_73,right,0.36,0.62,0.287,baja,mid_range,missed
+BKB_0284,basketball,decisive_shot,NBA,39,-1,0,Player_41,Def_50,right,0.9,0.68,0.726,alta,drive,scored
+BKB_0285,basketball,decisive_shot,Olympics,48,0,0,Player_48,Def_34,right,0.68,0.85,0.907,alta,mid_range,scored
+BKB_0286,basketball,decisive_shot,Olympics,32,-4,0,Player_36,Def_22,right,0.33,0.87,0.568,media,three_point,scored
+BKB_0287,basketball,decisive_shot,Euroleague,35,2,0,Player_30,Def_45,right,0.76,0.85,0.723,alta,mid_range,scored
+BKB_0288,basketball,decisive_shot,Olympics,28,-4,0,Player_59,Def_53,right,0.65,0.55,0.519,media,mid_range,missed
+BKB_0289,basketball,decisive_shot,Olympics,14,3,0,Player_61,Def_78,right,0.65,0.55,0.444,media,mid_range,scored
+BKB_0290,basketball,decisive_shot,Olympics,34,-1,1,Player_6,Def_7,right,0.24,0.84,0.632,media,drive,missed
+BKB_0291,basketball,decisive_shot,Olympics,4,-4,0,Player_58,Def_62,right,0.71,0.68,0.39,media,drive,scored
+BKB_0292,basketball,decisive_shot,NBA,31,4,0,Player_34,Def_55,right,0.93,0.77,0.602,media,three_point,blocked
+BKB_0293,basketball,decisive_shot,NBA,15,-4,0,Player_14,Def_31,right,0.11,0.59,0.355,media,three_point,scored
+BKB_0294,basketball,decisive_shot,Euroleague,11,-1,0,Player_55,Def_4,right,0.38,0.66,0.509,media,three_point,missed
+BKB_0295,basketball,decisive_shot,Olympics,25,-4,0,Player_42,Def_29,left,0.5,0.69,0.488,media,three_point,scored
+BKB_0296,basketball,decisive_shot,NBA,44,4,0,Player_74,Def_31,right,0.75,0.63,0.657,media,drive,missed
+BKB_0297,basketball,decisive_shot,NBA,5,-1,0,Player_15,Def_17,right,0.5,0.44,0.447,media,three_point,missed
+BKB_0298,basketball,decisive_shot,Olympics,37,1,0,Player_5,Def_2,left,0.7,0.39,0.644,media,mid_range,missed
+BKB_0299,basketball,decisive_shot,NBA,16,2,1,Player_56,Def_74,right,0.83,0.94,0.593,media,mid_range,missed
+BKB_0300,basketball,decisive_shot,Euroleague,1,1,0,Player_4,Def_39,right,0.48,0.99,0.521,media,drive,scored
+HND_0001,handball,7m_throw,Euro,59,0,1,Player_55,GK_9,left,0.49,0.77,0.873,alta,high_left,saved
+HND_0002,handball,7m_throw,World Ch.,13,-3,0,Player_43,GK_5,right,0.89,0.76,0.507,media,low_right,missed
+HND_0003,handball,7m_throw,Euro,17,1,1,Player_43,GK_23,right,0.85,0.69,0.623,media,low_right,goal
+HND_0004,handball,7m_throw,Champions L.,10,-2,0,Player_42,GK_19,right,0.62,0.38,0.409,media,low_right,goal
+HND_0005,handball,7m_throw,Euro,44,-2,1,Player_16,GK_4,right,0.3,0.58,0.555,media,high_right,saved
+HND_0006,handball,7m_throw,Euro,11,2,0,Player_56,GK_11,right,0.7,0.34,0.419,media,high_left,goal
+HND_0007,handball,7m_throw,Champions L.,46,-2,1,Player_8,GK_7,right,0.43,0.44,0.583,media,high_left,goal
+HND_0008,handball,7m_throw,Euro,6,2,1,Player_56,GK_15,right,0.61,0.65,0.461,media,center,goal
+HND_0009,handball,7m_throw,Euro,7,-1,0,Player_52,GK_28,right,0.59,0.89,0.613,media,center,saved
+HND_0010,handball,7m_throw,Champions L.,41,-2,0,Player_12,GK_19,right,0.71,0.66,0.631,media,high_right,goal
+HND_0011,handball,7m_throw,World Ch.,50,0,0,Player_47,GK_15,right,0.6,0.51,0.77,alta,high_left,missed
+HND_0012,handball,7m_throw,Euro,5,2,1,Player_37,GK_6,right,0.87,0.88,0.532,media,low_right,missed
+HND_0013,handball,7m_throw,Champions L.,24,1,0,Player_57,GK_12,right,0.42,0.92,0.672,media,low_left,saved
+HND_0014,handball,7m_throw,World Ch.,25,2,1,Player_56,GK_22,right,0.36,0.35,0.422,media,center,goal
+HND_0015,handball,7m_throw,World Ch.,14,1,0,Player_41,GK_26,left,0.2,0.52,0.49,media,high_left,goal
+HND_0016,handball,7m_throw,Champions L.,48,2,1,Player_53,GK_19,left,0.28,0.59,0.585,media,low_left,goal
+HND_0017,handball,7m_throw,Euro,36,-3,0,Player_10,GK_19,right,0.42,0.69,0.52,media,low_right,missed
+HND_0018,handball,7m_throw,Euro,18,2,0,Player_58,GK_20,right,0.25,0.87,0.502,media,low_left,goal
+HND_0019,handball,7m_throw,World Ch.,7,1,1,Player_17,GK_10,right,0.57,0.99,0.601,media,center,missed
+HND_0020,handball,7m_throw,Euro,56,2,1,Player_38,GK_13,left,0.38,0.94,0.723,alta,center,saved
+HND_0021,handball,7m_throw,World Ch.,38,-3,0,Player_48,GK_24,right,0.44,0.78,0.57,media,low_right,goal
+HND_0022,handball,7m_throw,World Ch.,24,2,0,Player_14,GK_4,right,0.45,0.32,0.458,media,low_right,goal
+HND_0023,handball,7m_throw,World Ch.,19,0,1,Player_59,GK_17,right,0.44,0.86,0.681,media,low_right,goal
+HND_0024,handball,7m_throw,Champions L.,50,-1,1,Player_4,GK_19,right,0.7,0.87,0.81,alta,high_left,goal
+HND_0025,handball,7m_throw,Euro,25,-3,0,Player_34,GK_4,right,0.8,0.77,0.558,media,high_left,saved
+HND_0026,handball,7m_throw,Champions L.,20,-1,1,Player_54,GK_14,right,0.22,0.87,0.583,media,high_right,goal
+HND_0027,handball,7m_throw,Euro,3,-3,0,Player_46,GK_1,right,0.23,0.98,0.401,media,low_right,saved
+HND_0028,handball,7m_throw,World Ch.,46,2,1,Player_6,GK_23,right,0.79,0.6,0.651,media,low_right,saved
+HND_0029,handball,7m_throw,Euro,18,-3,0,Player_21,GK_16,left,0.26,0.67,0.425,media,high_left,goal
+HND_0030,handball,7m_throw,Champions L.,13,0,1,Player_30,GK_26,right,0.76,0.32,0.572,media,high_right,saved
+HND_0031,handball,7m_throw,Champions L.,4,2,1,Player_56,GK_9,right,0.26,0.92,0.453,media,low_right,goal
+HND_0032,handball,7m_throw,World Ch.,16,-3,0,Player_8,GK_10,right,0.47,0.36,0.37,media,high_right,saved
+HND_0033,handball,7m_throw,Champions L.,47,-1,1,Player_50,GK_28,left,0.74,0.45,0.75,alta,low_right,goal
+HND_0034,handball,7m_throw,Euro,33,2,1,Player_36,GK_8,right,0.29,0.37,0.475,media,high_left,saved
+HND_0035,handball,7m_throw,Champions L.,6,-1,0,Player_4,GK_12,right,0.67,0.98,0.614,media,center,goal
+HND_0036,handball,7m_throw,World Ch.,18,-1,0,Player_17,GK_8,right,0.4,0.57,0.548,media,low_left,goal
+HND_0037,handball,7m_throw,Champions L.,33,-2,0,Player_58,GK_26,right,0.5,0.96,0.61,media,high_left,goal
+HND_0038,handball,7m_throw,Euro,57,0,1,Player_44,GK_28,right,0.23,0.7,0.807,alta,high_left,missed
+HND_0039,handball,7m_throw,World Ch.,6,-3,0,Player_3,GK_23,right,0.49,0.34,0.306,baja,high_right,goal
+HND_0040,handball,7m_throw,Champions L.,7,2,0,Player_33,GK_6,left,0.58,0.39,0.412,media,center,saved
+HND_0041,handball,7m_throw,Champions L.,47,0,0,Player_12,GK_22,right,0.35,0.5,0.698,media,low_left,goal
+HND_0042,handball,7m_throw,Euro,53,1,1,Player_15,GK_16,right,0.23,0.94,0.789,alta,low_right,goal
+HND_0043,handball,7m_throw,Champions L.,10,-1,1,Player_51,GK_1,right,0.36,0.83,0.54,media,high_left,saved
+HND_0044,handball,7m_throw,Champions L.,39,-3,0,Player_38,GK_18,right,0.64,0.93,0.624,media,low_right,goal
+HND_0045,handball,7m_throw,Champions L.,11,-2,0,Player_59,GK_17,right,0.37,0.48,0.42,media,low_left,saved
+HND_0046,handball,7m_throw,Champions L.,53,1,1,Player_30,GK_15,right,0.66,0.9,0.82,alta,low_right,goal
+HND_0047,handball,7m_throw,Euro,57,-3,1,Player_53,GK_28,right,0.49,0.49,0.604,media,high_right,goal
+HND_0048,handball,7m_throw,Euro,5,1,0,Player_51,GK_16,right,0.37,0.57,0.471,media,low_left,goal
+HND_0049,handball,7m_throw,Champions L.,53,2,1,Player_9,GK_25,right,0.65,0.66,0.706,alta,center,goal
+HND_0050,handball,7m_throw,Champions L.,56,2,0,Player_18,GK_22,right,0.4,0.44,0.641,media,high_right,goal
+HND_0051,handball,7m_throw,Euro,43,0,1,Player_54,GK_29,right,0.45,0.44,0.699,media,low_left,goal
+HND_0052,handball,7m_throw,Euro,28,1,0,Player_55,GK_24,left,0.37,0.41,0.547,media,high_right,goal
+HND_0053,handball,7m_throw,Euro,56,-2,1,Player_12,GK_8,right,0.67,0.81,0.735,alta,low_left,goal
+HND_0054,handball,7m_throw,Euro,2,-3,1,Player_41,GK_21,right,0.58,0.42,0.334,baja,low_right,missed
+HND_0055,handball,7m_throw,World Ch.,48,-3,0,Player_13,GK_12,left,0.23,0.55,0.557,media,high_left,goal
+HND_0056,handball,7m_throw,Euro,10,-3,1,Player_53,GK_13,right,0.81,0.6,0.444,media,high_right,saved
+HND_0057,handball,7m_throw,Euro,35,2,1,Player_5,GK_10,right,0.55,0.6,0.565,media,high_left,saved
+HND_0058,handball,7m_throw,Euro,15,-1,0,Player_30,GK_10,right,0.21,0.74,0.557,media,high_left,goal
+HND_0059,handball,7m_throw,Euro,16,-3,1,Player_16,GK_10,right,0.24,0.76,0.435,media,high_left,goal
+HND_0060,handball,7m_throw,Euro,47,-1,0,Player_4,GK_2,right,0.81,0.42,0.736,alta,low_left,saved
+HND_0061,handball,7m_throw,World Ch.,60,-3,0,Player_24,GK_2,left,0.62,0.51,0.634,media,center,goal
+HND_0062,handball,7m_throw,Champions L.,19,-2,0,Player_13,GK_29,right,0.66,0.79,0.533,media,low_right,goal
+HND_0063,handball,7m_throw,Euro,42,-2,1,Player_13,GK_20,right,0.72,0.47,0.596,media,high_left,goal
+HND_0064,handball,7m_throw,World Ch.,1,-3,1,Player_38,GK_13,right,0.75,0.96,0.485,media,center,goal
+HND_0065,handball,7m_throw,World Ch.,4,-2,0,Player_13,GK_27,right,0.85,0.87,0.532,media,center,saved
+HND_0066,handball,7m_throw,Champions L.,13,-3,1,Player_28,GK_6,right,0.76,0.97,0.542,media,center,saved
+HND_0067,handball,7m_throw,World Ch.,43,0,0,Player_4,GK_13,right,0.87,0.87,0.85,alta,center,goal
+HND_0068,handball,7m_throw,World Ch.,49,-1,0,Player_12,GK_3,right,0.52,0.71,0.731,alta,high_left,saved
+HND_0069,handball,7m_throw,Euro,6,-3,0,Player_54,GK_14,right,0.26,0.62,0.355,media,low_left,goal
+HND_0070,handball,7m_throw,World Ch.,45,-1,0,Player_53,GK_10,right,0.48,0.98,0.777,alta,low_left,goal
+HND_0071,handball,7m_throw,Euro,45,-1,1,Player_14,GK_15,right,0.76,0.69,0.771,alta,high_left,goal
+HND_0072,handball,7m_throw,World Ch.,33,2,1,Player_28,GK_1,right,0.2,0.44,0.461,media,low_left,saved
+HND_0073,handball,7m_throw,World Ch.,25,1,1,Player_22,GK_22,right,0.46,0.8,0.638,media,low_right,goal
+HND_0074,handball,7m_throw,World Ch.,9,-3,0,Player_51,GK_14,right,0.69,0.67,0.422,media,center,goal
+HND_0075,handball,7m_throw,World Ch.,57,1,0,Player_33,GK_10,right,0.31,1.0,0.838,alta,low_left,goal
+HND_0076,handball,7m_throw,Euro,44,0,0,Player_49,GK_20,right,0.58,0.68,0.744,alta,center,goal
+HND_0077,handball,7m_throw,Euro,5,-3,1,Player_28,GK_29,right,0.21,0.32,0.28,baja,high_left,goal
+HND_0078,handball,7m_throw,Euro,50,1,1,Player_35,GK_1,right,0.51,0.83,0.796,alta,high_left,goal
+HND_0079,handball,7m_throw,Euro,31,1,0,Player_39,GK_21,right,0.29,0.57,0.609,media,low_right,goal
+HND_0080,handball,7m_throw,Euro,52,-1,1,Player_38,GK_10,left,0.46,0.64,0.763,alta,high_left,goal
+HND_0081,handball,7m_throw,Euro,13,1,0,Player_54,GK_28,right,0.74,0.52,0.553,media,low_right,goal
+HND_0082,handball,7m_throw,World Ch.,36,-2,1,Player_14,GK_19,right,0.73,0.54,0.592,media,high_right,goal
+HND_0083,handball,7m_throw,World Ch.,16,2,1,Player_15,GK_14,right,0.67,0.49,0.475,media,center,goal
+HND_0084,handball,7m_throw,Euro,54,-2,0,Player_32,GK_9,right,0.45,0.71,0.67,media,high_right,goal
+HND_0085,handball,7m_throw,World Ch.,29,-2,1,Player_46,GK_22,right,0.41,0.36,0.489,media,low_right,goal
+HND_0086,handball,7m_throw,Champions L.,4,0,1,Player_41,GK_13,right,0.65,0.94,0.631,media,low_right,saved
+HND_0087,handball,7m_throw,Champions L.,13,0,1,Player_55,GK_4,right,0.48,0.38,0.54,media,center,goal
+HND_0088,handball,7m_throw,Euro,53,1,1,Player_21,GK_29,right,0.72,0.48,0.773,alta,center,goal
+HND_0089,handball,7m_throw,Euro,59,2,1,Player_14,GK_16,right,0.44,0.32,0.601,media,center,missed
+HND_0090,handball,7m_throw,Euro,10,-1,1,Player_57,GK_17,right,0.84,0.56,0.558,media,high_left,goal
+HND_0091,handball,7m_throw,World Ch.,7,1,1,Player_30,GK_13,right,0.76,0.65,0.549,media,high_right,goal
+HND_0092,handball,7m_throw,World Ch.,33,2,1,Player_7,GK_10,right,0.34,0.36,0.473,media,high_left,goal
+HND_0093,handball,7m_throw,World Ch.,3,0,0,Player_47,GK_16,left,0.86,0.98,0.682,media,high_left,missed
+HND_0094,handball,7m_throw,Euro,13,1,0,Player_48,GK_15,right,0.26,0.51,0.508,media,low_right,missed
+HND_0095,handball,7m_throw,Champions L.,40,0,1,Player_44,GK_20,right,0.57,0.84,0.767,alta,center,goal
+HND_0096,handball,7m_throw,Euro,9,2,1,Player_50,GK_18,right,0.71,0.51,0.427,media,low_left,missed
+HND_0097,handball,7m_throw,Champions L.,37,-1,0,Player_9,GK_29,right,0.44,0.4,0.626,media,low_right,goal
+HND_0098,handball,7m_throw,World Ch.,29,0,1,Player_7,GK_29,right,0.49,0.33,0.625,media,low_right,goal
+HND_0099,handball,7m_throw,Champions L.,7,-1,0,Player_5,GK_17,right,0.87,0.77,0.626,media,low_left,saved
+HND_0100,handball,7m_throw,World Ch.,31,-3,1,Player_46,GK_22,right,0.6,0.7,0.547,media,low_right,goal
+HND_0101,handball,7m_throw,World Ch.,17,-3,1,Player_8,GK_8,right,0.33,0.45,0.376,media,high_right,goal
+HND_0102,handball,7m_throw,Euro,13,2,0,Player_2,GK_27,right,0.75,0.99,0.584,media,high_right,goal
+HND_0103,handball,7m_throw,Champions L.,47,-3,0,Player_12,GK_10,right,0.88,0.99,0.711,alta,high_left,goal
+HND_0104,handball,7m_throw,Champions L.,57,0,0,Player_9,GK_12,right,0.35,0.49,0.759,alta,center,goal
+HND_0105,handball,7m_throw,Euro,52,-2,1,Player_10,GK_29,right,0.53,0.46,0.617,media,low_left,goal
+HND_0106,handball,7m_throw,Euro,58,1,1,Player_49,GK_21,right,0.37,0.73,0.778,alta,low_right,goal
+HND_0107,handball,7m_throw,Champions L.,10,2,0,Player_23,GK_6,left,0.34,0.6,0.398,media,low_left,goal
+HND_0108,handball,7m_throw,Champions L.,32,-3,0,Player_4,GK_26,right,0.64,0.63,0.528,media,high_left,goal
+HND_0109,handball,7m_throw,World Ch.,48,0,1,Player_27,GK_20,right,0.59,0.53,0.77,alta,high_left,goal
+HND_0110,handball,7m_throw,Champions L.,50,1,0,Player_49,GK_8,left,0.49,0.36,0.695,media,high_left,goal
+HND_0111,handball,7m_throw,Champions L.,35,0,0,Player_14,GK_22,right,0.47,0.49,0.655,media,high_left,goal
+HND_0112,handball,7m_throw,World Ch.,25,2,0,Player_21,GK_2,right,0.73,0.52,0.537,media,high_right,saved
+HND_0113,handball,7m_throw,World Ch.,10,-2,1,Player_44,GK_26,left,0.57,0.59,0.452,media,low_left,goal
+HND_0114,handball,7m_throw,World Ch.,17,0,0,Player_4,GK_25,right,0.45,0.43,0.586,media,low_left,goal
+HND_0115,handball,7m_throw,Champions L.,12,-1,1,Player_13,GK_3,left,0.66,0.43,0.543,media,high_right,goal
+HND_0116,handball,7m_throw,Champions L.,54,2,1,Player_59,GK_1,right,0.52,0.74,0.682,media,high_left,goal
+HND_0117,handball,7m_throw,Euro,47,1,1,Player_3,GK_9,left,0.86,0.41,0.71,alta,low_right,goal
+HND_0118,handball,7m_throw,World Ch.,23,1,0,Player_9,GK_6,right,0.68,0.6,0.602,media,high_left,goal
+HND_0119,handball,7m_throw,Euro,1,-1,0,Player_25,GK_15,left,0.42,0.84,0.525,media,low_left,goal
+HND_0120,handball,7m_throw,Champions L.,18,2,1,Player_42,GK_17,right,0.45,0.97,0.557,media,high_right,goal
+HND_0121,handball,7m_throw,Euro,7,-1,1,Player_45,GK_19,right,0.87,0.81,0.6,media,low_right,goal
+HND_0122,handball,7m_throw,Euro,47,1,1,Player_14,GK_26,right,0.38,0.6,0.697,media,high_left,saved
+HND_0123,handball,7m_throw,Euro,45,2,1,Player_54,GK_20,right,0.24,0.73,0.609,media,high_right,goal
+HND_0124,handball,7m_throw,Euro,5,0,0,Player_53,GK_13,right,0.49,0.72,0.579,media,low_right,goal
+HND_0125,handball,7m_throw,Euro,18,1,0,Player_17,GK_18,right,0.22,0.41,0.508,media,low_right,goal
+HND_0126,handball,7m_throw,Euro,48,0,1,Player_36,GK_23,right,0.31,0.69,0.764,alta,high_right,missed
+HND_0127,handball,7m_throw,Champions L.,9,0,1,Player_15,GK_24,right,0.77,0.48,0.591,media,low_left,goal
+HND_0128,handball,7m_throw,Champions L.,43,-2,1,Player_18,GK_17,right,0.31,0.88,0.615,media,high_right,saved
+HND_0129,handball,7m_throw,World Ch.,26,-3,0,Player_36,GK_19,right,0.58,0.51,0.488,media,low_left,missed
+HND_0130,handball,7m_throw,Euro,46,1,0,Player_31,GK_3,right,0.58,0.68,0.716,alta,center,saved
+HND_0131,handball,7m_throw,Champions L.,5,-1,1,Player_49,GK_24,left,0.79,0.91,0.604,media,low_right,goal
+HND_0132,handball,7m_throw,Euro,29,-3,0,Player_7,GK_25,right,0.64,1.0,0.592,media,high_left,goal
+HND_0133,handball,7m_throw,World Ch.,29,-1,0,Player_29,GK_22,right,0.88,0.37,0.639,media,high_right,goal
+HND_0134,handball,7m_throw,World Ch.,33,-2,1,Player_48,GK_28,right,0.49,0.91,0.626,media,center,goal
+HND_0135,handball,7m_throw,Euro,53,-3,1,Player_20,GK_4,left,0.52,0.87,0.694,media,high_left,goal
+HND_0136,handball,7m_throw,Euro,51,-2,0,Player_39,GK_8,left,0.79,0.57,0.677,media,low_right,goal
+HND_0137,handball,7m_throw,Champions L.,15,1,1,Player_20,GK_20,left,0.28,0.56,0.508,media,high_left,goal
+HND_0138,handball,7m_throw,World Ch.,41,-2,1,Player_12,GK_8,right,0.21,0.63,0.552,media,high_left,saved
+HND_0139,handball,7m_throw,World Ch.,29,-2,1,Player_50,GK_13,right,0.3,0.3,0.426,media,center,missed
+HND_0140,handball,7m_throw,World Ch.,8,-3,0,Player_48,GK_16,right,0.44,0.64,0.401,media,high_left,goal
+HND_0141,handball,7m_throw,World Ch.,4,0,1,Player_52,GK_15,right,0.3,0.55,0.487,media,high_left,saved
+HND_0142,handball,7m_throw,Euro,44,2,0,Player_12,GK_28,left,0.22,0.63,0.59,media,low_left,goal
+HND_0143,handball,7m_throw,Champions L.,26,2,0,Player_22,GK_9,right,0.72,0.86,0.591,media,high_right,goal
+HND_0144,handball,7m_throw,Champions L.,20,1,1,Player_40,GK_28,right,0.72,0.46,0.576,media,low_left,saved
+HND_0145,handball,7m_throw,World Ch.,34,0,1,Player_8,GK_20,right,0.21,0.34,0.61,media,low_right,goal
+HND_0146,handball,7m_throw,Euro,39,-2,0,Player_42,GK_28,right,0.28,0.55,0.556,media,low_left,goal
+HND_0147,handball,7m_throw,Champions L.,38,-1,0,Player_18,GK_22,right,0.22,0.82,0.658,media,high_right,goal
+HND_0148,handball,7m_throw,World Ch.,21,2,0,Player_58,GK_5,right,0.42,0.89,0.553,media,high_right,goal
+HND_0149,handball,7m_throw,World Ch.,45,-1,1,Player_55,GK_7,right,0.86,0.75,0.777,alta,center,goal
+HND_0150,handball,7m_throw,Champions L.,56,1,1,Player_8,GK_21,right,0.24,0.96,0.819,alta,low_right,goal
+HND_0151,handball,7m_throw,World Ch.,36,-1,0,Player_40,GK_7,right,0.64,1.0,0.786,alta,low_left,goal
+HND_0152,handball,7m_throw,Euro,28,-3,0,Player_30,GK_21,right,0.49,0.42,0.434,media,low_right,saved
+HND_0153,handball,7m_throw,Champions L.,24,0,0,Player_7,GK_17,right,0.38,0.37,0.574,media,high_right,goal
+HND_0154,handball,7m_throw,World Ch.,16,-1,0,Player_58,GK_1,right,0.73,0.95,0.676,media,low_right,saved
+HND_0155,handball,7m_throw,World Ch.,46,2,1,Player_12,GK_16,right,0.73,0.72,0.672,media,low_right,goal
+HND_0156,handball,7m_throw,World Ch.,41,2,0,Player_20,GK_13,right,0.53,0.55,0.591,media,high_right,goal
+HND_0157,handball,7m_throw,Champions L.,19,-3,0,Player_19,GK_27,right,0.9,0.77,0.549,media,low_left,missed
+HND_0158,handball,7m_throw,World Ch.,35,2,0,Player_22,GK_9,right,0.24,0.66,0.52,media,high_left,goal
+HND_0159,handball,7m_throw,Euro,12,2,1,Player_50,GK_17,right,0.71,0.56,0.464,media,high_right,goal
+HND_0160,handball,7m_throw,Champions L.,4,-3,1,Player_35,GK_26,right,0.23,0.56,0.337,baja,low_left,goal
+HND_0161,handball,7m_throw,World Ch.,55,0,1,Player_24,GK_21,right,0.2,0.32,0.717,alta,low_right,goal
+HND_0162,handball,7m_throw,World Ch.,56,-1,0,Player_7,GK_7,right,0.86,0.53,0.787,alta,low_left,missed
+HND_0163,handball,7m_throw,World Ch.,30,-3,1,Player_19,GK_25,right,0.74,0.84,0.579,media,high_right,goal
+HND_0164,handball,7m_throw,World Ch.,46,0,1,Player_33,GK_10,left,0.61,0.8,0.829,alta,low_right,goal
+HND_0165,handball,7m_throw,Champions L.,25,1,1,Player_22,GK_23,left,0.2,0.84,0.612,media,high_right,goal
+HND_0166,handball,7m_throw,World Ch.,9,0,0,Player_7,GK_17,left,0.48,0.44,0.542,media,high_left,saved
+HND_0167,handball,7m_throw,World Ch.,47,-2,1,Player_30,GK_27,right,0.35,0.93,0.652,media,center,missed
+HND_0168,handball,7m_throw,World Ch.,12,1,0,Player_2,GK_10,right,0.63,0.54,0.552,media,low_right,saved
+HND_0169,handball,7m_throw,Champions L.,38,1,0,Player_32,GK_4,right,0.76,0.74,0.728,alta,low_right,goal
+HND_0170,handball,7m_throw,Euro,41,-3,0,Player_38,GK_19,right,0.22,0.71,0.528,media,low_left,goal
+HND_0171,handball,7m_throw,Champions L.,55,-2,1,Player_41,GK_8,left,0.49,0.87,0.701,alta,low_left,goal
+HND_0172,handball,7m_throw,Euro,35,1,1,Player_2,GK_9,right,0.61,0.73,0.68,media,low_right,saved
+HND_0173,handball,7m_throw,Champions L.,54,-1,1,Player_49,GK_23,right,0.63,0.73,0.824,alta,low_right,goal
+HND_0174,handball,7m_throw,Champions L.,31,0,0,Player_39,GK_6,right,0.55,0.35,0.633,media,center,saved
+HND_0175,handball,7m_throw,Champions L.,25,2,1,Player_30,GK_18,right,0.33,0.93,0.562,media,high_left,goal
+HND_0176,handball,7m_throw,Champions L.,19,-1,0,Player_40,GK_14,right,0.65,0.31,0.526,media,high_left,goal
+HND_0177,handball,7m_throw,Euro,46,-3,1,Player_26,GK_13,right,0.73,0.67,0.643,media,high_right,saved
+HND_0178,handball,7m_throw,Champions L.,37,-1,0,Player_24,GK_23,right,0.67,0.56,0.679,media,high_right,saved
+HND_0179,handball,7m_throw,World Ch.,13,-2,1,Player_15,GK_11,right,0.76,0.46,0.458,media,low_right,goal
+HND_0180,handball,7m_throw,World Ch.,38,2,1,Player_42,GK_11,right,0.59,0.93,0.661,media,low_left,goal
+HND_0181,handball,7m_throw,Champions L.,5,-1,0,Player_48,GK_29,right,0.69,0.54,0.502,media,center,saved
+HND_0182,handball,7m_throw,Champions L.,11,-1,0,Player_11,GK_12,right,0.38,0.88,0.566,media,low_right,goal
+HND_0183,handball,7m_throw,World Ch.,56,1,1,Player_31,GK_1,right,0.81,0.36,0.748,alta,center,goal
+HND_0184,handball,7m_throw,World Ch.,34,-2,0,Player_50,GK_17,right,0.27,0.41,0.502,media,center,goal
+HND_0185,handball,7m_throw,Euro,10,2,1,Player_26,GK_29,left,0.36,0.64,0.434,media,low_right,missed
+HND_0186,handball,7m_throw,Euro,10,-2,0,Player_23,GK_20,right,0.47,0.72,0.468,media,high_right,goal
+HND_0187,handball,7m_throw,Champions L.,19,2,1,Player_47,GK_17,right,0.89,0.86,0.598,media,low_right,goal
+HND_0188,handball,7m_throw,Champions L.,51,-1,0,Player_32,GK_26,right,0.84,0.4,0.739,alta,high_right,saved
+HND_0189,handball,7m_throw,Euro,50,1,0,Player_44,GK_29,right,0.26,0.82,0.759,alta,low_left,goal
+HND_0190,handball,7m_throw,World Ch.,44,-1,0,Player_8,GK_13,right,0.37,0.7,0.716,alta,low_left,goal
+HND_0191,handball,7m_throw,Euro,35,-1,1,Player_26,GK_9,right,0.46,0.76,0.682,media,low_right,goal
+HND_0192,handball,7m_throw,Euro,37,-2,1,Player_47,GK_2,right,0.23,0.9,0.596,media,center,saved
+HND_0193,handball,7m_throw,Euro,25,1,0,Player_39,GK_7,right,0.48,0.3,0.572,media,center,saved
+HND_0194,handball,7m_throw,Champions L.,15,-2,1,Player_6,GK_5,right,0.82,0.69,0.548,media,low_right,saved
+HND_0195,handball,7m_throw,Euro,20,-1,0,Player_53,GK_23,right,0.28,0.68,0.561,media,low_right,goal
+HND_0196,handball,7m_throw,Euro,35,-2,1,Player_52,GK_5,right,0.58,0.46,0.568,media,high_left,goal
+HND_0197,handball,7m_throw,Champions L.,8,-3,0,Player_38,GK_1,right,0.25,0.35,0.286,baja,center,goal
+HND_0198,handball,7m_throw,World Ch.,29,-2,1,Player_34,GK_29,right,0.24,0.51,0.494,media,low_right,saved
+HND_0199,handball,7m_throw,World Ch.,58,-3,1,Player_45,GK_1,right,0.37,0.39,0.579,media,high_right,missed
+HND_0200,handball,7m_throw,Euro,39,-1,1,Player_55,GK_13,right,0.77,0.8,0.779,alta,high_right,goal
+HND_0201,handball,7m_throw,Champions L.,5,-1,1,Player_25,GK_21,right,0.88,0.58,0.535,media,low_left,saved
+HND_0202,handball,7m_throw,Champions L.,27,2,1,Player_23,GK_24,right,0.55,0.98,0.597,media,high_left,saved
+HND_0203,handball,7m_throw,Champions L.,19,2,1,Player_40,GK_14,right,0.58,0.74,0.538,media,center,goal
+HND_0204,handball,7m_throw,Euro,50,0,0,Player_48,GK_14,left,0.28,0.39,0.714,alta,low_right,saved
+HND_0205,handball,7m_throw,Euro,9,-1,1,Player_55,GK_9,right,0.53,0.54,0.541,media,high_left,goal
+HND_0206,handball,7m_throw,Euro,4,-1,0,Player_1,GK_5,right,0.72,0.91,0.604,media,high_left,saved
+HND_0207,handball,7m_throw,Champions L.,12,0,1,Player_45,GK_29,right,0.59,0.46,0.563,media,low_right,goal
+HND_0208,handball,7m_throw,Euro,60,-1,1,Player_51,GK_3,right,0.84,0.56,0.83,alta,high_left,goal
+HND_0209,handball,7m_throw,Champions L.,3,0,1,Player_55,GK_9,right,0.79,0.55,0.58,media,high_right,missed
+HND_0210,handball,7m_throw,Euro,37,-2,1,Player_17,GK_11,right,0.76,0.42,0.593,media,center,goal
+HND_0211,handball,7m_throw,Euro,13,2,0,Player_48,GK_2,right,0.34,0.53,0.405,media,high_right,goal
+HND_0212,handball,7m_throw,Euro,47,0,0,Player_41,GK_23,right,0.34,0.62,0.739,alta,center,goal
+HND_0213,handball,7m_throw,Euro,10,2,1,Player_13,GK_10,right,0.84,0.31,0.421,media,center,goal
+HND_0214,handball,7m_throw,Champions L.,19,-1,1,Player_12,GK_3,right,0.89,0.58,0.645,media,low_left,saved
+HND_0215,handball,7m_throw,Euro,13,-3,0,Player_2,GK_24,right,0.5,0.68,0.452,media,high_left,missed
+HND_0216,handball,7m_throw,Champions L.,26,-1,1,Player_16,GK_4,right,0.43,0.59,0.606,media,low_left,goal
+HND_0217,handball,7m_throw,Euro,5,0,0,Player_2,GK_19,right,0.59,0.65,0.576,media,low_right,goal
+HND_0218,handball,7m_throw,Euro,20,-3,1,Player_53,GK_3,right,0.62,0.37,0.433,media,low_left,goal
+HND_0219,handball,7m_throw,World Ch.,44,-2,1,Player_25,GK_29,left,0.25,0.56,0.575,media,low_left,goal
+HND_0220,handball,7m_throw,World Ch.,11,-1,1,Player_23,GK_15,left,0.22,0.34,0.44,media,low_right,saved
+HND_0221,handball,7m_throw,World Ch.,14,2,0,Player_59,GK_16,left,0.42,0.77,0.463,media,low_right,goal
+HND_0222,handball,7m_throw,Euro,37,1,0,Player_44,GK_23,right,0.83,0.72,0.757,alta,low_right,goal
+HND_0223,handball,7m_throw,Euro,38,-2,0,Player_21,GK_24,left,0.43,0.45,0.53,media,low_left,goal
+HND_0224,handball,7m_throw,Euro,56,2,0,Player_38,GK_25,right,0.5,0.79,0.726,alta,low_right,missed
+HND_0225,handball,7m_throw,World Ch.,55,-2,0,Player_2,GK_2,right,0.47,0.57,0.645,media,low_left,goal
+HND_0226,handball,7m_throw,Champions L.,30,2,0,Player_59,GK_8,right,0.33,0.42,0.476,media,center,goal
+HND_0227,handball,7m_throw,Champions L.,5,1,0,Player_55,GK_7,right,0.48,0.35,0.472,media,low_left,saved
+HND_0228,handball,7m_throw,World Ch.,48,0,0,Player_36,GK_27,left,0.28,0.76,0.742,alta,high_left,goal
+HND_0229,handball,7m_throw,World Ch.,29,0,0,Player_7,GK_5,right,0.79,0.49,0.666,media,low_right,goal
+HND_0230,handball,7m_throw,World Ch.,24,-3,0,Player_37,GK_22,right,0.62,0.86,0.54,media,high_right,saved
+HND_0231,handball,7m_throw,Euro,6,-2,1,Player_29,GK_27,right,0.67,0.82,0.483,media,low_right,saved
+HND_0232,handball,7m_throw,Euro,15,1,1,Player_7,GK_25,right,0.78,0.93,0.654,media,high_left,missed
+HND_0233,handball,7m_throw,World Ch.,25,2,0,Player_47,GK_10,right,0.77,0.77,0.58,media,center,goal
+HND_0234,handball,7m_throw,Euro,4,-2,1,Player_4,GK_24,right,0.72,0.71,0.487,media,low_left,missed
+HND_0235,handball,7m_throw,Euro,41,-3,1,Player_58,GK_23,right,0.53,0.64,0.564,media,high_left,goal
+HND_0236,handball,7m_throw,Champions L.,5,2,1,Player_22,GK_24,right,0.88,0.6,0.487,media,low_right,missed
+HND_0237,handball,7m_throw,World Ch.,4,1,1,Player_24,GK_10,right,0.28,0.74,0.487,media,high_left,goal
+HND_0238,handball,7m_throw,World Ch.,53,-1,1,Player_30,GK_25,left,0.23,0.95,0.775,alta,center,goal
+HND_0239,handball,7m_throw,Euro,23,-1,0,Player_36,GK_11,right,0.56,0.52,0.568,media,low_left,goal
+HND_0240,handball,7m_throw,World Ch.,44,2,1,Player_35,GK_28,right,0.36,0.87,0.645,media,high_left,goal
+HND_0241,handball,7m_throw,Euro,42,0,0,Player_22,GK_7,right,0.59,0.69,0.78,alta,low_left,goal
+HND_0242,handball,7m_throw,World Ch.,33,2,0,Player_20,GK_6,left,0.65,0.86,0.631,media,center,goal
+HND_0243,handball,7m_throw,Champions L.,56,-1,0,Player_19,GK_4,right,0.46,0.5,0.717,alta,center,goal
+HND_0244,handball,7m_throw,Champions L.,2,-3,1,Player_21,GK_11,right,0.22,0.63,0.313,baja,low_right,saved
+HND_0245,handball,7m_throw,Champions L.,5,0,1,Player_18,GK_29,right,0.77,0.9,0.623,media,low_left,saved
+HND_0246,handball,7m_throw,Champions L.,7,1,1,Player_21,GK_29,right,0.5,0.9,0.596,media,center,goal
+HND_0247,handball,7m_throw,World Ch.,5,-2,1,Player_33,GK_26,right,0.29,0.42,0.348,baja,low_right,missed
+HND_0248,handball,7m_throw,Champions L.,58,0,0,Player_55,GK_7,right,0.33,0.93,0.863,alta,low_right,goal
+HND_0249,handball,7m_throw,World Ch.,20,-2,0,Player_5,GK_8,right,0.23,0.58,0.448,media,high_right,goal
+HND_0250,handball,7m_throw,Champions L.,7,1,1,Player_23,GK_20,right,0.26,0.73,0.529,media,high_left,goal
+HND_0251,handball,7m_throw,Champions L.,19,0,0,Player_56,GK_6,right,0.71,0.66,0.66,media,center,saved
+HND_0252,handball,7m_throw,Euro,48,-3,0,Player_22,GK_27,right,0.79,0.91,0.69,media,low_right,goal
+HND_0253,handball,7m_throw,World Ch.,40,-1,1,Player_49,GK_7,right,0.57,0.94,0.774,alta,center,missed
+HND_0254,handball,7m_throw,World Ch.,7,1,1,Player_32,GK_10,right,0.35,0.48,0.458,media,high_left,goal
+HND_0255,handball,7m_throw,World Ch.,45,0,1,Player_37,GK_9,right,0.31,0.96,0.812,alta,center,saved
+HND_0256,handball,7m_throw,World Ch.,51,-3,1,Player_42,GK_22,right,0.58,0.74,0.66,media,low_left,saved
+HND_0257,handball,7m_throw,Euro,23,-1,0,Player_54,GK_13,right,0.38,0.98,0.654,media,low_right,saved
+HND_0258,handball,7m_throw,Euro,15,-3,0,Player_13,GK_28,right,0.62,0.87,0.503,media,high_left,saved
+HND_0259,handball,7m_throw,Euro,36,-3,1,Player_29,GK_22,right,0.73,0.99,0.642,media,low_right,goal
+HND_0260,handball,7m_throw,Champions L.,20,-1,0,Player_16,GK_18,right,0.21,0.83,0.601,media,low_left,goal
+HND_0261,handball,7m_throw,Champions L.,47,2,0,Player_18,GK_15,right,0.43,0.92,0.685,media,high_right,saved
+HND_0262,handball,7m_throw,Euro,37,-1,0,Player_47,GK_13,right,0.25,0.49,0.587,media,low_right,saved
+HND_0263,handball,7m_throw,Euro,29,-3,1,Player_8,GK_5,left,0.21,0.86,0.507,media,high_left,saved
+HND_0264,handball,7m_throw,World Ch.,7,-1,0,Player_47,GK_6,right,0.64,0.4,0.477,media,high_right,goal
+HND_0265,handball,7m_throw,World Ch.,24,1,0,Player_26,GK_18,right,0.41,0.64,0.577,media,high_right,goal
+HND_0266,handball,7m_throw,World Ch.,6,2,0,Player_19,GK_4,right,0.45,0.53,0.409,media,center,goal
+HND_0267,handball,7m_throw,World Ch.,5,0,1,Player_39,GK_14,right,0.24,0.51,0.487,media,high_right,goal
+HND_0268,handball,7m_throw,Champions L.,20,-3,1,Player_5,GK_7,right,0.41,0.5,0.41,media,high_right,saved
+HND_0269,handball,7m_throw,Euro,58,-3,1,Player_54,GK_21,right,0.55,0.73,0.685,media,high_left,goal
+HND_0270,handball,7m_throw,Euro,35,1,1,Player_44,GK_14,left,0.88,0.89,0.791,alta,low_left,goal
+HND_0271,handball,7m_throw,Euro,22,0,1,Player_19,GK_10,right,0.54,0.68,0.64,media,high_right,goal
+HND_0272,handball,7m_throw,World Ch.,48,-1,1,Player_16,GK_10,left,0.72,1.0,0.817,alta,low_right,goal
+HND_0273,handball,7m_throw,Champions L.,51,0,1,Player_23,GK_14,right,0.79,0.74,0.857,alta,low_right,saved
+HND_0274,handball,7m_throw,World Ch.,12,2,0,Player_7,GK_3,right,0.2,0.4,0.385,media,low_left,goal
+HND_0275,handball,7m_throw,World Ch.,30,0,0,Player_53,GK_19,left,0.4,0.89,0.688,media,high_right,saved
+HND_0276,handball,7m_throw,Champions L.,29,-3,1,Player_56,GK_1,right,0.7,0.43,0.497,media,high_left,goal
+HND_0277,handball,7m_throw,World Ch.,35,1,0,Player_30,GK_10,right,0.63,0.71,0.689,media,high_left,goal
+HND_0278,handball,7m_throw,Euro,56,1,0,Player_14,GK_27,right,0.79,0.71,0.845,alta,center,goal
+HND_0279,handball,7m_throw,Euro,21,1,0,Player_47,GK_16,right,0.69,0.58,0.61,media,low_right,goal
+HND_0280,handball,7m_throw,Euro,10,-3,0,Player_53,GK_29,left,0.38,0.73,0.413,media,high_right,saved
+HND_0281,handball,7m_throw,World Ch.,18,2,1,Player_51,GK_23,right,0.32,0.49,0.438,media,high_left,goal
+HND_0282,handball,7m_throw,World Ch.,12,-1,0,Player_17,GK_24,right,0.5,0.54,0.533,media,low_right,goal
+HND_0283,handball,7m_throw,World Ch.,19,-2,1,Player_47,GK_27,right,0.34,0.85,0.522,media,center,goal
+HND_0284,handball,7m_throw,World Ch.,4,2,0,Player_44,GK_29,right,0.36,0.32,0.352,media,low_left,goal
+HND_0285,handball,7m_throw,Champions L.,32,-3,0,Player_25,GK_27,right,0.58,0.4,0.489,media,low_right,saved
+HND_0286,handball,7m_throw,Champions L.,13,-3,0,Player_16,GK_10,right,0.35,0.61,0.394,media,center,saved
+HND_0287,handball,7m_throw,Euro,7,0,0,Player_35,GK_16,left,0.7,0.42,0.544,media,high_left,goal
+HND_0288,handball,7m_throw,Champions L.,50,1,0,Player_31,GK_27,right,0.82,0.62,0.793,alta,low_right,missed
+HND_0289,handball,7m_throw,World Ch.,18,-3,0,Player_50,GK_21,right,0.68,0.77,0.504,media,low_right,goal
+HND_0290,handball,7m_throw,Euro,18,2,1,Player_49,GK_9,right,0.37,0.35,0.398,media,high_left,goal
+HND_0291,handball,7m_throw,World Ch.,55,2,1,Player_25,GK_9,left,0.39,0.33,0.614,media,high_left,goal
+HND_0292,handball,7m_throw,Champions L.,31,2,0,Player_36,GK_6,right,0.83,0.74,0.612,media,high_right,goal
+HND_0293,handball,7m_throw,World Ch.,22,-3,1,Player_31,GK_10,right,0.49,0.31,0.404,media,low_right,goal
+HND_0294,handball,7m_throw,Champions L.,52,1,1,Player_32,GK_8,right,0.4,0.79,0.745,alta,low_left,goal
+HND_0295,handball,7m_throw,Euro,58,1,0,Player_12,GK_14,left,0.68,0.54,0.775,alta,center,goal
+HND_0296,handball,7m_throw,World Ch.,49,0,1,Player_53,GK_12,right,0.5,0.64,0.782,alta,center,goal
+HND_0297,handball,7m_throw,Champions L.,60,-3,0,Player_44,GK_18,right,0.7,0.36,0.632,media,low_left,goal
+HND_0298,handball,7m_throw,Euro,8,0,0,Player_33,GK_25,right,0.81,0.46,0.568,media,center,goal
+HND_0299,handball,7m_throw,Euro,34,2,1,Player_36,GK_1,right,0.55,0.95,0.65,media,high_right,goal
+HND_0300,handball,7m_throw,Euro,28,0,0,Player_5,GK_6,right,0.25,0.61,0.645,media,high_left,goal
+HOC_0001,hockey,shootout,World Ch.,65,0,0,Player_33,GK_3,left,0.82,0.87,0.924,alta,direct_shot,missed
+HOC_0002,hockey,shootout,NHL,65,0,0,Player_44,GK_12,left,0.54,0.7,0.855,alta,low_shot,goal
+HOC_0003,hockey,shootout,Olympics,65,0,1,Player_17,GK_18,right,0.81,0.64,0.871,alta,left_deke,saved
+HOC_0004,hockey,shootout,Olympics,65,0,0,Player_19,GK_8,right,0.55,0.91,0.89,alta,direct_shot,goal
+HOC_0005,hockey,shootout,World Ch.,65,0,0,Player_6,GK_4,right,0.55,0.92,0.89,alta,low_shot,goal
+HOC_0006,hockey,shootout,NHL,65,0,1,Player_47,GK_19,right,0.58,0.55,0.824,alta,direct_shot,goal
+HOC_0007,hockey,shootout,Olympics,65,0,1,Player_29,GK_4,left,0.71,0.46,0.827,alta,left_deke,goal
+HOC_0008,hockey,shootout,NHL,65,0,1,Player_6,GK_10,right,0.63,0.42,0.805,alta,high_shot,saved
+HOC_0009,hockey,shootout,NHL,65,0,0,Player_30,GK_3,right,0.84,0.54,0.871,alta,direct_shot,goal
+HOC_0010,hockey,shootout,World Ch.,65,0,0,Player_35,GK_1,right,0.91,0.74,0.918,alta,direct_shot,saved
+HOC_0011,hockey,shootout,NHL,65,0,1,Player_17,GK_18,right,0.62,0.99,0.939,alta,direct_shot,saved
+HOC_0012,hockey,shootout,Olympics,65,0,0,Player_42,GK_2,left,0.54,0.59,0.84,alta,left_deke,goal
+HOC_0013,hockey,shootout,Olympics,65,0,1,Player_4,GK_14,left,0.71,0.4,0.82,alta,right_deke,goal
+HOC_0014,hockey,shootout,World Ch.,65,0,0,Player_26,GK_14,right,0.97,0.6,0.904,alta,high_shot,saved
+HOC_0015,hockey,shootout,Olympics,65,0,0,Player_12,GK_17,right,0.99,0.51,0.874,alta,direct_shot,missed
+HOC_0016,hockey,shootout,Olympics,65,0,1,Player_36,GK_16,left,0.77,0.4,0.843,alta,right_deke,saved
+HOC_0017,hockey,shootout,NHL,65,0,0,Player_23,GK_15,left,0.64,0.45,0.809,alta,left_deke,goal
+HOC_0018,hockey,shootout,Olympics,65,0,0,Player_21,GK_10,right,0.66,0.8,0.895,alta,direct_shot,missed
+HOC_0019,hockey,shootout,NHL,65,0,0,Player_39,GK_7,left,0.55,0.71,0.846,alta,left_deke,saved
+HOC_0020,hockey,shootout,NHL,65,0,1,Player_4,GK_9,right,0.71,0.78,0.883,alta,direct_shot,goal
+HOC_0021,hockey,shootout,NHL,65,0,1,Player_10,GK_3,right,0.8,0.63,0.874,alta,direct_shot,goal
+HOC_0022,hockey,shootout,Olympics,65,0,1,Player_3,GK_4,right,0.76,0.45,0.851,alta,direct_shot,saved
+HOC_0023,hockey,shootout,World Ch.,65,0,0,Player_46,GK_13,left,0.63,0.86,0.89,alta,direct_shot,saved
+HOC_0024,hockey,shootout,NHL,65,0,0,Player_24,GK_15,right,0.84,0.44,0.841,alta,low_shot,goal
+HOC_0025,hockey,shootout,NHL,65,0,0,Player_43,GK_14,right,0.8,0.48,0.853,alta,high_shot,goal
+HOC_0026,hockey,shootout,World Ch.,65,0,1,Player_39,GK_12,left,0.83,0.83,0.923,alta,right_deke,saved
+HOC_0027,hockey,shootout,NHL,65,0,1,Player_25,GK_8,left,0.55,0.82,0.892,alta,high_shot,saved
+HOC_0028,hockey,shootout,World Ch.,65,0,1,Player_34,GK_16,right,0.7,0.47,0.837,alta,right_deke,saved
+HOC_0029,hockey,shootout,Olympics,65,0,0,Player_24,GK_12,right,0.72,0.84,0.9,alta,high_shot,saved
+HOC_0030,hockey,shootout,World Ch.,65,0,1,Player_46,GK_15,right,0.8,0.85,0.935,alta,direct_shot,goal
+HOC_0031,hockey,shootout,NHL,65,0,1,Player_49,GK_7,right,0.86,0.46,0.863,alta,low_shot,saved
+HOC_0032,hockey,shootout,World Ch.,65,0,0,Player_27,GK_8,left,0.89,0.94,0.958,alta,direct_shot,saved
+HOC_0033,hockey,shootout,NHL,65,0,1,Player_22,GK_5,right,0.85,0.95,0.944,alta,direct_shot,saved
+HOC_0034,hockey,shootout,World Ch.,65,0,1,Player_16,GK_6,left,0.75,0.58,0.876,alta,low_shot,goal
+HOC_0035,hockey,shootout,NHL,65,0,1,Player_25,GK_4,right,0.7,0.49,0.853,alta,direct_shot,saved
+HOC_0036,hockey,shootout,Olympics,65,0,0,Player_33,GK_17,right,0.56,0.4,0.81,alta,left_deke,saved
+HOC_0037,hockey,shootout,Olympics,65,0,0,Player_21,GK_15,left,0.87,0.63,0.888,alta,right_deke,goal
+HOC_0038,hockey,shootout,Olympics,65,0,1,Player_24,GK_5,right,0.91,0.98,0.968,alta,direct_shot,saved
+HOC_0039,hockey,shootout,Olympics,65,0,1,Player_8,GK_1,right,0.53,0.84,0.876,alta,direct_shot,saved
+HOC_0040,hockey,shootout,NHL,65,0,0,Player_5,GK_8,left,0.55,0.56,0.823,alta,direct_shot,goal
+HOC_0041,hockey,shootout,Olympics,65,0,0,Player_17,GK_6,left,0.68,0.46,0.84,alta,direct_shot,saved
+HOC_0042,hockey,shootout,World Ch.,65,0,0,Player_12,GK_19,left,0.73,0.57,0.857,alta,direct_shot,saved
+HOC_0043,hockey,shootout,Olympics,65,0,0,Player_5,GK_16,right,0.86,0.81,0.939,alta,high_shot,saved
+HOC_0044,hockey,shootout,World Ch.,65,0,1,Player_20,GK_12,right,0.66,0.99,0.927,alta,direct_shot,saved
+HOC_0045,hockey,shootout,NHL,65,0,1,Player_47,GK_3,right,0.76,0.52,0.864,alta,right_deke,saved
+HOC_0046,hockey,shootout,NHL,65,0,0,Player_34,GK_1,right,0.85,0.88,0.938,alta,direct_shot,goal
+HOC_0047,hockey,shootout,NHL,65,0,1,Player_20,GK_2,right,0.57,0.99,0.906,alta,right_deke,saved
+HOC_0048,hockey,shootout,NHL,65,0,1,Player_7,GK_6,left,0.98,0.92,0.965,alta,high_shot,goal
+HOC_0049,hockey,shootout,Olympics,65,0,1,Player_36,GK_17,right,0.83,0.54,0.878,alta,direct_shot,saved
+HOC_0050,hockey,shootout,NHL,65,0,0,Player_21,GK_6,left,0.55,0.54,0.823,alta,high_shot,saved
+HOC_0051,hockey,shootout,World Ch.,65,0,0,Player_47,GK_5,left,0.63,0.45,0.804,alta,left_deke,missed
+HOC_0052,hockey,shootout,Olympics,65,0,0,Player_49,GK_4,left,0.64,0.8,0.895,alta,direct_shot,saved
+HOC_0053,hockey,shootout,NHL,65,0,0,Player_32,GK_12,right,0.51,0.89,0.886,alta,direct_shot,saved
+HOC_0054,hockey,shootout,World Ch.,65,0,0,Player_38,GK_17,right,0.59,0.81,0.893,alta,left_deke,goal
+HOC_0055,hockey,shootout,NHL,65,0,0,Player_40,GK_16,right,0.68,0.43,0.816,alta,right_deke,saved
+HOC_0056,hockey,shootout,World Ch.,65,0,0,Player_3,GK_12,right,0.85,0.7,0.912,alta,direct_shot,missed
+HOC_0057,hockey,shootout,NHL,65,0,1,Player_29,GK_7,right,0.68,0.41,0.811,alta,right_deke,saved
+HOC_0058,hockey,shootout,NHL,65,0,0,Player_47,GK_6,right,0.57,0.9,0.897,alta,right_deke,goal
+HOC_0059,hockey,shootout,NHL,65,0,0,Player_40,GK_13,right,0.79,0.98,0.948,alta,direct_shot,saved
+HOC_0060,hockey,shootout,World Ch.,65,0,1,Player_32,GK_6,right,0.75,0.46,0.837,alta,direct_shot,goal
+HOC_0061,hockey,shootout,World Ch.,65,0,0,Player_19,GK_16,right,0.73,0.9,0.913,alta,direct_shot,saved
+HOC_0062,hockey,shootout,World Ch.,65,0,1,Player_42,GK_9,right,0.83,0.56,0.871,alta,direct_shot,missed
+HOC_0063,hockey,shootout,Olympics,65,0,1,Player_47,GK_7,left,0.95,0.68,0.912,alta,low_shot,saved
+HOC_0064,hockey,shootout,World Ch.,65,0,0,Player_47,GK_16,left,0.96,0.43,0.86,alta,direct_shot,saved
+HOC_0065,hockey,shootout,NHL,65,0,0,Player_6,GK_12,left,0.92,0.5,0.885,alta,direct_shot,missed
+HOC_0066,hockey,shootout,World Ch.,65,0,0,Player_35,GK_6,left,0.97,0.7,0.922,alta,high_shot,saved
+HOC_0067,hockey,shootout,World Ch.,65,0,0,Player_7,GK_11,right,0.72,0.46,0.823,alta,low_shot,saved
+HOC_0068,hockey,shootout,NHL,65,0,1,Player_47,GK_14,left,0.95,0.75,0.923,alta,direct_shot,goal
+HOC_0069,hockey,shootout,NHL,65,0,0,Player_43,GK_2,right,0.69,0.76,0.901,alta,high_shot,saved
+HOC_0070,hockey,shootout,Olympics,65,0,0,Player_3,GK_16,left,0.54,0.82,0.873,alta,right_deke,missed
+HOC_0071,hockey,shootout,World Ch.,65,0,1,Player_31,GK_1,right,0.81,0.71,0.901,alta,low_shot,saved
+HOC_0072,hockey,shootout,World Ch.,65,0,0,Player_19,GK_6,right,0.53,0.8,0.888,alta,direct_shot,goal
+HOC_0073,hockey,shootout,World Ch.,65,0,0,Player_4,GK_16,left,0.82,0.93,0.95,alta,high_shot,saved
+HOC_0074,hockey,shootout,World Ch.,65,0,1,Player_33,GK_6,right,0.69,0.8,0.899,alta,right_deke,goal
+HOC_0075,hockey,shootout,World Ch.,65,0,0,Player_15,GK_6,right,0.87,0.83,0.945,alta,low_shot,saved
+HOC_0076,hockey,shootout,NHL,65,0,0,Player_1,GK_14,right,0.64,0.89,0.909,alta,direct_shot,saved
+HOC_0077,hockey,shootout,NHL,65,0,1,Player_8,GK_5,left,0.82,0.56,0.876,alta,high_shot,missed
+HOC_0078,hockey,shootout,Olympics,65,0,0,Player_12,GK_14,right,0.53,0.85,0.894,alta,low_shot,goal
+HOC_0079,hockey,shootout,NHL,65,0,0,Player_27,GK_8,right,0.52,0.82,0.867,alta,direct_shot,saved
+HOC_0080,hockey,shootout,World Ch.,65,0,1,Player_34,GK_14,left,0.92,0.51,0.88,alta,high_shot,saved
+HOC_0081,hockey,shootout,World Ch.,65,0,0,Player_42,GK_6,left,0.7,0.61,0.87,alta,right_deke,saved
+HOC_0082,hockey,shootout,World Ch.,65,0,0,Player_27,GK_17,right,0.97,0.53,0.9,alta,direct_shot,goal
+HOC_0083,hockey,shootout,World Ch.,65,0,0,Player_39,GK_4,right,0.6,0.68,0.874,alta,low_shot,saved
+HOC_0084,hockey,shootout,NHL,65,0,0,Player_35,GK_5,right,0.87,0.9,0.959,alta,right_deke,saved
+HOC_0085,hockey,shootout,Olympics,65,0,1,Player_18,GK_7,right,0.69,0.43,0.838,alta,right_deke,saved
+HOC_0086,hockey,shootout,NHL,65,0,0,Player_38,GK_17,right,0.58,0.44,0.8,alta,high_shot,saved
+HOC_0087,hockey,shootout,Olympics,65,0,0,Player_24,GK_17,right,0.77,0.64,0.874,alta,high_shot,missed
+HOC_0088,hockey,shootout,World Ch.,65,0,0,Player_40,GK_6,right,0.57,0.92,0.9,alta,high_shot,goal
+HOC_0089,hockey,shootout,Olympics,65,0,1,Player_31,GK_5,right,1.0,0.56,0.909,alta,direct_shot,goal
+HOC_0090,hockey,shootout,NHL,65,0,1,Player_2,GK_7,right,0.61,0.55,0.838,alta,high_shot,saved
+HOC_0091,hockey,shootout,Olympics,65,0,1,Player_41,GK_5,right,0.74,1.0,0.94,alta,direct_shot,saved
+HOC_0092,hockey,shootout,World Ch.,65,0,1,Player_17,GK_14,right,0.92,0.95,0.96,alta,direct_shot,missed
+HOC_0093,hockey,shootout,World Ch.,65,0,1,Player_34,GK_6,left,0.53,0.67,0.859,alta,direct_shot,saved
+HOC_0094,hockey,shootout,World Ch.,65,0,0,Player_49,GK_7,left,0.62,0.66,0.85,alta,high_shot,saved
+HOC_0095,hockey,shootout,World Ch.,65,0,0,Player_10,GK_3,left,0.62,0.56,0.85,alta,high_shot,saved
+HOC_0096,hockey,shootout,Olympics,65,0,1,Player_7,GK_11,right,0.97,0.75,0.932,alta,high_shot,saved
+HOC_0097,hockey,shootout,NHL,65,0,1,Player_29,GK_9,right,0.64,0.47,0.812,alta,direct_shot,saved
+HOC_0098,hockey,shootout,NHL,65,0,1,Player_22,GK_19,left,0.85,0.65,0.883,alta,direct_shot,goal
+HOC_0099,hockey,shootout,Olympics,65,0,0,Player_35,GK_5,right,0.67,0.82,0.895,alta,high_shot,goal
+HOC_0100,hockey,shootout,NHL,65,0,1,Player_34,GK_12,left,0.78,0.83,0.918,alta,low_shot,goal
+HOC_0101,hockey,shootout,Olympics,65,0,0,Player_4,GK_17,left,0.91,0.99,0.961,alta,low_shot,saved
+HOC_0102,hockey,shootout,Olympics,65,0,0,Player_14,GK_10,right,0.69,0.47,0.844,alta,high_shot,saved
+HOC_0103,hockey,shootout,Olympics,65,0,0,Player_13,GK_15,right,0.78,0.84,0.929,alta,direct_shot,goal
+HOC_0104,hockey,shootout,World Ch.,65,0,0,Player_44,GK_4,right,0.67,0.58,0.862,alta,direct_shot,saved
+HOC_0105,hockey,shootout,World Ch.,65,0,1,Player_17,GK_3,right,0.88,0.68,0.914,alta,high_shot,saved
+HOC_0106,hockey,shootout,NHL,65,0,1,Player_20,GK_18,left,0.54,0.84,0.871,alta,low_shot,goal
+HOC_0107,hockey,shootout,NHL,65,0,1,Player_20,GK_7,right,0.99,0.4,0.851,alta,direct_shot,goal
+HOC_0108,hockey,shootout,World Ch.,65,0,0,Player_19,GK_2,right,0.88,0.71,0.904,alta,right_deke,missed
+HOC_0109,hockey,shootout,Olympics,65,0,1,Player_48,GK_10,right,0.92,0.62,0.893,alta,high_shot,saved
+HOC_0110,hockey,shootout,World Ch.,65,0,1,Player_38,GK_2,right,0.95,0.72,0.923,alta,low_shot,saved
+HOC_0111,hockey,shootout,NHL,65,0,1,Player_38,GK_2,left,0.68,0.64,0.872,alta,high_shot,saved
+HOC_0112,hockey,shootout,World Ch.,65,0,0,Player_33,GK_3,left,0.95,0.83,0.935,alta,high_shot,saved
+HOC_0113,hockey,shootout,Olympics,65,0,1,Player_29,GK_11,right,0.74,0.56,0.869,alta,left_deke,saved
+HOC_0114,hockey,shootout,World Ch.,65,0,0,Player_44,GK_2,right,0.62,0.43,0.815,alta,direct_shot,saved
+HOC_0115,hockey,shootout,NHL,65,0,1,Player_44,GK_5,right,0.76,0.68,0.89,alta,low_shot,saved
+HOC_0116,hockey,shootout,World Ch.,65,0,0,Player_16,GK_5,left,0.74,0.74,0.9,alta,right_deke,goal
+HOC_0117,hockey,shootout,World Ch.,65,0,1,Player_21,GK_19,right,0.81,0.51,0.853,alta,low_shot,goal
+HOC_0118,hockey,shootout,Olympics,65,0,0,Player_28,GK_19,right,0.55,0.45,0.795,alta,direct_shot,saved
+HOC_0119,hockey,shootout,NHL,65,0,1,Player_22,GK_5,left,0.89,0.78,0.916,alta,low_shot,missed
+HOC_0120,hockey,shootout,Olympics,65,0,1,Player_48,GK_18,left,0.53,0.9,0.898,alta,direct_shot,saved
+HOC_0121,hockey,shootout,Olympics,65,0,1,Player_27,GK_14,left,0.56,0.81,0.881,alta,direct_shot,saved
+HOC_0122,hockey,shootout,Olympics,65,0,1,Player_1,GK_2,right,0.7,0.86,0.907,alta,low_shot,goal
+HOC_0123,hockey,shootout,Olympics,65,0,1,Player_21,GK_2,right,0.89,0.67,0.899,alta,direct_shot,saved
+HOC_0124,hockey,shootout,World Ch.,65,0,1,Player_44,GK_13,right,0.59,0.78,0.894,alta,low_shot,saved
+HOC_0125,hockey,shootout,Olympics,65,0,1,Player_24,GK_18,right,0.81,0.87,0.939,alta,low_shot,goal
+HOC_0126,hockey,shootout,World Ch.,65,0,0,Player_20,GK_15,left,0.64,0.64,0.869,alta,direct_shot,saved
+HOC_0127,hockey,shootout,Olympics,65,0,1,Player_14,GK_18,left,1.0,0.73,0.918,alta,high_shot,saved
+HOC_0128,hockey,shootout,NHL,65,0,1,Player_15,GK_10,right,0.91,0.48,0.868,alta,low_shot,saved
+HOC_0129,hockey,shootout,Olympics,65,0,1,Player_48,GK_13,left,0.69,0.81,0.892,alta,direct_shot,saved
+HOC_0130,hockey,shootout,Olympics,65,0,0,Player_1,GK_7,right,0.91,0.89,0.938,alta,direct_shot,goal
+HOC_0131,hockey,shootout,Olympics,65,0,1,Player_48,GK_3,right,0.89,0.98,0.974,alta,direct_shot,saved
+HOC_0132,hockey,shootout,Olympics,65,0,0,Player_44,GK_14,right,0.7,0.73,0.878,alta,low_shot,saved
+HOC_0133,hockey,shootout,NHL,65,0,0,Player_11,GK_19,right,0.71,0.69,0.878,alta,left_deke,saved
+HOC_0134,hockey,shootout,Olympics,65,0,0,Player_43,GK_4,left,0.9,0.72,0.906,alta,high_shot,missed
+HOC_0135,hockey,shootout,Olympics,65,0,0,Player_42,GK_14,right,0.59,0.7,0.873,alta,direct_shot,saved
+HOC_0136,hockey,shootout,Olympics,65,0,1,Player_33,GK_3,left,0.79,0.64,0.883,alta,high_shot,saved
+HOC_0137,hockey,shootout,Olympics,65,0,1,Player_49,GK_5,right,0.88,0.82,0.929,alta,direct_shot,saved
+HOC_0138,hockey,shootout,World Ch.,65,0,0,Player_42,GK_1,left,0.59,0.55,0.822,alta,left_deke,saved
+HOC_0139,hockey,shootout,Olympics,65,0,1,Player_3,GK_7,left,0.84,0.67,0.896,alta,direct_shot,saved
+HOC_0140,hockey,shootout,Olympics,65,0,1,Player_25,GK_4,right,0.5,0.92,0.887,alta,right_deke,saved
+HOC_0141,hockey,shootout,NHL,65,0,1,Player_4,GK_11,left,0.57,0.56,0.848,alta,high_shot,missed
+HOC_0142,hockey,shootout,Olympics,65,0,0,Player_25,GK_18,left,0.89,0.42,0.857,alta,direct_shot,saved
+HOC_0143,hockey,shootout,Olympics,65,0,0,Player_7,GK_9,right,0.72,0.7,0.87,alta,right_deke,missed
+HOC_0144,hockey,shootout,World Ch.,65,0,1,Player_49,GK_10,right,0.76,0.88,0.92,alta,left_deke,saved
+HOC_0145,hockey,shootout,Olympics,65,0,1,Player_46,GK_7,left,0.98,0.45,0.887,alta,direct_shot,goal
+HOC_0146,hockey,shootout,NHL,65,0,0,Player_23,GK_2,right,0.63,0.42,0.821,alta,direct_shot,saved
+HOC_0147,hockey,shootout,NHL,65,0,0,Player_12,GK_10,right,0.71,0.8,0.915,alta,direct_shot,missed
+HOC_0148,hockey,shootout,NHL,65,0,0,Player_17,GK_8,right,0.6,0.65,0.845,alta,direct_shot,saved
+HOC_0149,hockey,shootout,NHL,65,0,0,Player_37,GK_4,right,0.6,0.73,0.857,alta,high_shot,saved
+HOC_0150,hockey,shootout,NHL,65,0,0,Player_46,GK_19,right,0.8,0.45,0.849,alta,high_shot,goal
+HOC_0151,hockey,shootout,World Ch.,65,0,0,Player_11,GK_19,left,0.74,0.77,0.903,alta,high_shot,goal
+HOC_0152,hockey,shootout,Olympics,65,0,1,Player_26,GK_14,right,0.58,0.92,0.917,alta,right_deke,saved
+HOC_0153,hockey,shootout,World Ch.,65,0,1,Player_38,GK_2,left,0.72,0.89,0.916,alta,high_shot,saved
+HOC_0154,hockey,shootout,Olympics,65,0,1,Player_9,GK_9,left,0.62,0.84,0.903,alta,direct_shot,saved
+HOC_0155,hockey,shootout,World Ch.,65,0,1,Player_33,GK_7,left,0.9,0.94,0.96,alta,low_shot,saved
+HOC_0156,hockey,shootout,Olympics,65,0,0,Player_25,GK_19,right,0.73,0.83,0.905,alta,low_shot,saved
+HOC_0157,hockey,shootout,World Ch.,65,0,0,Player_37,GK_19,left,0.61,0.91,0.898,alta,left_deke,saved
+HOC_0158,hockey,shootout,NHL,65,0,0,Player_40,GK_1,left,0.92,0.83,0.941,alta,high_shot,saved
+HOC_0159,hockey,shootout,Olympics,65,0,0,Player_30,GK_9,right,1.0,0.95,0.963,alta,direct_shot,saved
+HOC_0160,hockey,shootout,Olympics,65,0,0,Player_46,GK_11,left,0.83,0.86,0.933,alta,direct_shot,missed
+HOC_0161,hockey,shootout,Olympics,65,0,1,Player_16,GK_11,right,0.86,0.45,0.845,alta,direct_shot,saved
+HOC_0162,hockey,shootout,Olympics,65,0,1,Player_15,GK_15,left,0.55,0.97,0.897,alta,high_shot,saved
+HOC_0163,hockey,shootout,NHL,65,0,0,Player_20,GK_1,left,0.59,0.91,0.895,alta,direct_shot,saved
+HOC_0164,hockey,shootout,World Ch.,65,0,0,Player_2,GK_10,right,0.56,0.56,0.824,alta,direct_shot,saved
+HOC_0165,hockey,shootout,NHL,65,0,1,Player_4,GK_4,right,0.51,0.67,0.838,alta,high_shot,saved
+HOC_0166,hockey,shootout,NHL,65,0,0,Player_27,GK_5,left,0.63,0.45,0.824,alta,left_deke,saved
+HOC_0167,hockey,shootout,World Ch.,65,0,1,Player_26,GK_4,right,0.68,0.71,0.869,alta,direct_shot,saved
+HOC_0168,hockey,shootout,NHL,65,0,1,Player_9,GK_14,right,0.55,0.53,0.814,alta,low_shot,saved
+HOC_0169,hockey,shootout,NHL,65,0,0,Player_45,GK_14,right,0.89,0.95,0.947,alta,direct_shot,goal
+HOC_0170,hockey,shootout,World Ch.,65,0,1,Player_29,GK_2,right,0.63,0.71,0.882,alta,direct_shot,goal
+HOC_0171,hockey,shootout,World Ch.,65,0,0,Player_5,GK_8,left,0.55,0.91,0.909,alta,low_shot,saved
+HOC_0172,hockey,shootout,World Ch.,65,0,1,Player_36,GK_7,right,0.8,0.46,0.833,alta,direct_shot,goal
+HOC_0173,hockey,shootout,Olympics,65,0,0,Player_35,GK_10,right,0.98,0.94,0.972,alta,high_shot,saved
+HOC_0174,hockey,shootout,Olympics,65,0,1,Player_14,GK_11,right,0.68,0.99,0.947,alta,direct_shot,saved
+HOC_0175,hockey,shootout,NHL,65,0,0,Player_46,GK_17,right,0.61,0.49,0.836,alta,direct_shot,goal
+HOC_0176,hockey,shootout,Olympics,65,0,0,Player_41,GK_2,right,0.72,0.85,0.925,alta,low_shot,saved
+HOC_0177,hockey,shootout,World Ch.,65,0,0,Player_31,GK_3,left,1.0,0.41,0.854,alta,direct_shot,goal
+HOC_0178,hockey,shootout,Olympics,65,0,0,Player_21,GK_8,right,0.99,0.89,0.954,alta,left_deke,saved
+HOC_0179,hockey,shootout,Olympics,65,0,0,Player_47,GK_19,right,0.62,0.65,0.87,alta,high_shot,saved
+HOC_0180,hockey,shootout,Olympics,65,0,1,Player_43,GK_10,left,0.92,0.79,0.928,alta,low_shot,saved
+HOC_0181,hockey,shootout,World Ch.,65,0,0,Player_4,GK_2,left,0.93,0.56,0.88,alta,high_shot,saved
+HOC_0182,hockey,shootout,NHL,65,0,0,Player_14,GK_6,right,0.65,0.48,0.829,alta,direct_shot,saved
+HOC_0183,hockey,shootout,World Ch.,65,0,0,Player_4,GK_2,right,0.95,0.79,0.931,alta,low_shot,goal
+HOC_0184,hockey,shootout,World Ch.,65,0,0,Player_47,GK_18,right,0.87,0.46,0.87,alta,direct_shot,missed
+HOC_0185,hockey,shootout,NHL,65,0,1,Player_8,GK_9,right,0.86,0.79,0.922,alta,low_shot,saved
+HOC_0186,hockey,shootout,World Ch.,65,0,0,Player_26,GK_8,right,0.66,0.57,0.849,alta,low_shot,goal
+HOC_0187,hockey,shootout,NHL,65,0,0,Player_3,GK_8,right,0.64,0.59,0.857,alta,low_shot,missed
+HOC_0188,hockey,shootout,Olympics,65,0,0,Player_24,GK_14,right,0.67,0.72,0.865,alta,high_shot,goal
+HOC_0189,hockey,shootout,World Ch.,65,0,1,Player_34,GK_3,right,0.81,0.43,0.847,alta,high_shot,saved
+HOC_0190,hockey,shootout,World Ch.,65,0,0,Player_40,GK_1,right,0.55,1.0,0.918,alta,high_shot,saved
+HOC_0191,hockey,shootout,NHL,65,0,1,Player_9,GK_17,right,0.75,0.88,0.932,alta,direct_shot,goal
+HOC_0192,hockey,shootout,NHL,65,0,1,Player_17,GK_10,right,0.75,0.83,0.919,alta,right_deke,missed
+HOC_0193,hockey,shootout,Olympics,65,0,0,Player_35,GK_13,left,0.92,0.94,0.946,alta,direct_shot,saved
+HOC_0194,hockey,shootout,Olympics,65,0,1,Player_12,GK_18,left,0.68,0.95,0.921,alta,direct_shot,goal
+HOC_0195,hockey,shootout,NHL,65,0,1,Player_10,GK_12,left,1.0,0.53,0.895,alta,right_deke,goal
+HOC_0196,hockey,shootout,World Ch.,65,0,0,Player_15,GK_17,right,0.88,0.59,0.887,alta,right_deke,saved
+HOC_0197,hockey,shootout,World Ch.,65,0,1,Player_3,GK_11,left,0.79,0.44,0.851,alta,high_shot,saved
+HOC_0198,hockey,shootout,NHL,65,0,0,Player_22,GK_13,right,0.69,0.89,0.927,alta,low_shot,missed
+HOC_0199,hockey,shootout,NHL,65,0,0,Player_15,GK_1,left,0.82,0.79,0.931,alta,low_shot,saved
+HOC_0200,hockey,shootout,World Ch.,65,0,1,Player_15,GK_2,right,0.68,0.87,0.906,alta,right_deke,saved
+HOC_0201,hockey,shootout,Olympics,65,0,0,Player_35,GK_17,left,0.83,0.49,0.846,alta,left_deke,goal
+HOC_0202,hockey,shootout,NHL,65,0,1,Player_32,GK_3,right,0.78,0.63,0.88,alta,low_shot,saved
+HOC_0203,hockey,shootout,NHL,65,0,1,Player_36,GK_7,right,1.0,0.54,0.903,alta,high_shot,saved
+HOC_0204,hockey,shootout,NHL,65,0,1,Player_11,GK_4,left,0.56,0.97,0.907,alta,direct_shot,saved
+HOC_0205,hockey,shootout,NHL,65,0,1,Player_5,GK_5,right,0.95,0.99,0.969,alta,direct_shot,missed
+HOC_0206,hockey,shootout,Olympics,65,0,0,Player_1,GK_13,right,0.87,0.83,0.928,alta,right_deke,goal
+HOC_0207,hockey,shootout,Olympics,65,0,0,Player_38,GK_10,right,0.95,0.88,0.945,alta,right_deke,saved
+HOC_0208,hockey,shootout,World Ch.,65,0,0,Player_37,GK_9,right,0.75,0.87,0.936,alta,low_shot,saved
+HOC_0209,hockey,shootout,NHL,65,0,1,Player_22,GK_16,left,0.84,0.89,0.948,alta,direct_shot,goal
+HOC_0210,hockey,shootout,Olympics,65,0,1,Player_5,GK_3,right,0.92,0.99,0.97,alta,direct_shot,saved
+HOC_0211,hockey,shootout,NHL,65,0,0,Player_45,GK_14,right,0.82,0.55,0.857,alta,low_shot,goal
+HOC_0212,hockey,shootout,NHL,65,0,0,Player_41,GK_18,right,0.77,0.85,0.93,alta,low_shot,goal
+HOC_0213,hockey,shootout,World Ch.,65,0,0,Player_5,GK_15,right,0.62,0.74,0.872,alta,right_deke,saved
+HOC_0214,hockey,shootout,Olympics,65,0,0,Player_3,GK_9,right,0.79,0.99,0.962,alta,left_deke,saved
+HOC_0215,hockey,shootout,Olympics,65,0,0,Player_38,GK_10,left,0.65,0.71,0.862,alta,right_deke,missed
+HOC_0216,hockey,shootout,NHL,65,0,0,Player_19,GK_18,right,0.77,0.91,0.933,alta,low_shot,saved
+HOC_0217,hockey,shootout,Olympics,65,0,0,Player_24,GK_14,right,0.66,0.68,0.858,alta,left_deke,goal
+HOC_0218,hockey,shootout,Olympics,65,0,0,Player_17,GK_12,left,0.77,0.58,0.855,alta,left_deke,goal
+HOC_0219,hockey,shootout,NHL,65,0,1,Player_8,GK_15,left,0.79,0.9,0.946,alta,right_deke,missed
+HOC_0220,hockey,shootout,Olympics,65,0,1,Player_24,GK_16,right,0.71,0.97,0.944,alta,low_shot,goal
+HOC_0221,hockey,shootout,NHL,65,0,1,Player_31,GK_11,right,0.71,0.83,0.904,alta,left_deke,goal
+HOC_0222,hockey,shootout,Olympics,65,0,0,Player_40,GK_7,right,0.53,0.58,0.832,alta,direct_shot,goal
+HOC_0223,hockey,shootout,NHL,65,0,1,Player_14,GK_13,right,0.54,0.44,0.807,alta,direct_shot,saved
+HOC_0224,hockey,shootout,Olympics,65,0,1,Player_28,GK_6,left,0.8,0.97,0.945,alta,direct_shot,saved
+HOC_0225,hockey,shootout,NHL,65,0,0,Player_35,GK_8,right,0.94,0.78,0.919,alta,right_deke,saved
+HOC_0226,hockey,shootout,NHL,65,0,0,Player_47,GK_1,left,0.78,0.41,0.829,alta,direct_shot,saved
+HOC_0227,hockey,shootout,World Ch.,65,0,0,Player_20,GK_12,left,0.68,0.87,0.918,alta,low_shot,saved
+HOC_0228,hockey,shootout,World Ch.,65,0,1,Player_31,GK_10,left,0.94,0.43,0.848,alta,right_deke,saved
+HOC_0229,hockey,shootout,World Ch.,65,0,0,Player_13,GK_18,right,0.58,0.63,0.845,alta,right_deke,saved
+HOC_0230,hockey,shootout,NHL,65,0,1,Player_32,GK_3,left,0.53,0.92,0.899,alta,high_shot,missed
+HOC_0231,hockey,shootout,World Ch.,65,0,0,Player_34,GK_15,right,0.91,0.94,0.945,alta,low_shot,saved
+HOC_0232,hockey,shootout,NHL,65,0,0,Player_12,GK_17,left,0.9,0.97,0.965,alta,low_shot,saved
+HOC_0233,hockey,shootout,World Ch.,65,0,1,Player_46,GK_8,right,0.75,0.66,0.882,alta,high_shot,saved
+HOC_0234,hockey,shootout,NHL,65,0,1,Player_1,GK_14,right,0.9,0.84,0.937,alta,low_shot,saved
+HOC_0235,hockey,shootout,World Ch.,65,0,1,Player_48,GK_5,right,0.76,0.7,0.897,alta,direct_shot,saved
+HOC_0236,hockey,shootout,World Ch.,65,0,1,Player_45,GK_1,right,0.52,0.68,0.856,alta,low_shot,goal
+HOC_0237,hockey,shootout,Olympics,65,0,0,Player_39,GK_8,left,0.71,0.7,0.876,alta,right_deke,goal
+HOC_0238,hockey,shootout,NHL,65,0,0,Player_1,GK_19,left,0.99,0.61,0.905,alta,low_shot,goal
+HOC_0239,hockey,shootout,Olympics,65,0,1,Player_18,GK_13,right,0.53,0.92,0.908,alta,left_deke,missed
+HOC_0240,hockey,shootout,NHL,65,0,1,Player_30,GK_2,right,0.55,0.96,0.922,alta,high_shot,saved
+HOC_0241,hockey,shootout,Olympics,65,0,1,Player_8,GK_16,right,0.7,0.8,0.888,alta,left_deke,goal
+HOC_0242,hockey,shootout,World Ch.,65,0,0,Player_12,GK_4,right,1.0,0.48,0.884,alta,low_shot,saved
+HOC_0243,hockey,shootout,World Ch.,65,0,0,Player_33,GK_16,right,0.62,0.82,0.89,alta,direct_shot,goal
+HOC_0244,hockey,shootout,Olympics,65,0,1,Player_43,GK_13,right,0.9,0.98,0.953,alta,right_deke,saved
+HOC_0245,hockey,shootout,Olympics,65,0,1,Player_10,GK_1,right,0.65,0.58,0.85,alta,high_shot,goal
+HOC_0246,hockey,shootout,NHL,65,0,0,Player_46,GK_18,right,0.53,0.55,0.835,alta,left_deke,goal
+HOC_0247,hockey,shootout,World Ch.,65,0,0,Player_40,GK_8,right,0.71,0.81,0.903,alta,left_deke,goal
+HOC_0248,hockey,shootout,World Ch.,65,0,0,Player_44,GK_8,left,0.53,0.82,0.873,alta,direct_shot,goal
+HOC_0249,hockey,shootout,NHL,65,0,0,Player_5,GK_7,right,0.6,0.61,0.836,alta,direct_shot,saved
+HOC_0250,hockey,shootout,Olympics,65,0,1,Player_10,GK_8,right,0.66,0.86,0.898,alta,direct_shot,saved
+HOC_0251,hockey,shootout,NHL,65,0,0,Player_45,GK_2,right,0.64,0.86,0.906,alta,direct_shot,missed
+HOC_0252,hockey,shootout,NHL,65,0,0,Player_11,GK_6,left,1.0,0.55,0.889,alta,high_shot,saved
+HOC_0253,hockey,shootout,World Ch.,65,0,1,Player_39,GK_12,right,0.85,0.45,0.864,alta,low_shot,saved
+HOC_0254,hockey,shootout,World Ch.,65,0,0,Player_49,GK_18,left,0.95,1.0,0.985,alta,direct_shot,saved
+HOC_0255,hockey,shootout,NHL,65,0,1,Player_24,GK_10,left,0.62,0.93,0.91,alta,left_deke,missed
+HOC_0256,hockey,shootout,Olympics,65,0,1,Player_20,GK_11,right,0.94,0.71,0.923,alta,direct_shot,goal
+HOC_0257,hockey,shootout,World Ch.,65,0,0,Player_5,GK_7,right,0.96,0.62,0.902,alta,direct_shot,saved
+HOC_0258,hockey,shootout,NHL,65,0,1,Player_14,GK_8,left,0.96,0.89,0.967,alta,direct_shot,saved
+HOC_0259,hockey,shootout,World Ch.,65,0,1,Player_48,GK_18,right,0.52,0.96,0.899,alta,high_shot,missed
+HOC_0260,hockey,shootout,NHL,65,0,1,Player_8,GK_11,right,0.93,0.65,0.91,alta,right_deke,saved
+HOC_0261,hockey,shootout,NHL,65,0,0,Player_9,GK_1,right,0.81,0.63,0.892,alta,high_shot,missed
+HOC_0262,hockey,shootout,NHL,65,0,0,Player_15,GK_11,left,0.67,0.65,0.868,alta,direct_shot,saved
+HOC_0263,hockey,shootout,NHL,65,0,1,Player_22,GK_14,right,0.66,0.56,0.854,alta,direct_shot,saved
+HOC_0264,hockey,shootout,Olympics,65,0,0,Player_44,GK_1,left,0.78,1.0,0.938,alta,left_deke,saved
+HOC_0265,hockey,shootout,Olympics,65,0,0,Player_20,GK_13,right,0.97,0.8,0.932,alta,left_deke,saved
+HOC_0266,hockey,shootout,Olympics,65,0,1,Player_30,GK_17,left,0.96,0.52,0.888,alta,direct_shot,goal
+HOC_0267,hockey,shootout,NHL,65,0,1,Player_5,GK_6,right,0.71,0.77,0.903,alta,direct_shot,goal
+HOC_0268,hockey,shootout,World Ch.,65,0,1,Player_25,GK_1,right,0.93,0.8,0.942,alta,low_shot,saved
+HOC_0269,hockey,shootout,NHL,65,0,1,Player_21,GK_8,left,0.95,0.68,0.91,alta,high_shot,saved
+HOC_0270,hockey,shootout,NHL,65,0,0,Player_33,GK_17,right,0.83,0.98,0.954,alta,left_deke,saved
+HOC_0271,hockey,shootout,NHL,65,0,1,Player_18,GK_19,right,0.85,0.6,0.895,alta,direct_shot,saved
+HOC_0272,hockey,shootout,Olympics,65,0,1,Player_42,GK_2,right,0.77,0.41,0.837,alta,low_shot,goal
+HOC_0273,hockey,shootout,Olympics,65,0,0,Player_4,GK_19,right,0.73,0.82,0.893,alta,right_deke,saved
+HOC_0274,hockey,shootout,Olympics,65,0,1,Player_5,GK_2,right,0.76,0.54,0.868,alta,high_shot,goal
+HOC_0275,hockey,shootout,NHL,65,0,0,Player_24,GK_7,left,0.74,0.81,0.904,alta,left_deke,saved
+HOC_0276,hockey,shootout,World Ch.,65,0,0,Player_43,GK_7,right,0.99,0.53,0.903,alta,low_shot,saved
+HOC_0277,hockey,shootout,Olympics,65,0,1,Player_26,GK_19,right,0.76,0.53,0.843,alta,direct_shot,saved
+HOC_0278,hockey,shootout,World Ch.,65,0,0,Player_42,GK_7,right,0.83,0.95,0.935,alta,direct_shot,saved
+HOC_0279,hockey,shootout,Olympics,65,0,0,Player_25,GK_11,right,0.88,0.62,0.895,alta,right_deke,saved
+HOC_0280,hockey,shootout,NHL,65,0,0,Player_6,GK_2,right,0.84,0.43,0.86,alta,direct_shot,saved
+HOC_0281,hockey,shootout,NHL,65,0,1,Player_48,GK_2,right,0.81,0.79,0.912,alta,direct_shot,missed
+HOC_0282,hockey,shootout,Olympics,65,0,1,Player_10,GK_9,right,0.82,0.9,0.944,alta,direct_shot,goal
+HOC_0283,hockey,shootout,NHL,65,0,1,Player_40,GK_7,right,0.72,0.66,0.88,alta,right_deke,missed
+HOC_0284,hockey,shootout,World Ch.,65,0,1,Player_46,GK_3,right,0.78,0.88,0.926,alta,left_deke,missed
+HOC_0285,hockey,shootout,Olympics,65,0,0,Player_38,GK_15,right,0.88,0.58,0.872,alta,direct_shot,goal
+HOC_0286,hockey,shootout,Olympics,65,0,1,Player_20,GK_7,left,0.82,0.86,0.935,alta,right_deke,saved
+HOC_0287,hockey,shootout,Olympics,65,0,0,Player_5,GK_6,right,0.64,0.55,0.852,alta,direct_shot,saved
+HOC_0288,hockey,shootout,Olympics,65,0,0,Player_11,GK_13,left,0.59,0.52,0.83,alta,left_deke,saved
+HOC_0289,hockey,shootout,World Ch.,65,0,1,Player_30,GK_9,left,0.62,0.57,0.852,alta,left_deke,saved
+HOC_0290,hockey,shootout,NHL,65,0,0,Player_33,GK_19,right,0.82,0.5,0.846,alta,high_shot,goal
+HOC_0291,hockey,shootout,Olympics,65,0,1,Player_13,GK_19,right,0.91,0.87,0.933,alta,direct_shot,missed
+HOC_0292,hockey,shootout,World Ch.,65,0,1,Player_12,GK_3,left,0.74,0.66,0.884,alta,direct_shot,goal
+HOC_0293,hockey,shootout,NHL,65,0,0,Player_36,GK_5,right,0.72,0.65,0.883,alta,direct_shot,goal
+HOC_0294,hockey,shootout,World Ch.,65,0,1,Player_28,GK_17,left,0.89,0.81,0.923,alta,low_shot,saved
+HOC_0295,hockey,shootout,World Ch.,65,0,1,Player_34,GK_9,right,0.84,0.97,0.963,alta,left_deke,saved
+HOC_0296,hockey,shootout,World Ch.,65,0,0,Player_18,GK_17,right,0.98,0.89,0.963,alta,direct_shot,saved
+HOC_0297,hockey,shootout,NHL,65,0,0,Player_9,GK_5,right,0.83,0.82,0.919,alta,direct_shot,goal
+HOC_0298,hockey,shootout,NHL,65,0,1,Player_16,GK_10,right,0.61,0.47,0.812,alta,high_shot,saved
+HOC_0299,hockey,shootout,Olympics,65,0,1,Player_42,GK_12,left,0.93,0.56,0.886,alta,low_shot,goal
+HOC_0300,hockey,shootout,World Ch.,65,0,1,Player_18,GK_3,right,0.59,0.65,0.853,alta,direct_shot,saved
+ESP_0001,esports,1v1_duel,Pro League,3,2,0,Player_56,Opp_51,right,0.84,0.95,0.545,media,direct_duel,escape
+ESP_0002,esports,1v1_duel,Pro League,21,-4,0,Player_93,Opp_35,right,0.12,0.63,0.461,media,defensive_hold,death
+ESP_0003,esports,1v1_duel,Pro League,23,-4,0,Player_20,Opp_44,right,0.96,0.64,0.609,media,bait,kill
+ESP_0004,esports,1v1_duel,Championship,16,5,0,Player_52,Opp_98,right,0.26,0.76,0.444,media,defensive_hold,kill
+ESP_0005,esports,1v1_duel,Major,28,-1,0,Player_34,Opp_57,right,0.94,0.68,0.843,alta,flank,kill
+ESP_0006,esports,1v1_duel,Pro League,11,-5,0,Player_51,Opp_51,right,0.2,0.58,0.319,baja,defensive_hold,kill
+ESP_0007,esports,1v1_duel,Major,9,3,0,Player_14,Opp_24,right,0.84,0.99,0.57,media,direct_duel,death
+ESP_0008,esports,1v1_duel,Championship,8,3,0,Player_94,Opp_87,right,0.96,0.59,0.486,media,direct_duel,death
+ESP_0009,esports,1v1_duel,Major,13,1,0,Player_61,Opp_9,right,0.68,0.56,0.57,media,defensive_hold,escape
+ESP_0010,esports,1v1_duel,Major,24,0,0,Player_9,Opp_35,right,0.57,0.8,0.84,alta,flank,trade
+ESP_0011,esports,1v1_duel,Major,27,-3,0,Player_58,Opp_39,right,0.46,0.61,0.68,media,flank,death
+ESP_0012,esports,1v1_duel,Major,9,-1,0,Player_71,Opp_65,right,0.53,0.93,0.615,media,bait,death
+ESP_0013,esports,1v1_duel,Pro League,1,2,0,Player_83,Opp_55,right,0.55,0.82,0.484,media,aggressive_push,death
+ESP_0014,esports,1v1_duel,Major,20,-5,0,Player_22,Opp_60,right,0.58,0.94,0.57,media,defensive_hold,kill
+ESP_0015,esports,1v1_duel,Major,2,-2,0,Player_12,Opp_42,right,0.35,0.52,0.358,media,defensive_hold,kill
+ESP_0016,esports,1v1_duel,Championship,15,-1,0,Player_71,Opp_99,right,0.76,0.85,0.672,media,defensive_hold,escape
+ESP_0017,esports,1v1_duel,Pro League,15,-3,0,Player_67,Opp_46,right,0.88,0.95,0.655,media,defensive_hold,trade
+ESP_0018,esports,1v1_duel,Championship,25,-3,0,Player_25,Opp_24,right,0.81,0.91,0.755,alta,flank,death
+ESP_0019,esports,1v1_duel,Major,11,5,0,Player_34,Opp_62,right,0.39,0.68,0.396,media,aggressive_push,kill
+ESP_0020,esports,1v1_duel,Pro League,10,1,0,Player_84,Opp_4,right,0.41,0.9,0.593,media,defensive_hold,death
+ESP_0021,esports,1v1_duel,Major,25,-1,0,Player_10,Opp_78,right,0.48,0.73,0.765,alta,defensive_hold,escape
+ESP_0022,esports,1v1_duel,Championship,22,4,0,Player_83,Opp_47,right,0.65,0.83,0.625,media,direct_duel,death
+ESP_0023,esports,1v1_duel,Championship,29,0,0,Player_48,Opp_14,right,0.8,0.75,0.869,alta,defensive_hold,kill
+ESP_0024,esports,1v1_duel,Championship,25,5,0,Player_56,Opp_42,right,0.65,0.58,0.606,media,direct_duel,death
+ESP_0025,esports,1v1_duel,Major,4,1,0,Player_55,Opp_82,right,0.55,0.87,0.538,media,bait,kill
+ESP_0026,esports,1v1_duel,Championship,30,-2,0,Player_63,Opp_56,right,0.32,0.88,0.764,alta,defensive_hold,kill
+ESP_0027,esports,1v1_duel,Major,28,2,0,Player_9,Opp_14,right,0.82,0.57,0.758,alta,direct_duel,death
+ESP_0028,esports,1v1_duel,Major,14,-1,0,Player_20,Opp_88,right,0.12,0.86,0.587,media,aggressive_push,kill
+ESP_0029,esports,1v1_duel,Major,5,-4,0,Player_28,Opp_61,right,0.45,0.89,0.403,media,bait,escape
+ESP_0030,esports,1v1_duel,Major,19,4,0,Player_36,Opp_84,right,0.31,0.67,0.498,media,direct_duel,death
+ESP_0031,esports,1v1_duel,Major,9,-3,0,Player_83,Opp_13,right,0.93,0.68,0.544,media,defensive_hold,escape
+ESP_0032,esports,1v1_duel,Pro League,6,4,0,Player_24,Opp_86,right,0.72,0.61,0.392,media,defensive_hold,kill
+ESP_0033,esports,1v1_duel,Pro League,6,-4,0,Player_97,Opp_41,right,0.84,0.86,0.483,media,defensive_hold,death
+ESP_0034,esports,1v1_duel,Major,2,3,0,Player_67,Opp_53,right,0.66,0.94,0.475,media,aggressive_push,death
+ESP_0035,esports,1v1_duel,Pro League,8,3,0,Player_27,Opp_45,right,1.0,0.91,0.589,media,defensive_hold,escape
+ESP_0036,esports,1v1_duel,Major,13,-2,0,Player_1,Opp_46,right,0.46,0.89,0.569,media,defensive_hold,escape
+ESP_0037,esports,1v1_duel,Pro League,20,-5,0,Player_86,Opp_5,right,0.4,0.61,0.46,media,bait,kill
+ESP_0038,esports,1v1_duel,Major,17,-5,0,Player_11,Opp_31,right,0.13,0.99,0.489,media,flank,death
+ESP_0039,esports,1v1_duel,Major,27,-1,0,Player_3,Opp_63,right,0.63,0.82,0.828,alta,aggressive_push,kill
+ESP_0040,esports,1v1_duel,Pro League,7,2,0,Player_15,Opp_2,right,0.25,0.82,0.483,media,direct_duel,escape
+ESP_0041,esports,1v1_duel,Major,5,-1,0,Player_70,Opp_1,right,0.65,0.68,0.524,media,flank,kill
+ESP_0042,esports,1v1_duel,Championship,20,4,0,Player_93,Opp_73,right,0.86,0.78,0.61,media,flank,death
+ESP_0043,esports,1v1_duel,Championship,12,-1,0,Player_59,Opp_84,right,0.58,0.54,0.523,media,defensive_hold,death
+ESP_0044,esports,1v1_duel,Pro League,18,3,0,Player_88,Opp_87,right,0.18,0.68,0.509,media,aggressive_push,death
+ESP_0045,esports,1v1_duel,Championship,2,3,0,Player_33,Opp_73,right,0.52,0.65,0.391,media,aggressive_push,death
+ESP_0046,esports,1v1_duel,Pro League,29,-1,0,Player_39,Opp_62,right,0.15,0.74,0.768,alta,defensive_hold,trade
+ESP_0047,esports,1v1_duel,Championship,27,-3,0,Player_52,Opp_48,right,0.16,0.7,0.629,media,defensive_hold,trade
+ESP_0048,esports,1v1_duel,Pro League,17,3,0,Player_98,Opp_10,right,0.77,0.82,0.626,media,flank,escape
+ESP_0049,esports,1v1_duel,Major,13,-4,0,Player_29,Opp_14,right,0.66,0.91,0.555,media,bait,trade
+ESP_0050,esports,1v1_duel,Championship,15,4,0,Player_42,Opp_74,right,0.52,0.9,0.56,media,defensive_hold,kill
+ESP_0051,esports,1v1_duel,Pro League,17,5,0,Player_95,Opp_18,right,0.27,0.89,0.471,media,flank,trade
+ESP_0052,esports,1v1_duel,Championship,25,1,0,Player_64,Opp_35,right,0.92,0.89,0.877,alta,bait,death
+ESP_0053,esports,1v1_duel,Pro League,29,2,0,Player_64,Opp_83,right,0.92,0.78,0.836,alta,defensive_hold,death
+ESP_0054,esports,1v1_duel,Major,9,2,0,Player_10,Opp_95,right,0.8,0.78,0.554,media,direct_duel,kill
+ESP_0055,esports,1v1_duel,Pro League,1,0,0,Player_95,Opp_78,right,0.78,0.7,0.533,media,bait,kill
+ESP_0056,esports,1v1_duel,Major,1,4,0,Player_48,Opp_27,right,0.96,0.52,0.377,media,direct_duel,death
+ESP_0057,esports,1v1_duel,Major,6,-4,0,Player_55,Opp_88,right,0.39,0.89,0.427,media,flank,death
+ESP_0058,esports,1v1_duel,Championship,17,4,0,Player_23,Opp_79,right,0.87,0.82,0.568,media,defensive_hold,death
+ESP_0059,esports,1v1_duel,Major,18,0,0,Player_88,Opp_19,right,0.42,0.66,0.64,media,aggressive_push,death
+ESP_0060,esports,1v1_duel,Pro League,10,3,0,Player_97,Opp_62,right,0.5,0.54,0.45,media,direct_duel,death
+ESP_0061,esports,1v1_duel,Pro League,11,1,0,Player_85,Opp_67,right,0.66,0.93,0.609,media,aggressive_push,kill
+ESP_0062,esports,1v1_duel,Pro League,4,-2,0,Player_78,Opp_53,right,0.35,0.72,0.421,media,direct_duel,kill
+ESP_0063,esports,1v1_duel,Major,13,-4,0,Player_44,Opp_81,right,0.91,0.8,0.545,media,bait,death
+ESP_0064,esports,1v1_duel,Major,23,-4,0,Player_57,Opp_96,right,0.4,0.66,0.53,media,direct_duel,kill
+ESP_0065,esports,1v1_duel,Championship,3,0,0,Player_6,Opp_1,right,0.33,0.79,0.523,media,defensive_hold,trade
+ESP_0066,esports,1v1_duel,Pro League,30,3,0,Player_32,Opp_24,right,0.91,0.97,0.84,alta,defensive_hold,death
+ESP_0067,esports,1v1_duel,Major,22,-1,0,Player_26,Opp_82,right,0.48,0.76,0.689,media,flank,kill
+ESP_0068,esports,1v1_duel,Championship,1,4,0,Player_59,Opp_17,right,0.34,0.81,0.364,media,direct_duel,kill
+ESP_0069,esports,1v1_duel,Championship,20,-2,0,Player_78,Opp_55,right,0.37,0.97,0.662,media,defensive_hold,death
+ESP_0070,esports,1v1_duel,Pro League,9,1,0,Player_35,Opp_73,right,0.59,0.53,0.536,media,flank,death
+ESP_0071,esports,1v1_duel,Championship,18,0,0,Player_40,Opp_16,right,0.78,0.62,0.678,media,defensive_hold,kill
+ESP_0072,esports,1v1_duel,Major,17,4,0,Player_91,Opp_10,right,0.82,0.88,0.609,media,defensive_hold,death
+ESP_0073,esports,1v1_duel,Pro League,20,-2,0,Player_12,Opp_31,right,0.45,0.67,0.578,media,flank,death
+ESP_0074,esports,1v1_duel,Championship,23,-1,0,Player_53,Opp_59,right,0.53,0.73,0.697,media,bait,trade
+ESP_0075,esports,1v1_duel,Pro League,24,-1,0,Player_85,Opp_80,right,1.0,1.0,0.872,alta,defensive_hold,trade
+ESP_0076,esports,1v1_duel,Pro League,16,-2,0,Player_97,Opp_54,right,0.91,0.55,0.627,media,flank,kill
+ESP_0077,esports,1v1_duel,Championship,11,-4,0,Player_67,Opp_67,right,0.18,1.0,0.48,media,direct_duel,kill
+ESP_0078,esports,1v1_duel,Major,4,2,0,Player_38,Opp_43,right,0.58,0.64,0.447,media,direct_duel,death
+ESP_0079,esports,1v1_duel,Major,9,5,0,Player_12,Opp_79,right,0.93,0.97,0.509,media,defensive_hold,death
+ESP_0080,esports,1v1_duel,Championship,22,-2,0,Player_21,Opp_43,right,0.52,0.76,0.648,media,direct_duel,trade
+ESP_0081,esports,1v1_duel,Championship,25,3,0,Player_64,Opp_55,right,0.58,0.52,0.653,media,aggressive_push,death
+ESP_0082,esports,1v1_duel,Major,13,0,0,Player_50,Opp_32,right,0.5,0.77,0.645,media,defensive_hold,kill
+ESP_0083,esports,1v1_duel,Major,6,-3,0,Player_89,Opp_38,right,0.55,0.62,0.409,media,direct_duel,death
+ESP_0084,esports,1v1_duel,Pro League,11,4,0,Player_47,Opp_91,right,0.36,0.94,0.464,media,flank,kill
+ESP_0085,esports,1v1_duel,Pro League,19,0,0,Player_85,Opp_15,right,0.94,0.72,0.777,alta,defensive_hold,kill
+ESP_0086,esports,1v1_duel,Pro League,24,3,0,Player_28,Opp_80,right,0.56,0.65,0.635,media,aggressive_push,death
+ESP_0087,esports,1v1_duel,Pro League,16,4,0,Player_21,Opp_71,right,0.52,0.98,0.552,media,flank,kill
+ESP_0088,esports,1v1_duel,Major,19,0,0,Player_59,Opp_53,right,0.66,0.53,0.662,media,direct_duel,kill
+ESP_0089,esports,1v1_duel,Major,23,-2,0,Player_10,Opp_93,right,0.35,0.8,0.619,media,direct_duel,death
+ESP_0090,esports,1v1_duel,Pro League,12,-3,0,Player_93,Opp_15,right,0.99,0.83,0.616,media,defensive_hold,kill
+ESP_0091,esports,1v1_duel,Pro League,26,-4,0,Player_5,Opp_11,right,0.67,0.59,0.64,media,direct_duel,death
+ESP_0092,esports,1v1_duel,Championship,13,1,0,Player_9,Opp_17,right,0.12,0.87,0.582,media,flank,death
+ESP_0093,esports,1v1_duel,Championship,22,-3,0,Player_77,Opp_86,right,0.27,0.72,0.565,media,defensive_hold,kill
+ESP_0094,esports,1v1_duel,Major,24,-4,0,Player_87,Opp_95,right,0.38,0.5,0.59,media,aggressive_push,death
+ESP_0095,esports,1v1_duel,Championship,9,1,0,Player_30,Opp_74,right,0.75,0.56,0.571,media,flank,kill
+ESP_0096,esports,1v1_duel,Major,5,3,0,Player_34,Opp_75,right,0.12,0.96,0.442,media,direct_duel,death
+ESP_0097,esports,1v1_duel,Major,14,5,0,Player_89,Opp_93,right,0.32,0.5,0.373,media,aggressive_push,kill
+ESP_0098,esports,1v1_duel,Major,25,-3,0,Player_95,Opp_77,right,0.61,0.65,0.687,media,aggressive_push,kill
+ESP_0099,esports,1v1_duel,Major,12,0,0,Player_29,Opp_23,right,0.5,0.91,0.651,media,direct_duel,kill
+ESP_0100,esports,1v1_duel,Major,25,4,0,Player_51,Opp_91,right,0.37,0.63,0.627,media,flank,trade
+ESP_0101,esports,1v1_duel,Major,1,-5,0,Player_47,Opp_80,right,0.93,0.97,0.432,media,aggressive_push,death
+ESP_0102,esports,1v1_duel,Pro League,4,-3,0,Player_49,Opp_95,right,0.66,0.97,0.477,media,direct_duel,death
+ESP_0103,esports,1v1_duel,Pro League,12,-3,0,Player_98,Opp_93,right,0.32,1.0,0.555,media,defensive_hold,death
+ESP_0104,esports,1v1_duel,Championship,23,4,0,Player_87,Opp_23,right,0.7,0.84,0.631,media,aggressive_push,death
+ESP_0105,esports,1v1_duel,Championship,19,1,0,Player_27,Opp_88,right,0.43,0.65,0.628,media,flank,death
+ESP_0106,esports,1v1_duel,Major,14,0,0,Player_91,Opp_21,right,0.25,0.77,0.625,media,aggressive_push,kill
+ESP_0107,esports,1v1_duel,Major,6,5,0,Player_37,Opp_42,right,0.76,0.58,0.393,media,aggressive_push,death
+ESP_0108,esports,1v1_duel,Championship,10,1,0,Player_62,Opp_71,right,0.23,0.56,0.47,media,aggressive_push,death
+ESP_0109,esports,1v1_duel,Major,28,-4,0,Player_75,Opp_32,right,0.99,0.82,0.757,alta,defensive_hold,kill
+ESP_0110,esports,1v1_duel,Pro League,5,1,0,Player_16,Opp_79,right,0.93,0.91,0.597,media,defensive_hold,death
+ESP_0111,esports,1v1_duel,Pro League,18,-3,0,Player_43,Opp_30,right,0.73,0.99,0.635,media,aggressive_push,kill
+ESP_0112,esports,1v1_duel,Major,15,-5,0,Player_75,Opp_96,right,0.43,0.6,0.448,media,defensive_hold,kill
+ESP_0113,esports,1v1_duel,Major,2,5,0,Player_33,Opp_40,right,0.13,0.52,0.233,baja,aggressive_push,kill
+ESP_0114,esports,1v1_duel,Championship,9,3,0,Player_48,Opp_89,right,0.92,0.98,0.563,media,defensive_hold,death
+ESP_0115,esports,1v1_duel,Championship,23,-4,0,Player_65,Opp_63,right,0.81,0.92,0.682,media,flank,kill
+ESP_0116,esports,1v1_duel,Championship,22,5,0,Player_94,Opp_8,right,0.68,0.6,0.505,media,flank,kill
+ESP_0117,esports,1v1_duel,Championship,21,-4,0,Player_21,Opp_95,right,0.19,0.59,0.502,media,aggressive_push,kill
+ESP_0118,esports,1v1_duel,Pro League,28,-5,0,Player_45,Opp_37,right,0.24,0.79,0.614,media,direct_duel,death
+ESP_0119,esports,1v1_duel,Pro League,4,-2,0,Player_42,Opp_77,right,0.8,0.8,0.537,media,defensive_hold,death
+ESP_0120,esports,1v1_duel,Major,15,5,0,Player_51,Opp_48,right,0.11,0.75,0.377,media,bait,kill
+ESP_0121,esports,1v1_duel,Pro League,19,1,0,Player_42,Opp_26,right,0.54,0.7,0.649,media,defensive_hold,kill
+ESP_0122,esports,1v1_duel,Major,10,-5,0,Player_54,Opp_19,right,0.27,0.63,0.339,baja,direct_duel,kill
+ESP_0123,esports,1v1_duel,Major,24,-1,0,Player_92,Opp_56,right,0.14,0.66,0.62,media,aggressive_push,kill
+ESP_0124,esports,1v1_duel,Pro League,3,1,0,Player_81,Opp_42,right,0.16,0.94,0.504,media,direct_duel,kill
+ESP_0125,esports,1v1_duel,Pro League,4,4,0,Player_21,Opp_54,right,0.72,0.67,0.402,media,direct_duel,death
+ESP_0126,esports,1v1_duel,Major,24,-4,0,Player_76,Opp_60,right,0.77,0.92,0.675,media,direct_duel,death
+ESP_0127,esports,1v1_duel,Pro League,25,1,0,Player_91,Opp_96,right,0.62,0.71,0.787,alta,direct_duel,kill
+ESP_0128,esports,1v1_duel,Major,9,-1,0,Player_65,Opp_6,right,0.28,0.88,0.53,media,aggressive_push,kill
+ESP_0129,esports,1v1_duel,Pro League,30,-5,0,Player_47,Opp_42,right,0.62,0.6,0.64,media,direct_duel,death
+ESP_0130,esports,1v1_duel,Major,29,-1,0,Player_61,Opp_14,right,0.46,0.68,0.775,alta,defensive_hold,trade
+ESP_0131,esports,1v1_duel,Championship,0,4,0,Player_10,Opp_29,right,0.47,0.95,0.388,media,direct_duel,death
+ESP_0132,esports,1v1_duel,Pro League,20,-1,0,Player_80,Opp_39,right,0.79,0.73,0.703,alta,direct_duel,kill
+ESP_0133,esports,1v1_duel,Major,4,2,0,Player_99,Opp_8,right,0.53,0.77,0.468,media,direct_duel,kill
+ESP_0134,esports,1v1_duel,Major,13,4,0,Player_20,Opp_4,right,0.9,0.53,0.489,media,defensive_hold,death
+ESP_0135,esports,1v1_duel,Championship,15,-5,0,Player_68,Opp_78,right,0.23,0.77,0.4,media,flank,kill
+ESP_0136,esports,1v1_duel,Championship,3,-5,0,Player_11,Opp_5,right,0.84,0.95,0.41,media,defensive_hold,kill
+ESP_0137,esports,1v1_duel,Pro League,24,4,0,Player_99,Opp_20,right,0.47,0.82,0.594,media,direct_duel,death
+ESP_0138,esports,1v1_duel,Major,8,2,0,Player_93,Opp_39,right,0.36,0.96,0.521,media,aggressive_push,death
+ESP_0139,esports,1v1_duel,Major,19,0,0,Player_10,Opp_96,right,0.69,0.9,0.759,alta,defensive_hold,kill
+ESP_0140,esports,1v1_duel,Championship,23,-1,0,Player_54,Opp_60,right,0.32,0.63,0.64,media,aggressive_push,escape
+ESP_0141,esports,1v1_duel,Major,1,-1,0,Player_44,Opp_23,right,0.27,0.95,0.452,media,defensive_hold,death
+ESP_0142,esports,1v1_duel,Pro League,10,4,0,Player_41,Opp_52,right,0.68,0.81,0.485,media,direct_duel,kill
+ESP_0143,esports,1v1_duel,Major,3,-5,0,Player_56,Opp_82,right,0.32,0.56,0.253,baja,defensive_hold,kill
+ESP_0144,esports,1v1_duel,Major,1,3,0,Player_87,Opp_42,right,0.62,0.75,0.42,media,bait,trade
+ESP_0145,esports,1v1_duel,Pro League,29,-4,0,Player_42,Opp_67,right,1.0,0.57,0.722,alta,defensive_hold,kill
+ESP_0146,esports,1v1_duel,Major,17,5,0,Player_39,Opp_55,right,0.69,0.66,0.464,media,defensive_hold,kill
+ESP_0147,esports,1v1_duel,Pro League,21,-2,0,Player_45,Opp_79,right,0.97,0.56,0.64,media,aggressive_push,kill
+ESP_0148,esports,1v1_duel,Championship,1,2,0,Player_25,Opp_52,right,0.98,0.71,0.487,media,defensive_hold,kill
+ESP_0149,esports,1v1_duel,Championship,16,-2,0,Player_20,Opp_87,right,0.24,0.72,0.516,media,defensive_hold,kill
+ESP_0150,esports,1v1_duel,Pro League,28,-1,0,Player_35,Opp_51,right,0.22,0.67,0.75,alta,direct_duel,escape
+ESP_0151,esports,1v1_duel,Championship,22,-3,0,Player_77,Opp_38,right,0.75,0.97,0.687,media,flank,death
+ESP_0152,esports,1v1_duel,Pro League,28,4,0,Player_58,Opp_4,right,0.53,0.81,0.689,media,defensive_hold,death
+ESP_0153,esports,1v1_duel,Pro League,12,2,0,Player_70,Opp_73,right,0.99,0.79,0.632,media,flank,escape
+ESP_0154,esports,1v1_duel,Major,27,4,0,Player_49,Opp_13,right,0.78,0.58,0.699,media,direct_duel,kill
+ESP_0155,esports,1v1_duel,Pro League,2,0,0,Player_79,Opp_87,right,0.75,0.56,0.503,media,direct_duel,kill
+ESP_0156,esports,1v1_duel,Championship,16,-5,0,Player_89,Opp_44,right,0.33,0.81,0.44,media,direct_duel,escape
+ESP_0157,esports,1v1_duel,Championship,7,1,0,Player_91,Opp_97,right,0.87,0.77,0.606,media,defensive_hold,kill
+ESP_0158,esports,1v1_duel,Major,23,-5,0,Player_28,Opp_16,right,0.82,0.99,0.628,media,defensive_hold,death
+ESP_0159,esports,1v1_duel,Championship,13,0,0,Player_57,Opp_90,right,0.3,0.75,0.592,media,flank,death
+ESP_0160,esports,1v1_duel,Pro League,25,-5,0,Player_17,Opp_40,right,0.93,0.93,0.713,alta,defensive_hold,kill
+ESP_0161,esports,1v1_duel,Championship,1,5,0,Player_19,Opp_6,right,0.4,0.77,0.297,baja,aggressive_push,kill
+ESP_0162,esports,1v1_duel,Pro League,4,0,0,Player_25,Opp_13,right,0.87,0.55,0.576,media,defensive_hold,escape
+ESP_0163,esports,1v1_duel,Major,10,-4,0,Player_15,Opp_29,right,0.32,0.52,0.398,media,flank,kill
+ESP_0164,esports,1v1_duel,Championship,26,-5,0,Player_50,Opp_30,right,0.91,0.97,0.747,alta,flank,death
+ESP_0165,esports,1v1_duel,Championship,29,5,0,Player_19,Opp_38,right,0.95,0.55,0.691,media,aggressive_push,kill
+ESP_0166,esports,1v1_duel,Championship,8,4,0,Player_78,Opp_85,right,0.28,0.94,0.428,media,aggressive_push,kill
+ESP_0167,esports,1v1_duel,Championship,10,-1,0,Player_75,Opp_37,right,0.46,0.9,0.566,media,bait,death
+ESP_0168,esports,1v1_duel,Pro League,26,2,0,Player_3,Opp_63,right,0.58,0.57,0.738,alta,defensive_hold,death
+ESP_0169,esports,1v1_duel,Championship,25,-2,0,Player_47,Opp_18,right,0.84,0.85,0.787,alta,defensive_hold,kill
+ESP_0170,esports,1v1_duel,Major,7,-1,0,Player_66,Opp_89,right,0.48,0.75,0.53,media,direct_duel,kill
+ESP_0171,esports,1v1_duel,Major,12,-5,0,Player_28,Opp_95,right,0.23,0.68,0.397,media,defensive_hold,death
+ESP_0172,esports,1v1_duel,Championship,23,1,0,Player_68,Opp_86,right,0.92,0.91,0.786,alta,defensive_hold,escape
+ESP_0173,esports,1v1_duel,Championship,3,-1,0,Player_67,Opp_15,right,0.13,0.55,0.383,media,direct_duel,trade
+ESP_0174,esports,1v1_duel,Pro League,21,-1,0,Player_22,Opp_85,right,0.2,0.62,0.599,media,bait,kill
+ESP_0175,esports,1v1_duel,Pro League,13,1,0,Player_18,Opp_24,right,0.42,0.72,0.555,media,flank,trade
+ESP_0176,esports,1v1_duel,Championship,15,-5,0,Player_7,Opp_2,right,0.66,0.55,0.46,media,direct_duel,death
+ESP_0177,esports,1v1_duel,Pro League,0,3,0,Player_95,Opp_89,right,0.34,0.96,0.412,media,defensive_hold,escape
+ESP_0178,esports,1v1_duel,Major,26,2,0,Player_1,Opp_72,right,0.72,0.52,0.726,alta,flank,death
+ESP_0179,esports,1v1_duel,Pro League,17,1,0,Player_30,Opp_7,right,0.72,0.66,0.638,media,direct_duel,death
+ESP_0180,esports,1v1_duel,Major,18,-5,0,Player_33,Opp_99,right,0.42,1.0,0.546,media,direct_duel,kill
+ESP_0181,esports,1v1_duel,Championship,23,2,0,Player_48,Opp_69,right,0.93,0.79,0.742,alta,defensive_hold,kill
+ESP_0182,esports,1v1_duel,Major,9,-2,0,Player_29,Opp_60,right,0.14,0.7,0.464,media,defensive_hold,kill
+ESP_0183,esports,1v1_duel,Major,7,-1,0,Player_22,Opp_47,right,0.4,0.75,0.508,media,aggressive_push,death
+ESP_0184,esports,1v1_duel,Championship,16,-4,0,Player_64,Opp_73,right,0.52,0.88,0.559,media,flank,kill
+ESP_0185,esports,1v1_duel,Major,12,-1,0,Player_1,Opp_21,right,0.21,0.59,0.522,media,aggressive_push,death
+ESP_0186,esports,1v1_duel,Pro League,8,2,0,Player_82,Opp_85,right,0.13,0.72,0.462,media,aggressive_push,kill
+ESP_0187,esports,1v1_duel,Championship,11,-1,0,Player_63,Opp_90,right,0.99,0.66,0.613,media,flank,kill
+ESP_0188,esports,1v1_duel,Championship,27,-2,0,Player_90,Opp_75,right,0.73,0.65,0.759,alta,bait,kill
+ESP_0189,esports,1v1_duel,Championship,15,2,0,Player_20,Opp_1,right,0.8,0.94,0.668,media,aggressive_push,death
+ESP_0190,esports,1v1_duel,Championship,13,1,0,Player_78,Opp_71,right,0.41,0.52,0.531,media,defensive_hold,death
+ESP_0191,esports,1v1_duel,Pro League,28,-2,0,Player_92,Opp_29,right,0.59,0.71,0.754,alta,aggressive_push,death
+ESP_0192,esports,1v1_duel,Championship,12,-2,0,Player_74,Opp_80,right,0.29,0.63,0.515,media,defensive_hold,kill
+ESP_0193,esports,1v1_duel,Championship,11,3,0,Player_10,Opp_14,right,0.34,0.61,0.429,media,aggressive_push,trade
+ESP_0194,esports,1v1_duel,Championship,18,-4,0,Player_2,Opp_31,right,0.12,1.0,0.52,media,defensive_hold,death
+ESP_0195,esports,1v1_duel,Championship,12,-3,0,Player_32,Opp_8,right,0.21,0.9,0.517,media,bait,kill
+ESP_0196,esports,1v1_duel,Championship,20,1,0,Player_66,Opp_75,right,0.37,0.57,0.614,media,aggressive_push,kill
+ESP_0197,esports,1v1_duel,Major,24,-1,0,Player_76,Opp_32,right,0.2,0.72,0.672,media,defensive_hold,kill
+ESP_0198,esports,1v1_duel,Championship,18,0,0,Player_94,Opp_93,right,0.17,0.91,0.656,media,direct_duel,kill
+ESP_0199,esports,1v1_duel,Major,29,1,0,Player_4,Opp_87,right,0.55,0.75,0.83,alta,defensive_hold,death
+ESP_0200,esports,1v1_duel,Pro League,16,-3,0,Player_20,Opp_2,right,0.57,0.72,0.563,media,direct_duel,trade
+ESP_0201,esports,1v1_duel,Major,21,-4,0,Player_3,Opp_41,right,0.48,0.67,0.533,media,defensive_hold,death
+ESP_0202,esports,1v1_duel,Championship,25,-5,0,Player_97,Opp_94,right,0.99,0.58,0.648,media,defensive_hold,escape
+ESP_0203,esports,1v1_duel,Pro League,20,4,0,Player_46,Opp_50,right,0.56,0.83,0.58,media,flank,kill
+ESP_0204,esports,1v1_duel,Championship,11,3,0,Player_20,Opp_90,right,0.51,0.98,0.541,media,direct_duel,kill
+ESP_0205,esports,1v1_duel,Championship,22,2,0,Player_82,Opp_94,right,0.97,0.94,0.776,alta,defensive_hold,death
+ESP_0206,esports,1v1_duel,Major,2,-3,0,Player_76,Opp_5,right,0.87,0.57,0.412,media,bait,kill
+ESP_0207,esports,1v1_duel,Major,22,4,0,Player_48,Opp_86,right,0.58,0.57,0.567,media,flank,death
+ESP_0208,esports,1v1_duel,Major,10,-5,0,Player_75,Opp_36,right,0.28,0.61,0.358,media,aggressive_push,death
+ESP_0209,esports,1v1_duel,Pro League,11,-5,0,Player_58,Opp_83,right,0.36,0.82,0.413,media,defensive_hold,death
+ESP_0210,esports,1v1_duel,Pro League,26,-3,0,Player_86,Opp_54,right,0.69,0.9,0.747,alta,defensive_hold,death
+ESP_0211,esports,1v1_duel,Major,19,-3,0,Player_76,Opp_68,right,0.16,0.78,0.508,media,defensive_hold,death
+ESP_0212,esports,1v1_duel,Major,3,3,0,Player_51,Opp_82,right,0.44,0.81,0.418,media,direct_duel,kill
+ESP_0213,esports,1v1_duel,Major,14,4,0,Player_56,Opp_33,right,0.65,0.79,0.504,media,direct_duel,death
+ESP_0214,esports,1v1_duel,Championship,24,1,0,Player_19,Opp_69,right,0.61,0.74,0.763,alta,defensive_hold,death
+ESP_0215,esports,1v1_duel,Major,7,-5,0,Player_89,Opp_18,right,0.16,0.87,0.348,baja,aggressive_push,kill
+ESP_0216,esports,1v1_duel,Major,23,-2,0,Player_36,Opp_28,right,0.5,0.57,0.632,media,flank,kill
+ESP_0217,esports,1v1_duel,Major,20,0,0,Player_72,Opp_7,right,0.81,0.92,0.801,alta,bait,kill
+ESP_0218,esports,1v1_duel,Major,7,1,0,Player_37,Opp_56,right,0.97,0.51,0.543,media,defensive_hold,trade
+ESP_0219,esports,1v1_duel,Championship,0,-2,0,Player_25,Opp_94,right,0.51,0.72,0.4,media,aggressive_push,death
+ESP_0220,esports,1v1_duel,Championship,16,4,0,Player_4,Opp_33,right,0.88,0.69,0.533,media,flank,trade
+ESP_0221,esports,1v1_duel,Major,6,5,0,Player_51,Opp_65,right,0.65,0.7,0.376,media,aggressive_push,kill
+ESP_0222,esports,1v1_duel,Championship,27,-3,0,Player_67,Opp_67,right,0.23,0.92,0.721,alta,aggressive_push,death
+ESP_0223,esports,1v1_duel,Major,21,4,0,Player_44,Opp_17,right,0.89,0.73,0.604,media,flank,death
+ESP_0224,esports,1v1_duel,Championship,2,2,0,Player_98,Opp_10,right,0.76,0.8,0.485,media,defensive_hold,death
+ESP_0225,esports,1v1_duel,Championship,15,1,0,Player_23,Opp_9,right,0.21,0.75,0.547,media,defensive_hold,trade
+ESP_0226,esports,1v1_duel,Championship,27,0,0,Player_38,Opp_48,right,0.31,0.56,0.738,alta,bait,death
+ESP_0227,esports,1v1_duel,Major,25,4,0,Player_42,Opp_60,right,0.6,0.58,0.634,media,direct_duel,death
+ESP_0228,esports,1v1_duel,Major,8,-1,0,Player_17,Opp_51,right,0.8,0.55,0.565,media,direct_duel,trade
+ESP_0229,esports,1v1_duel,Championship,2,2,0,Player_61,Opp_76,right,0.95,0.59,0.457,media,bait,escape
+ESP_0230,esports,1v1_duel,Pro League,26,0,0,Player_84,Opp_11,right,0.92,0.63,0.871,alta,defensive_hold,kill
+ESP_0231,esports,1v1_duel,Pro League,6,-2,0,Player_37,Opp_2,right,0.92,0.79,0.569,media,defensive_hold,death
+ESP_0232,esports,1v1_duel,Championship,17,1,0,Player_98,Opp_68,right,0.96,0.66,0.696,media,bait,kill
+ESP_0233,esports,1v1_duel,Major,1,3,0,Player_87,Opp_81,right,0.15,0.66,0.347,baja,aggressive_push,death
+ESP_0234,esports,1v1_duel,Championship,2,4,0,Player_11,Opp_14,right,0.4,0.9,0.394,media,flank,trade
+ESP_0235,esports,1v1_duel,Championship,9,-5,0,Player_87,Opp_26,right,0.32,0.7,0.386,media,bait,trade
+ESP_0236,esports,1v1_duel,Major,25,3,0,Player_73,Opp_31,right,0.51,0.69,0.667,media,aggressive_push,kill
+ESP_0237,esports,1v1_duel,Pro League,14,-4,0,Player_14,Opp_95,right,0.2,0.89,0.489,media,aggressive_push,death
+ESP_0238,esports,1v1_duel,Championship,7,-2,0,Player_46,Opp_39,right,1.0,0.76,0.574,media,defensive_hold,escape
+ESP_0239,esports,1v1_duel,Championship,30,2,0,Player_54,Opp_53,right,0.87,0.5,0.774,alta,defensive_hold,trade
+ESP_0240,esports,1v1_duel,Pro League,18,-2,0,Player_19,Opp_68,right,0.88,0.68,0.637,media,direct_duel,death
+ESP_0241,esports,1v1_duel,Major,13,-2,0,Player_36,Opp_60,right,0.21,0.66,0.485,media,direct_duel,kill
+ESP_0242,esports,1v1_duel,Championship,17,-1,0,Player_52,Opp_30,right,0.62,0.68,0.651,media,defensive_hold,death
+ESP_0243,esports,1v1_duel,Pro League,22,3,0,Player_15,Opp_97,right,0.29,0.72,0.594,media,flank,escape
+ESP_0244,esports,1v1_duel,Major,28,5,0,Player_3,Opp_61,right,0.51,0.87,0.684,media,direct_duel,escape
+ESP_0245,esports,1v1_duel,Major,19,3,0,Player_42,Opp_46,right,0.98,0.53,0.624,media,aggressive_push,kill
+ESP_0246,esports,1v1_duel,Major,5,5,0,Player_96,Opp_97,right,0.37,0.92,0.372,media,aggressive_push,kill
+ESP_0247,esports,1v1_duel,Championship,0,3,0,Player_35,Opp_45,right,0.84,0.95,0.469,media,direct_duel,death
+ESP_0248,esports,1v1_duel,Pro League,10,3,0,Player_3,Opp_99,right,0.15,0.66,0.43,media,aggressive_push,trade
+ESP_0249,esports,1v1_duel,Championship,6,4,0,Player_63,Opp_30,right,0.7,0.86,0.45,media,direct_duel,trade
+ESP_0250,esports,1v1_duel,Championship,29,-1,0,Player_89,Opp_94,right,0.53,0.93,0.844,alta,flank,trade
+ESP_0251,esports,1v1_duel,Pro League,22,2,0,Player_84,Opp_73,right,0.82,0.83,0.725,alta,bait,kill
+ESP_0252,esports,1v1_duel,Major,11,0,0,Player_95,Opp_54,right,0.68,0.93,0.665,media,direct_duel,escape
+ESP_0253,esports,1v1_duel,Pro League,5,-4,0,Player_42,Opp_22,right,0.98,0.97,0.495,media,aggressive_push,death
+ESP_0254,esports,1v1_duel,Major,27,-2,0,Player_42,Opp_37,right,0.43,0.55,0.68,media,aggressive_push,escape
+ESP_0255,esports,1v1_duel,Championship,3,3,0,Player_55,Opp_56,right,0.74,0.62,0.413,media,defensive_hold,death
+ESP_0256,esports,1v1_duel,Pro League,24,5,0,Player_84,Opp_72,right,0.31,0.99,0.582,media,aggressive_push,death
+ESP_0257,esports,1v1_duel,Championship,3,-5,0,Player_4,Opp_20,right,0.83,0.99,0.437,media,direct_duel,death
+ESP_0258,esports,1v1_duel,Pro League,21,-4,0,Player_21,Opp_41,right,0.26,0.84,0.551,media,bait,kill
+ESP_0259,esports,1v1_duel,Pro League,15,3,0,Player_37,Opp_76,right,0.71,0.8,0.574,media,defensive_hold,death
+ESP_0260,esports,1v1_duel,Championship,29,3,0,Player_40,Opp_84,right,0.18,0.57,0.636,media,flank,death
+ESP_0261,esports,1v1_duel,Pro League,8,-5,0,Player_9,Opp_98,right,0.56,0.6,0.386,media,defensive_hold,death
+ESP_0262,esports,1v1_duel,Championship,20,4,0,Player_51,Opp_31,right,0.19,0.86,0.51,media,direct_duel,kill
+ESP_0263,esports,1v1_duel,Pro League,16,0,0,Player_78,Opp_50,right,0.57,0.94,0.71,alta,direct_duel,escape
+ESP_0264,esports,1v1_duel,Major,4,5,0,Player_56,Opp_25,right,0.99,0.86,0.465,media,flank,death
+ESP_0265,esports,1v1_duel,Pro League,25,3,0,Player_1,Opp_40,right,0.17,0.77,0.638,media,direct_duel,kill
+ESP_0266,esports,1v1_duel,Pro League,25,0,0,Player_34,Opp_60,right,0.35,0.7,0.778,alta,flank,trade
+ESP_0267,esports,1v1_duel,Major,7,4,0,Player_36,Opp_54,right,0.77,0.97,0.5,media,flank,death
+ESP_0268,esports,1v1_duel,Championship,14,-3,0,Player_26,Opp_96,right,0.94,0.9,0.601,media,defensive_hold,escape
+ESP_0269,esports,1v1_duel,Major,12,-5,0,Player_55,Opp_41,right,0.99,0.83,0.521,media,aggressive_push,death
+ESP_0270,esports,1v1_duel,Major,24,-2,0,Player_97,Opp_62,right,0.68,0.6,0.681,media,direct_duel,kill
+ESP_0271,esports,1v1_duel,Major,10,0,0,Player_60,Opp_34,right,0.29,0.82,0.596,media,direct_duel,trade
+ESP_0272,esports,1v1_duel,Major,9,3,0,Player_6,Opp_99,right,0.62,0.99,0.526,media,bait,death
+ESP_0273,esports,1v1_duel,Pro League,15,-4,0,Player_72,Opp_10,right,0.62,0.99,0.553,media,defensive_hold,death
+ESP_0274,esports,1v1_duel,Championship,5,4,0,Player_73,Opp_32,right,0.47,0.84,0.429,media,direct_duel,death
+ESP_0275,esports,1v1_duel,Major,19,3,0,Player_88,Opp_82,right,0.9,0.7,0.634,media,direct_duel,death
+ESP_0276,esports,1v1_duel,Pro League,18,-4,0,Player_62,Opp_45,right,0.71,0.52,0.498,media,bait,death
+ESP_0277,esports,1v1_duel,Major,30,-3,0,Player_23,Opp_37,right,0.82,0.53,0.752,alta,defensive_hold,death
+ESP_0278,esports,1v1_duel,Championship,18,2,0,Player_44,Opp_35,right,0.47,0.66,0.565,media,direct_duel,death
+ESP_0279,esports,1v1_duel,Championship,10,-5,0,Player_5,Opp_61,right,0.86,0.69,0.429,media,defensive_hold,death
+ESP_0280,esports,1v1_duel,Pro League,15,0,0,Player_49,Opp_99,right,0.41,0.71,0.614,media,flank,death
+ESP_0281,esports,1v1_duel,Championship,17,0,0,Player_47,Opp_93,right,0.67,0.55,0.669,media,aggressive_push,trade
+ESP_0282,esports,1v1_duel,Pro League,7,2,0,Player_50,Opp_84,right,0.91,0.8,0.589,media,defensive_hold,kill
+ESP_0283,esports,1v1_duel,Pro League,14,-2,0,Player_41,Opp_24,right,0.91,0.86,0.656,media,defensive_hold,kill
+ESP_0284,esports,1v1_duel,Major,19,2,0,Player_17,Opp_7,right,0.97,0.72,0.689,media,defensive_hold,kill
+ESP_0285,esports,1v1_duel,Major,22,5,0,Player_3,Opp_37,right,0.37,0.84,0.527,media,flank,kill
+ESP_0286,esports,1v1_duel,Major,9,-2,0,Player_95,Opp_57,right,0.45,0.52,0.463,media,direct_duel,kill
+ESP_0287,esports,1v1_duel,Pro League,5,-1,0,Player_48,Opp_26,right,0.66,0.82,0.558,media,direct_duel,escape
+ESP_0288,esports,1v1_duel,Championship,21,3,0,Player_61,Opp_47,right,0.61,0.64,0.605,media,direct_duel,death
+ESP_0289,esports,1v1_duel,Championship,13,0,0,Player_7,Opp_96,right,0.23,0.53,0.548,media,direct_duel,death
+ESP_0290,esports,1v1_duel,Championship,10,1,0,Player_90,Opp_74,right,0.81,0.7,0.627,media,bait,trade
+ESP_0291,esports,1v1_duel,Pro League,0,3,0,Player_57,Opp_11,right,0.93,0.57,0.435,media,defensive_hold,kill
+ESP_0292,esports,1v1_duel,Pro League,12,2,0,Player_39,Opp_75,right,0.16,0.53,0.461,media,bait,escape
+ESP_0293,esports,1v1_duel,Major,18,0,0,Player_5,Opp_15,right,0.63,0.89,0.744,alta,bait,kill
+ESP_0294,esports,1v1_duel,Pro League,24,-5,0,Player_90,Opp_18,right,0.11,0.89,0.541,media,bait,kill
+ESP_0295,esports,1v1_duel,Major,24,-2,0,Player_44,Opp_38,right,0.93,0.56,0.744,alta,defensive_hold,escape
+ESP_0296,esports,1v1_duel,Major,29,5,0,Player_60,Opp_36,right,0.77,0.77,0.69,media,direct_duel,kill
+ESP_0297,esports,1v1_duel,Championship,23,-3,0,Player_77,Opp_49,right,0.31,0.59,0.546,media,aggressive_push,death
+ESP_0298,esports,1v1_duel,Championship,10,3,0,Player_29,Opp_33,right,0.85,0.85,0.569,media,direct_duel,kill
+ESP_0299,esports,1v1_duel,Pro League,22,0,0,Player_63,Opp_85,right,0.24,0.62,0.663,media,flank,kill
+ESP_0300,esports,1v1_duel,Championship,2,5,0,Player_55,Opp_15,right,0.43,0.51,0.295,baja,defensive_hold,death

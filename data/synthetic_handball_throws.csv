@@ -1,0 +1,301 @@
+event_id,sport,action_type,competition,match_time,score_difference,is_home_player,player,opponent,dominant_side,fatigue_level,competition_importance,pressure_index,pressure_level,decision_zone,action_result
+HND_0001,handball,7m_throw,Euro,59,0,1,Player_55,GK_9,left,0.49,0.77,0.873,alta,high_left,saved
+HND_0002,handball,7m_throw,World Ch.,13,-3,0,Player_43,GK_5,right,0.89,0.76,0.507,media,low_right,missed
+HND_0003,handball,7m_throw,Euro,17,1,1,Player_43,GK_23,right,0.85,0.69,0.623,media,low_right,goal
+HND_0004,handball,7m_throw,Champions L.,10,-2,0,Player_42,GK_19,right,0.62,0.38,0.409,media,low_right,goal
+HND_0005,handball,7m_throw,Euro,44,-2,1,Player_16,GK_4,right,0.3,0.58,0.555,media,high_right,saved
+HND_0006,handball,7m_throw,Euro,11,2,0,Player_56,GK_11,right,0.7,0.34,0.419,media,high_left,goal
+HND_0007,handball,7m_throw,Champions L.,46,-2,1,Player_8,GK_7,right,0.43,0.44,0.583,media,high_left,goal
+HND_0008,handball,7m_throw,Euro,6,2,1,Player_56,GK_15,right,0.61,0.65,0.461,media,center,goal
+HND_0009,handball,7m_throw,Euro,7,-1,0,Player_52,GK_28,right,0.59,0.89,0.613,media,center,saved
+HND_0010,handball,7m_throw,Champions L.,41,-2,0,Player_12,GK_19,right,0.71,0.66,0.631,media,high_right,goal
+HND_0011,handball,7m_throw,World Ch.,50,0,0,Player_47,GK_15,right,0.6,0.51,0.77,alta,high_left,missed
+HND_0012,handball,7m_throw,Euro,5,2,1,Player_37,GK_6,right,0.87,0.88,0.532,media,low_right,missed
+HND_0013,handball,7m_throw,Champions L.,24,1,0,Player_57,GK_12,right,0.42,0.92,0.672,media,low_left,saved
+HND_0014,handball,7m_throw,World Ch.,25,2,1,Player_56,GK_22,right,0.36,0.35,0.422,media,center,goal
+HND_0015,handball,7m_throw,World Ch.,14,1,0,Player_41,GK_26,left,0.2,0.52,0.49,media,high_left,goal
+HND_0016,handball,7m_throw,Champions L.,48,2,1,Player_53,GK_19,left,0.28,0.59,0.585,media,low_left,goal
+HND_0017,handball,7m_throw,Euro,36,-3,0,Player_10,GK_19,right,0.42,0.69,0.52,media,low_right,missed
+HND_0018,handball,7m_throw,Euro,18,2,0,Player_58,GK_20,right,0.25,0.87,0.502,media,low_left,goal
+HND_0019,handball,7m_throw,World Ch.,7,1,1,Player_17,GK_10,right,0.57,0.99,0.601,media,center,missed
+HND_0020,handball,7m_throw,Euro,56,2,1,Player_38,GK_13,left,0.38,0.94,0.723,alta,center,saved
+HND_0021,handball,7m_throw,World Ch.,38,-3,0,Player_48,GK_24,right,0.44,0.78,0.57,media,low_right,goal
+HND_0022,handball,7m_throw,World Ch.,24,2,0,Player_14,GK_4,right,0.45,0.32,0.458,media,low_right,goal
+HND_0023,handball,7m_throw,World Ch.,19,0,1,Player_59,GK_17,right,0.44,0.86,0.681,media,low_right,goal
+HND_0024,handball,7m_throw,Champions L.,50,-1,1,Player_4,GK_19,right,0.7,0.87,0.81,alta,high_left,goal
+HND_0025,handball,7m_throw,Euro,25,-3,0,Player_34,GK_4,right,0.8,0.77,0.558,media,high_left,saved
+HND_0026,handball,7m_throw,Champions L.,20,-1,1,Player_54,GK_14,right,0.22,0.87,0.583,media,high_right,goal
+HND_0027,handball,7m_throw,Euro,3,-3,0,Player_46,GK_1,right,0.23,0.98,0.401,media,low_right,saved
+HND_0028,handball,7m_throw,World Ch.,46,2,1,Player_6,GK_23,right,0.79,0.6,0.651,media,low_right,saved
+HND_0029,handball,7m_throw,Euro,18,-3,0,Player_21,GK_16,left,0.26,0.67,0.425,media,high_left,goal
+HND_0030,handball,7m_throw,Champions L.,13,0,1,Player_30,GK_26,right,0.76,0.32,0.572,media,high_right,saved
+HND_0031,handball,7m_throw,Champions L.,4,2,1,Player_56,GK_9,right,0.26,0.92,0.453,media,low_right,goal
+HND_0032,handball,7m_throw,World Ch.,16,-3,0,Player_8,GK_10,right,0.47,0.36,0.37,media,high_right,saved
+HND_0033,handball,7m_throw,Champions L.,47,-1,1,Player_50,GK_28,left,0.74,0.45,0.75,alta,low_right,goal
+HND_0034,handball,7m_throw,Euro,33,2,1,Player_36,GK_8,right,0.29,0.37,0.475,media,high_left,saved
+HND_0035,handball,7m_throw,Champions L.,6,-1,0,Player_4,GK_12,right,0.67,0.98,0.614,media,center,goal
+HND_0036,handball,7m_throw,World Ch.,18,-1,0,Player_17,GK_8,right,0.4,0.57,0.548,media,low_left,goal
+HND_0037,handball,7m_throw,Champions L.,33,-2,0,Player_58,GK_26,right,0.5,0.96,0.61,media,high_left,goal
+HND_0038,handball,7m_throw,Euro,57,0,1,Player_44,GK_28,right,0.23,0.7,0.807,alta,high_left,missed
+HND_0039,handball,7m_throw,World Ch.,6,-3,0,Player_3,GK_23,right,0.49,0.34,0.306,baja,high_right,goal
+HND_0040,handball,7m_throw,Champions L.,7,2,0,Player_33,GK_6,left,0.58,0.39,0.412,media,center,saved
+HND_0041,handball,7m_throw,Champions L.,47,0,0,Player_12,GK_22,right,0.35,0.5,0.698,media,low_left,goal
+HND_0042,handball,7m_throw,Euro,53,1,1,Player_15,GK_16,right,0.23,0.94,0.789,alta,low_right,goal
+HND_0043,handball,7m_throw,Champions L.,10,-1,1,Player_51,GK_1,right,0.36,0.83,0.54,media,high_left,saved
+HND_0044,handball,7m_throw,Champions L.,39,-3,0,Player_38,GK_18,right,0.64,0.93,0.624,media,low_right,goal
+HND_0045,handball,7m_throw,Champions L.,11,-2,0,Player_59,GK_17,right,0.37,0.48,0.42,media,low_left,saved
+HND_0046,handball,7m_throw,Champions L.,53,1,1,Player_30,GK_15,right,0.66,0.9,0.82,alta,low_right,goal
+HND_0047,handball,7m_throw,Euro,57,-3,1,Player_53,GK_28,right,0.49,0.49,0.604,media,high_right,goal
+HND_0048,handball,7m_throw,Euro,5,1,0,Player_51,GK_16,right,0.37,0.57,0.471,media,low_left,goal
+HND_0049,handball,7m_throw,Champions L.,53,2,1,Player_9,GK_25,right,0.65,0.66,0.706,alta,center,goal
+HND_0050,handball,7m_throw,Champions L.,56,2,0,Player_18,GK_22,right,0.4,0.44,0.641,media,high_right,goal
+HND_0051,handball,7m_throw,Euro,43,0,1,Player_54,GK_29,right,0.45,0.44,0.699,media,low_left,goal
+HND_0052,handball,7m_throw,Euro,28,1,0,Player_55,GK_24,left,0.37,0.41,0.547,media,high_right,goal
+HND_0053,handball,7m_throw,Euro,56,-2,1,Player_12,GK_8,right,0.67,0.81,0.735,alta,low_left,goal
+HND_0054,handball,7m_throw,Euro,2,-3,1,Player_41,GK_21,right,0.58,0.42,0.334,baja,low_right,missed
+HND_0055,handball,7m_throw,World Ch.,48,-3,0,Player_13,GK_12,left,0.23,0.55,0.557,media,high_left,goal
+HND_0056,handball,7m_throw,Euro,10,-3,1,Player_53,GK_13,right,0.81,0.6,0.444,media,high_right,saved
+HND_0057,handball,7m_throw,Euro,35,2,1,Player_5,GK_10,right,0.55,0.6,0.565,media,high_left,saved
+HND_0058,handball,7m_throw,Euro,15,-1,0,Player_30,GK_10,right,0.21,0.74,0.557,media,high_left,goal
+HND_0059,handball,7m_throw,Euro,16,-3,1,Player_16,GK_10,right,0.24,0.76,0.435,media,high_left,goal
+HND_0060,handball,7m_throw,Euro,47,-1,0,Player_4,GK_2,right,0.81,0.42,0.736,alta,low_left,saved
+HND_0061,handball,7m_throw,World Ch.,60,-3,0,Player_24,GK_2,left,0.62,0.51,0.634,media,center,goal
+HND_0062,handball,7m_throw,Champions L.,19,-2,0,Player_13,GK_29,right,0.66,0.79,0.533,media,low_right,goal
+HND_0063,handball,7m_throw,Euro,42,-2,1,Player_13,GK_20,right,0.72,0.47,0.596,media,high_left,goal
+HND_0064,handball,7m_throw,World Ch.,1,-3,1,Player_38,GK_13,right,0.75,0.96,0.485,media,center,goal
+HND_0065,handball,7m_throw,World Ch.,4,-2,0,Player_13,GK_27,right,0.85,0.87,0.532,media,center,saved
+HND_0066,handball,7m_throw,Champions L.,13,-3,1,Player_28,GK_6,right,0.76,0.97,0.542,media,center,saved
+HND_0067,handball,7m_throw,World Ch.,43,0,0,Player_4,GK_13,right,0.87,0.87,0.85,alta,center,goal
+HND_0068,handball,7m_throw,World Ch.,49,-1,0,Player_12,GK_3,right,0.52,0.71,0.731,alta,high_left,saved
+HND_0069,handball,7m_throw,Euro,6,-3,0,Player_54,GK_14,right,0.26,0.62,0.355,media,low_left,goal
+HND_0070,handball,7m_throw,World Ch.,45,-1,0,Player_53,GK_10,right,0.48,0.98,0.777,alta,low_left,goal
+HND_0071,handball,7m_throw,Euro,45,-1,1,Player_14,GK_15,right,0.76,0.69,0.771,alta,high_left,goal
+HND_0072,handball,7m_throw,World Ch.,33,2,1,Player_28,GK_1,right,0.2,0.44,0.461,media,low_left,saved
+HND_0073,handball,7m_throw,World Ch.,25,1,1,Player_22,GK_22,right,0.46,0.8,0.638,media,low_right,goal
+HND_0074,handball,7m_throw,World Ch.,9,-3,0,Player_51,GK_14,right,0.69,0.67,0.422,media,center,goal
+HND_0075,handball,7m_throw,World Ch.,57,1,0,Player_33,GK_10,right,0.31,1.0,0.838,alta,low_left,goal
+HND_0076,handball,7m_throw,Euro,44,0,0,Player_49,GK_20,right,0.58,0.68,0.744,alta,center,goal
+HND_0077,handball,7m_throw,Euro,5,-3,1,Player_28,GK_29,right,0.21,0.32,0.28,baja,high_left,goal
+HND_0078,handball,7m_throw,Euro,50,1,1,Player_35,GK_1,right,0.51,0.83,0.796,alta,high_left,goal
+HND_0079,handball,7m_throw,Euro,31,1,0,Player_39,GK_21,right,0.29,0.57,0.609,media,low_right,goal
+HND_0080,handball,7m_throw,Euro,52,-1,1,Player_38,GK_10,left,0.46,0.64,0.763,alta,high_left,goal
+HND_0081,handball,7m_throw,Euro,13,1,0,Player_54,GK_28,right,0.74,0.52,0.553,media,low_right,goal
+HND_0082,handball,7m_throw,World Ch.,36,-2,1,Player_14,GK_19,right,0.73,0.54,0.592,media,high_right,goal
+HND_0083,handball,7m_throw,World Ch.,16,2,1,Player_15,GK_14,right,0.67,0.49,0.475,media,center,goal
+HND_0084,handball,7m_throw,Euro,54,-2,0,Player_32,GK_9,right,0.45,0.71,0.67,media,high_right,goal
+HND_0085,handball,7m_throw,World Ch.,29,-2,1,Player_46,GK_22,right,0.41,0.36,0.489,media,low_right,goal
+HND_0086,handball,7m_throw,Champions L.,4,0,1,Player_41,GK_13,right,0.65,0.94,0.631,media,low_right,saved
+HND_0087,handball,7m_throw,Champions L.,13,0,1,Player_55,GK_4,right,0.48,0.38,0.54,media,center,goal
+HND_0088,handball,7m_throw,Euro,53,1,1,Player_21,GK_29,right,0.72,0.48,0.773,alta,center,goal
+HND_0089,handball,7m_throw,Euro,59,2,1,Player_14,GK_16,right,0.44,0.32,0.601,media,center,missed
+HND_0090,handball,7m_throw,Euro,10,-1,1,Player_57,GK_17,right,0.84,0.56,0.558,media,high_left,goal
+HND_0091,handball,7m_throw,World Ch.,7,1,1,Player_30,GK_13,right,0.76,0.65,0.549,media,high_right,goal
+HND_0092,handball,7m_throw,World Ch.,33,2,1,Player_7,GK_10,right,0.34,0.36,0.473,media,high_left,goal
+HND_0093,handball,7m_throw,World Ch.,3,0,0,Player_47,GK_16,left,0.86,0.98,0.682,media,high_left,missed
+HND_0094,handball,7m_throw,Euro,13,1,0,Player_48,GK_15,right,0.26,0.51,0.508,media,low_right,missed
+HND_0095,handball,7m_throw,Champions L.,40,0,1,Player_44,GK_20,right,0.57,0.84,0.767,alta,center,goal
+HND_0096,handball,7m_throw,Euro,9,2,1,Player_50,GK_18,right,0.71,0.51,0.427,media,low_left,missed
+HND_0097,handball,7m_throw,Champions L.,37,-1,0,Player_9,GK_29,right,0.44,0.4,0.626,media,low_right,goal
+HND_0098,handball,7m_throw,World Ch.,29,0,1,Player_7,GK_29,right,0.49,0.33,0.625,media,low_right,goal
+HND_0099,handball,7m_throw,Champions L.,7,-1,0,Player_5,GK_17,right,0.87,0.77,0.626,media,low_left,saved
+HND_0100,handball,7m_throw,World Ch.,31,-3,1,Player_46,GK_22,right,0.6,0.7,0.547,media,low_right,goal
+HND_0101,handball,7m_throw,World Ch.,17,-3,1,Player_8,GK_8,right,0.33,0.45,0.376,media,high_right,goal
+HND_0102,handball,7m_throw,Euro,13,2,0,Player_2,GK_27,right,0.75,0.99,0.584,media,high_right,goal
+HND_0103,handball,7m_throw,Champions L.,47,-3,0,Player_12,GK_10,right,0.88,0.99,0.711,alta,high_left,goal
+HND_0104,handball,7m_throw,Champions L.,57,0,0,Player_9,GK_12,right,0.35,0.49,0.759,alta,center,goal
+HND_0105,handball,7m_throw,Euro,52,-2,1,Player_10,GK_29,right,0.53,0.46,0.617,media,low_left,goal
+HND_0106,handball,7m_throw,Euro,58,1,1,Player_49,GK_21,right,0.37,0.73,0.778,alta,low_right,goal
+HND_0107,handball,7m_throw,Champions L.,10,2,0,Player_23,GK_6,left,0.34,0.6,0.398,media,low_left,goal
+HND_0108,handball,7m_throw,Champions L.,32,-3,0,Player_4,GK_26,right,0.64,0.63,0.528,media,high_left,goal
+HND_0109,handball,7m_throw,World Ch.,48,0,1,Player_27,GK_20,right,0.59,0.53,0.77,alta,high_left,goal
+HND_0110,handball,7m_throw,Champions L.,50,1,0,Player_49,GK_8,left,0.49,0.36,0.695,media,high_left,goal
+HND_0111,handball,7m_throw,Champions L.,35,0,0,Player_14,GK_22,right,0.47,0.49,0.655,media,high_left,goal
+HND_0112,handball,7m_throw,World Ch.,25,2,0,Player_21,GK_2,right,0.73,0.52,0.537,media,high_right,saved
+HND_0113,handball,7m_throw,World Ch.,10,-2,1,Player_44,GK_26,left,0.57,0.59,0.452,media,low_left,goal
+HND_0114,handball,7m_throw,World Ch.,17,0,0,Player_4,GK_25,right,0.45,0.43,0.586,media,low_left,goal
+HND_0115,handball,7m_throw,Champions L.,12,-1,1,Player_13,GK_3,left,0.66,0.43,0.543,media,high_right,goal
+HND_0116,handball,7m_throw,Champions L.,54,2,1,Player_59,GK_1,right,0.52,0.74,0.682,media,high_left,goal
+HND_0117,handball,7m_throw,Euro,47,1,1,Player_3,GK_9,left,0.86,0.41,0.71,alta,low_right,goal
+HND_0118,handball,7m_throw,World Ch.,23,1,0,Player_9,GK_6,right,0.68,0.6,0.602,media,high_left,goal
+HND_0119,handball,7m_throw,Euro,1,-1,0,Player_25,GK_15,left,0.42,0.84,0.525,media,low_left,goal
+HND_0120,handball,7m_throw,Champions L.,18,2,1,Player_42,GK_17,right,0.45,0.97,0.557,media,high_right,goal
+HND_0121,handball,7m_throw,Euro,7,-1,1,Player_45,GK_19,right,0.87,0.81,0.6,media,low_right,goal
+HND_0122,handball,7m_throw,Euro,47,1,1,Player_14,GK_26,right,0.38,0.6,0.697,media,high_left,saved
+HND_0123,handball,7m_throw,Euro,45,2,1,Player_54,GK_20,right,0.24,0.73,0.609,media,high_right,goal
+HND_0124,handball,7m_throw,Euro,5,0,0,Player_53,GK_13,right,0.49,0.72,0.579,media,low_right,goal
+HND_0125,handball,7m_throw,Euro,18,1,0,Player_17,GK_18,right,0.22,0.41,0.508,media,low_right,goal
+HND_0126,handball,7m_throw,Euro,48,0,1,Player_36,GK_23,right,0.31,0.69,0.764,alta,high_right,missed
+HND_0127,handball,7m_throw,Champions L.,9,0,1,Player_15,GK_24,right,0.77,0.48,0.591,media,low_left,goal
+HND_0128,handball,7m_throw,Champions L.,43,-2,1,Player_18,GK_17,right,0.31,0.88,0.615,media,high_right,saved
+HND_0129,handball,7m_throw,World Ch.,26,-3,0,Player_36,GK_19,right,0.58,0.51,0.488,media,low_left,missed
+HND_0130,handball,7m_throw,Euro,46,1,0,Player_31,GK_3,right,0.58,0.68,0.716,alta,center,saved
+HND_0131,handball,7m_throw,Champions L.,5,-1,1,Player_49,GK_24,left,0.79,0.91,0.604,media,low_right,goal
+HND_0132,handball,7m_throw,Euro,29,-3,0,Player_7,GK_25,right,0.64,1.0,0.592,media,high_left,goal
+HND_0133,handball,7m_throw,World Ch.,29,-1,0,Player_29,GK_22,right,0.88,0.37,0.639,media,high_right,goal
+HND_0134,handball,7m_throw,World Ch.,33,-2,1,Player_48,GK_28,right,0.49,0.91,0.626,media,center,goal
+HND_0135,handball,7m_throw,Euro,53,-3,1,Player_20,GK_4,left,0.52,0.87,0.694,media,high_left,goal
+HND_0136,handball,7m_throw,Euro,51,-2,0,Player_39,GK_8,left,0.79,0.57,0.677,media,low_right,goal
+HND_0137,handball,7m_throw,Champions L.,15,1,1,Player_20,GK_20,left,0.28,0.56,0.508,media,high_left,goal
+HND_0138,handball,7m_throw,World Ch.,41,-2,1,Player_12,GK_8,right,0.21,0.63,0.552,media,high_left,saved
+HND_0139,handball,7m_throw,World Ch.,29,-2,1,Player_50,GK_13,right,0.3,0.3,0.426,media,center,missed
+HND_0140,handball,7m_throw,World Ch.,8,-3,0,Player_48,GK_16,right,0.44,0.64,0.401,media,high_left,goal
+HND_0141,handball,7m_throw,World Ch.,4,0,1,Player_52,GK_15,right,0.3,0.55,0.487,media,high_left,saved
+HND_0142,handball,7m_throw,Euro,44,2,0,Player_12,GK_28,left,0.22,0.63,0.59,media,low_left,goal
+HND_0143,handball,7m_throw,Champions L.,26,2,0,Player_22,GK_9,right,0.72,0.86,0.591,media,high_right,goal
+HND_0144,handball,7m_throw,Champions L.,20,1,1,Player_40,GK_28,right,0.72,0.46,0.576,media,low_left,saved
+HND_0145,handball,7m_throw,World Ch.,34,0,1,Player_8,GK_20,right,0.21,0.34,0.61,media,low_right,goal
+HND_0146,handball,7m_throw,Euro,39,-2,0,Player_42,GK_28,right,0.28,0.55,0.556,media,low_left,goal
+HND_0147,handball,7m_throw,Champions L.,38,-1,0,Player_18,GK_22,right,0.22,0.82,0.658,media,high_right,goal
+HND_0148,handball,7m_throw,World Ch.,21,2,0,Player_58,GK_5,right,0.42,0.89,0.553,media,high_right,goal
+HND_0149,handball,7m_throw,World Ch.,45,-1,1,Player_55,GK_7,right,0.86,0.75,0.777,alta,center,goal
+HND_0150,handball,7m_throw,Champions L.,56,1,1,Player_8,GK_21,right,0.24,0.96,0.819,alta,low_right,goal
+HND_0151,handball,7m_throw,World Ch.,36,-1,0,Player_40,GK_7,right,0.64,1.0,0.786,alta,low_left,goal
+HND_0152,handball,7m_throw,Euro,28,-3,0,Player_30,GK_21,right,0.49,0.42,0.434,media,low_right,saved
+HND_0153,handball,7m_throw,Champions L.,24,0,0,Player_7,GK_17,right,0.38,0.37,0.574,media,high_right,goal
+HND_0154,handball,7m_throw,World Ch.,16,-1,0,Player_58,GK_1,right,0.73,0.95,0.676,media,low_right,saved
+HND_0155,handball,7m_throw,World Ch.,46,2,1,Player_12,GK_16,right,0.73,0.72,0.672,media,low_right,goal
+HND_0156,handball,7m_throw,World Ch.,41,2,0,Player_20,GK_13,right,0.53,0.55,0.591,media,high_right,goal
+HND_0157,handball,7m_throw,Champions L.,19,-3,0,Player_19,GK_27,right,0.9,0.77,0.549,media,low_left,missed
+HND_0158,handball,7m_throw,World Ch.,35,2,0,Player_22,GK_9,right,0.24,0.66,0.52,media,high_left,goal
+HND_0159,handball,7m_throw,Euro,12,2,1,Player_50,GK_17,right,0.71,0.56,0.464,media,high_right,goal
+HND_0160,handball,7m_throw,Champions L.,4,-3,1,Player_35,GK_26,right,0.23,0.56,0.337,baja,low_left,goal
+HND_0161,handball,7m_throw,World Ch.,55,0,1,Player_24,GK_21,right,0.2,0.32,0.717,alta,low_right,goal
+HND_0162,handball,7m_throw,World Ch.,56,-1,0,Player_7,GK_7,right,0.86,0.53,0.787,alta,low_left,missed
+HND_0163,handball,7m_throw,World Ch.,30,-3,1,Player_19,GK_25,right,0.74,0.84,0.579,media,high_right,goal
+HND_0164,handball,7m_throw,World Ch.,46,0,1,Player_33,GK_10,left,0.61,0.8,0.829,alta,low_right,goal
+HND_0165,handball,7m_throw,Champions L.,25,1,1,Player_22,GK_23,left,0.2,0.84,0.612,media,high_right,goal
+HND_0166,handball,7m_throw,World Ch.,9,0,0,Player_7,GK_17,left,0.48,0.44,0.542,media,high_left,saved
+HND_0167,handball,7m_throw,World Ch.,47,-2,1,Player_30,GK_27,right,0.35,0.93,0.652,media,center,missed
+HND_0168,handball,7m_throw,World Ch.,12,1,0,Player_2,GK_10,right,0.63,0.54,0.552,media,low_right,saved
+HND_0169,handball,7m_throw,Champions L.,38,1,0,Player_32,GK_4,right,0.76,0.74,0.728,alta,low_right,goal
+HND_0170,handball,7m_throw,Euro,41,-3,0,Player_38,GK_19,right,0.22,0.71,0.528,media,low_left,goal
+HND_0171,handball,7m_throw,Champions L.,55,-2,1,Player_41,GK_8,left,0.49,0.87,0.701,alta,low_left,goal
+HND_0172,handball,7m_throw,Euro,35,1,1,Player_2,GK_9,right,0.61,0.73,0.68,media,low_right,saved
+HND_0173,handball,7m_throw,Champions L.,54,-1,1,Player_49,GK_23,right,0.63,0.73,0.824,alta,low_right,goal
+HND_0174,handball,7m_throw,Champions L.,31,0,0,Player_39,GK_6,right,0.55,0.35,0.633,media,center,saved
+HND_0175,handball,7m_throw,Champions L.,25,2,1,Player_30,GK_18,right,0.33,0.93,0.562,media,high_left,goal
+HND_0176,handball,7m_throw,Champions L.,19,-1,0,Player_40,GK_14,right,0.65,0.31,0.526,media,high_left,goal
+HND_0177,handball,7m_throw,Euro,46,-3,1,Player_26,GK_13,right,0.73,0.67,0.643,media,high_right,saved
+HND_0178,handball,7m_throw,Champions L.,37,-1,0,Player_24,GK_23,right,0.67,0.56,0.679,media,high_right,saved
+HND_0179,handball,7m_throw,World Ch.,13,-2,1,Player_15,GK_11,right,0.76,0.46,0.458,media,low_right,goal
+HND_0180,handball,7m_throw,World Ch.,38,2,1,Player_42,GK_11,right,0.59,0.93,0.661,media,low_left,goal
+HND_0181,handball,7m_throw,Champions L.,5,-1,0,Player_48,GK_29,right,0.69,0.54,0.502,media,center,saved
+HND_0182,handball,7m_throw,Champions L.,11,-1,0,Player_11,GK_12,right,0.38,0.88,0.566,media,low_right,goal
+HND_0183,handball,7m_throw,World Ch.,56,1,1,Player_31,GK_1,right,0.81,0.36,0.748,alta,center,goal
+HND_0184,handball,7m_throw,World Ch.,34,-2,0,Player_50,GK_17,right,0.27,0.41,0.502,media,center,goal
+HND_0185,handball,7m_throw,Euro,10,2,1,Player_26,GK_29,left,0.36,0.64,0.434,media,low_right,missed
+HND_0186,handball,7m_throw,Euro,10,-2,0,Player_23,GK_20,right,0.47,0.72,0.468,media,high_right,goal
+HND_0187,handball,7m_throw,Champions L.,19,2,1,Player_47,GK_17,right,0.89,0.86,0.598,media,low_right,goal
+HND_0188,handball,7m_throw,Champions L.,51,-1,0,Player_32,GK_26,right,0.84,0.4,0.739,alta,high_right,saved
+HND_0189,handball,7m_throw,Euro,50,1,0,Player_44,GK_29,right,0.26,0.82,0.759,alta,low_left,goal
+HND_0190,handball,7m_throw,World Ch.,44,-1,0,Player_8,GK_13,right,0.37,0.7,0.716,alta,low_left,goal
+HND_0191,handball,7m_throw,Euro,35,-1,1,Player_26,GK_9,right,0.46,0.76,0.682,media,low_right,goal
+HND_0192,handball,7m_throw,Euro,37,-2,1,Player_47,GK_2,right,0.23,0.9,0.596,media,center,saved
+HND_0193,handball,7m_throw,Euro,25,1,0,Player_39,GK_7,right,0.48,0.3,0.572,media,center,saved
+HND_0194,handball,7m_throw,Champions L.,15,-2,1,Player_6,GK_5,right,0.82,0.69,0.548,media,low_right,saved
+HND_0195,handball,7m_throw,Euro,20,-1,0,Player_53,GK_23,right,0.28,0.68,0.561,media,low_right,goal
+HND_0196,handball,7m_throw,Euro,35,-2,1,Player_52,GK_5,right,0.58,0.46,0.568,media,high_left,goal
+HND_0197,handball,7m_throw,Champions L.,8,-3,0,Player_38,GK_1,right,0.25,0.35,0.286,baja,center,goal
+HND_0198,handball,7m_throw,World Ch.,29,-2,1,Player_34,GK_29,right,0.24,0.51,0.494,media,low_right,saved
+HND_0199,handball,7m_throw,World Ch.,58,-3,1,Player_45,GK_1,right,0.37,0.39,0.579,media,high_right,missed
+HND_0200,handball,7m_throw,Euro,39,-1,1,Player_55,GK_13,right,0.77,0.8,0.779,alta,high_right,goal
+HND_0201,handball,7m_throw,Champions L.,5,-1,1,Player_25,GK_21,right,0.88,0.58,0.535,media,low_left,saved
+HND_0202,handball,7m_throw,Champions L.,27,2,1,Player_23,GK_24,right,0.55,0.98,0.597,media,high_left,saved
+HND_0203,handball,7m_throw,Champions L.,19,2,1,Player_40,GK_14,right,0.58,0.74,0.538,media,center,goal
+HND_0204,handball,7m_throw,Euro,50,0,0,Player_48,GK_14,left,0.28,0.39,0.714,alta,low_right,saved
+HND_0205,handball,7m_throw,Euro,9,-1,1,Player_55,GK_9,right,0.53,0.54,0.541,media,high_left,goal
+HND_0206,handball,7m_throw,Euro,4,-1,0,Player_1,GK_5,right,0.72,0.91,0.604,media,high_left,saved
+HND_0207,handball,7m_throw,Champions L.,12,0,1,Player_45,GK_29,right,0.59,0.46,0.563,media,low_right,goal
+HND_0208,handball,7m_throw,Euro,60,-1,1,Player_51,GK_3,right,0.84,0.56,0.83,alta,high_left,goal
+HND_0209,handball,7m_throw,Champions L.,3,0,1,Player_55,GK_9,right,0.79,0.55,0.58,media,high_right,missed
+HND_0210,handball,7m_throw,Euro,37,-2,1,Player_17,GK_11,right,0.76,0.42,0.593,media,center,goal
+HND_0211,handball,7m_throw,Euro,13,2,0,Player_48,GK_2,right,0.34,0.53,0.405,media,high_right,goal
+HND_0212,handball,7m_throw,Euro,47,0,0,Player_41,GK_23,right,0.34,0.62,0.739,alta,center,goal
+HND_0213,handball,7m_throw,Euro,10,2,1,Player_13,GK_10,right,0.84,0.31,0.421,media,center,goal
+HND_0214,handball,7m_throw,Champions L.,19,-1,1,Player_12,GK_3,right,0.89,0.58,0.645,media,low_left,saved
+HND_0215,handball,7m_throw,Euro,13,-3,0,Player_2,GK_24,right,0.5,0.68,0.452,media,high_left,missed
+HND_0216,handball,7m_throw,Champions L.,26,-1,1,Player_16,GK_4,right,0.43,0.59,0.606,media,low_left,goal
+HND_0217,handball,7m_throw,Euro,5,0,0,Player_2,GK_19,right,0.59,0.65,0.576,media,low_right,goal
+HND_0218,handball,7m_throw,Euro,20,-3,1,Player_53,GK_3,right,0.62,0.37,0.433,media,low_left,goal
+HND_0219,handball,7m_throw,World Ch.,44,-2,1,Player_25,GK_29,left,0.25,0.56,0.575,media,low_left,goal
+HND_0220,handball,7m_throw,World Ch.,11,-1,1,Player_23,GK_15,left,0.22,0.34,0.44,media,low_right,saved
+HND_0221,handball,7m_throw,World Ch.,14,2,0,Player_59,GK_16,left,0.42,0.77,0.463,media,low_right,goal
+HND_0222,handball,7m_throw,Euro,37,1,0,Player_44,GK_23,right,0.83,0.72,0.757,alta,low_right,goal
+HND_0223,handball,7m_throw,Euro,38,-2,0,Player_21,GK_24,left,0.43,0.45,0.53,media,low_left,goal
+HND_0224,handball,7m_throw,Euro,56,2,0,Player_38,GK_25,right,0.5,0.79,0.726,alta,low_right,missed
+HND_0225,handball,7m_throw,World Ch.,55,-2,0,Player_2,GK_2,right,0.47,0.57,0.645,media,low_left,goal
+HND_0226,handball,7m_throw,Champions L.,30,2,0,Player_59,GK_8,right,0.33,0.42,0.476,media,center,goal
+HND_0227,handball,7m_throw,Champions L.,5,1,0,Player_55,GK_7,right,0.48,0.35,0.472,media,low_left,saved
+HND_0228,handball,7m_throw,World Ch.,48,0,0,Player_36,GK_27,left,0.28,0.76,0.742,alta,high_left,goal
+HND_0229,handball,7m_throw,World Ch.,29,0,0,Player_7,GK_5,right,0.79,0.49,0.666,media,low_right,goal
+HND_0230,handball,7m_throw,World Ch.,24,-3,0,Player_37,GK_22,right,0.62,0.86,0.54,media,high_right,saved
+HND_0231,handball,7m_throw,Euro,6,-2,1,Player_29,GK_27,right,0.67,0.82,0.483,media,low_right,saved
+HND_0232,handball,7m_throw,Euro,15,1,1,Player_7,GK_25,right,0.78,0.93,0.654,media,high_left,missed
+HND_0233,handball,7m_throw,World Ch.,25,2,0,Player_47,GK_10,right,0.77,0.77,0.58,media,center,goal
+HND_0234,handball,7m_throw,Euro,4,-2,1,Player_4,GK_24,right,0.72,0.71,0.487,media,low_left,missed
+HND_0235,handball,7m_throw,Euro,41,-3,1,Player_58,GK_23,right,0.53,0.64,0.564,media,high_left,goal
+HND_0236,handball,7m_throw,Champions L.,5,2,1,Player_22,GK_24,right,0.88,0.6,0.487,media,low_right,missed
+HND_0237,handball,7m_throw,World Ch.,4,1,1,Player_24,GK_10,right,0.28,0.74,0.487,media,high_left,goal
+HND_0238,handball,7m_throw,World Ch.,53,-1,1,Player_30,GK_25,left,0.23,0.95,0.775,alta,center,goal
+HND_0239,handball,7m_throw,Euro,23,-1,0,Player_36,GK_11,right,0.56,0.52,0.568,media,low_left,goal
+HND_0240,handball,7m_throw,World Ch.,44,2,1,Player_35,GK_28,right,0.36,0.87,0.645,media,high_left,goal
+HND_0241,handball,7m_throw,Euro,42,0,0,Player_22,GK_7,right,0.59,0.69,0.78,alta,low_left,goal
+HND_0242,handball,7m_throw,World Ch.,33,2,0,Player_20,GK_6,left,0.65,0.86,0.631,media,center,goal
+HND_0243,handball,7m_throw,Champions L.,56,-1,0,Player_19,GK_4,right,0.46,0.5,0.717,alta,center,goal
+HND_0244,handball,7m_throw,Champions L.,2,-3,1,Player_21,GK_11,right,0.22,0.63,0.313,baja,low_right,saved
+HND_0245,handball,7m_throw,Champions L.,5,0,1,Player_18,GK_29,right,0.77,0.9,0.623,media,low_left,saved
+HND_0246,handball,7m_throw,Champions L.,7,1,1,Player_21,GK_29,right,0.5,0.9,0.596,media,center,goal
+HND_0247,handball,7m_throw,World Ch.,5,-2,1,Player_33,GK_26,right,0.29,0.42,0.348,baja,low_right,missed
+HND_0248,handball,7m_throw,Champions L.,58,0,0,Player_55,GK_7,right,0.33,0.93,0.863,alta,low_right,goal
+HND_0249,handball,7m_throw,World Ch.,20,-2,0,Player_5,GK_8,right,0.23,0.58,0.448,media,high_right,goal
+HND_0250,handball,7m_throw,Champions L.,7,1,1,Player_23,GK_20,right,0.26,0.73,0.529,media,high_left,goal
+HND_0251,handball,7m_throw,Champions L.,19,0,0,Player_56,GK_6,right,0.71,0.66,0.66,media,center,saved
+HND_0252,handball,7m_throw,Euro,48,-3,0,Player_22,GK_27,right,0.79,0.91,0.69,media,low_right,goal
+HND_0253,handball,7m_throw,World Ch.,40,-1,1,Player_49,GK_7,right,0.57,0.94,0.774,alta,center,missed
+HND_0254,handball,7m_throw,World Ch.,7,1,1,Player_32,GK_10,right,0.35,0.48,0.458,media,high_left,goal
+HND_0255,handball,7m_throw,World Ch.,45,0,1,Player_37,GK_9,right,0.31,0.96,0.812,alta,center,saved
+HND_0256,handball,7m_throw,World Ch.,51,-3,1,Player_42,GK_22,right,0.58,0.74,0.66,media,low_left,saved
+HND_0257,handball,7m_throw,Euro,23,-1,0,Player_54,GK_13,right,0.38,0.98,0.654,media,low_right,saved
+HND_0258,handball,7m_throw,Euro,15,-3,0,Player_13,GK_28,right,0.62,0.87,0.503,media,high_left,saved
+HND_0259,handball,7m_throw,Euro,36,-3,1,Player_29,GK_22,right,0.73,0.99,0.642,media,low_right,goal
+HND_0260,handball,7m_throw,Champions L.,20,-1,0,Player_16,GK_18,right,0.21,0.83,0.601,media,low_left,goal
+HND_0261,handball,7m_throw,Champions L.,47,2,0,Player_18,GK_15,right,0.43,0.92,0.685,media,high_right,saved
+HND_0262,handball,7m_throw,Euro,37,-1,0,Player_47,GK_13,right,0.25,0.49,0.587,media,low_right,saved
+HND_0263,handball,7m_throw,Euro,29,-3,1,Player_8,GK_5,left,0.21,0.86,0.507,media,high_left,saved
+HND_0264,handball,7m_throw,World Ch.,7,-1,0,Player_47,GK_6,right,0.64,0.4,0.477,media,high_right,goal
+HND_0265,handball,7m_throw,World Ch.,24,1,0,Player_26,GK_18,right,0.41,0.64,0.577,media,high_right,goal
+HND_0266,handball,7m_throw,World Ch.,6,2,0,Player_19,GK_4,right,0.45,0.53,0.409,media,center,goal
+HND_0267,handball,7m_throw,World Ch.,5,0,1,Player_39,GK_14,right,0.24,0.51,0.487,media,high_right,goal
+HND_0268,handball,7m_throw,Champions L.,20,-3,1,Player_5,GK_7,right,0.41,0.5,0.41,media,high_right,saved
+HND_0269,handball,7m_throw,Euro,58,-3,1,Player_54,GK_21,right,0.55,0.73,0.685,media,high_left,goal
+HND_0270,handball,7m_throw,Euro,35,1,1,Player_44,GK_14,left,0.88,0.89,0.791,alta,low_left,goal
+HND_0271,handball,7m_throw,Euro,22,0,1,Player_19,GK_10,right,0.54,0.68,0.64,media,high_right,goal
+HND_0272,handball,7m_throw,World Ch.,48,-1,1,Player_16,GK_10,left,0.72,1.0,0.817,alta,low_right,goal
+HND_0273,handball,7m_throw,Champions L.,51,0,1,Player_23,GK_14,right,0.79,0.74,0.857,alta,low_right,saved
+HND_0274,handball,7m_throw,World Ch.,12,2,0,Player_7,GK_3,right,0.2,0.4,0.385,media,low_left,goal
+HND_0275,handball,7m_throw,World Ch.,30,0,0,Player_53,GK_19,left,0.4,0.89,0.688,media,high_right,saved
+HND_0276,handball,7m_throw,Champions L.,29,-3,1,Player_56,GK_1,right,0.7,0.43,0.497,media,high_left,goal
+HND_0277,handball,7m_throw,World Ch.,35,1,0,Player_30,GK_10,right,0.63,0.71,0.689,media,high_left,goal
+HND_0278,handball,7m_throw,Euro,56,1,0,Player_14,GK_27,right,0.79,0.71,0.845,alta,center,goal
+HND_0279,handball,7m_throw,Euro,21,1,0,Player_47,GK_16,right,0.69,0.58,0.61,media,low_right,goal
+HND_0280,handball,7m_throw,Euro,10,-3,0,Player_53,GK_29,left,0.38,0.73,0.413,media,high_right,saved
+HND_0281,handball,7m_throw,World Ch.,18,2,1,Player_51,GK_23,right,0.32,0.49,0.438,media,high_left,goal
+HND_0282,handball,7m_throw,World Ch.,12,-1,0,Player_17,GK_24,right,0.5,0.54,0.533,media,low_right,goal
+HND_0283,handball,7m_throw,World Ch.,19,-2,1,Player_47,GK_27,right,0.34,0.85,0.522,media,center,goal
+HND_0284,handball,7m_throw,World Ch.,4,2,0,Player_44,GK_29,right,0.36,0.32,0.352,media,low_left,goal
+HND_0285,handball,7m_throw,Champions L.,32,-3,0,Player_25,GK_27,right,0.58,0.4,0.489,media,low_right,saved
+HND_0286,handball,7m_throw,Champions L.,13,-3,0,Player_16,GK_10,right,0.35,0.61,0.394,media,center,saved
+HND_0287,handball,7m_throw,Euro,7,0,0,Player_35,GK_16,left,0.7,0.42,0.544,media,high_left,goal
+HND_0288,handball,7m_throw,Champions L.,50,1,0,Player_31,GK_27,right,0.82,0.62,0.793,alta,low_right,missed
+HND_0289,handball,7m_throw,World Ch.,18,-3,0,Player_50,GK_21,right,0.68,0.77,0.504,media,low_right,goal
+HND_0290,handball,7m_throw,Euro,18,2,1,Player_49,GK_9,right,0.37,0.35,0.398,media,high_left,goal
+HND_0291,handball,7m_throw,World Ch.,55,2,1,Player_25,GK_9,left,0.39,0.33,0.614,media,high_left,goal
+HND_0292,handball,7m_throw,Champions L.,31,2,0,Player_36,GK_6,right,0.83,0.74,0.612,media,high_right,goal
+HND_0293,handball,7m_throw,World Ch.,22,-3,1,Player_31,GK_10,right,0.49,0.31,0.404,media,low_right,goal
+HND_0294,handball,7m_throw,Champions L.,52,1,1,Player_32,GK_8,right,0.4,0.79,0.745,alta,low_left,goal
+HND_0295,handball,7m_throw,Euro,58,1,0,Player_12,GK_14,left,0.68,0.54,0.775,alta,center,goal
+HND_0296,handball,7m_throw,World Ch.,49,0,1,Player_53,GK_12,right,0.5,0.64,0.782,alta,center,goal
+HND_0297,handball,7m_throw,Champions L.,60,-3,0,Player_44,GK_18,right,0.7,0.36,0.632,media,low_left,goal
+HND_0298,handball,7m_throw,Euro,8,0,0,Player_33,GK_25,right,0.81,0.46,0.568,media,center,goal
+HND_0299,handball,7m_throw,Euro,34,2,1,Player_36,GK_1,right,0.55,0.95,0.65,media,high_right,goal
+HND_0300,handball,7m_throw,Euro,28,0,0,Player_5,GK_6,right,0.25,0.61,0.645,media,high_left,goal
