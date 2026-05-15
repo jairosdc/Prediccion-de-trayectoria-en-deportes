@@ -269,6 +269,100 @@ DECISION_NAMES = {
     "hockey": "tipo de finalización", "esports": "decisión táctica"
 }
 
+# Mapping de lateralidad por deporte y jugador
+PLAYER_MAPPING = {
+    'football': {
+        'Cristiano Ronaldo': {'side': 'right', 'both': True},
+        'Kane': {'side': 'right', 'both': True},
+        'Vinicius Jr.': {'side': 'right', 'both': False},
+        'Modric': {'side': 'right', 'both': False},
+        'Saka': {'side': 'left', 'both': False},
+        'Benzema': {'side': 'right', 'both': False},
+        'Mbappé': {'side': 'right', 'both': False},
+        'Son': {'side': 'right', 'both': True},
+        'Messi': {'side': 'left', 'both': False},
+        'Griezmann': {'side': 'left', 'both': False},
+        'Pedri': {'side': 'right', 'both': False},
+        'Lewandowski': {'side': 'right', 'both': False},
+        'Lautaro Martínez': {'side': 'right', 'both': False},
+        'Salah': {'side': 'left', 'both': False},
+        'Bruno Fernandes': {'side': 'right', 'both': False},
+        'De Bruyne': {'side': 'right', 'both': True},
+        'Bellingham': {'side': 'right', 'both': False},
+        'Haaland': {'side': 'left', 'both': False},
+        'Neymar': {'side': 'right', 'both': True},
+        'Rashford': {'side': 'right', 'both': False},
+    },
+    'basketball': {
+        'LeBron James': {'side': 'right', 'both': True},
+        'Jalen Brunson': {'side': 'left', 'both': False},
+        'Curry': {'side': 'right', 'both': True},
+        'Jokic': {'side': 'right', 'both': True},
+        'Luka Doncic': {'side': 'right', 'both': False},
+        'Morant': {'side': 'right', 'both': True},
+        'Giannis': {'side': 'right', 'both': False},
+        'Wembanyama': {'side': 'right', 'both': False},
+        'Durant': {'side': 'right', 'both': False},
+        'Embiid': {'side': 'right', 'both': False},
+        'Lillard': {'side': 'right', 'both': False},
+        'Booker': {'side': 'right', 'both': False},
+        'Edwards': {'side': 'right', 'both': False},
+        'Tatum': {'side': 'right', 'both': False},
+        'Mitchell': {'side': 'right', 'both': False},
+    },
+    'tennis': {
+        'Federer': {'side': 'right', 'both': False},
+        'Murray': {'side': 'right', 'both': False},
+        'Sinner': {'side': 'right', 'both': False},
+        'Rune': {'side': 'right', 'both': False},
+        'Alcaraz': {'side': 'right', 'both': False},
+        'Djokovic': {'side': 'right', 'both': False},
+        'De Miñaur': {'side': 'right', 'both': False},
+        'Tiafoe': {'side': 'right', 'both': False},
+        'Ruud': {'side': 'right', 'both': False},
+        'Zverev': {'side': 'right', 'both': False},
+        'Rublev': {'side': 'right', 'both': False},
+        'Medvedev': {'side': 'right', 'both': False},
+        'Fritz': {'side': 'right', 'both': False},
+        'Nadal': {'side': 'left', 'both': False},
+        'Tsitsipas': {'side': 'right', 'both': False},
+    },
+    'handball': {
+        'Prandi': {'side': 'right', 'both': False},
+        'Abalo': {'side': 'left', 'both': False},
+        'Fabregas': {'side': 'right', 'both': False},
+        'N. Karabatic': {'side': 'right', 'both': False},
+        'Dahmke': {'side': 'right', 'both': False},
+        'Lazarov': {'side': 'left', 'both': False},
+        'Jicha': {'side': 'right', 'both': False},
+        'Duvnjak': {'side': 'right', 'both': False},
+        'Gidsel': {'side': 'left', 'both': False},
+        'Descat': {'side': 'right', 'both': False},
+        'Holm': {'side': 'right', 'both': False},
+        'Mem': {'side': 'left', 'both': False},
+        'Hansen': {'side': 'right', 'both': False},
+        'Sagosen': {'side': 'right', 'both': False},
+        'Cindric': {'side': 'right', 'both': False},
+    },
+    'hockey': {
+        'McDavid': {'side': 'left', 'both': False},
+        'Draisaitl': {'side': 'left', 'both': False},
+        'Crosby': {'side': 'left', 'both': False},
+        'Makar': {'side': 'right', 'both': False},
+        'Ovechkin': {'side': 'right', 'both': False},
+        'Point': {'side': 'right', 'both': False},
+        'Matthews': {'side': 'left', 'both': False},
+        'Robertson': {'side': 'left', 'both': False},
+        'Pastrnak': {'side': 'right', 'both': False},
+        'Barkov': {'side': 'left', 'both': False},
+        'Kaprizov': {'side': 'left', 'both': False},
+        'Rantanen': {'side': 'left', 'both': False},
+        'MacKinnon': {'side': 'right', 'both': False},
+        'Hughes': {'side': 'left', 'both': False},
+        'Kucherov': {'side': 'left', 'both': False},
+    }
+}
+
 
 def obtener_opciones(df, col):
     if col not in df.columns:
@@ -438,8 +532,81 @@ with col_modelo:
 
     player = st.selectbox("Jugador", players)
     opponent = st.selectbox("Rival / oponente", opponents)
-    dominant_side = st.selectbox("Lado dominante", dominant_sides,
-        format_func=lambda s: s.capitalize())
+
+    # ── Lógica de lateralidad automática ──
+    sides_options = list(dominant_sides)
+    is_ambidextrous = False
+    player_known = False
+    pref_side = None
+
+    # Lookup case-insensitive: preprocessing.py convierte los nombres a minúsculas
+    sport_map = PLAYER_MAPPING.get(sport, {})
+    player_lower = player.strip().lower()
+    # Construir diccionario normalizado para buscar sin importar el case del mapping
+    normalized_map = {k.strip().lower(): v for k, v in sport_map.items()}
+
+    if player_lower in normalized_map:
+        mapping = normalized_map[player_lower]
+        player_known = True
+        pref_side = mapping['side']
+        if mapping['both']:
+            if 'both' not in sides_options:
+                sides_options.append('both')
+            is_ambidextrous = True
+
+    # Detectar cambio de jugador y forzar el valor correcto en session_state
+    prev_player_key = "_prev_player_selection"
+    side_key = "dominant_side_selector"
+    current_id = f"{sport}|{player}"
+
+    if st.session_state.get(prev_player_key) != current_id:
+        # El jugador cambió → forzar el lado correcto
+        st.session_state[prev_player_key] = current_id
+        if player_known and pref_side in sides_options:
+            st.session_state[side_key] = pref_side
+        elif sides_options:
+            st.session_state[side_key] = sides_options[0]
+
+    # Limpiar valor residual que ya no está en las opciones actuales
+    if side_key in st.session_state and st.session_state[side_key] not in sides_options:
+        if player_known and pref_side in sides_options:
+            st.session_state[side_key] = pref_side
+        elif sides_options:
+            st.session_state[side_key] = sides_options[0]
+
+    if is_ambidextrous:
+        dominant_side = st.selectbox(
+            "Lado dominante",
+            sides_options,
+            key=side_key,
+            format_func=lambda s: "Ambidiestro / Ambos" if s == "both" else s.capitalize()
+        )
+        sport_notes = {
+            "football": "dominio de ambas piernas",
+            "basketball": "capacidad ambidiestra en finalización",
+            "tennis": "golpeo a dos manos excepcional",
+            "handball": "lanzamiento con ambos brazos",
+            "hockey": "disparo desde ambos lados",
+        }
+        note = sport_notes.get(sport, "capacidad ambidiestra")
+        st.caption(f"✨ **{player.title()}** destaca por su {note}.")
+    elif player_known:
+        dominant_side = st.selectbox(
+            "Lado dominante",
+            sides_options,
+            key=side_key,
+            disabled=True,
+            format_func=lambda s: s.capitalize()
+        )
+        side_label = "zurdo" if pref_side == "left" else "diestro"
+        st.caption(f"🔒 **{player.title()}** es **{side_label}** — selección automática.")
+    else:
+        dominant_side = st.selectbox(
+            "Lado dominante",
+            sides_options,
+            key=side_key,
+            format_func=lambda s: s.capitalize()
+        )
 
     pressure_index = calcular_pressure_index(
         match_time, score_difference, competition_importance,
