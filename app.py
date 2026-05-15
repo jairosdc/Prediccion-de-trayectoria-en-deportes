@@ -16,6 +16,8 @@ from src.analysis import (
     decisiones_por_deporte, decisiones_por_presion,
     decisiones_por_lado_dominante, presion_media_por_deporte
 )
+from src.animation import render_sport_animation
+
 
 # ============================================================
 # Config
@@ -659,6 +661,12 @@ with col_pred:
 with col_chart:
     st.plotly_chart(crear_chart_probabilidades(probabilidades, sport),
                     use_container_width=True, key="probs_chart")
+
+st.markdown("---")
+st.markdown('<div class="hero-title" style="font-size:1.4rem;">Simulación de Impacto (Live)</div>',
+            unsafe_allow_html=True)
+render_sport_animation(sport, decision_top)
+
 
 # ============================================================
 # Dinámica con el público
