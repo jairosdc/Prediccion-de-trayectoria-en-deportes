@@ -1,0 +1,301 @@
+event_id,sport,action_type,competition,match_time,score_difference,is_home_player,player,opponent,dominant_side,fatigue_level,competition_importance,pressure_index,pressure_level,decision_zone,action_result
+TEN_0001,tennis,serve,ATP 500,1,0,1,Federer,Rublev,right,0.29,0.48,0.497,media,center,returned
+TEN_0002,tennis,serve,Grand Slam,4,1,0,Murray,Djokovic,right,0.86,0.68,0.741,alta,body,returned
+TEN_0003,tennis,serve,ATP 500,3,-1,1,Federer,Rublev,right,0.86,0.63,0.672,media,wide,fault
+TEN_0004,tennis,serve,ATP 500,2,1,1,Sinner,De Miñaur,left,0.61,0.69,0.606,media,center,returned
+TEN_0005,tennis,serve,ATP 500,1,1,1,Rune,Medvedev,right,0.64,0.92,0.563,media,center,returned
+TEN_0006,tennis,serve,Grand Slam,4,1,1,Alcaraz,Medvedev,right,0.72,0.76,0.709,alta,wide,returned
+TEN_0007,tennis,serve,Masters 1000,1,0,0,Rune,Fritz,right,0.51,0.94,0.668,media,center,returned
+TEN_0008,tennis,serve,Grand Slam,4,-1,1,Rune,Murray,left,0.56,1.0,0.756,alta,body,returned
+TEN_0009,tennis,serve,ATP 500,5,-1,0,Sinner,Alcaraz,right,0.9,0.98,0.819,alta,body,ace
+TEN_0010,tennis,serve,Masters 1000,1,-1,1,Alcaraz,De Miñaur,right,0.86,0.93,0.636,media,body,fault
+TEN_0011,tennis,serve,Masters 1000,1,1,1,Djokovic,Fritz,right,0.35,0.43,0.411,media,center,returned
+TEN_0012,tennis,serve,Masters 1000,3,1,0,Federer,Medvedev,right,0.76,0.95,0.699,media,body,returned
+TEN_0013,tennis,serve,Grand Slam,0,0,0,Sinner,Tsitsipas,right,0.18,0.85,0.521,media,center,returned
+TEN_0014,tennis,serve,ATP 500,0,0,1,Federer,Tsitsipas,right,0.84,0.94,0.654,media,wide,returned
+TEN_0015,tennis,serve,ATP 500,2,0,1,Murray,Rune,right,0.49,0.45,0.619,media,wide,returned
+TEN_0016,tennis,serve,ATP 500,0,-1,0,De Miñaur,Sinner,right,0.87,0.87,0.582,media,center,returned
+TEN_0017,tennis,serve,Masters 1000,3,0,0,Tiafoe,Tiafoe,left,0.23,0.97,0.717,alta,wide,returned
+TEN_0018,tennis,serve,Masters 1000,5,-1,0,Ruud,Federer,right,0.43,0.63,0.693,media,center,returned
+TEN_0019,tennis,serve,Masters 1000,3,-1,1,Murray,Nadal,right,0.24,0.66,0.607,media,wide,fault
+TEN_0020,tennis,serve,Grand Slam,2,-1,0,Sinner,Tsitsipas,right,0.58,0.5,0.555,media,wide,returned
+TEN_0021,tennis,serve,Masters 1000,3,0,1,Zverev,Nadal,right,0.89,0.98,0.84,alta,body,returned
+TEN_0022,tennis,serve,ATP 500,4,1,0,Tiafoe,Ruud,right,0.33,0.74,0.701,alta,wide,fault
+TEN_0023,tennis,serve,Grand Slam,1,0,0,Rune,Djokovic,right,0.34,0.45,0.51,media,body,returned
+TEN_0024,tennis,serve,Grand Slam,0,1,0,De Miñaur,Tiafoe,right,0.39,0.51,0.407,media,wide,fault
+TEN_0025,tennis,serve,Masters 1000,5,1,0,Rublev,Sinner,right,0.75,0.83,0.817,alta,body,returned
+TEN_0026,tennis,serve,Grand Slam,0,-1,1,Medvedev,Sinner,right,0.12,0.73,0.418,media,center,returned
+TEN_0027,tennis,serve,Masters 1000,4,0,0,Federer,De Miñaur,right,0.62,0.5,0.75,alta,body,returned
+TEN_0028,tennis,serve,Grand Slam,3,0,0,Tiafoe,Tsitsipas,right,0.53,0.98,0.816,alta,body,ace
+TEN_0029,tennis,serve,Masters 1000,2,0,0,Federer,Federer,right,0.81,0.48,0.665,media,center,ace
+TEN_0030,tennis,serve,Grand Slam,0,1,1,Rune,Medvedev,right,0.63,0.93,0.52,media,wide,returned
+TEN_0031,tennis,serve,Masters 1000,2,-1,0,Fritz,Tiafoe,right,0.36,0.41,0.486,media,wide,fault
+TEN_0032,tennis,serve,Masters 1000,3,0,0,Tiafoe,Ruud,right,0.74,0.86,0.768,alta,center,returned
+TEN_0033,tennis,serve,ATP 500,3,-1,0,Nadal,Tsitsipas,right,0.88,0.88,0.71,alta,body,fault
+TEN_0034,tennis,serve,Grand Slam,5,1,0,Federer,Ruud,right,0.32,0.54,0.675,media,wide,returned
+TEN_0035,tennis,serve,ATP 500,1,1,1,Alcaraz,Rublev,right,0.25,0.77,0.457,media,center,ace
+TEN_0036,tennis,serve,ATP 500,3,1,0,Sinner,Medvedev,left,0.62,0.51,0.623,media,body,returned
+TEN_0037,tennis,serve,Masters 1000,1,-1,1,Tsitsipas,Tiafoe,right,0.14,0.96,0.512,media,center,returned
+TEN_0038,tennis,serve,Grand Slam,3,1,1,Nadal,Federer,right,0.65,0.5,0.617,media,body,fault
+TEN_0039,tennis,serve,Grand Slam,1,1,1,Rune,Rublev,right,0.87,0.73,0.572,media,center,returned
+TEN_0040,tennis,serve,Grand Slam,5,0,0,Rublev,Fritz,right,0.44,0.85,0.829,alta,center,returned
+TEN_0041,tennis,serve,ATP 500,1,0,0,Murray,Djokovic,right,0.55,0.76,0.6,media,wide,returned
+TEN_0042,tennis,serve,ATP 500,2,1,0,Fritz,Nadal,right,0.71,0.86,0.629,media,center,returned
+TEN_0043,tennis,serve,ATP 500,4,-1,0,Zverev,Rune,right,0.57,0.56,0.639,media,center,fault
+TEN_0044,tennis,serve,Grand Slam,2,1,0,Fritz,Rune,right,0.87,0.62,0.646,media,body,fault
+TEN_0045,tennis,serve,Masters 1000,4,0,0,De Miñaur,Alcaraz,right,0.42,0.52,0.726,alta,body,returned
+TEN_0046,tennis,serve,Grand Slam,5,0,0,De Miñaur,De Miñaur,right,0.61,0.68,0.84,alta,center,returned
+TEN_0047,tennis,serve,Grand Slam,3,1,0,Nadal,Alcaraz,right,0.65,0.88,0.686,media,body,returned
+TEN_0048,tennis,serve,Masters 1000,3,1,0,Tsitsipas,Federer,right,0.77,0.46,0.639,media,body,fault
+TEN_0049,tennis,serve,Masters 1000,4,1,0,Ruud,Zverev,left,0.74,0.41,0.677,media,center,fault
+TEN_0050,tennis,serve,Grand Slam,3,-1,0,Ruud,Nadal,right,0.16,0.63,0.545,media,body,returned
+TEN_0051,tennis,serve,Grand Slam,1,1,0,Rublev,Medvedev,right,0.69,0.68,0.544,media,wide,returned
+TEN_0052,tennis,serve,Masters 1000,0,1,0,Murray,Fritz,right,0.89,0.54,0.469,media,center,returned
+TEN_0053,tennis,serve,ATP 500,3,-1,1,Murray,De Miñaur,right,0.88,0.46,0.623,media,body,fault
+TEN_0054,tennis,serve,Grand Slam,1,-1,1,Tiafoe,Djokovic,right,0.26,0.84,0.482,media,wide,returned
+TEN_0055,tennis,serve,ATP 500,1,1,1,Murray,Murray,right,0.85,0.58,0.518,media,body,ace
+TEN_0056,tennis,serve,Grand Slam,2,0,1,Fritz,Fritz,right,0.84,0.79,0.767,alta,body,ace
+TEN_0057,tennis,serve,ATP 500,1,1,0,Rublev,Murray,right,0.66,0.84,0.557,media,body,returned
+TEN_0058,tennis,serve,Grand Slam,3,-1,0,Rublev,Rune,right,0.24,0.89,0.647,media,center,returned
+TEN_0059,tennis,serve,ATP 500,2,-1,1,Djokovic,Medvedev,left,0.66,0.61,0.606,media,center,fault
+TEN_0060,tennis,serve,ATP 500,3,0,1,Medvedev,Rune,right,0.38,0.61,0.733,alta,body,returned
+TEN_0061,tennis,serve,Grand Slam,4,1,1,Medvedev,Tiafoe,right,0.47,0.46,0.634,media,body,returned
+TEN_0062,tennis,serve,ATP 500,2,1,0,De Miñaur,Nadal,right,0.87,0.64,0.641,media,wide,fault
+TEN_0063,tennis,serve,Masters 1000,3,0,1,Alcaraz,Rune,right,0.87,0.81,0.819,alta,body,returned
+TEN_0064,tennis,serve,Masters 1000,1,1,1,Rublev,Fritz,right,0.53,0.75,0.485,media,wide,returned
+TEN_0065,tennis,serve,Grand Slam,3,-1,0,Tsitsipas,Fritz,right,0.52,0.61,0.652,media,body,returned
+TEN_0066,tennis,serve,Masters 1000,5,-1,0,Nadal,De Miñaur,right,0.36,0.86,0.739,alta,center,fault
+TEN_0067,tennis,serve,Masters 1000,4,0,0,Tsitsipas,Murray,left,0.87,0.66,0.796,alta,body,returned
+TEN_0068,tennis,serve,Grand Slam,1,0,0,De Miñaur,Alcaraz,right,0.74,0.44,0.623,media,center,returned
+TEN_0069,tennis,serve,Masters 1000,2,1,0,Tiafoe,Rublev,left,0.19,0.76,0.533,media,center,returned
+TEN_0070,tennis,serve,Masters 1000,0,0,1,Zverev,Fritz,right,0.28,0.5,0.514,media,center,fault
+TEN_0071,tennis,serve,Grand Slam,3,0,1,Tsitsipas,De Miñaur,right,0.21,0.52,0.689,media,body,ace
+TEN_0072,tennis,serve,Grand Slam,1,1,0,Medvedev,Murray,right,0.3,0.56,0.437,media,wide,returned
+TEN_0073,tennis,serve,Masters 1000,0,0,1,Alcaraz,Tsitsipas,right,0.12,0.75,0.484,media,body,returned
+TEN_0074,tennis,serve,Grand Slam,2,1,0,Tiafoe,Medvedev,right,0.39,0.45,0.466,media,wide,ace
+TEN_0075,tennis,serve,Masters 1000,5,0,1,Murray,Tiafoe,right,0.41,0.79,0.826,alta,center,fault
+TEN_0076,tennis,serve,Grand Slam,2,0,0,Sinner,Tiafoe,right,0.85,0.7,0.757,alta,body,fault
+TEN_0077,tennis,serve,ATP 500,1,-1,0,Ruud,Medvedev,right,0.49,0.47,0.457,media,body,fault
+TEN_0078,tennis,serve,Grand Slam,3,-1,1,Murray,Nadal,left,0.49,0.8,0.664,media,wide,returned
+TEN_0079,tennis,serve,Grand Slam,3,1,0,Zverev,Federer,right,0.37,0.9,0.626,media,body,returned
+TEN_0080,tennis,serve,Grand Slam,4,1,0,De Miñaur,Medvedev,right,0.76,0.43,0.702,alta,body,fault
+TEN_0081,tennis,serve,ATP 500,2,-1,1,Nadal,Rune,right,0.83,0.59,0.616,media,center,returned
+TEN_0082,tennis,serve,Grand Slam,4,-1,1,Fritz,Medvedev,right,0.73,0.93,0.755,alta,center,fault
+TEN_0083,tennis,serve,Grand Slam,2,1,1,Rublev,Alcaraz,left,0.86,0.48,0.59,media,center,returned
+TEN_0084,tennis,serve,ATP 500,3,0,0,Zverev,Medvedev,right,0.51,0.59,0.706,alta,wide,fault
+TEN_0085,tennis,serve,Masters 1000,3,0,0,Tiafoe,Tiafoe,right,0.17,0.59,0.64,media,body,returned
+TEN_0086,tennis,serve,Masters 1000,2,1,1,Zverev,Nadal,right,0.63,0.99,0.627,media,wide,returned
+TEN_0087,tennis,serve,Grand Slam,3,1,0,Tiafoe,Rublev,right,0.74,0.44,0.622,media,wide,returned
+TEN_0088,tennis,serve,Grand Slam,0,-1,0,Murray,Tiafoe,right,0.82,0.64,0.528,media,body,returned
+TEN_0089,tennis,serve,Masters 1000,4,-1,0,Federer,Djokovic,right,0.32,0.47,0.592,media,body,returned
+TEN_0090,tennis,serve,Masters 1000,1,1,1,Nadal,Tsitsipas,right,0.79,0.59,0.507,media,wide,returned
+TEN_0091,tennis,serve,ATP 500,3,0,0,Rune,Murray,right,0.78,0.48,0.746,alta,body,fault
+TEN_0092,tennis,serve,ATP 500,1,0,0,De Miñaur,Tsitsipas,left,0.43,0.87,0.607,media,wide,ace
+TEN_0093,tennis,serve,Masters 1000,0,1,0,Ruud,Sinner,right,0.71,0.41,0.444,media,center,returned
+TEN_0094,tennis,serve,ATP 500,3,0,1,Murray,Zverev,right,0.34,0.72,0.73,alta,body,returned
+TEN_0095,tennis,serve,Masters 1000,4,1,0,Federer,Ruud,right,0.64,0.65,0.73,alta,center,ace
+TEN_0096,tennis,serve,Grand Slam,2,-1,0,Zverev,Medvedev,right,0.49,0.49,0.511,media,center,returned
+TEN_0097,tennis,serve,ATP 500,2,0,0,Rune,Sinner,right,0.64,0.69,0.667,media,body,ace
+TEN_0098,tennis,serve,ATP 500,5,0,0,Alcaraz,Zverev,right,0.16,0.77,0.796,alta,center,fault
+TEN_0099,tennis,serve,Grand Slam,4,-1,1,Ruud,Federer,right,0.34,0.77,0.676,media,body,fault
+TEN_0100,tennis,serve,Grand Slam,0,0,0,Nadal,Fritz,right,0.14,0.61,0.465,media,wide,fault
+TEN_0101,tennis,serve,Masters 1000,4,1,0,Alcaraz,Ruud,right,0.26,0.9,0.718,alta,center,fault
+TEN_0102,tennis,serve,Grand Slam,3,1,1,Fritz,Federer,right,0.55,0.95,0.663,media,wide,returned
+TEN_0103,tennis,serve,Masters 1000,1,-1,0,Zverev,Rune,right,0.66,0.49,0.518,media,body,returned
+TEN_0104,tennis,serve,ATP 500,2,-1,0,Zverev,Rublev,right,0.36,0.8,0.582,media,center,returned
+TEN_0105,tennis,serve,Masters 1000,3,-1,1,Djokovic,Medvedev,right,0.25,0.95,0.621,media,wide,ace
+TEN_0106,tennis,serve,Grand Slam,2,1,0,De Miñaur,Rublev,right,0.57,0.44,0.501,media,wide,returned
+TEN_0107,tennis,serve,Grand Slam,5,-1,1,Tsitsipas,Zverev,right,0.14,0.84,0.718,alta,body,fault
+TEN_0108,tennis,serve,Masters 1000,3,1,0,Zverev,Fritz,right,0.54,0.94,0.69,media,wide,returned
+TEN_0109,tennis,serve,Masters 1000,1,0,1,Nadal,Alcaraz,right,0.3,0.52,0.578,media,wide,fault
+TEN_0110,tennis,serve,ATP 500,2,1,1,Ruud,Sinner,right,0.41,0.58,0.575,media,center,returned
+TEN_0111,tennis,serve,Grand Slam,2,-1,0,Alcaraz,Tsitsipas,right,0.85,0.58,0.597,media,wide,fault
+TEN_0112,tennis,serve,Masters 1000,1,1,0,Ruud,Sinner,right,0.35,0.98,0.522,media,wide,fault
+TEN_0113,tennis,serve,Masters 1000,0,0,0,Medvedev,Murray,right,0.75,0.96,0.648,media,body,fault
+TEN_0114,tennis,serve,Grand Slam,4,1,1,Nadal,Tiafoe,right,0.68,0.48,0.675,media,center,returned
+TEN_0115,tennis,serve,Masters 1000,2,0,1,Tsitsipas,Rublev,right,0.11,0.94,0.64,media,wide,fault
+TEN_0116,tennis,serve,Grand Slam,2,0,1,Medvedev,Murray,right,0.63,0.72,0.715,alta,body,returned
+TEN_0117,tennis,serve,Masters 1000,3,1,0,Federer,Rune,right,0.28,0.42,0.523,media,wide,returned
+TEN_0118,tennis,serve,Masters 1000,1,1,0,Tiafoe,Djokovic,right,0.56,0.5,0.516,media,body,returned
+TEN_0119,tennis,serve,ATP 500,2,1,0,Tsitsipas,Medvedev,right,0.15,0.65,0.49,media,body,ace
+TEN_0120,tennis,serve,ATP 500,4,1,1,Zverev,Murray,right,0.42,0.82,0.687,media,body,fault
+TEN_0121,tennis,serve,Masters 1000,4,0,0,Fritz,Tiafoe,right,0.77,0.49,0.779,alta,wide,ace
+TEN_0122,tennis,serve,Masters 1000,3,-1,1,Murray,Ruud,left,0.31,0.98,0.678,media,wide,returned
+TEN_0123,tennis,serve,Masters 1000,2,0,0,Tsitsipas,Rublev,right,0.6,0.8,0.717,alta,body,returned
+TEN_0124,tennis,serve,ATP 500,3,1,0,Nadal,Medvedev,right,0.75,0.82,0.676,media,body,returned
+TEN_0125,tennis,serve,Masters 1000,2,-1,1,Tsitsipas,Rublev,right,0.58,0.61,0.549,media,wide,returned
+TEN_0126,tennis,serve,ATP 500,3,-1,0,Ruud,Alcaraz,right,0.76,0.87,0.745,alta,center,fault
+TEN_0127,tennis,serve,ATP 500,1,0,0,Nadal,Rune,right,0.73,0.6,0.632,media,center,ace
+TEN_0128,tennis,serve,ATP 500,0,1,0,Medvedev,Fritz,right,0.65,0.94,0.558,media,body,returned
+TEN_0129,tennis,serve,Masters 1000,2,-1,0,Rune,Rune,right,0.19,0.56,0.503,media,center,ace
+TEN_0130,tennis,serve,ATP 500,2,-1,0,Tiafoe,Alcaraz,right,0.79,0.55,0.566,media,wide,returned
+TEN_0131,tennis,serve,Masters 1000,0,1,1,Rune,Tsitsipas,right,0.82,0.55,0.495,media,body,fault
+TEN_0132,tennis,serve,ATP 500,5,-1,1,Tiafoe,Medvedev,right,0.82,0.54,0.74,alta,center,returned
+TEN_0133,tennis,serve,Grand Slam,1,1,0,Ruud,Alcaraz,right,0.59,0.41,0.48,media,wide,returned
+TEN_0134,tennis,serve,ATP 500,5,0,1,Sinner,Ruud,right,0.88,0.93,0.931,alta,body,returned
+TEN_0135,tennis,serve,ATP 500,1,0,0,Fritz,Alcaraz,left,0.66,0.45,0.57,media,center,ace
+TEN_0136,tennis,serve,Grand Slam,5,1,1,Ruud,Zverev,right,0.49,0.59,0.707,alta,wide,returned
+TEN_0137,tennis,serve,Grand Slam,5,0,1,De Miñaur,Tsitsipas,right,0.4,0.82,0.82,alta,body,fault
+TEN_0138,tennis,serve,Masters 1000,4,1,0,Rublev,Alcaraz,right,0.21,0.41,0.601,media,body,returned
+TEN_0139,tennis,serve,ATP 500,5,0,0,Djokovic,Tiafoe,right,0.85,0.97,0.931,alta,wide,returned
+TEN_0140,tennis,serve,Grand Slam,3,1,0,Fritz,Sinner,right,0.49,0.99,0.671,media,center,returned
+TEN_0141,tennis,serve,Masters 1000,5,-1,1,Djokovic,Tiafoe,right,0.29,0.41,0.636,media,body,returned
+TEN_0142,tennis,serve,Grand Slam,2,-1,1,Zverev,Tsitsipas,right,0.56,0.93,0.629,media,wide,fault
+TEN_0143,tennis,serve,Grand Slam,2,0,1,Alcaraz,Tsitsipas,right,0.84,0.5,0.664,media,wide,returned
+TEN_0144,tennis,serve,Grand Slam,3,1,1,Rune,Medvedev,right,0.73,0.88,0.71,alta,center,returned
+TEN_0145,tennis,serve,ATP 500,3,-1,0,Rune,Fritz,right,0.57,0.96,0.698,media,wide,returned
+TEN_0146,tennis,serve,Masters 1000,1,0,1,Sinner,Federer,right,0.46,0.84,0.645,media,center,returned
+TEN_0147,tennis,serve,ATP 500,4,1,1,Rune,Rublev,right,0.24,0.47,0.6,media,body,returned
+TEN_0148,tennis,serve,ATP 500,5,1,0,Murray,Nadal,left,0.65,0.63,0.714,alta,body,returned
+TEN_0149,tennis,serve,Masters 1000,2,0,0,Fritz,Tiafoe,right,0.15,0.69,0.609,media,center,ace
+TEN_0150,tennis,serve,Grand Slam,5,-1,0,Tiafoe,Rublev,right,0.36,0.49,0.678,media,wide,returned
+TEN_0151,tennis,serve,ATP 500,1,0,1,Sinner,Tsitsipas,right,0.7,0.89,0.656,media,wide,returned
+TEN_0152,tennis,serve,Masters 1000,3,1,0,Rune,Sinner,right,0.62,0.5,0.619,media,center,returned
+TEN_0153,tennis,serve,ATP 500,3,0,1,Zverev,Tiafoe,right,0.35,0.72,0.696,media,wide,returned
+TEN_0154,tennis,serve,Masters 1000,3,1,0,Zverev,De Miñaur,right,0.62,0.81,0.634,media,wide,returned
+TEN_0155,tennis,serve,ATP 500,2,-1,0,Rublev,Nadal,right,0.85,0.4,0.58,media,center,returned
+TEN_0156,tennis,serve,Masters 1000,3,0,0,Alcaraz,Alcaraz,right,0.19,0.47,0.645,media,wide,returned
+TEN_0157,tennis,serve,ATP 500,4,-1,1,Ruud,Murray,right,0.35,0.76,0.679,media,wide,fault
+TEN_0158,tennis,serve,Grand Slam,3,1,0,Nadal,Murray,right,0.65,0.93,0.707,alta,wide,returned
+TEN_0159,tennis,serve,Grand Slam,3,0,1,De Miñaur,Murray,right,0.21,0.65,0.666,media,center,returned
+TEN_0160,tennis,serve,Masters 1000,4,1,1,Fritz,Zverev,right,0.33,0.91,0.696,media,body,returned
+TEN_0161,tennis,serve,Grand Slam,3,1,1,Murray,Tiafoe,right,0.15,0.93,0.628,media,body,returned
+TEN_0162,tennis,serve,Grand Slam,2,0,1,Djokovic,Tsitsipas,right,0.74,0.79,0.678,media,body,returned
+TEN_0163,tennis,serve,ATP 500,4,-1,1,Medvedev,De Miñaur,right,0.34,0.54,0.667,media,wide,returned
+TEN_0164,tennis,serve,ATP 500,3,0,0,Medvedev,Rublev,left,0.46,0.61,0.698,media,wide,returned
+TEN_0165,tennis,serve,ATP 500,4,-1,1,De Miñaur,Tiafoe,right,0.21,0.76,0.656,media,wide,fault
+TEN_0166,tennis,serve,Masters 1000,3,0,1,Nadal,Federer,right,0.67,0.54,0.694,media,center,ace
+TEN_0167,tennis,serve,ATP 500,5,-1,0,Djokovic,Alcaraz,right,0.12,0.71,0.679,media,body,ace
+TEN_0168,tennis,serve,ATP 500,1,-1,0,Sinner,Sinner,right,0.39,0.88,0.511,media,center,returned
+TEN_0169,tennis,serve,Masters 1000,0,-1,0,Nadal,Federer,right,0.6,0.72,0.488,media,body,returned
+TEN_0170,tennis,serve,Masters 1000,2,-1,1,Tiafoe,Fritz,right,0.55,0.86,0.589,media,center,fault
+TEN_0171,tennis,serve,Grand Slam,3,-1,1,Federer,Djokovic,right,0.48,0.51,0.576,media,wide,ace
+TEN_0172,tennis,serve,Grand Slam,3,-1,1,Tsitsipas,Zverev,right,0.26,0.82,0.631,media,body,returned
+TEN_0173,tennis,serve,ATP 500,1,-1,1,Zverev,Alcaraz,right,0.82,0.84,0.621,media,wide,returned
+TEN_0174,tennis,serve,Grand Slam,5,0,1,Rune,Fritz,right,0.49,0.63,0.811,alta,wide,returned
+TEN_0175,tennis,serve,ATP 500,4,1,0,Tiafoe,Fritz,right,0.75,0.54,0.721,alta,center,returned
+TEN_0176,tennis,serve,Masters 1000,4,1,1,De Miñaur,Federer,right,0.1,0.62,0.626,media,wide,fault
+TEN_0177,tennis,serve,Masters 1000,1,0,0,Tsitsipas,Federer,right,0.83,0.66,0.652,media,center,returned
+TEN_0178,tennis,serve,Grand Slam,2,-1,0,Medvedev,De Miñaur,right,0.56,0.76,0.599,media,center,returned
+TEN_0179,tennis,serve,ATP 500,3,-1,1,Tsitsipas,Tsitsipas,left,0.55,0.83,0.691,media,body,returned
+TEN_0180,tennis,serve,Masters 1000,1,0,0,Zverev,Tsitsipas,right,0.16,0.44,0.483,media,wide,returned
+TEN_0181,tennis,serve,Masters 1000,5,1,1,Alcaraz,Federer,right,0.75,0.51,0.734,alta,body,returned
+TEN_0182,tennis,serve,ATP 500,1,0,1,Nadal,Fritz,right,0.77,0.64,0.637,media,center,ace
+TEN_0183,tennis,serve,Grand Slam,2,1,1,Fritz,Rublev,right,0.74,0.72,0.619,media,body,returned
+TEN_0184,tennis,serve,Grand Slam,4,-1,0,Alcaraz,Djokovic,right,0.53,0.72,0.673,media,center,fault
+TEN_0185,tennis,serve,Grand Slam,3,0,1,Federer,Djokovic,right,0.84,0.89,0.833,alta,body,returned
+TEN_0186,tennis,serve,ATP 500,1,0,0,Nadal,Tiafoe,right,0.27,0.55,0.543,media,wide,ace
+TEN_0187,tennis,serve,Masters 1000,2,0,1,Sinner,Ruud,right,0.43,0.85,0.686,media,wide,fault
+TEN_0188,tennis,serve,ATP 500,1,0,0,Medvedev,Nadal,left,0.48,0.73,0.642,media,center,ace
+TEN_0189,tennis,serve,ATP 500,2,1,0,Zverev,Zverev,left,0.72,0.53,0.546,media,body,ace
+TEN_0190,tennis,serve,Grand Slam,4,1,1,Fritz,De Miñaur,right,0.42,0.54,0.668,media,center,fault
+TEN_0191,tennis,serve,Masters 1000,1,-1,0,Federer,Tsitsipas,left,0.11,0.48,0.385,media,wide,fault
+TEN_0192,tennis,serve,ATP 500,2,-1,1,De Miñaur,Murray,right,0.24,0.52,0.511,media,center,returned
+TEN_0193,tennis,serve,Grand Slam,1,0,0,Djokovic,Nadal,right,0.54,0.98,0.69,media,body,fault
+TEN_0194,tennis,serve,ATP 500,5,-1,1,Federer,Tiafoe,right,0.5,0.74,0.741,alta,wide,returned
+TEN_0195,tennis,serve,ATP 500,4,1,1,Medvedev,Tiafoe,right,0.69,0.86,0.759,alta,center,returned
+TEN_0196,tennis,serve,ATP 500,4,0,0,De Miñaur,Tiafoe,right,0.12,0.68,0.732,alta,wide,returned
+TEN_0197,tennis,serve,Grand Slam,3,1,1,Ruud,Sinner,right,0.88,0.49,0.651,media,wide,ace
+TEN_0198,tennis,serve,ATP 500,2,-1,1,Murray,Rune,right,0.18,0.44,0.484,media,body,returned
+TEN_0199,tennis,serve,Masters 1000,4,-1,0,Ruud,Zverev,right,0.32,0.47,0.572,media,center,returned
+TEN_0200,tennis,serve,ATP 500,4,-1,0,Medvedev,Tsitsipas,right,0.17,0.96,0.701,alta,body,returned
+TEN_0201,tennis,serve,Masters 1000,2,0,0,Ruud,De Miñaur,right,0.67,0.9,0.729,alta,body,returned
+TEN_0202,tennis,serve,ATP 500,4,1,1,Rublev,Ruud,left,0.27,0.61,0.632,media,wide,fault
+TEN_0203,tennis,serve,Masters 1000,1,0,1,Rublev,Rublev,right,0.58,0.7,0.586,media,center,returned
+TEN_0204,tennis,serve,ATP 500,5,1,0,Sinner,Tsitsipas,right,0.73,0.63,0.746,alta,body,fault
+TEN_0205,tennis,serve,ATP 500,4,0,0,De Miñaur,Medvedev,right,0.21,0.49,0.673,media,center,returned
+TEN_0206,tennis,serve,ATP 500,3,1,1,Zverev,Zverev,right,0.41,0.81,0.649,media,center,returned
+TEN_0207,tennis,serve,ATP 500,3,-1,0,Tiafoe,Zverev,right,0.49,0.78,0.669,media,wide,returned
+TEN_0208,tennis,serve,Grand Slam,2,-1,1,Murray,Ruud,right,0.63,0.95,0.668,media,wide,fault
+TEN_0209,tennis,serve,ATP 500,5,-1,0,Sinner,Zverev,right,0.82,1.0,0.861,alta,body,returned
+TEN_0210,tennis,serve,ATP 500,2,1,0,Djokovic,Nadal,right,0.25,0.82,0.585,media,body,returned
+TEN_0211,tennis,serve,Grand Slam,2,1,0,Alcaraz,Tiafoe,right,0.71,0.91,0.633,media,body,returned
+TEN_0212,tennis,serve,ATP 500,4,0,0,Sinner,Murray,left,0.73,0.79,0.817,alta,body,returned
+TEN_0213,tennis,serve,Grand Slam,1,1,1,Rublev,Sinner,right,0.66,0.84,0.548,media,body,ace
+TEN_0214,tennis,serve,Masters 1000,2,1,0,Tsitsipas,De Miñaur,left,0.43,0.68,0.559,media,wide,returned
+TEN_0215,tennis,serve,ATP 500,3,1,0,Medvedev,Alcaraz,left,0.38,0.7,0.634,media,body,returned
+TEN_0216,tennis,serve,Masters 1000,2,1,0,Sinner,Alcaraz,right,0.23,1.0,0.61,media,wide,returned
+TEN_0217,tennis,serve,Grand Slam,3,1,1,Alcaraz,Tiafoe,right,0.76,0.72,0.704,alta,body,returned
+TEN_0218,tennis,serve,Grand Slam,1,-1,1,Tsitsipas,Ruud,right,0.51,0.49,0.437,media,center,returned
+TEN_0219,tennis,serve,Grand Slam,4,0,0,Rublev,Fritz,right,0.3,0.98,0.831,alta,body,returned
+TEN_0220,tennis,serve,Grand Slam,1,-1,1,Zverev,Tsitsipas,right,0.69,0.81,0.568,media,center,returned
+TEN_0221,tennis,serve,Masters 1000,3,-1,0,Tiafoe,Zverev,right,0.3,0.64,0.598,media,wide,returned
+TEN_0222,tennis,serve,ATP 500,3,0,1,Tsitsipas,Rublev,right,0.24,0.83,0.717,alta,center,returned
+TEN_0223,tennis,serve,ATP 500,1,0,1,Federer,Rublev,left,0.33,0.99,0.621,media,body,fault
+TEN_0224,tennis,serve,Grand Slam,3,1,0,Zverev,Ruud,right,0.86,0.51,0.677,media,body,returned
+TEN_0225,tennis,serve,Grand Slam,3,-1,0,Nadal,Murray,right,0.69,0.65,0.659,media,body,ace
+TEN_0226,tennis,serve,Grand Slam,3,0,0,Tiafoe,Zverev,right,0.14,0.8,0.675,media,wide,returned
+TEN_0227,tennis,serve,Masters 1000,4,0,0,Zverev,Rune,right,0.36,0.84,0.83,alta,center,ace
+TEN_0228,tennis,serve,Grand Slam,1,-1,1,Rune,Rublev,left,0.68,0.66,0.516,media,body,returned
+TEN_0229,tennis,serve,Grand Slam,1,0,1,Medvedev,De Miñaur,right,0.13,0.68,0.536,media,center,fault
+TEN_0230,tennis,serve,ATP 500,2,-1,0,Federer,Zverev,right,0.87,0.77,0.64,media,wide,returned
+TEN_0231,tennis,serve,ATP 500,1,1,1,Tsitsipas,Medvedev,right,0.82,0.78,0.603,media,center,returned
+TEN_0232,tennis,serve,Masters 1000,4,0,1,Sinner,Nadal,right,0.88,0.79,0.856,alta,center,returned
+TEN_0233,tennis,serve,ATP 500,5,-1,1,Tiafoe,Alcaraz,right,0.61,0.84,0.8,alta,body,returned
+TEN_0234,tennis,serve,Grand Slam,5,0,0,Rublev,De Miñaur,right,0.27,0.83,0.843,alta,center,returned
+TEN_0235,tennis,serve,Grand Slam,1,1,0,Alcaraz,Ruud,right,0.55,0.75,0.499,media,center,returned
+TEN_0236,tennis,serve,Grand Slam,5,1,1,Ruud,Rublev,left,0.29,0.57,0.666,media,wide,returned
+TEN_0237,tennis,serve,Masters 1000,5,1,1,Rublev,Zverev,left,0.83,0.64,0.797,alta,wide,returned
+TEN_0238,tennis,serve,Grand Slam,3,0,1,Medvedev,Rublev,left,0.2,0.62,0.682,media,center,returned
+TEN_0239,tennis,serve,Grand Slam,5,1,0,Ruud,Federer,right,0.37,0.66,0.708,alta,center,returned
+TEN_0240,tennis,serve,Grand Slam,3,1,1,Ruud,Tsitsipas,right,0.47,0.82,0.665,media,body,returned
+TEN_0241,tennis,serve,Masters 1000,4,-1,0,Medvedev,Nadal,right,0.35,0.8,0.652,media,body,returned
+TEN_0242,tennis,serve,Grand Slam,3,0,1,Sinner,Djokovic,right,0.41,0.53,0.653,media,body,returned
+TEN_0243,tennis,serve,Grand Slam,2,0,0,Djokovic,Federer,right,0.58,0.87,0.703,alta,center,fault
+TEN_0244,tennis,serve,Grand Slam,0,0,0,Ruud,Federer,right,0.28,0.41,0.47,media,body,fault
+TEN_0245,tennis,serve,ATP 500,1,1,1,Ruud,Sinner,right,0.82,0.59,0.544,media,body,ace
+TEN_0246,tennis,serve,ATP 500,4,0,0,Alcaraz,De Miñaur,right,0.61,0.89,0.822,alta,center,returned
+TEN_0247,tennis,serve,Masters 1000,0,1,1,Tiafoe,Murray,right,0.4,0.6,0.454,media,wide,returned
+TEN_0248,tennis,serve,ATP 500,2,0,0,Alcaraz,Sinner,right,0.38,0.75,0.659,media,center,returned
+TEN_0249,tennis,serve,Grand Slam,1,1,1,Murray,Tsitsipas,right,0.46,0.55,0.473,media,body,fault
+TEN_0250,tennis,serve,Masters 1000,3,1,0,Federer,Fritz,right,0.8,0.9,0.681,media,body,ace
+TEN_0251,tennis,serve,Masters 1000,5,-1,1,Nadal,Nadal,right,0.4,0.85,0.727,alta,wide,fault
+TEN_0252,tennis,serve,Masters 1000,4,1,1,Medvedev,Rune,right,0.39,0.65,0.665,media,center,returned
+TEN_0253,tennis,serve,Grand Slam,1,1,0,Murray,Murray,right,0.53,1.0,0.578,media,wide,returned
+TEN_0254,tennis,serve,Masters 1000,1,1,0,Zverev,Ruud,right,0.67,1.0,0.573,media,body,returned
+TEN_0255,tennis,serve,Grand Slam,4,-1,1,Alcaraz,Ruud,right,0.36,0.97,0.706,alta,center,fault
+TEN_0256,tennis,serve,Masters 1000,4,0,0,Zverev,Nadal,right,0.23,0.71,0.707,alta,center,returned
+TEN_0257,tennis,serve,ATP 500,1,0,0,Djokovic,Zverev,right,0.59,0.98,0.647,media,wide,fault
+TEN_0258,tennis,serve,Masters 1000,1,1,0,Rublev,Murray,right,0.58,0.65,0.522,media,wide,returned
+TEN_0259,tennis,serve,Grand Slam,5,-1,0,Nadal,Rublev,left,0.53,0.87,0.786,alta,wide,returned
+TEN_0260,tennis,serve,Masters 1000,4,0,0,Fritz,Medvedev,right,0.63,0.79,0.816,alta,center,returned
+TEN_0261,tennis,serve,Grand Slam,4,-1,1,Fritz,Djokovic,left,0.89,0.74,0.769,alta,wide,returned
+TEN_0262,tennis,serve,Grand Slam,1,-1,0,Murray,Ruud,left,0.64,0.69,0.522,media,center,returned
+TEN_0263,tennis,serve,ATP 500,0,0,0,Federer,Djokovic,left,0.52,0.96,0.6,media,body,fault
+TEN_0264,tennis,serve,ATP 500,2,1,0,Medvedev,Tsitsipas,right,0.89,0.47,0.604,media,center,returned
+TEN_0265,tennis,serve,Grand Slam,1,1,1,Ruud,Sinner,right,0.16,0.58,0.429,media,wide,ace
+TEN_0266,tennis,serve,Masters 1000,2,0,0,Alcaraz,Nadal,right,0.9,0.9,0.744,alta,wide,returned
+TEN_0267,tennis,serve,ATP 500,1,1,0,Tiafoe,De Miñaur,right,0.9,0.88,0.589,media,wide,fault
+TEN_0268,tennis,serve,ATP 500,5,1,0,Rublev,Ruud,right,0.29,0.51,0.685,media,wide,fault
+TEN_0269,tennis,serve,ATP 500,2,-1,1,Medvedev,Nadal,right,0.41,0.46,0.519,media,wide,returned
+TEN_0270,tennis,serve,ATP 500,1,0,0,Tiafoe,Alcaraz,right,0.57,0.9,0.662,media,wide,returned
+TEN_0271,tennis,serve,Masters 1000,0,1,1,Rublev,Zverev,right,0.46,0.4,0.401,media,wide,returned
+TEN_0272,tennis,serve,Masters 1000,3,0,1,Medvedev,Zverev,right,0.8,0.56,0.785,alta,wide,returned
+TEN_0273,tennis,serve,ATP 500,5,1,1,Tiafoe,Federer,left,0.23,0.67,0.671,media,wide,fault
+TEN_0274,tennis,serve,Grand Slam,2,1,0,Tsitsipas,Sinner,right,0.56,0.43,0.513,media,body,returned
+TEN_0275,tennis,serve,Masters 1000,2,1,1,Tiafoe,Djokovic,right,0.85,0.66,0.592,media,wide,returned
+TEN_0276,tennis,serve,Grand Slam,1,1,1,Murray,Tiafoe,right,0.53,0.47,0.453,media,wide,returned
+TEN_0277,tennis,serve,ATP 500,1,0,1,Rublev,Rublev,right,0.64,0.44,0.547,media,wide,returned
+TEN_0278,tennis,serve,Grand Slam,3,1,1,Alcaraz,Tiafoe,right,0.47,0.49,0.613,media,body,returned
+TEN_0279,tennis,serve,Masters 1000,3,1,1,Nadal,Rune,right,0.23,0.58,0.557,media,center,returned
+TEN_0280,tennis,serve,Grand Slam,1,0,0,Federer,Sinner,right,0.63,0.96,0.659,media,center,returned
+TEN_0281,tennis,serve,Masters 1000,5,0,1,Djokovic,Rune,right,0.3,0.75,0.823,alta,body,ace
+TEN_0282,tennis,serve,Masters 1000,3,0,0,Djokovic,Ruud,right,0.19,0.83,0.717,alta,body,returned
+TEN_0283,tennis,serve,Grand Slam,4,0,0,Tsitsipas,Medvedev,right,0.11,0.84,0.763,alta,wide,returned
+TEN_0284,tennis,serve,Grand Slam,4,-1,0,Djokovic,Tiafoe,left,0.74,0.77,0.756,alta,body,fault
+TEN_0285,tennis,serve,ATP 500,0,1,0,Sinner,Djokovic,right,0.3,0.59,0.428,media,center,returned
+TEN_0286,tennis,serve,ATP 500,1,1,1,Fritz,Medvedev,right,0.6,0.56,0.498,media,body,ace
+TEN_0287,tennis,serve,Grand Slam,1,-1,1,Alcaraz,Rune,right,0.86,0.78,0.585,media,body,ace
+TEN_0288,tennis,serve,Masters 1000,4,0,0,Fritz,Tsitsipas,right,0.65,0.41,0.735,alta,body,returned
+TEN_0289,tennis,serve,Grand Slam,1,1,1,Murray,Murray,right,0.18,0.57,0.436,media,wide,returned
+TEN_0290,tennis,serve,Grand Slam,5,0,0,Nadal,Murray,right,0.67,0.73,0.855,alta,body,returned
+TEN_0291,tennis,serve,Grand Slam,4,0,0,Medvedev,Rublev,right,0.71,0.68,0.81,alta,center,returned
+TEN_0292,tennis,serve,ATP 500,2,-1,0,Fritz,Rublev,right,0.77,0.71,0.642,media,body,returned
+TEN_0293,tennis,serve,Masters 1000,2,-1,0,Zverev,Tiafoe,right,0.77,0.96,0.675,media,wide,returned
+TEN_0294,tennis,serve,Masters 1000,2,0,0,Alcaraz,Zverev,right,0.38,0.53,0.605,media,body,ace
+TEN_0295,tennis,serve,Masters 1000,3,-1,0,Tiafoe,Nadal,right,0.52,0.42,0.56,media,body,returned
+TEN_0296,tennis,serve,ATP 500,3,0,0,Ruud,De Miñaur,right,0.78,0.79,0.781,alta,body,returned
+TEN_0297,tennis,serve,Grand Slam,4,1,1,Alcaraz,Alcaraz,right,0.67,0.55,0.655,media,center,returned
+TEN_0298,tennis,serve,Grand Slam,2,0,0,Djokovic,Fritz,right,0.85,0.96,0.786,alta,center,returned
+TEN_0299,tennis,serve,ATP 500,4,0,1,Rublev,Murray,left,0.47,0.51,0.751,alta,wide,returned
+TEN_0300,tennis,serve,ATP 500,3,1,1,Sinner,De Miñaur,right,0.81,0.87,0.743,alta,wide,ace

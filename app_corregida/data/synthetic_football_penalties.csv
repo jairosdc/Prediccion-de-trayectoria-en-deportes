@@ -1,0 +1,301 @@
+event_id,sport,action_type,competition,match_time,score_difference,is_home_player,player,opponent,dominant_side,fatigue_level,competition_importance,pressure_index,pressure_level,decision_zone,action_result
+FTB_0001,football,penalty,World Cup,45,2,1,Cristiano Ronaldo,Dibu Martínez,right,0.72,0.43,0.511,media,left,goal
+FTB_0002,football,penalty,Champions League,78,2,0,Kane,Maignan,right,0.77,0.98,0.692,media,left,goal
+FTB_0003,football,penalty,Liga,35,0,1,Vinicius Jr.,Alisson,right,0.14,0.58,0.523,media,left,goal
+FTB_0004,football,penalty,Champions League,73,2,1,Modric,Neuer,right,0.11,0.62,0.544,media,left,goal
+FTB_0005,football,penalty,Champions League,73,0,0,Saka,Pickford,right,0.31,0.94,0.699,media,center,goal
+FTB_0006,football,penalty,World Cup,54,-1,1,Benzema,Oblak,right,0.58,0.93,0.666,media,left,goal
+FTB_0007,football,penalty,World Cup,65,-1,1,Mbappé,Dibu Martínez,right,0.59,0.98,0.671,media,left,goal
+FTB_0008,football,penalty,Liga,1,0,0,Cristiano Ronaldo,Oblak,right,0.67,0.44,0.479,media,right,goal
+FTB_0009,football,penalty,World Cup,11,2,0,Son,Neuer,right,0.61,0.81,0.502,media,left,goal
+FTB_0010,football,penalty,Champions League,5,-1,0,Messi,Donnarumma,right,0.19,0.32,0.318,baja,left,goal
+FTB_0011,football,penalty,Champions League,113,0,1,Griezmann,Pickford,right,0.8,0.79,0.892,alta,left,goal
+FTB_0012,football,penalty,Liga,15,-2,1,Cristiano Ronaldo,Maignan,right,0.19,0.52,0.356,media,right,saved
+FTB_0013,football,penalty,World Cup,58,-2,1,Pedri,Pickford,right,0.37,0.38,0.5,media,center,goal
+FTB_0014,football,penalty,Liga,115,-1,0,Mbappé,Courtois,right,0.22,0.8,0.794,alta,right,goal
+FTB_0015,football,penalty,World Cup,29,-1,0,Lewandowski,Dibu Martínez,right,0.46,0.67,0.515,media,left,goal
+FTB_0016,football,penalty,World Cup,56,-1,0,Lautaro Martínez,Donnarumma,right,0.53,0.74,0.586,media,left,goal
+FTB_0017,football,penalty,World Cup,2,0,0,Saka,Neuer,left,0.38,0.87,0.49,media,left,goal
+FTB_0018,football,penalty,Champions League,65,-1,1,Salah,Alisson,right,0.63,0.48,0.606,media,center,goal
+FTB_0019,football,penalty,Liga,106,-2,0,Cristiano Ronaldo,Donnarumma,left,0.66,0.5,0.68,media,center,saved
+FTB_0020,football,penalty,Champions League,108,1,1,Vinicius Jr.,Maignan,left,0.4,0.71,0.78,alta,left,goal
+FTB_0021,football,penalty,World Cup,21,1,1,Kane,Ter Stegen,right,0.36,0.47,0.45,media,right,goal
+FTB_0022,football,penalty,World Cup,76,2,0,Bruno Fernandes,Ter Stegen,right,0.82,0.64,0.639,media,right,goal
+FTB_0023,football,penalty,World Cup,69,-2,1,Pedri,Alisson,right,0.9,0.33,0.571,media,right,goal
+FTB_0024,football,penalty,World Cup,69,1,1,Vinicius Jr.,Dibu Martínez,left,0.34,0.9,0.633,media,left,goal
+FTB_0025,football,penalty,World Cup,8,-1,0,Griezmann,Ederson,right,0.89,0.73,0.521,media,right,goal
+FTB_0026,football,penalty,World Cup,43,2,1,Mbappé,Dibu Martínez,right,0.44,0.51,0.463,media,left,goal
+FTB_0027,football,penalty,Champions League,84,1,0,Pedri,Donnarumma,right,0.12,0.92,0.654,media,right,goal
+FTB_0028,football,penalty,World Cup,5,0,1,Lautaro Martínez,Ter Stegen,right,0.52,0.39,0.456,media,right,goal
+FTB_0029,football,penalty,Champions League,76,1,0,Salah,Pickford,right,0.88,0.39,0.649,media,left,goal
+FTB_0030,football,penalty,World Cup,116,-2,1,Benzema,Alisson,right,0.15,0.78,0.688,media,left,goal
+FTB_0031,football,penalty,World Cup,77,2,1,Son,Alisson,right,0.54,0.82,0.642,media,left,goal
+FTB_0032,football,penalty,World Cup,11,1,0,De Bruyne,Ederson,right,0.11,0.42,0.381,media,left,goal
+FTB_0033,football,penalty,Liga,76,-1,1,Pedri,Donnarumma,right,0.11,0.48,0.563,media,center,goal
+FTB_0034,football,penalty,Champions League,69,-1,0,Kane,Oblak,right,0.2,0.7,0.596,media,right,saved
+FTB_0035,football,penalty,World Cup,5,-1,0,Bellingham,Pickford,right,0.16,0.78,0.419,media,left,saved
+FTB_0036,football,penalty,Liga,84,2,0,Vinicius Jr.,Donnarumma,left,0.13,0.96,0.616,media,center,goal
+FTB_0037,football,penalty,World Cup,45,2,1,Benzema,Ter Stegen,right,0.64,0.47,0.514,media,left,goal
+FTB_0038,football,penalty,Champions League,47,1,0,Bruno Fernandes,Alisson,left,0.78,0.97,0.658,media,right,goal
+FTB_0039,football,penalty,Champions League,11,1,1,Messi,Pickford,right,0.64,0.53,0.479,media,right,goal
+FTB_0040,football,penalty,Liga,53,2,1,Benzema,Dibu Martínez,right,0.19,0.55,0.453,media,right,goal
+FTB_0041,football,penalty,Champions League,9,-1,1,Pedri,Neuer,right,0.22,0.92,0.477,media,center,saved
+FTB_0042,football,penalty,Liga,118,1,0,Vinicius Jr.,Oblak,right,0.67,0.55,0.791,alta,right,goal
+FTB_0043,football,penalty,World Cup,56,-1,0,Pedri,Maignan,right,0.71,0.82,0.665,media,right,goal
+FTB_0044,football,penalty,Liga,104,2,1,Salah,Donnarumma,right,0.11,0.97,0.695,media,right,goal
+FTB_0045,football,penalty,Liga,66,1,1,Griezmann,Pickford,right,0.23,0.35,0.495,media,right,goal
+FTB_0046,football,penalty,World Cup,114,1,0,Bellingham,Ederson,right,0.37,0.37,0.686,media,left,goal
+FTB_0047,football,penalty,Champions League,4,-2,0,Salah,Maignan,right,0.75,0.52,0.435,media,right,saved
+FTB_0048,football,penalty,Liga,50,-1,0,Pedri,Courtois,right,0.23,0.69,0.531,media,center,missed
+FTB_0049,football,penalty,Liga,56,0,0,Salah,Alisson,right,0.11,0.39,0.49,media,center,goal
+FTB_0050,football,penalty,World Cup,113,-1,0,Cristiano Ronaldo,Oblak,right,0.29,0.56,0.713,alta,left,goal
+FTB_0051,football,penalty,Champions League,43,-1,1,Pedri,Neuer,right,0.48,0.65,0.563,media,right,missed
+FTB_0052,football,penalty,Champions League,91,2,1,Modric,Ter Stegen,right,0.74,0.75,0.708,alta,right,goal
+FTB_0053,football,penalty,World Cup,108,1,1,De Bruyne,Dibu Martínez,right,0.46,0.68,0.785,alta,center,goal
+FTB_0054,football,penalty,Liga,101,-2,0,Modric,Maignan,right,0.47,0.48,0.643,media,left,goal
+FTB_0055,football,penalty,World Cup,55,0,1,Saka,Pickford,right,0.61,0.4,0.568,media,right,goal
+FTB_0056,football,penalty,Champions League,27,2,1,Haaland,Courtois,right,0.32,0.42,0.383,media,left,goal
+FTB_0057,football,penalty,World Cup,60,2,0,Bellingham,Courtois,right,0.17,0.53,0.481,media,center,goal
+FTB_0058,football,penalty,Champions League,10,0,0,Son,Dibu Martínez,right,0.27,0.43,0.42,media,right,goal
+FTB_0059,football,penalty,Liga,16,0,1,Salah,Pickford,right,0.51,0.93,0.578,media,left,goal
+FTB_0060,football,penalty,Liga,68,-2,0,Benzema,Oblak,left,0.36,0.45,0.494,media,right,goal
+FTB_0061,football,penalty,Champions League,10,-1,0,Benzema,Ederson,right,0.57,0.69,0.49,media,left,saved
+FTB_0062,football,penalty,Champions League,73,-2,0,Neymar,Neuer,right,0.28,0.31,0.478,media,right,goal
+FTB_0063,football,penalty,World Cup,6,2,1,Lewandowski,Ter Stegen,left,0.19,0.99,0.436,media,right,saved
+FTB_0064,football,penalty,Liga,99,-1,1,Mbappé,Donnarumma,right,0.56,0.69,0.744,alta,left,goal
+FTB_0065,football,penalty,World Cup,29,-2,1,Saka,Dibu Martínez,right,0.33,0.73,0.472,media,center,goal
+FTB_0066,football,penalty,Liga,16,-1,0,Lewandowski,Neuer,right,0.36,0.99,0.546,media,right,saved
+FTB_0067,football,penalty,Liga,95,-2,0,Mbappé,Dibu Martínez,left,0.7,0.9,0.717,alta,right,goal
+FTB_0068,football,penalty,World Cup,87,1,0,Son,Pickford,right,0.21,0.89,0.678,media,left,goal
+FTB_0069,football,penalty,Champions League,109,-2,0,Modric,Courtois,right,0.41,0.91,0.733,alta,center,goal
+FTB_0070,football,penalty,Liga,28,-2,0,Rashford,Dibu Martínez,right,0.53,0.57,0.442,media,center,goal
+FTB_0071,football,penalty,World Cup,83,1,0,Salah,Neuer,left,0.6,0.86,0.708,alta,right,goal
+FTB_0072,football,penalty,World Cup,17,1,1,Lautaro Martínez,Dibu Martínez,right,0.71,0.7,0.546,media,right,goal
+FTB_0073,football,penalty,Champions League,60,2,0,Salah,Donnarumma,right,0.43,0.64,0.556,media,center,goal
+FTB_0074,football,penalty,Champions League,22,-1,1,Mbappé,Dibu Martínez,right,0.28,0.54,0.438,media,right,saved
+FTB_0075,football,penalty,Liga,105,1,1,Neymar,Ederson,right,0.84,0.37,0.763,alta,center,saved
+FTB_0076,football,penalty,World Cup,9,-2,0,Rashford,Dibu Martínez,left,0.46,0.95,0.463,media,right,goal
+FTB_0077,football,penalty,Champions League,73,-2,0,Lewandowski,Oblak,right,0.26,0.82,0.601,media,left,goal
+FTB_0078,football,penalty,Liga,56,0,1,Lewandowski,Alisson,right,0.46,0.82,0.633,media,left,goal
+FTB_0079,football,penalty,World Cup,110,-2,0,Lautaro Martínez,Ederson,right,0.32,0.85,0.678,media,center,missed
+FTB_0080,football,penalty,Champions League,103,2,1,Pedri,Dibu Martínez,right,0.34,0.43,0.585,media,left,saved
+FTB_0081,football,penalty,Liga,70,-2,1,Mbappé,Dibu Martínez,right,0.46,0.84,0.615,media,left,goal
+FTB_0082,football,penalty,Champions League,103,0,0,Cristiano Ronaldo,Courtois,right,0.32,0.56,0.75,alta,left,goal
+FTB_0083,football,penalty,World Cup,66,0,1,Modric,Dibu Martínez,right,0.64,0.46,0.604,media,right,goal
+FTB_0084,football,penalty,Champions League,12,0,0,Mbappé,Neuer,right,0.86,0.97,0.61,media,left,goal
+FTB_0085,football,penalty,Liga,102,2,1,Vinicius Jr.,Neuer,left,0.61,0.91,0.739,alta,center,goal
+FTB_0086,football,penalty,Champions League,4,1,1,Pedri,Pickford,right,0.43,0.74,0.462,media,left,missed
+FTB_0087,football,penalty,World Cup,68,0,0,Messi,Maignan,right,0.74,0.93,0.737,alta,left,goal
+FTB_0088,football,penalty,World Cup,17,0,1,Bellingham,Maignan,right,0.21,0.6,0.487,media,right,saved
+FTB_0089,football,penalty,Liga,33,-2,1,Cristiano Ronaldo,Oblak,right,0.5,0.58,0.485,media,left,goal
+FTB_0090,football,penalty,Champions League,72,-2,1,Griezmann,Courtois,right,0.56,0.65,0.61,media,right,goal
+FTB_0091,football,penalty,Liga,10,1,1,Haaland,Neuer,right,0.15,0.84,0.47,media,right,goal
+FTB_0092,football,penalty,Liga,80,2,0,Griezmann,Oblak,right,0.32,0.64,0.576,media,right,saved
+FTB_0093,football,penalty,Liga,75,-1,0,Vinicius Jr.,Oblak,right,0.16,0.37,0.535,media,right,goal
+FTB_0094,football,penalty,World Cup,96,1,1,Pedri,Dibu Martínez,right,0.1,0.98,0.669,media,right,missed
+FTB_0095,football,penalty,Liga,91,2,1,Neymar,Pickford,left,0.68,0.83,0.703,alta,right,goal
+FTB_0096,football,penalty,Liga,5,-1,0,Rashford,Dibu Martínez,right,0.9,0.71,0.529,media,left,goal
+FTB_0097,football,penalty,Liga,117,2,1,Vinicius Jr.,Oblak,right,0.79,0.63,0.753,alta,right,goal
+FTB_0098,football,penalty,World Cup,106,0,0,Saka,Courtois,right,0.68,0.54,0.778,alta,center,saved
+FTB_0099,football,penalty,Champions League,106,-1,1,Vinicius Jr.,Neuer,left,0.43,0.91,0.799,alta,left,goal
+FTB_0100,football,penalty,Champions League,1,2,1,Messi,Donnarumma,right,0.42,0.84,0.432,media,right,missed
+FTB_0101,football,penalty,World Cup,89,-2,0,Son,Maignan,right,0.38,0.38,0.544,media,left,goal
+FTB_0102,football,penalty,Liga,13,-2,1,Griezmann,Oblak,right,0.27,0.78,0.452,media,left,goal
+FTB_0103,football,penalty,Liga,20,1,1,Neymar,Courtois,right,0.42,0.35,0.437,media,right,goal
+FTB_0104,football,penalty,Champions League,115,2,0,Saka,Oblak,left,0.88,0.34,0.706,alta,right,goal
+FTB_0105,football,penalty,Champions League,84,0,0,Neymar,Dibu Martínez,right,0.28,0.87,0.686,media,center,goal
+FTB_0106,football,penalty,Liga,32,1,0,Haaland,Dibu Martínez,right,0.14,0.63,0.482,media,left,missed
+FTB_0107,football,penalty,World Cup,30,0,1,Cristiano Ronaldo,Ter Stegen,right,0.5,0.81,0.566,media,right,goal
+FTB_0108,football,penalty,Liga,99,-1,0,Bruno Fernandes,Maignan,right,0.79,0.68,0.801,alta,right,goal
+FTB_0109,football,penalty,Champions League,40,2,0,Rashford,Neuer,right,0.64,0.79,0.56,media,left,saved
+FTB_0110,football,penalty,Champions League,1,0,1,Benzema,Courtois,right,0.83,0.46,0.468,media,right,goal
+FTB_0111,football,penalty,Champions League,67,-1,0,Modric,Alisson,right,0.53,0.74,0.648,media,right,goal
+FTB_0112,football,penalty,Champions League,12,1,0,Saka,Oblak,right,0.72,0.42,0.482,media,right,goal
+FTB_0113,football,penalty,Liga,119,2,0,Rashford,Pickford,right,0.62,0.61,0.717,alta,left,saved
+FTB_0114,football,penalty,World Cup,0,-1,0,Lautaro Martínez,Oblak,right,0.9,0.49,0.467,media,left,saved
+FTB_0115,football,penalty,World Cup,93,1,0,Lautaro Martínez,Ederson,right,0.32,0.76,0.691,media,left,missed
+FTB_0116,football,penalty,World Cup,91,2,1,Kane,Oblak,right,0.43,0.99,0.71,alta,left,goal
+FTB_0117,football,penalty,Liga,104,0,0,Kane,Alisson,right,0.25,0.98,0.836,alta,right,saved
+FTB_0118,football,penalty,World Cup,109,-1,1,Bruno Fernandes,Maignan,right,0.74,0.73,0.817,alta,left,goal
+FTB_0119,football,penalty,Champions League,19,2,1,Modric,Ederson,right,0.74,0.49,0.447,media,left,goal
+FTB_0120,football,penalty,World Cup,35,2,1,Modric,Ederson,right,0.86,0.83,0.603,media,right,goal
+FTB_0121,football,penalty,Champions League,74,1,0,Benzema,Donnarumma,right,0.72,0.54,0.662,media,center,saved
+FTB_0122,football,penalty,Liga,43,-1,0,Vinicius Jr.,Ederson,right,0.26,0.98,0.59,media,left,goal
+FTB_0123,football,penalty,Champions League,71,-2,0,Messi,Donnarumma,left,0.53,0.34,0.536,media,right,saved
+FTB_0124,football,penalty,Liga,66,-1,1,Benzema,Maignan,right,0.48,0.85,0.623,media,left,goal
+FTB_0125,football,penalty,Champions League,105,-1,1,Saka,Ter Stegen,left,0.48,0.53,0.739,alta,center,goal
+FTB_0126,football,penalty,Liga,27,-2,1,Pedri,Alisson,right,0.17,0.65,0.418,media,left,goal
+FTB_0127,football,penalty,Liga,87,2,1,Neymar,Donnarumma,right,0.6,0.89,0.699,media,center,goal
+FTB_0128,football,penalty,Champions League,4,-1,0,Kane,Ter Stegen,right,0.8,0.64,0.514,media,left,goal
+FTB_0129,football,penalty,Champions League,75,2,1,Salah,Alisson,left,0.21,0.81,0.591,media,left,goal
+FTB_0130,football,penalty,Champions League,8,-2,0,Haaland,Ter Stegen,right,0.8,0.47,0.432,media,left,goal
+FTB_0131,football,penalty,Champions League,79,-2,1,De Bruyne,Pickford,right,0.2,0.84,0.62,media,left,goal
+FTB_0132,football,penalty,World Cup,80,-2,0,Salah,Alisson,right,0.3,0.6,0.572,media,left,goal
+FTB_0133,football,penalty,Champions League,64,-2,1,Haaland,Maignan,left,0.74,0.89,0.654,media,left,goal
+FTB_0134,football,penalty,Liga,64,1,1,Kane,Pickford,right,0.61,0.34,0.542,media,left,goal
+FTB_0135,football,penalty,Liga,48,-1,0,Saka,Neuer,right,0.1,0.98,0.59,media,right,goal
+FTB_0136,football,penalty,World Cup,80,1,0,Cristiano Ronaldo,Ederson,left,0.21,0.39,0.528,media,right,goal
+FTB_0137,football,penalty,Liga,104,-1,1,Pedri,Dibu Martínez,right,0.88,0.76,0.827,alta,left,saved
+FTB_0138,football,penalty,Champions League,95,1,1,Lewandowski,Maignan,right,0.27,0.77,0.68,media,right,goal
+FTB_0139,football,penalty,Champions League,104,-2,1,Lewandowski,Ter Stegen,right,0.73,0.91,0.754,alta,right,goal
+FTB_0140,football,penalty,World Cup,97,-1,0,Mbappé,Pickford,right,0.35,0.91,0.784,alta,left,goal
+FTB_0141,football,penalty,Liga,48,2,0,Cristiano Ronaldo,Pickford,right,0.54,0.57,0.518,media,left,goal
+FTB_0142,football,penalty,World Cup,91,-2,1,Bruno Fernandes,Alisson,right,0.79,0.57,0.661,media,left,goal
+FTB_0143,football,penalty,Liga,30,1,0,Bruno Fernandes,Alisson,right,0.71,0.73,0.579,media,right,goal
+FTB_0144,football,penalty,World Cup,108,-2,1,Son,Ter Stegen,right,0.4,0.76,0.667,media,left,goal
+FTB_0145,football,penalty,Liga,70,-1,1,De Bruyne,Neuer,right,0.67,0.73,0.647,media,left,goal
+FTB_0146,football,penalty,World Cup,63,-2,1,Modric,Neuer,right,0.31,0.7,0.566,media,right,goal
+FTB_0147,football,penalty,World Cup,77,2,1,Salah,Donnarumma,right,0.28,0.92,0.603,media,left,saved
+FTB_0148,football,penalty,World Cup,33,0,0,Pedri,Ter Stegen,right,0.64,0.9,0.648,media,left,goal
+FTB_0149,football,penalty,Champions League,104,-2,0,Son,Maignan,right,0.18,0.45,0.554,media,right,goal
+FTB_0150,football,penalty,Liga,60,-1,0,Son,Ter Stegen,right,0.58,0.49,0.58,media,left,goal
+FTB_0151,football,penalty,World Cup,72,-1,0,Lewandowski,Maignan,right,0.72,0.93,0.701,alta,center,goal
+FTB_0152,football,penalty,Champions League,74,2,0,Kane,Pickford,right,0.15,0.66,0.556,media,center,saved
+FTB_0153,football,penalty,Champions League,40,-1,1,Salah,Maignan,right,0.63,1.0,0.634,media,center,goal
+FTB_0154,football,penalty,Champions League,20,-1,0,Rashford,Dibu Martínez,right,0.46,0.37,0.444,media,right,saved
+FTB_0155,football,penalty,Liga,2,1,1,Mbappé,Alisson,right,0.53,0.95,0.53,media,right,goal
+FTB_0156,football,penalty,Liga,99,1,0,Neymar,Courtois,right,0.13,0.8,0.704,alta,left,goal
+FTB_0157,football,penalty,World Cup,37,1,1,De Bruyne,Courtois,right,0.85,0.5,0.575,media,right,goal
+FTB_0158,football,penalty,Champions League,14,-1,0,Modric,Alisson,right,0.64,0.74,0.518,media,left,goal
+FTB_0159,football,penalty,Champions League,3,0,0,Bellingham,Courtois,right,0.38,0.79,0.519,media,right,goal
+FTB_0160,football,penalty,World Cup,73,2,0,Bellingham,Donnarumma,right,0.86,0.52,0.632,media,left,goal
+FTB_0161,football,penalty,World Cup,53,1,0,Haaland,Pickford,right,0.1,0.9,0.539,media,left,goal
+FTB_0162,football,penalty,Champions League,25,0,1,Rashford,Neuer,right,0.6,0.83,0.583,media,left,goal
+FTB_0163,football,penalty,Champions League,83,1,0,Saka,Alisson,right,0.61,0.73,0.669,media,left,goal
+FTB_0164,football,penalty,Liga,106,2,1,Lewandowski,Alisson,right,0.52,0.55,0.653,media,left,missed
+FTB_0165,football,penalty,World Cup,91,-1,0,Bellingham,Courtois,right,0.6,0.43,0.633,media,right,goal
+FTB_0166,football,penalty,Champions League,13,1,1,Vinicius Jr.,Maignan,right,0.5,0.75,0.484,media,left,saved
+FTB_0167,football,penalty,World Cup,74,2,1,Bruno Fernandes,Courtois,left,0.73,0.62,0.637,media,right,goal
+FTB_0168,football,penalty,World Cup,101,-1,0,Pedri,Neuer,right,0.72,0.48,0.76,alta,center,goal
+FTB_0169,football,penalty,World Cup,62,0,0,Rashford,Dibu Martínez,right,0.89,0.37,0.636,media,left,goal
+FTB_0170,football,penalty,Liga,13,-2,0,Rashford,Pickford,right,0.69,0.97,0.522,media,left,saved
+FTB_0171,football,penalty,Champions League,12,-1,0,Saka,Ter Stegen,right,0.17,0.31,0.378,media,right,goal
+FTB_0172,football,penalty,Liga,15,1,1,Haaland,Ederson,right,0.62,0.84,0.536,media,right,saved
+FTB_0173,football,penalty,Champions League,58,1,1,Saka,Ederson,right,0.13,0.41,0.466,media,left,goal
+FTB_0174,football,penalty,Liga,33,1,0,Pedri,Maignan,right,0.26,0.39,0.455,media,left,saved
+FTB_0175,football,penalty,Liga,65,2,1,Griezmann,Maignan,right,0.47,0.83,0.616,media,right,goal
+FTB_0176,football,penalty,Liga,112,2,1,Kane,Ederson,right,0.19,0.81,0.68,media,right,goal
+FTB_0177,football,penalty,World Cup,65,2,1,Salah,Dibu Martínez,right,0.59,0.82,0.595,media,left,goal
+FTB_0178,football,penalty,World Cup,55,-2,1,Son,Neuer,right,0.81,0.82,0.612,media,right,goal
+FTB_0179,football,penalty,World Cup,74,-1,1,Son,Maignan,right,0.73,0.55,0.644,media,right,goal
+FTB_0180,football,penalty,Liga,115,-2,0,Bellingham,Donnarumma,right,0.71,0.77,0.765,alta,center,goal
+FTB_0181,football,penalty,World Cup,94,0,0,Lautaro Martínez,Courtois,right,0.63,0.4,0.658,media,left,goal
+FTB_0182,football,penalty,Champions League,71,1,1,Saka,Ter Stegen,right,0.68,0.66,0.627,media,right,goal
+FTB_0183,football,penalty,World Cup,32,1,0,Bellingham,Ter Stegen,right,0.61,0.53,0.497,media,right,missed
+FTB_0184,football,penalty,Liga,53,1,0,Benzema,Courtois,right,0.69,0.39,0.537,media,left,saved
+FTB_0185,football,penalty,Champions League,51,1,1,Salah,Maignan,left,0.24,0.65,0.539,media,right,goal
+FTB_0186,football,penalty,World Cup,68,-1,0,Rashford,Pickford,right,0.12,0.53,0.508,media,left,goal
+FTB_0187,football,penalty,Champions League,102,-1,1,Bellingham,Neuer,right,0.77,0.91,0.826,alta,center,goal
+FTB_0188,football,penalty,Liga,108,0,1,Bellingham,Alisson,right,0.68,0.61,0.833,alta,center,goal
+FTB_0189,football,penalty,Champions League,8,1,0,De Bruyne,Maignan,right,0.13,0.33,0.333,baja,right,missed
+FTB_0190,football,penalty,Champions League,93,1,0,Messi,Ederson,right,0.78,0.41,0.647,media,center,goal
+FTB_0191,football,penalty,Champions League,108,-1,0,Salah,Pickford,left,0.54,0.81,0.782,alta,center,saved
+FTB_0192,football,penalty,World Cup,118,2,0,Neymar,Courtois,right,0.26,0.76,0.687,media,right,goal
+FTB_0193,football,penalty,Champions League,18,1,0,Neymar,Neuer,right,0.17,0.59,0.436,media,right,goal
+FTB_0194,football,penalty,World Cup,85,-2,1,De Bruyne,Oblak,right,0.28,0.73,0.618,media,left,goal
+FTB_0195,football,penalty,Liga,103,0,0,Pedri,Neuer,right,0.54,0.76,0.793,alta,right,goal
+FTB_0196,football,penalty,Champions League,105,-1,0,Neymar,Dibu Martínez,right,0.71,0.53,0.762,alta,right,saved
+FTB_0197,football,penalty,Liga,118,-1,1,Messi,Donnarumma,right,0.54,0.69,0.782,alta,left,goal
+FTB_0198,football,penalty,World Cup,54,0,1,Salah,Alisson,right,0.72,0.57,0.655,media,center,goal
+FTB_0199,football,penalty,Liga,37,-2,1,Vinicius Jr.,Ter Stegen,right,0.83,0.58,0.536,media,right,saved
+FTB_0200,football,penalty,Liga,108,0,0,Bellingham,Ederson,right,0.21,0.99,0.809,alta,right,goal
+FTB_0201,football,penalty,World Cup,116,0,1,Benzema,Oblak,left,0.74,0.92,0.911,alta,center,missed
+FTB_0202,football,penalty,Champions League,20,-1,1,Salah,Ter Stegen,right,0.23,0.6,0.417,media,center,goal
+FTB_0203,football,penalty,World Cup,22,2,0,Haaland,Ederson,right,0.83,0.51,0.463,media,right,saved
+FTB_0204,football,penalty,Champions League,99,1,0,Rashford,Oblak,right,0.3,0.67,0.695,media,right,goal
+FTB_0205,football,penalty,World Cup,90,-2,1,Bruno Fernandes,Oblak,right,0.56,0.6,0.642,media,right,goal
+FTB_0206,football,penalty,Liga,39,1,1,Modric,Ederson,left,0.23,0.78,0.533,media,left,goal
+FTB_0207,football,penalty,Liga,43,2,1,Benzema,Oblak,left,0.34,0.32,0.432,media,right,saved
+FTB_0208,football,penalty,Champions League,78,0,0,Rashford,Donnarumma,right,0.24,0.3,0.56,media,left,goal
+FTB_0209,football,penalty,World Cup,2,-1,0,Son,Maignan,left,0.2,0.98,0.479,media,right,goal
+FTB_0210,football,penalty,Champions League,37,-2,0,Mbappé,Dibu Martínez,right,0.8,0.5,0.491,media,center,goal
+FTB_0211,football,penalty,Champions League,34,0,0,Son,Ederson,right,0.28,0.35,0.484,media,left,saved
+FTB_0212,football,penalty,World Cup,107,2,0,Bruno Fernandes,Donnarumma,right,0.33,0.89,0.691,media,right,goal
+FTB_0213,football,penalty,World Cup,26,1,1,Benzema,Neuer,right,0.18,0.38,0.426,media,right,saved
+FTB_0214,football,penalty,World Cup,52,1,0,Lewandowski,Donnarumma,right,0.47,0.94,0.607,media,left,goal
+FTB_0215,football,penalty,Champions League,95,0,1,Haaland,Neuer,right,0.51,0.47,0.662,media,center,goal
+FTB_0216,football,penalty,World Cup,118,-2,0,Benzema,Courtois,left,0.13,0.3,0.581,media,left,goal
+FTB_0217,football,penalty,Liga,75,0,1,Mbappé,Pickford,right,0.48,0.61,0.661,media,right,goal
+FTB_0218,football,penalty,World Cup,56,2,0,Rashford,Neuer,left,0.51,0.7,0.545,media,left,goal
+FTB_0219,football,penalty,Liga,69,2,1,Cristiano Ronaldo,Dibu Martínez,left,0.14,0.77,0.545,media,left,goal
+FTB_0220,football,penalty,Liga,81,2,1,Benzema,Neuer,left,0.35,0.73,0.615,media,right,goal
+FTB_0221,football,penalty,World Cup,5,1,0,Kane,Pickford,right,0.19,0.78,0.429,media,left,goal
+FTB_0222,football,penalty,Champions League,39,-2,0,Neymar,Maignan,right,0.63,0.96,0.592,media,center,goal
+FTB_0223,football,penalty,World Cup,19,0,0,Kane,Ter Stegen,right,0.2,0.81,0.532,media,center,goal
+FTB_0224,football,penalty,Champions League,54,2,1,Griezmann,Oblak,right,0.83,0.58,0.59,media,center,saved
+FTB_0225,football,penalty,Liga,48,2,0,Cristiano Ronaldo,Pickford,right,0.35,0.49,0.486,media,right,saved
+FTB_0226,football,penalty,World Cup,44,1,0,Modric,Donnarumma,right,0.52,0.58,0.542,media,right,goal
+FTB_0227,football,penalty,Champions League,41,-1,1,Salah,Dibu Martínez,right,0.61,0.75,0.573,media,left,goal
+FTB_0228,football,penalty,Liga,44,1,0,Griezmann,Donnarumma,right,0.55,0.71,0.551,media,right,goal
+FTB_0229,football,penalty,World Cup,12,0,1,Salah,Pickford,right,0.23,0.57,0.429,media,center,goal
+FTB_0230,football,penalty,World Cup,45,0,0,Bruno Fernandes,Ederson,left,0.58,0.92,0.676,media,left,missed
+FTB_0231,football,penalty,Champions League,65,2,1,Benzema,Ter Stegen,right,0.53,0.63,0.552,media,right,goal
+FTB_0232,football,penalty,World Cup,21,2,0,Benzema,Oblak,right,0.32,0.54,0.432,media,left,goal
+FTB_0233,football,penalty,Liga,59,0,0,Cristiano Ronaldo,Alisson,right,0.69,0.85,0.684,media,right,goal
+FTB_0234,football,penalty,Champions League,57,1,0,Griezmann,Neuer,right,0.21,0.93,0.603,media,left,goal
+FTB_0235,football,penalty,Champions League,15,-2,0,Bellingham,Ederson,left,0.47,0.78,0.44,media,right,goal
+FTB_0236,football,penalty,Liga,63,0,0,Modric,Donnarumma,left,0.49,0.66,0.641,media,right,goal
+FTB_0237,football,penalty,Liga,97,0,0,Lewandowski,Ter Stegen,right,0.19,0.44,0.701,alta,right,saved
+FTB_0238,football,penalty,Liga,54,2,1,De Bruyne,Pickford,right,0.28,0.98,0.584,media,right,goal
+FTB_0239,football,penalty,Liga,76,2,1,Cristiano Ronaldo,Pickford,right,0.74,0.55,0.6,media,right,goal
+FTB_0240,football,penalty,World Cup,99,0,0,Mbappé,Donnarumma,right,0.77,0.82,0.864,alta,right,saved
+FTB_0241,football,penalty,Champions League,84,-2,1,Benzema,Oblak,right,0.32,0.81,0.629,media,left,goal
+FTB_0242,football,penalty,Champions League,1,0,1,Benzema,Dibu Martínez,right,0.34,0.67,0.44,media,right,goal
+FTB_0243,football,penalty,Liga,35,1,0,Messi,Courtois,right,0.42,0.9,0.56,media,left,goal
+FTB_0244,football,penalty,Champions League,66,2,1,De Bruyne,Donnarumma,right,0.27,0.32,0.466,media,left,goal
+FTB_0245,football,penalty,Champions League,75,1,0,Bellingham,Neuer,right,0.52,0.75,0.65,media,left,goal
+FTB_0246,football,penalty,Liga,86,1,0,Pedri,Pickford,right,0.33,0.65,0.614,media,left,goal
+FTB_0247,football,penalty,World Cup,94,-1,1,Griezmann,Maignan,right,0.67,0.49,0.649,media,left,goal
+FTB_0248,football,penalty,Champions League,43,0,1,Kane,Ter Stegen,left,0.79,0.7,0.645,media,right,goal
+FTB_0249,football,penalty,World Cup,11,-1,0,Griezmann,Alisson,right,0.55,0.33,0.434,media,right,goal
+FTB_0250,football,penalty,World Cup,116,1,1,Pedri,Alisson,right,0.64,0.39,0.774,alta,center,goal
+FTB_0251,football,penalty,Liga,60,1,0,Benzema,Oblak,right,0.48,0.91,0.621,media,right,goal
+FTB_0252,football,penalty,World Cup,66,1,0,Benzema,Oblak,right,0.27,0.9,0.63,media,right,goal
+FTB_0253,football,penalty,World Cup,47,1,1,Griezmann,Ter Stegen,right,0.35,0.82,0.579,media,right,goal
+FTB_0254,football,penalty,Champions League,80,-2,1,Pedri,Donnarumma,right,0.51,0.38,0.541,media,left,goal
+FTB_0255,football,penalty,Champions League,114,0,1,Lewandowski,Courtois,right,0.42,0.65,0.804,alta,left,goal
+FTB_0256,football,penalty,Liga,37,1,1,Neymar,Oblak,left,0.28,0.49,0.451,media,right,goal
+FTB_0257,football,penalty,World Cup,22,2,1,Benzema,Neuer,right,0.69,0.54,0.452,media,center,goal
+FTB_0258,football,penalty,Liga,106,0,0,Neymar,Oblak,right,0.82,0.32,0.789,alta,center,goal
+FTB_0259,football,penalty,Champions League,72,2,0,Modric,Ederson,left,0.48,0.82,0.595,media,right,saved
+FTB_0260,football,penalty,World Cup,44,0,0,Cristiano Ronaldo,Dibu Martínez,right,0.6,0.81,0.655,media,left,goal
+FTB_0261,football,penalty,Liga,109,1,0,Son,Oblak,right,0.75,0.75,0.844,alta,right,goal
+FTB_0262,football,penalty,Liga,83,-1,1,Son,Alisson,right,0.6,0.31,0.594,media,right,goal
+FTB_0263,football,penalty,World Cup,75,-1,0,Kane,Courtois,right,0.24,0.68,0.595,media,right,goal
+FTB_0264,football,penalty,Liga,16,0,1,Kane,Alisson,left,0.78,0.86,0.592,media,left,missed
+FTB_0265,football,penalty,World Cup,52,0,1,Pedri,Alisson,right,0.27,0.42,0.507,media,right,goal
+FTB_0266,football,penalty,Liga,114,-1,0,Lautaro Martínez,Dibu Martínez,right,0.23,0.83,0.773,alta,left,goal
+FTB_0267,football,penalty,Liga,92,2,0,De Bruyne,Dibu Martínez,right,0.11,0.65,0.551,media,right,goal
+FTB_0268,football,penalty,Champions League,102,0,1,Haaland,Ter Stegen,left,0.3,0.48,0.715,alta,left,saved
+FTB_0269,football,penalty,Liga,59,-2,1,Son,Courtois,right,0.4,0.83,0.569,media,right,missed
+FTB_0270,football,penalty,Liga,95,1,1,Griezmann,Maignan,right,0.56,0.57,0.667,media,right,saved
+FTB_0271,football,penalty,Liga,5,-1,0,Vinicius Jr.,Pickford,right,0.22,0.97,0.485,media,left,goal
+FTB_0272,football,penalty,Champions League,101,2,1,Modric,Oblak,left,0.82,0.55,0.706,alta,center,saved
+FTB_0273,football,penalty,Champions League,25,2,0,Vinicius Jr.,Alisson,right,0.34,0.48,0.412,media,right,goal
+FTB_0274,football,penalty,World Cup,55,0,0,Lautaro Martínez,Neuer,right,0.37,0.89,0.655,media,right,goal
+FTB_0275,football,penalty,Liga,112,2,0,Lewandowski,Alisson,right,0.1,0.84,0.657,media,left,missed
+FTB_0276,football,penalty,World Cup,36,0,0,Benzema,Neuer,right,0.14,0.92,0.556,media,right,goal
+FTB_0277,football,penalty,Liga,73,2,1,Cristiano Ronaldo,Courtois,right,0.75,0.8,0.64,media,right,saved
+FTB_0278,football,penalty,World Cup,46,-1,0,Bellingham,Donnarumma,right,0.23,0.8,0.56,media,right,goal
+FTB_0279,football,penalty,Champions League,76,0,1,Modric,Neuer,right,0.18,0.83,0.659,media,left,missed
+FTB_0280,football,penalty,World Cup,55,-2,0,Lewandowski,Ederson,right,0.2,0.39,0.463,media,left,goal
+FTB_0281,football,penalty,Liga,80,2,1,Modric,Donnarumma,right,0.66,0.9,0.69,media,right,goal
+FTB_0282,football,penalty,World Cup,94,1,0,Bellingham,Dibu Martínez,right,0.12,0.57,0.622,media,right,missed
+FTB_0283,football,penalty,World Cup,85,0,1,Vinicius Jr.,Ter Stegen,right,0.53,0.79,0.726,alta,left,goal
+FTB_0284,football,penalty,World Cup,48,0,0,Cristiano Ronaldo,Neuer,right,0.75,0.92,0.698,media,left,saved
+FTB_0285,football,penalty,Champions League,38,0,0,Griezmann,Alisson,right,0.89,0.9,0.687,media,left,goal
+FTB_0286,football,penalty,Champions League,42,-2,1,Neymar,Ter Stegen,right,0.44,0.95,0.582,media,left,goal
+FTB_0287,football,penalty,Champions League,81,0,0,Rashford,Ederson,right,0.4,0.34,0.628,media,right,goal
+FTB_0288,football,penalty,World Cup,72,1,1,Lewandowski,Pickford,left,0.32,0.49,0.561,media,left,goal
+FTB_0289,football,penalty,Champions League,14,-2,1,Vinicius Jr.,Oblak,right,0.66,0.82,0.493,media,left,goal
+FTB_0290,football,penalty,World Cup,34,-1,1,Lautaro Martínez,Ter Stegen,right,0.22,0.78,0.517,media,right,goal
+FTB_0291,football,penalty,Champions League,75,-1,0,Bellingham,Oblak,right,0.11,0.49,0.562,media,right,goal
+FTB_0292,football,penalty,Champions League,104,-2,1,Haaland,Maignan,right,0.46,0.38,0.611,media,right,goal
+FTB_0293,football,penalty,World Cup,6,-2,1,De Bruyne,Ederson,right,0.57,0.31,0.35,baja,right,goal
+FTB_0294,football,penalty,Liga,117,-2,0,Bellingham,Maignan,left,0.69,0.65,0.718,alta,left,saved
+FTB_0295,football,penalty,World Cup,53,0,0,Modric,Donnarumma,right,0.59,0.71,0.645,media,right,goal
+FTB_0296,football,penalty,Champions League,2,-2,0,Griezmann,Oblak,right,0.32,0.45,0.329,baja,center,goal
+FTB_0297,football,penalty,Champions League,45,-1,0,Son,Dibu Martínez,right,0.41,0.92,0.594,media,right,goal
+FTB_0298,football,penalty,World Cup,8,-1,0,Saka,Dibu Martínez,right,0.26,0.6,0.433,media,right,saved
+FTB_0299,football,penalty,World Cup,94,-1,0,Saka,Oblak,right,0.3,0.74,0.677,media,left,goal
+FTB_0300,football,penalty,Liga,60,0,0,Vinicius Jr.,Ederson,right,0.26,0.72,0.613,media,center,goal

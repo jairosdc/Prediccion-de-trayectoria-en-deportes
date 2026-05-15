@@ -1,0 +1,301 @@
+event_id,sport,action_type,competition,match_time,score_difference,is_home_player,player,opponent,dominant_side,fatigue_level,competition_importance,pressure_index,pressure_level,decision_zone,action_result
+ESP_0001,esports,1v1_duel,Pro League,3,2,0,Twistzz,jL,right,0.84,0.95,0.545,media,direct_duel,escape
+ESP_0002,esports,1v1_duel,Pro League,21,-4,0,Showmaker,jL,right,0.12,0.63,0.461,media,defensive_hold,death
+ESP_0003,esports,1v1_duel,Pro League,23,-4,0,device,Bin,right,0.96,0.64,0.609,media,bait,kill
+ESP_0004,esports,1v1_duel,Major,17,4,0,Faker,Ax1Le,right,0.53,0.94,0.579,media,direct_duel,kill
+ESP_0005,esports,1v1_duel,Championship,25,-1,0,s1mple,electroNic,right,0.34,0.87,0.76,alta,flank,death
+ESP_0006,esports,1v1_duel,Pro League,23,-5,0,NiKo,jL,right,0.2,0.58,0.438,media,defensive_hold,kill
+ESP_0007,esports,1v1_duel,Major,9,3,0,chovy,Spinx,right,0.84,0.99,0.57,media,direct_duel,death
+ESP_0008,esports,1v1_duel,Championship,19,-1,0,chovy,Viper,right,0.91,0.6,0.71,alta,defensive_hold,kill
+ESP_0009,esports,1v1_duel,Major,18,2,0,rain,Gumayusi,right,0.9,0.69,0.662,media,direct_duel,trade
+ESP_0010,esports,1v1_duel,Championship,4,1,0,Twistzz,Hobbit,right,0.38,0.99,0.541,media,flank,kill
+ESP_0011,esports,1v1_duel,Championship,15,-4,0,Zeus,electroNic,right,0.11,0.73,0.421,media,aggressive_push,kill
+ESP_0012,esports,1v1_duel,Championship,17,4,0,Zeus,huNter,right,0.4,0.6,0.477,media,defensive_hold,death
+ESP_0013,esports,1v1_duel,Championship,17,-5,0,donk,Ruler,right,0.95,0.59,0.527,media,flank,death
+ESP_0014,esports,1v1_duel,Pro League,12,-2,0,Zeus,Spinx,right,0.44,0.7,0.52,media,bait,kill
+ESP_0015,esports,1v1_duel,Pro League,22,3,0,Faker,Viper,right,0.98,0.66,0.673,media,bait,kill
+ESP_0016,esports,1v1_duel,Championship,2,1,0,chovy,apEX,right,0.68,0.78,0.501,media,flank,escape
+ESP_0017,esports,1v1_duel,Major,8,-4,0,broky,Spinx,right,0.88,0.98,0.552,media,direct_duel,trade
+ESP_0018,esports,1v1_duel,Major,29,4,0,NiKo,Ax1Le,right,0.88,0.86,0.791,alta,defensive_hold,trade
+ESP_0019,esports,1v1_duel,Championship,13,2,0,ropz,Viper,right,0.32,0.77,0.519,media,bait,kill
+ESP_0020,esports,1v1_duel,Pro League,8,5,0,donk,jL,right,0.33,0.68,0.364,media,defensive_hold,kill
+ESP_0021,esports,1v1_duel,Major,23,-4,0,Zeus,Hobbit,right,0.72,0.97,0.636,media,direct_duel,death
+ESP_0022,esports,1v1_duel,Pro League,14,0,0,s1mple,stavn,right,0.87,0.83,0.709,alta,direct_duel,trade
+ESP_0023,esports,1v1_duel,Championship,20,-4,0,device,Ax1Le,right,0.11,0.93,0.519,media,aggressive_push,trade
+ESP_0024,esports,1v1_duel,Championship,2,-4,0,broky,Bin,right,0.99,0.72,0.423,media,flank,kill
+ESP_0025,esports,1v1_duel,Major,25,1,0,Faker,Spinx,right,0.81,0.59,0.78,alta,direct_duel,death
+ESP_0026,esports,1v1_duel,Championship,22,5,0,ZywOo,Bin,right,0.54,0.77,0.547,media,defensive_hold,escape
+ESP_0027,esports,1v1_duel,Pro League,14,3,0,device,Hobbit,right,0.56,0.68,0.509,media,aggressive_push,death
+ESP_0028,esports,1v1_duel,Championship,9,-5,0,rain,Bin,right,0.57,0.99,0.467,media,defensive_hold,kill
+ESP_0029,esports,1v1_duel,Pro League,20,2,0,s1mple,Hobbit,right,0.16,0.59,0.531,media,aggressive_push,death
+ESP_0030,esports,1v1_duel,Championship,24,1,0,s1mple,Ax1Le,right,0.24,0.72,0.699,media,flank,kill
+ESP_0031,esports,1v1_duel,Championship,18,5,0,device,huNter,right,0.19,0.98,0.508,media,aggressive_push,kill
+ESP_0032,esports,1v1_duel,Major,28,-2,0,broky,Keria,right,0.38,0.66,0.716,alta,defensive_hold,kill
+ESP_0033,esports,1v1_duel,Major,14,-5,0,ZywOo,jL,right,0.52,0.5,0.396,media,flank,kill
+ESP_0034,esports,1v1_duel,Major,13,5,0,rain,b1t,right,0.33,0.79,0.422,media,direct_duel,death
+ESP_0035,esports,1v1_duel,Major,0,4,0,NiKo,apEX,right,0.26,0.79,0.321,baja,direct_duel,death
+ESP_0036,esports,1v1_duel,Championship,27,-4,0,Showmaker,Keria,right,0.82,1.0,0.766,alta,direct_duel,kill
+ESP_0037,esports,1v1_duel,Major,22,-2,0,s1mple,Bin,right,0.46,0.89,0.658,media,defensive_hold,escape
+ESP_0038,esports,1v1_duel,Pro League,20,-5,0,broky,apEX,right,0.4,0.61,0.46,media,bait,kill
+ESP_0039,esports,1v1_duel,Major,25,0,0,ZywOo,Keria,right,0.21,0.91,0.782,alta,defensive_hold,kill
+ESP_0040,esports,1v1_duel,Major,14,5,0,NiKo,Magisk,right,0.68,0.5,0.437,media,flank,death
+ESP_0041,esports,1v1_duel,Major,11,-3,0,broky,Ax1Le,right,0.31,0.98,0.515,media,defensive_hold,death
+ESP_0042,esports,1v1_duel,Pro League,4,-2,0,rain,Magisk,right,0.25,0.67,0.428,media,aggressive_push,trade
+ESP_0043,esports,1v1_duel,Major,5,-5,0,ZywOo,Keria,right,0.96,0.74,0.444,media,defensive_hold,kill
+ESP_0044,esports,1v1_duel,Major,18,-3,0,s1mple,apEX,right,0.54,0.57,0.537,media,aggressive_push,trade
+ESP_0045,esports,1v1_duel,Pro League,28,-3,0,device,Ax1Le,right,0.64,0.61,0.732,alta,defensive_hold,kill
+ESP_0046,esports,1v1_duel,Championship,21,2,0,Faker,Viper,right,0.93,0.53,0.668,media,defensive_hold,death
+ESP_0047,esports,1v1_duel,Major,6,1,0,ropz,jL,right,0.96,0.97,0.639,media,bait,death
+ESP_0048,esports,1v1_duel,Major,25,1,0,s1mple,Keria,right,0.51,0.52,0.742,alta,defensive_hold,escape
+ESP_0049,esports,1v1_duel,Pro League,26,5,0,Showmaker,Viper,right,0.61,0.72,0.656,media,direct_duel,death
+ESP_0050,esports,1v1_duel,Championship,28,-4,0,broky,Hobbit,right,0.98,0.75,0.753,alta,direct_duel,death
+ESP_0051,esports,1v1_duel,Championship,22,-5,0,chovy,Keria,right,0.79,0.76,0.576,media,aggressive_push,kill
+ESP_0052,esports,1v1_duel,Championship,15,4,0,Faker,jL,right,0.7,0.93,0.567,media,bait,kill
+ESP_0053,esports,1v1_duel,Championship,16,3,0,Faker,Ruler,right,0.64,0.56,0.53,media,bait,trade
+ESP_0054,esports,1v1_duel,Pro League,27,-4,0,Twistzz,Viper,right,0.52,0.84,0.682,media,aggressive_push,escape
+ESP_0055,esports,1v1_duel,Championship,28,-1,0,Twistzz,b1t,right,0.45,0.72,0.791,alta,bait,death
+ESP_0056,esports,1v1_duel,Championship,8,-1,0,Zeus,apEX,right,0.93,0.62,0.561,media,defensive_hold,death
+ESP_0057,esports,1v1_duel,Championship,26,-1,0,chovy,Bin,right,0.13,0.53,0.684,media,flank,escape
+ESP_0058,esports,1v1_duel,Major,8,4,0,chovy,Gumayusi,right,0.96,0.52,0.445,media,direct_duel,death
+ESP_0059,esports,1v1_duel,Major,6,-4,0,donk,huNter,right,0.39,0.89,0.427,media,flank,death
+ESP_0060,esports,1v1_duel,Championship,17,4,0,donk,stavn,right,0.87,0.82,0.568,media,defensive_hold,death
+ESP_0061,esports,1v1_duel,Major,3,-1,0,Twistzz,jL,right,0.62,0.72,0.525,media,defensive_hold,escape
+ESP_0062,esports,1v1_duel,Pro League,10,3,0,s1mple,Bin,right,0.5,0.54,0.45,media,direct_duel,death
+ESP_0063,esports,1v1_duel,Pro League,11,1,0,m0NESY,jL,right,0.66,0.93,0.609,media,aggressive_push,kill
+ESP_0064,esports,1v1_duel,Pro League,4,-2,0,chovy,Hobbit,right,0.35,0.72,0.421,media,direct_duel,kill
+ESP_0065,esports,1v1_duel,Major,13,-4,0,Caps,b1t,right,0.91,0.8,0.545,media,bait,death
+ESP_0066,esports,1v1_duel,Major,23,-4,0,rain,Keria,right,0.4,0.66,0.53,media,direct_duel,kill
+ESP_0067,esports,1v1_duel,Pro League,30,2,0,s1mple,Bin,right,0.88,0.67,0.839,alta,direct_duel,death
+ESP_0068,esports,1v1_duel,Pro League,7,3,0,Twistzz,huNter,right,0.91,0.97,0.552,media,defensive_hold,death
+ESP_0069,esports,1v1_duel,Pro League,25,-1,0,ZywOo,b1t,right,0.37,0.79,0.772,alta,bait,kill
+ESP_0070,esports,1v1_duel,Championship,7,-4,0,s1mple,b1t,right,0.32,0.55,0.346,baja,direct_duel,death
+ESP_0071,esports,1v1_duel,Championship,25,-2,0,chovy,Hobbit,right,0.75,0.85,0.793,alta,aggressive_push,trade
+ESP_0072,esports,1v1_duel,Major,12,1,0,rain,Keria,right,0.15,0.68,0.515,media,direct_duel,death
+ESP_0073,esports,1v1_duel,Championship,14,3,0,Faker,huNter,right,0.72,0.81,0.58,media,direct_duel,kill
+ESP_0074,esports,1v1_duel,Major,20,2,0,rain,b1t,right,0.6,0.83,0.659,media,aggressive_push,kill
+ESP_0075,esports,1v1_duel,Pro League,21,5,0,ZywOo,Spinx,right,0.91,0.97,0.613,media,defensive_hold,kill
+ESP_0076,esports,1v1_duel,Major,21,4,0,Twistzz,electroNic,right,0.8,0.71,0.602,media,direct_duel,escape
+ESP_0077,esports,1v1_duel,Championship,13,-1,0,m0NESY,b1t,right,0.82,0.69,0.631,media,defensive_hold,kill
+ESP_0078,esports,1v1_duel,Major,9,3,0,rain,stavn,right,0.79,0.76,0.525,media,defensive_hold,kill
+ESP_0079,esports,1v1_duel,Pro League,20,-3,0,chovy,huNter,right,0.65,0.76,0.615,media,direct_duel,kill
+ESP_0080,esports,1v1_duel,Pro League,3,3,0,Twistzz,Hobbit,right,0.78,0.97,0.488,media,defensive_hold,kill
+ESP_0081,esports,1v1_duel,Major,26,-1,0,Faker,Ax1Le,right,0.85,0.68,0.821,alta,flank,escape
+ESP_0082,esports,1v1_duel,Championship,29,-1,0,Zeus,Ax1Le,right,0.38,0.7,0.787,alta,flank,kill
+ESP_0083,esports,1v1_duel,Major,16,1,0,Faker,Viper,right,0.47,0.73,0.632,media,direct_duel,kill
+ESP_0084,esports,1v1_duel,Championship,1,-2,0,Twistzz,Magisk,right,0.53,0.76,0.434,media,direct_duel,death
+ESP_0085,esports,1v1_duel,Major,15,-3,0,ZywOo,electroNic,right,0.44,0.9,0.575,media,aggressive_push,death
+ESP_0086,esports,1v1_duel,Major,3,-1,0,ropz,Hobbit,right,0.59,0.61,0.477,media,defensive_hold,trade
+ESP_0087,esports,1v1_duel,Championship,7,4,0,Faker,Viper,right,0.3,0.5,0.352,media,direct_duel,escape
+ESP_0088,esports,1v1_duel,Pro League,26,-2,0,m0NESY,Viper,right,0.81,0.53,0.736,alta,defensive_hold,trade
+ESP_0089,esports,1v1_duel,Pro League,24,3,0,Caps,b1t,right,0.56,0.65,0.635,media,aggressive_push,death
+ESP_0090,esports,1v1_duel,Championship,16,4,0,Caps,Magisk,right,0.34,0.73,0.485,media,aggressive_push,death
+ESP_0091,esports,1v1_duel,Major,8,0,0,Faker,Hobbit,right,0.51,0.81,0.618,media,aggressive_push,death
+ESP_0092,esports,1v1_duel,Major,23,-2,0,broky,Ruler,right,0.35,0.8,0.619,media,direct_duel,death
+ESP_0093,esports,1v1_duel,Pro League,12,-3,0,Showmaker,Viper,right,0.99,0.83,0.616,media,defensive_hold,kill
+ESP_0094,esports,1v1_duel,Pro League,26,-4,0,m0NESY,Gumayusi,right,0.67,0.59,0.64,media,direct_duel,death
+ESP_0095,esports,1v1_duel,Championship,13,1,0,Caps,Ax1Le,right,0.12,0.87,0.582,media,flank,death
+ESP_0096,esports,1v1_duel,Championship,26,-3,0,Faker,Ruler,right,0.27,0.72,0.664,media,defensive_hold,kill
+ESP_0097,esports,1v1_duel,Championship,25,-2,0,Showmaker,Ruler,right,0.34,0.92,0.719,alta,defensive_hold,escape
+ESP_0098,esports,1v1_duel,Championship,19,5,0,Zeus,Ax1Le,right,0.21,0.54,0.43,media,direct_duel,death
+ESP_0099,esports,1v1_duel,Pro League,29,4,0,device,Ruler,right,0.76,0.58,0.685,media,aggressive_push,escape
+ESP_0100,esports,1v1_duel,Championship,26,-4,0,ZywOo,stavn,right,0.95,0.82,0.724,alta,defensive_hold,death
+ESP_0101,esports,1v1_duel,Major,21,-5,0,device,Hobbit,right,0.84,0.61,0.551,media,defensive_hold,death
+ESP_0102,esports,1v1_duel,Major,8,-1,0,donk,Gumayusi,right,0.46,0.9,0.554,media,direct_duel,kill
+ESP_0103,esports,1v1_duel,Championship,1,1,0,Caps,Spinx,right,0.42,0.8,0.487,media,aggressive_push,death
+ESP_0104,esports,1v1_duel,Major,18,-5,0,ropz,stavn,right,0.12,0.67,0.438,media,defensive_hold,trade
+ESP_0105,esports,1v1_duel,Major,1,-3,0,m0NESY,huNter,right,0.72,0.57,0.377,media,defensive_hold,kill
+ESP_0106,esports,1v1_duel,Pro League,25,5,0,Showmaker,huNter,right,0.56,0.86,0.649,media,direct_duel,escape
+ESP_0107,esports,1v1_duel,Championship,27,4,0,s1mple,Ax1Le,right,0.14,0.85,0.655,media,flank,death
+ESP_0108,esports,1v1_duel,Pro League,11,2,0,ZywOo,Magisk,right,0.43,0.83,0.525,media,defensive_hold,death
+ESP_0109,esports,1v1_duel,Championship,29,-2,0,Caps,Gumayusi,right,0.73,0.82,0.81,alta,direct_duel,trade
+ESP_0110,esports,1v1_duel,Championship,18,-5,0,donk,Viper,right,0.4,0.54,0.411,media,aggressive_push,kill
+ESP_0111,esports,1v1_duel,Major,19,-4,0,chovy,apEX,right,0.67,0.62,0.528,media,aggressive_push,kill
+ESP_0112,esports,1v1_duel,Pro League,27,5,0,ZywOo,stavn,right,0.31,0.65,0.595,media,flank,death
+ESP_0113,esports,1v1_duel,Major,12,-3,0,donk,b1t,right,0.44,0.55,0.447,media,flank,death
+ESP_0114,esports,1v1_duel,Pro League,10,2,0,chovy,jL,right,0.77,0.72,0.561,media,defensive_hold,kill
+ESP_0115,esports,1v1_duel,Major,4,3,0,Caps,Keria,right,0.36,0.6,0.36,media,direct_duel,death
+ESP_0116,esports,1v1_duel,Championship,11,-1,0,ZywOo,Gumayusi,right,0.86,0.74,0.606,media,direct_duel,kill
+ESP_0117,esports,1v1_duel,Major,1,2,0,Faker,Hobbit,right,0.14,0.72,0.374,media,aggressive_push,kill
+ESP_0118,esports,1v1_duel,Pro League,27,4,0,chovy,Spinx,right,0.8,0.58,0.704,alta,defensive_hold,death
+ESP_0119,esports,1v1_duel,Pro League,24,1,0,Faker,Gumayusi,right,0.12,0.58,0.597,media,aggressive_push,death
+ESP_0120,esports,1v1_duel,Major,11,-3,0,ZywOo,Magisk,right,0.89,0.92,0.592,media,flank,escape
+ESP_0121,esports,1v1_duel,Pro League,15,2,0,s1mple,stavn,right,0.27,0.96,0.575,media,defensive_hold,escape
+ESP_0122,esports,1v1_duel,Pro League,15,-3,0,device,Bin,right,0.95,0.68,0.607,media,direct_duel,kill
+ESP_0123,esports,1v1_duel,Championship,23,-4,0,m0NESY,jL,right,0.22,0.85,0.552,media,flank,death
+ESP_0124,esports,1v1_duel,Championship,0,-4,0,m0NESY,Ruler,right,0.22,0.95,0.325,baja,aggressive_push,death
+ESP_0125,esports,1v1_duel,Championship,15,-2,0,ZywOo,b1t,right,0.66,0.87,0.61,media,bait,death
+ESP_0126,esports,1v1_duel,Championship,8,5,0,ZywOo,Hobbit,right,0.27,0.52,0.303,baja,defensive_hold,escape
+ESP_0127,esports,1v1_duel,Championship,10,4,0,donk,Magisk,right,0.56,0.66,0.414,media,aggressive_push,death
+ESP_0128,esports,1v1_duel,Championship,3,2,0,broky,Gumayusi,right,0.93,0.99,0.557,media,direct_duel,death
+ESP_0129,esports,1v1_duel,Pro League,7,-3,0,Caps,apEX,right,0.45,0.83,0.457,media,bait,death
+ESP_0130,esports,1v1_duel,Championship,22,-2,0,Caps,Spinx,right,0.5,0.97,0.701,alta,direct_duel,kill
+ESP_0131,esports,1v1_duel,Championship,13,5,0,m0NESY,huNter,right,0.45,0.63,0.383,media,flank,trade
+ESP_0132,esports,1v1_duel,Pro League,20,5,0,s1mple,huNter,right,0.17,0.57,0.411,media,direct_duel,kill
+ESP_0133,esports,1v1_duel,Championship,9,4,0,Showmaker,stavn,right,1.0,0.6,0.49,media,defensive_hold,trade
+ESP_0134,esports,1v1_duel,Major,29,-1,0,Showmaker,Bin,right,0.46,0.68,0.775,alta,defensive_hold,trade
+ESP_0135,esports,1v1_duel,Championship,0,4,0,broky,Ruler,right,0.47,0.95,0.388,media,direct_duel,death
+ESP_0136,esports,1v1_duel,Pro League,20,-1,0,donk,stavn,right,0.79,0.73,0.703,alta,direct_duel,kill
+ESP_0137,esports,1v1_duel,Pro League,15,0,0,broky,b1t,right,0.19,0.63,0.595,media,defensive_hold,kill
+ESP_0138,esports,1v1_duel,Pro League,6,-3,0,ropz,Ruler,right,0.22,0.66,0.391,media,direct_duel,kill
+ESP_0139,esports,1v1_duel,Pro League,6,4,0,ropz,apEX,right,0.45,0.88,0.437,media,defensive_hold,kill
+ESP_0140,esports,1v1_duel,Major,28,-5,0,s1mple,stavn,right,0.19,0.91,0.627,media,defensive_hold,death
+ESP_0141,esports,1v1_duel,Championship,10,5,0,ropz,stavn,right,0.52,0.71,0.433,media,flank,kill
+ESP_0142,esports,1v1_duel,Major,7,2,0,Showmaker,Hobbit,right,0.36,0.96,0.514,media,aggressive_push,death
+ESP_0143,esports,1v1_duel,Pro League,22,1,0,m0NESY,Magisk,right,0.32,0.82,0.679,media,flank,kill
+ESP_0144,esports,1v1_duel,Major,2,-5,0,Faker,Magisk,right,0.45,0.85,0.332,baja,defensive_hold,kill
+ESP_0145,esports,1v1_duel,Pro League,13,-5,0,rain,Keria,right,0.42,0.99,0.456,media,flank,death
+ESP_0146,esports,1v1_duel,Championship,15,0,0,Showmaker,huNter,right,0.3,0.89,0.639,media,aggressive_push,death
+ESP_0147,esports,1v1_duel,Pro League,12,0,0,rain,Keria,right,0.46,0.65,0.579,media,aggressive_push,kill
+ESP_0148,esports,1v1_duel,Championship,27,5,0,chovy,electroNic,right,0.91,0.67,0.7,alta,direct_duel,kill
+ESP_0149,esports,1v1_duel,Championship,18,-1,0,device,Ax1Le,right,0.59,0.58,0.612,media,direct_duel,trade
+ESP_0150,esports,1v1_duel,Championship,11,-1,0,Caps,Ruler,right,0.54,0.61,0.57,media,aggressive_push,kill
+ESP_0151,esports,1v1_duel,Major,1,1,0,donk,Spinx,right,0.12,0.83,0.425,media,aggressive_push,kill
+ESP_0152,esports,1v1_duel,Pro League,21,-2,0,Showmaker,Ax1Le,right,0.97,0.56,0.64,media,aggressive_push,kill
+ESP_0153,esports,1v1_duel,Pro League,8,4,0,Faker,jL,right,0.48,0.85,0.475,media,aggressive_push,kill
+ESP_0154,esports,1v1_duel,Major,30,-2,0,Showmaker,Gumayusi,right,0.44,0.77,0.771,alta,direct_duel,escape
+ESP_0155,esports,1v1_duel,Pro League,22,-2,0,broky,b1t,right,0.95,0.59,0.688,media,direct_duel,trade
+ESP_0156,esports,1v1_duel,Championship,28,-4,0,Caps,jL,right,0.47,0.51,0.654,media,direct_duel,death
+ESP_0157,esports,1v1_duel,Pro League,23,1,0,ZywOo,Magisk,right,0.94,0.69,0.767,alta,defensive_hold,kill
+ESP_0158,esports,1v1_duel,Pro League,20,4,0,Showmaker,Ax1Le,right,0.37,0.68,0.529,media,flank,escape
+ESP_0159,esports,1v1_duel,Pro League,2,0,0,Caps,Magisk,right,0.7,0.71,0.556,media,defensive_hold,kill
+ESP_0160,esports,1v1_duel,Pro League,23,-3,0,ropz,b1t,right,0.36,0.98,0.635,media,defensive_hold,death
+ESP_0161,esports,1v1_duel,Championship,27,5,0,s1mple,jL,right,0.36,0.78,0.616,media,aggressive_push,kill
+ESP_0162,esports,1v1_duel,Championship,5,1,0,Caps,Viper,right,0.78,0.59,0.544,media,flank,escape
+ESP_0163,esports,1v1_duel,Major,19,2,0,donk,b1t,right,0.23,0.59,0.531,media,defensive_hold,trade
+ESP_0164,esports,1v1_duel,Championship,30,4,0,s1mple,Viper,right,0.38,0.68,0.662,media,direct_duel,kill
+ESP_0165,esports,1v1_duel,Championship,21,-5,0,rain,stavn,right,0.51,0.61,0.497,media,flank,kill
+ESP_0166,esports,1v1_duel,Pro League,25,-5,0,s1mple,huNter,right,0.93,0.93,0.713,alta,defensive_hold,kill
+ESP_0167,esports,1v1_duel,Championship,1,5,0,NiKo,apEX,right,0.4,0.77,0.297,baja,aggressive_push,kill
+ESP_0168,esports,1v1_duel,Pro League,4,0,0,rain,Keria,right,0.87,0.55,0.576,media,defensive_hold,escape
+ESP_0169,esports,1v1_duel,Major,19,-1,0,Zeus,Ruler,right,0.45,0.92,0.659,media,aggressive_push,death
+ESP_0170,esports,1v1_duel,Championship,26,-5,0,device,electroNic,right,0.91,0.97,0.747,alta,flank,death
+ESP_0171,esports,1v1_duel,Championship,9,5,0,NiKo,apEX,right,0.95,0.55,0.435,media,aggressive_push,kill
+ESP_0172,esports,1v1_duel,Championship,8,4,0,chovy,Hobbit,right,0.28,0.94,0.428,media,aggressive_push,kill
+ESP_0173,esports,1v1_duel,Championship,10,-1,0,Faker,Hobbit,right,0.46,0.9,0.566,media,bait,death
+ESP_0174,esports,1v1_duel,Pro League,26,2,0,NiKo,apEX,right,0.58,0.57,0.738,alta,defensive_hold,death
+ESP_0175,esports,1v1_duel,Championship,20,-2,0,Zeus,electroNic,right,0.84,0.85,0.677,media,defensive_hold,kill
+ESP_0176,esports,1v1_duel,Major,7,-1,0,ZywOo,Magisk,right,0.48,0.75,0.53,media,direct_duel,kill
+ESP_0177,esports,1v1_duel,Major,12,-5,0,Caps,Spinx,right,0.23,0.68,0.397,media,defensive_hold,death
+ESP_0178,esports,1v1_duel,Championship,10,1,0,rain,Ax1Le,right,0.92,0.91,0.661,media,defensive_hold,escape
+ESP_0179,esports,1v1_duel,Major,10,2,0,donk,Bin,right,0.25,0.9,0.516,media,flank,kill
+ESP_0180,esports,1v1_duel,Pro League,18,0,0,donk,huNter,right,0.32,0.8,0.641,media,defensive_hold,death
+ESP_0181,esports,1v1_duel,Championship,22,-1,0,Twistzz,Hobbit,right,0.75,0.72,0.704,alta,defensive_hold,kill
+ESP_0182,esports,1v1_duel,Pro League,20,-4,0,m0NESY,Keria,right,0.2,0.8,0.498,media,flank,death
+ESP_0183,esports,1v1_duel,Major,17,1,0,donk,Magisk,right,0.5,0.68,0.643,media,defensive_hold,death
+ESP_0184,esports,1v1_duel,Pro League,9,3,0,Zeus,Viper,right,0.61,0.93,0.542,media,defensive_hold,death
+ESP_0185,esports,1v1_duel,Championship,17,2,0,Showmaker,electroNic,right,0.56,0.79,0.621,media,defensive_hold,death
+ESP_0186,esports,1v1_duel,Pro League,1,1,0,broky,Ruler,right,0.63,0.8,0.517,media,defensive_hold,death
+ESP_0187,esports,1v1_duel,Major,21,-3,0,donk,jL,right,0.75,0.88,0.653,media,aggressive_push,kill
+ESP_0188,esports,1v1_duel,Championship,30,-1,0,Faker,Gumayusi,right,0.17,0.65,0.739,alta,bait,death
+ESP_0189,esports,1v1_duel,Championship,3,-5,0,broky,stavn,right,0.3,0.72,0.3,baja,defensive_hold,kill
+ESP_0190,esports,1v1_duel,Major,16,-1,0,NiKo,Hobbit,right,0.58,0.88,0.655,media,direct_duel,death
+ESP_0191,esports,1v1_duel,Major,2,3,0,device,Ruler,right,0.7,0.7,0.441,media,direct_duel,kill
+ESP_0192,esports,1v1_duel,Pro League,19,-1,0,broky,electroNic,right,0.57,0.63,0.66,media,flank,kill
+ESP_0193,esports,1v1_duel,Pro League,0,3,0,donk,Spinx,right,0.75,0.52,0.395,media,aggressive_push,kill
+ESP_0194,esports,1v1_duel,Championship,9,4,0,donk,Keria,right,0.21,0.95,0.457,media,defensive_hold,trade
+ESP_0195,esports,1v1_duel,Championship,28,4,0,Twistzz,Ruler,right,0.38,0.96,0.72,alta,bait,death
+ESP_0196,esports,1v1_duel,Major,7,2,0,Faker,Gumayusi,right,0.56,0.96,0.522,media,aggressive_push,death
+ESP_0197,esports,1v1_duel,Major,15,1,0,Caps,Bin,right,0.84,0.75,0.684,media,defensive_hold,kill
+ESP_0198,esports,1v1_duel,Championship,4,0,0,Showmaker,Viper,right,0.81,0.87,0.609,media,bait,trade
+ESP_0199,esports,1v1_duel,Major,14,-5,0,chovy,Spinx,right,0.77,0.84,0.503,media,flank,kill
+ESP_0200,esports,1v1_duel,Championship,3,1,0,m0NESY,Bin,right,0.55,0.91,0.528,media,direct_duel,kill
+ESP_0201,esports,1v1_duel,Major,1,0,0,donk,Gumayusi,right,0.71,0.55,0.498,media,direct_duel,death
+ESP_0202,esports,1v1_duel,Championship,20,1,0,broky,Magisk,right,0.8,0.8,0.701,alta,defensive_hold,kill
+ESP_0203,esports,1v1_duel,Major,8,2,0,Zeus,stavn,right,0.11,0.5,0.398,media,aggressive_push,death
+ESP_0204,esports,1v1_duel,Championship,12,-5,0,ropz,apEX,right,0.65,0.58,0.426,media,aggressive_push,kill
+ESP_0205,esports,1v1_duel,Major,30,2,0,Caps,Magisk,right,0.35,0.51,0.706,alta,aggressive_push,death
+ESP_0206,esports,1v1_duel,Pro League,7,-5,0,broky,huNter,right,0.59,0.94,0.452,media,bait,kill
+ESP_0207,esports,1v1_duel,Major,26,-2,0,ropz,Ruler,right,0.33,0.91,0.76,alta,defensive_hold,death
+ESP_0208,esports,1v1_duel,Major,23,-3,0,NiKo,huNter,right,0.81,0.74,0.682,media,aggressive_push,kill
+ESP_0209,esports,1v1_duel,Championship,7,-2,0,NiKo,Hobbit,right,0.34,0.98,0.505,media,defensive_hold,death
+ESP_0210,esports,1v1_duel,Championship,18,0,0,m0NESY,Hobbit,right,0.83,0.6,0.709,alta,flank,death
+ESP_0211,esports,1v1_duel,Pro League,12,-5,0,ropz,b1t,right,0.87,0.51,0.422,media,bait,death
+ESP_0212,esports,1v1_duel,Championship,26,2,0,s1mple,Hobbit,right,0.12,0.72,0.668,media,aggressive_push,kill
+ESP_0213,esports,1v1_duel,Pro League,23,-3,0,Zeus,huNter,right,0.21,0.85,0.597,media,bait,kill
+ESP_0214,esports,1v1_duel,Major,17,-5,0,s1mple,b1t,right,0.81,0.79,0.539,media,direct_duel,death
+ESP_0215,esports,1v1_duel,Championship,26,0,0,s1mple,huNter,right,0.29,0.83,0.799,alta,bait,kill
+ESP_0216,esports,1v1_duel,Major,28,4,0,NiKo,electroNic,right,0.29,0.78,0.655,media,defensive_hold,death
+ESP_0217,esports,1v1_duel,Pro League,13,2,0,NiKo,electroNic,right,0.51,0.56,0.531,media,direct_duel,death
+ESP_0218,esports,1v1_duel,Championship,23,-2,0,rain,apEX,right,0.39,0.54,0.595,media,direct_duel,kill
+ESP_0219,esports,1v1_duel,Championship,9,4,0,m0NESY,Viper,right,0.89,0.7,0.481,media,direct_duel,death
+ESP_0220,esports,1v1_duel,Pro League,22,1,0,Twistzz,Spinx,right,0.81,0.62,0.707,alta,defensive_hold,death
+ESP_0221,esports,1v1_duel,Pro League,15,-1,0,Zeus,b1t,right,0.33,0.6,0.561,media,bait,death
+ESP_0222,esports,1v1_duel,Pro League,22,-4,0,ZywOo,Gumayusi,right,0.43,0.86,0.609,media,flank,kill
+ESP_0223,esports,1v1_duel,Major,9,-3,0,device,Keria,right,0.69,0.72,0.51,media,defensive_hold,kill
+ESP_0224,esports,1v1_duel,Major,20,0,0,Twistzz,Gumayusi,right,0.81,0.92,0.801,alta,bait,kill
+ESP_0225,esports,1v1_duel,Major,11,1,0,Twistzz,Hobbit,right,0.77,0.91,0.632,media,direct_duel,death
+ESP_0226,esports,1v1_duel,Championship,3,5,0,rain,Bin,right,0.49,0.6,0.304,baja,aggressive_push,kill
+ESP_0227,esports,1v1_duel,Championship,16,4,0,device,b1t,right,0.88,0.69,0.533,media,flank,trade
+ESP_0228,esports,1v1_duel,Major,6,5,0,NiKo,b1t,right,0.65,0.7,0.376,media,aggressive_push,kill
+ESP_0229,esports,1v1_duel,Championship,27,-3,0,NiKo,jL,right,0.23,0.92,0.721,alta,aggressive_push,death
+ESP_0230,esports,1v1_duel,Major,21,4,0,Caps,b1t,right,0.89,0.73,0.604,media,flank,death
+ESP_0231,esports,1v1_duel,Championship,2,2,0,ZywOo,stavn,right,0.76,0.8,0.485,media,defensive_hold,death
+ESP_0232,esports,1v1_duel,Championship,15,1,0,donk,Magisk,right,0.21,0.75,0.547,media,defensive_hold,trade
+ESP_0233,esports,1v1_duel,Championship,27,0,0,ropz,Gumayusi,right,0.31,0.56,0.738,alta,bait,death
+ESP_0234,esports,1v1_duel,Championship,22,4,0,rain,stavn,right,0.37,0.97,0.569,media,aggressive_push,death
+ESP_0235,esports,1v1_duel,Pro League,16,5,0,NiKo,Ax1Le,right,0.2,0.95,0.477,media,direct_duel,escape
+ESP_0236,esports,1v1_duel,Pro League,13,-3,0,Caps,Ruler,right,0.63,0.53,0.499,media,defensive_hold,kill
+ESP_0237,esports,1v1_duel,Championship,24,4,0,Twistzz,electroNic,right,0.34,0.76,0.641,media,direct_duel,kill
+ESP_0238,esports,1v1_duel,Major,3,-1,0,donk,electroNic,right,0.62,0.96,0.572,media,bait,death
+ESP_0239,esports,1v1_duel,Major,18,-4,0,Zeus,Ax1Le,right,0.88,0.78,0.58,media,direct_duel,death
+ESP_0240,esports,1v1_duel,Major,25,-4,0,NiKo,Ax1Le,right,0.12,0.95,0.622,media,defensive_hold,kill
+ESP_0241,esports,1v1_duel,Major,11,-2,0,NiKo,Bin,right,0.95,0.88,0.622,media,aggressive_push,trade
+ESP_0242,esports,1v1_duel,Major,18,0,0,Zeus,Ruler,right,0.6,0.56,0.65,media,defensive_hold,death
+ESP_0243,esports,1v1_duel,Championship,30,-1,0,donk,Hobbit,right,0.34,0.92,0.811,alta,defensive_hold,death
+ESP_0244,esports,1v1_duel,Major,3,3,0,NiKo,apEX,right,0.34,0.7,0.386,media,bait,kill
+ESP_0245,esports,1v1_duel,Pro League,25,-2,0,device,Spinx,right,0.31,0.52,0.649,media,aggressive_push,death
+ESP_0246,esports,1v1_duel,Major,8,-1,0,chovy,b1t,right,0.7,0.56,0.537,media,direct_duel,kill
+ESP_0247,esports,1v1_duel,Major,22,-2,0,NiKo,Spinx,right,0.27,0.78,0.609,media,defensive_hold,trade
+ESP_0248,esports,1v1_duel,Pro League,19,-3,0,s1mple,Ax1Le,right,0.39,0.68,0.542,media,aggressive_push,kill
+ESP_0249,esports,1v1_duel,Championship,15,-5,0,Caps,Viper,right,0.42,0.62,0.433,media,direct_duel,death
+ESP_0250,esports,1v1_duel,Pro League,7,2,0,Twistzz,apEX,right,0.23,0.7,0.453,media,flank,kill
+ESP_0251,esports,1v1_duel,Major,19,2,0,Faker,Bin,right,0.45,0.89,0.627,media,defensive_hold,kill
+ESP_0252,esports,1v1_duel,Pro League,29,-1,0,Showmaker,stavn,right,0.67,0.96,0.872,alta,bait,kill
+ESP_0253,esports,1v1_duel,Championship,4,-5,0,Faker,b1t,right,0.37,0.73,0.308,baja,aggressive_push,trade
+ESP_0254,esports,1v1_duel,Pro League,4,-4,0,Twistzz,stavn,right,0.88,0.76,0.42,media,flank,kill
+ESP_0255,esports,1v1_duel,Major,9,-5,0,chovy,Viper,right,0.6,0.58,0.379,media,defensive_hold,kill
+ESP_0256,esports,1v1_duel,Major,25,-2,0,s1mple,jL,right,0.61,0.92,0.802,alta,direct_duel,death
+ESP_0257,esports,1v1_duel,Major,1,0,0,Showmaker,apEX,right,0.51,0.9,0.533,media,defensive_hold,escape
+ESP_0258,esports,1v1_duel,Pro League,14,4,0,ZywOo,Ruler,right,0.77,0.84,0.568,media,flank,kill
+ESP_0259,esports,1v1_duel,Pro League,8,-1,0,device,Magisk,right,0.91,0.9,0.646,media,aggressive_push,death
+ESP_0260,esports,1v1_duel,Major,11,0,0,Zeus,apEX,right,0.68,0.93,0.665,media,direct_duel,escape
+ESP_0261,esports,1v1_duel,Pro League,5,-4,0,ZywOo,stavn,right,0.98,0.97,0.495,media,aggressive_push,death
+ESP_0262,esports,1v1_duel,Championship,21,-3,0,Showmaker,stavn,right,0.8,0.83,0.651,media,defensive_hold,death
+ESP_0263,esports,1v1_duel,Pro League,15,-3,0,Faker,huNter,right,0.77,0.76,0.564,media,defensive_hold,kill
+ESP_0264,esports,1v1_duel,Major,20,2,0,Caps,apEX,right,0.47,0.9,0.644,media,aggressive_push,death
+ESP_0265,esports,1v1_duel,Championship,19,2,0,ropz,Gumayusi,right,0.94,0.53,0.626,media,aggressive_push,kill
+ESP_0266,esports,1v1_duel,Championship,23,5,0,NiKo,electroNic,right,0.74,0.84,0.583,media,flank,death
+ESP_0267,esports,1v1_duel,Pro League,2,0,0,NiKo,Spinx,right,0.55,0.65,0.494,media,defensive_hold,death
+ESP_0268,esports,1v1_duel,Major,16,-4,0,Showmaker,huNter,right,0.97,0.81,0.57,media,defensive_hold,death
+ESP_0269,esports,1v1_duel,Championship,27,2,0,rain,Gumayusi,right,0.66,0.85,0.797,alta,defensive_hold,death
+ESP_0270,esports,1v1_duel,Championship,24,4,0,rain,Spinx,right,0.71,0.55,0.577,media,flank,kill
+ESP_0271,esports,1v1_duel,Major,11,5,0,broky,Magisk,right,0.8,0.64,0.421,media,flank,death
+ESP_0272,esports,1v1_duel,Championship,26,1,0,Caps,stavn,right,0.26,0.92,0.779,alta,aggressive_push,death
+ESP_0273,esports,1v1_duel,Major,27,0,0,Zeus,Magisk,right,0.35,0.81,0.793,alta,direct_duel,kill
+ESP_0274,esports,1v1_duel,Championship,16,3,0,ropz,Keria,right,0.57,0.73,0.553,media,aggressive_push,death
+ESP_0275,esports,1v1_duel,Championship,18,-4,0,broky,b1t,right,0.59,0.84,0.574,media,bait,escape
+ESP_0276,esports,1v1_duel,Pro League,22,-1,0,device,jL,right,0.19,0.72,0.614,media,defensive_hold,death
+ESP_0277,esports,1v1_duel,Pro League,24,-5,0,chovy,b1t,right,0.3,0.77,0.519,media,defensive_hold,kill
+ESP_0278,esports,1v1_duel,Major,20,2,0,NiKo,huNter,right,0.3,1.0,0.652,media,aggressive_push,escape
+ESP_0279,esports,1v1_duel,Major,7,5,0,chovy,apEX,right,0.91,0.82,0.478,media,defensive_hold,kill
+ESP_0280,esports,1v1_duel,Pro League,22,-3,0,Caps,huNter,right,0.6,0.75,0.647,media,defensive_hold,kill
+ESP_0281,esports,1v1_duel,Championship,17,-3,0,s1mple,apEX,right,0.61,0.95,0.62,media,flank,kill
+ESP_0282,esports,1v1_duel,Championship,24,-5,0,chovy,huNter,right,0.37,0.82,0.586,media,direct_duel,kill
+ESP_0283,esports,1v1_duel,Championship,8,4,0,rain,Viper,right,0.47,0.84,0.457,media,direct_duel,death
+ESP_0284,esports,1v1_duel,Major,30,3,0,Twistzz,electroNic,right,0.9,0.7,0.796,alta,direct_duel,death
+ESP_0285,esports,1v1_duel,Pro League,18,-4,0,chovy,Ruler,right,0.71,0.52,0.498,media,bait,death
+ESP_0286,esports,1v1_duel,Major,30,-3,0,donk,Viper,right,0.82,0.53,0.752,alta,defensive_hold,death
+ESP_0287,esports,1v1_duel,Pro League,28,5,0,Zeus,Viper,right,0.9,0.72,0.704,alta,defensive_hold,trade
+ESP_0288,esports,1v1_duel,Major,10,3,0,m0NESY,Hobbit,right,0.39,0.58,0.46,media,flank,kill
+ESP_0289,esports,1v1_duel,Major,2,-1,0,Showmaker,Ruler,right,0.93,0.59,0.498,media,defensive_hold,kill
+ESP_0290,esports,1v1_duel,Pro League,10,1,0,NiKo,apEX,right,0.83,0.83,0.638,media,defensive_hold,kill
+ESP_0291,esports,1v1_duel,Championship,19,-3,0,Showmaker,apEX,right,0.31,0.92,0.567,media,bait,kill
+ESP_0292,esports,1v1_duel,Major,8,5,0,Showmaker,Bin,right,0.29,0.97,0.423,media,bait,escape
+ESP_0293,esports,1v1_duel,Pro League,15,-2,0,m0NESY,Bin,right,0.97,0.82,0.663,media,direct_duel,death
+ESP_0294,esports,1v1_duel,Pro League,13,2,0,NiKo,apEX,right,0.1,0.87,0.502,media,bait,death
+ESP_0295,esports,1v1_duel,Major,28,-4,0,broky,Spinx,right,0.18,0.55,0.597,media,defensive_hold,kill
+ESP_0296,esports,1v1_duel,Major,21,-1,0,device,b1t,right,0.1,0.52,0.575,media,defensive_hold,death
+ESP_0297,esports,1v1_duel,Pro League,28,1,0,s1mple,Keria,right,0.26,0.77,0.781,alta,defensive_hold,escape
+ESP_0298,esports,1v1_duel,Championship,27,3,0,chovy,Spinx,right,0.55,0.82,0.733,alta,defensive_hold,trade
+ESP_0299,esports,1v1_duel,Championship,27,-3,0,Zeus,Ax1Le,right,0.4,0.56,0.677,media,direct_duel,kill
+ESP_0300,esports,1v1_duel,Championship,24,3,0,rain,Viper,right,0.28,0.74,0.61,media,flank,kill
