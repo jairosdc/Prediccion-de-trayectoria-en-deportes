@@ -20,12 +20,11 @@ Usamos Regresión Logística porque:
 import pandas as pd
 
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
-from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
-
 
 try:
     from src.preprocessing import preparar_dataframe, separar_X_y
@@ -53,7 +52,7 @@ def crear_modelo():
         "player",
         "opponent",
         "dominant_side",
-        "pressure_level",
+        #"pressure_level",
     ]
 
     columnas_numericas = [
@@ -68,14 +67,18 @@ def crear_modelo():
     preprocesado = ColumnTransformer(
         transformers=[
             ("cat", OneHotEncoder(handle_unknown="ignore"), columnas_categoricas),
-            ("num", StandardScaler(), columnas_numericas),
+            ("num", "passthrough", columnas_numericas), #passthrough deja los números intactos (al arbol le da igual la escala)
         ]
     )
 
     modelo = Pipeline(
         steps=[
             ("preprocesado", preprocesado),
-            ("modelo", LogisticRegression(max_iter=5000))
+            ("modelo", RandomForestClassifier(
+                n_estimators =100,
+                max_depth = 10,
+                random_state=42
+            ))
         ]
     )
 
